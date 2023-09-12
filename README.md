@@ -18,8 +18,8 @@ All new major package release will be in PHP 8.2
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [php-api-clients/openapi-client-generator](https://github.com/php-api-clients/openapi-client-generator) (4 days ago)
 - [WyriHaximus/reactphp-cache-json](https://github.com/WyriHaximus/reactphp-cache-json) (4 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (5 days ago)
+- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (5 days ago)
 
 ---
 
