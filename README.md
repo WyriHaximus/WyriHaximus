@@ -10,14 +10,14 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
+- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
 - [WyriHaximus/php-broadcast-contracts](https://github.com/WyriHaximus/php-broadcast-contracts) (today)
-- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (today)
 - [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (today)
 - [reactphp/promise](https://github.com/reactphp/promise) (2 days ago)
 
