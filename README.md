@@ -10,31 +10,31 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (today)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
-- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
-- [WyriHaximus/php-broadcast-contracts](https://github.com/WyriHaximus/php-broadcast-contracts) (1 day ago)
-- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (1 day ago)
-- [reactphp/promise](https://github.com/reactphp/promise) (3 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (1 day ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
+- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (2 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
+- [WyriHaximus/php-broadcast-contracts](https://github.com/WyriHaximus/php-broadcast-contracts) (2 days ago)
+- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (2 days ago)
+- [reactphp/promise](https://github.com/reactphp/promise) (4 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [mastodon/mastodon](https://github.com/mastodon/mastodon) - [v4.2.0-rc1](https://github.com/mastodon/mastodon/releases/tag/v4.2.0-rc1) (today)
-- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) - [2.1.0](https://github.com/WyriHaximus/php-compress/releases/tag/2.1.0) (1 day ago)
-- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) - [2.1.0](https://github.com/WyriHaximus/php-compress-test-utilities/releases/tag/2.1.0) (1 day ago)
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - [v4.2.0-rc1](https://github.com/mastodon/mastodon/releases/tag/v4.2.0-rc1) (1 day ago)
+- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) - [2.1.0](https://github.com/WyriHaximus/php-compress/releases/tag/2.1.0) (2 days ago)
+- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) - [2.1.0](https://github.com/WyriHaximus/php-compress-test-utilities/releases/tag/2.1.0) (2 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) - [3.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/3.1.0) (1 week ago)
 - [frankdejonge/use-subsplit-publish](https://github.com/frankdejonge/use-subsplit-publish) - [1.0.0](https://github.com/frankdejonge/use-subsplit-publish/releases/tag/1.0.0) (1 week ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) - [7.2.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/7.2.0) (1 week ago)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - [v1.5.2](https://github.com/siderolabs/talos/releases/tag/v1.5.2) (1 week ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) - [v1.18](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.18) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.32](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.32) (2 weeks ago)
-- [reactphp/socket](https://github.com/reactphp/socket) - [v1.14.0](https://github.com/reactphp/socket/releases/tag/v1.14.0) (2 weeks ago)
+- [reactphp/socket](https://github.com/reactphp/socket) - [v1.14.0](https://github.com/reactphp/socket/releases/tag/v1.14.0) (3 weeks ago)
 
 ---
 
