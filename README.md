@@ -25,6 +25,7 @@ All new major package release will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0beta1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0beta1) (today)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) - [3.2.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/3.2.0) (1 day ago)
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - [v4.2.0-rc1](https://github.com/mastodon/mastodon/releases/tag/v4.2.0-rc1) (3 days ago)
 - [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) - [2.1.0](https://github.com/WyriHaximus/php-compress/releases/tag/2.1.0) (4 days ago)
@@ -34,7 +35,6 @@ All new major package release will be in PHP 8.2
 - [siderolabs/talos](https://github.com/siderolabs/talos) - [v1.5.2](https://github.com/siderolabs/talos/releases/tag/v1.5.2) (1 week ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) - [v1.18](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.18) (2 weeks ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.32](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.32) (2 weeks ago)
-- [reactphp/socket](https://github.com/reactphp/socket) - [v1.14.0](https://github.com/reactphp/socket/releases/tag/v1.14.0) (3 weeks ago)
 
 ---
 
