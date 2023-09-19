@@ -25,9 +25,9 @@ All new major package release will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - [v4.0.10](https://github.com/mastodon/mastodon/releases/tag/v4.0.10) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0beta1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0beta1) (2 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) - [3.2.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/3.2.0) (3 days ago)
-- [mastodon/mastodon](https://github.com/mastodon/mastodon) - [v4.2.0-rc1](https://github.com/mastodon/mastodon/releases/tag/v4.2.0-rc1) (5 days ago)
 - [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) - [2.1.0](https://github.com/WyriHaximus/php-compress/releases/tag/2.1.0) (6 days ago)
 - [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) - [2.1.0](https://github.com/WyriHaximus/php-compress-test-utilities/releases/tag/2.1.0) (6 days ago)
 - [frankdejonge/use-subsplit-publish](https://github.com/frankdejonge/use-subsplit-publish) - [1.0.0](https://github.com/frankdejonge/use-subsplit-publish/releases/tag/1.0.0) (1 week ago)
