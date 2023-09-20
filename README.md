@@ -11,30 +11,30 @@ All new major package release will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (today)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (3 days ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (3 days ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
-- [WyriHaximus/php-broadcast-contracts](https://github.com/WyriHaximus/php-broadcast-contracts) (6 days ago)
-- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (6 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (1 day ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (4 days ago)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (4 days ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (4 days ago)
+- [WyriHaximus/php-broadcast-contracts](https://github.com/WyriHaximus/php-broadcast-contracts) (1 week ago)
+- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [mastodon/mastodon](https://github.com/mastodon/mastodon) - [v4.2.0-rc2](https://github.com/mastodon/mastodon/releases/tag/v4.2.0-rc2) (today)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0beta1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0beta1) (2 days ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) - [3.2.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/3.2.0) (3 days ago)
-- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) - [2.1.0](https://github.com/WyriHaximus/php-compress/releases/tag/2.1.0) (6 days ago)
-- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) - [2.1.0](https://github.com/WyriHaximus/php-compress-test-utilities/releases/tag/2.1.0) (6 days ago)
+- [getsentry/sentry-docs](https://github.com/getsentry/sentry-docs) - [23.9.0](https://github.com/getsentry/sentry-docs/releases/tag/23.9.0) (1 day ago)
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - [v4.2.0-rc2](https://github.com/mastodon/mastodon/releases/tag/v4.2.0-rc2) (1 day ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0beta1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0beta1) (3 days ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) - [3.2.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/3.2.0) (4 days ago)
+- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) - [2.1.0](https://github.com/WyriHaximus/php-compress/releases/tag/2.1.0) (1 week ago)
+- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) - [2.1.0](https://github.com/WyriHaximus/php-compress-test-utilities/releases/tag/2.1.0) (1 week ago)
 - [frankdejonge/use-subsplit-publish](https://github.com/frankdejonge/use-subsplit-publish) - [1.0.0](https://github.com/frankdejonge/use-subsplit-publish/releases/tag/1.0.0) (1 week ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) - [7.2.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/7.2.0) (1 week ago)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - [v1.5.2](https://github.com/siderolabs/talos/releases/tag/v1.5.2) (1 week ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) - [v1.18](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.18) (2 weeks ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.32](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.32) (3 weeks ago)
 
 ---
 
