@@ -25,6 +25,7 @@ All new major package release will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) - [2.3.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.3.0) (today)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.33](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.33) (1 day ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) - [3.3.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/3.3.0) (1 day ago)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - [v1.5.3](https://github.com/siderolabs/talos/releases/tag/v1.5.3) (5 days ago)
@@ -34,7 +35,6 @@ All new major package release will be in PHP 8.2
 - [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) - [2.1.0](https://github.com/WyriHaximus/php-compress/releases/tag/2.1.0) (2 weeks ago)
 - [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) - [2.1.0](https://github.com/WyriHaximus/php-compress-test-utilities/releases/tag/2.1.0) (2 weeks ago)
 - [frankdejonge/use-subsplit-publish](https://github.com/frankdejonge/use-subsplit-publish) - [1.0.0](https://github.com/frankdejonge/use-subsplit-publish/releases/tag/1.0.0) (2 weeks ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) - [7.2.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/7.2.0) (2 weeks ago)
 
 ---
 
