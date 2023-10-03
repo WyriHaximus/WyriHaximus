@@ -10,8 +10,8 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (4 days ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (5 days ago)
