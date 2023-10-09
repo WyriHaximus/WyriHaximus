@@ -10,16 +10,16 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/reactphp-throw-unhandled-rejected-promises](https://github.com/WyriHaximus/reactphp-throw-unhandled-rejected-promises) (today)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [reactphp/dns](https://github.com/reactphp/dns) (2 days ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (3 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
 - [WyriHaximus/php-subsplit-tools](https://github.com/WyriHaximus/php-subsplit-tools) (4 days ago)
-- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (5 days ago)
+- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (5 days ago)
 
 ---
 
