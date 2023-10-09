@@ -10,16 +10,16 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/reactphp-throw-unhandled-rejected-promises](https://github.com/WyriHaximus/reactphp-throw-unhandled-rejected-promises) (today)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [reactphp/dns](https://github.com/reactphp/dns) (2 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (3 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
-- [WyriHaximus/reactphp-throw-unhandled-rejected-promises](https://github.com/WyriHaximus/reactphp-throw-unhandled-rejected-promises) (3 days ago)
 - [WyriHaximus/php-subsplit-tools](https://github.com/WyriHaximus/php-subsplit-tools) (4 days ago)
-- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (5 days ago)
-- [WyriHaximus/php-monolog-processors](https://github.com/WyriHaximus/php-monolog-processors) (5 days ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (5 days ago)
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (5 days ago)
 
 ---
 
