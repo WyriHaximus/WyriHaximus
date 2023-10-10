@@ -25,7 +25,7 @@ All new major package release will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [mastodon/mastodon](https://github.com/mastodon/mastodon) - [v4.0.12](https://github.com/mastodon/mastodon/releases/tag/v4.0.12) (today)
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - [v4.1.10](https://github.com/mastodon/mastodon/releases/tag/v4.1.10) (today)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) - [2.3.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.3.0) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.33](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.33) (2 weeks ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) - [3.3.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/3.3.0) (2 weeks ago)
