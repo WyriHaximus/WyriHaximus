@@ -10,13 +10,13 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (5 days ago)
-- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (5 days ago)
-- [WyriHaximus/reactphp-throw-unhandled-rejected-promises](https://github.com/WyriHaximus/reactphp-throw-unhandled-rejected-promises) (6 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (6 days ago)
+- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (6 days ago)
+- [WyriHaximus/reactphp-throw-unhandled-rejected-promises](https://github.com/WyriHaximus/reactphp-throw-unhandled-rejected-promises) (1 week ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
 - [reactphp/dns](https://github.com/reactphp/dns) (1 week ago)
 - [WyriHaximus/php-subsplit-tools](https://github.com/WyriHaximus/php-subsplit-tools) (1 week ago)
@@ -25,8 +25,8 @@ All new major package release will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) - [v1.19](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.19) (2 days ago)
-- [mastodon/mastodon](https://github.com/mastodon/mastodon) - [v4.2.1](https://github.com/mastodon/mastodon/releases/tag/v4.2.1) (5 days ago)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) - [v1.19](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.19) (3 days ago)
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - [v4.2.1](https://github.com/mastodon/mastodon/releases/tag/v4.2.1) (6 days ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) - [2.3.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.3.0) (2 weeks ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.33](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.33) (2 weeks ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) - [3.3.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/3.3.0) (2 weeks ago)
