@@ -10,10 +10,10 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [reactphp/async](https://github.com/reactphp/async) (today)
-- [reactphp/event-loop](https://github.com/reactphp/event-loop) (3 days ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
-- [reactphp/dns](https://github.com/reactphp/dns) (3 days ago)
+- [reactphp/async](https://github.com/reactphp/async) (1 day ago)
+- [reactphp/event-loop](https://github.com/reactphp/event-loop) (4 days ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (4 days ago)
+- [reactphp/dns](https://github.com/reactphp/dns) (4 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (1 week ago)
@@ -25,7 +25,7 @@ All new major package release will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.34](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.34) (3 days ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.34](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.34) (4 days ago)
 - [getsentry/sentry-docs](https://github.com/getsentry/sentry-docs) - [23.10.1](https://github.com/getsentry/sentry-docs/releases/tag/23.10.1) (1 week ago)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - [v1.6.0-alpha.1](https://github.com/siderolabs/talos/releases/tag/v1.6.0-alpha.1) (1 week ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) - [v1.19](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.19) (2 weeks ago)
