@@ -10,14 +10,14 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
-- [reactphp/socket](https://github.com/reactphp/socket) (today)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
-- [reactphp/event-loop](https://github.com/reactphp/event-loop) (today)
-- [reactphp/async](https://github.com/reactphp/async) (1 day ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (4 days ago)
-- [reactphp/dns](https://github.com/reactphp/dns) (4 days ago)
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
+- [reactphp/socket](https://github.com/reactphp/socket) (1 day ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
+- [reactphp/event-loop](https://github.com/reactphp/event-loop) (1 day ago)
+- [reactphp/async](https://github.com/reactphp/async) (2 days ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (5 days ago)
+- [reactphp/dns](https://github.com/reactphp/dns) (5 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 week ago)
 
@@ -25,8 +25,8 @@ All new major package release will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) - [v1.21](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.21) (today)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.34](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.34) (4 days ago)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) - [v1.21](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.21) (1 day ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.34](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.34) (5 days ago)
 - [getsentry/sentry-docs](https://github.com/getsentry/sentry-docs) - [23.10.1](https://github.com/getsentry/sentry-docs/releases/tag/23.10.1) (1 week ago)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - [v1.6.0-alpha.1](https://github.com/siderolabs/talos/releases/tag/v1.6.0-alpha.1) (1 week ago)
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - [v4.2.1](https://github.com/mastodon/mastodon/releases/tag/v4.2.1) (2 weeks ago)
