@@ -15,9 +15,9 @@ All new major package release will be in PHP 8.2
 - [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 - [WyriHaximus/reactphp-stream-json](https://github.com/WyriHaximus/reactphp-stream-json) (2 days ago)
-- [reactphp/socket](https://github.com/reactphp/socket) (6 days ago)
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (6 days ago)
 - [reactphp/event-loop](https://github.com/reactphp/event-loop) (6 days ago)
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (6 days ago)
+- [reactphp/socket](https://github.com/reactphp/socket) (6 days ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (6 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 
