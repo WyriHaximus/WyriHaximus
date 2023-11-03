@@ -10,7 +10,7 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (1 day ago)
+- [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 - [WyriHaximus/reactphp-stream-json](https://github.com/WyriHaximus/reactphp-stream-json) (2 days ago)
 - [reactphp/event-loop](https://github.com/reactphp/event-loop) (6 days ago)
@@ -19,12 +19,13 @@ All new major package release will be in PHP 8.2
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (6 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 - [reactphp/async](https://github.com/reactphp/async) (1 week ago)
-- [reactphp/dns](https://github.com/reactphp/dns) (1 week ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) - [3.1.0](https://github.com/WyriHaximus/TickingPromise/releases/tag/3.1.0) (today)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) - [v1.21](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.21) (6 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.34](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.34) (1 week ago)
 - [getsentry/sentry-docs](https://github.com/getsentry/sentry-docs) - [23.10.1](https://github.com/getsentry/sentry-docs/releases/tag/23.10.1) (2 weeks ago)
@@ -34,7 +35,6 @@ All new major package release will be in PHP 8.2
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) - [3.3.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/3.3.0) (1 month ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0beta1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0beta1) (1 month ago)
 - [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) - [2.1.0](https://github.com/WyriHaximus/php-compress/releases/tag/2.1.0) (1 month ago)
-- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) - [2.1.0](https://github.com/WyriHaximus/php-compress-test-utilities/releases/tag/2.1.0) (1 month ago)
 
 ---
 
