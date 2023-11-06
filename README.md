@@ -10,12 +10,12 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (today)
-- [reactphp/async](https://github.com/reactphp/async) (2 days ago)
-- [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (2 days ago)
-- [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (2 days ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
-- [WyriHaximus/reactphp-stream-json](https://github.com/WyriHaximus/reactphp-stream-json) (4 days ago)
+- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (1 day ago)
+- [reactphp/async](https://github.com/reactphp/async) (3 days ago)
+- [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (3 days ago)
+- [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (3 days ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
+- [WyriHaximus/reactphp-stream-json](https://github.com/WyriHaximus/reactphp-stream-json) (5 days ago)
 - [reactphp/event-loop](https://github.com/reactphp/event-loop) (1 week ago)
 - [reactphp/socket](https://github.com/reactphp/socket) (1 week ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
@@ -25,7 +25,7 @@ All new major package release will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) - [3.1.0](https://github.com/WyriHaximus/TickingPromise/releases/tag/3.1.0) (2 days ago)
+- [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) - [3.1.0](https://github.com/WyriHaximus/TickingPromise/releases/tag/3.1.0) (3 days ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) - [v1.21](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.21) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.34](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.34) (1 week ago)
 - [getsentry/sentry-docs](https://github.com/getsentry/sentry-docs) - [23.10.1](https://github.com/getsentry/sentry-docs/releases/tag/23.10.1) (2 weeks ago)
