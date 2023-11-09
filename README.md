@@ -10,10 +10,10 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (2 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
-- [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (3 days ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (4 days ago)
 - [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (6 days ago)
 - [reactphp/async](https://github.com/reactphp/async) (6 days ago)
