@@ -13,13 +13,13 @@ All new major package release will be in PHP 8.2
 - [cert-manager/website](https://github.com/cert-manager/website) (today)
 - [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (today)
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (today)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (2 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (4 days ago)
 - [reactphp/async](https://github.com/reactphp/async) (6 days ago)
 - [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (6 days ago)
-- [WyriHaximus/reactphp-stream-json](https://github.com/WyriHaximus/reactphp-stream-json) (1 week ago)
 
 ---
 
