@@ -11,15 +11,15 @@ All new major package release will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (today)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (today)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (2 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (4 days ago)
-- [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (6 days ago)
 - [reactphp/async](https://github.com/reactphp/async) (6 days ago)
+- [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (6 days ago)
 - [WyriHaximus/reactphp-stream-json](https://github.com/WyriHaximus/reactphp-stream-json) (1 week ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 week ago)
 
 ---
 
