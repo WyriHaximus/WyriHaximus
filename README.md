@@ -33,8 +33,8 @@ All new major package release will be in PHP 8.2
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) - [v1.21](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.21) (2 weeks ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.34](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.34) (2 weeks ago)
 - [getsentry/sentry-docs](https://github.com/getsentry/sentry-docs) - [23.10.1](https://github.com/getsentry/sentry-docs/releases/tag/23.10.1) (3 weeks ago)
-- [mastodon/mastodon](https://github.com/mastodon/mastodon) - [v4.2.1](https://github.com/mastodon/mastodon/releases/tag/v4.2.1) (1 month ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) - [2.3.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.3.0) (1 month ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) - [3.3.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/3.3.0) (1 month ago)
 
 ---
 
