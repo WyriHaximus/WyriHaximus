@@ -11,13 +11,13 @@ All new major package release will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (2 days ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (4 days ago)
-- [cert-manager/website](https://github.com/cert-manager/website) (5 days ago)
-- [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (5 days ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (5 days ago)
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (5 days ago)
+- [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (5 days ago)
+- [cert-manager/website](https://github.com/cert-manager/website) (5 days ago)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (5 days ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (1 week ago)
 - [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (1 week ago)
 
