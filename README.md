@@ -25,6 +25,7 @@ All new major package release will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [reactphp/promise](https://github.com/reactphp/promise) - [v3.1.0](https://github.com/reactphp/promise/releases/tag/v3.1.0) (today)
 - [WyriHaximus/php-pool-info](https://github.com/WyriHaximus/php-pool-info) - [2.0.0](https://github.com/WyriHaximus/php-pool-info/releases/tag/2.0.0) (1 day ago)
 - [getsentry/sentry-docs](https://github.com/getsentry/sentry-docs) - [23.11.0](https://github.com/getsentry/sentry-docs/releases/tag/23.11.0) (1 day ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) - [v1.22.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.22.0) (1 day ago)
@@ -34,7 +35,6 @@ All new major package release will be in PHP 8.2
 - [siderolabs/talos](https://github.com/siderolabs/talos) - [v1.5.5](https://github.com/siderolabs/talos/releases/tag/v1.5.5) (1 week ago)
 - [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) - [3.1.0](https://github.com/WyriHaximus/TickingPromise/releases/tag/3.1.0) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.34](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.34) (3 weeks ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) - [2.3.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.3.0) (1 month ago)
 
 ---
 
