@@ -10,8 +10,8 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (1 day ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (2 days ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (2 days ago)
