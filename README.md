@@ -25,7 +25,7 @@ All new major package release will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/world-of-warcraft-dataminer](https://github.com/WyriHaximus/world-of-warcraft-dataminer) - [r106](https://github.com/WyriHaximus/world-of-warcraft-dataminer/releases/tag/r106) (today)
+- [WyriHaximus/world-of-warcraft-dataminer](https://github.com/WyriHaximus/world-of-warcraft-dataminer) - [r107](https://github.com/WyriHaximus/world-of-warcraft-dataminer/releases/tag/r107) (today)
 - [reactphp/promise](https://github.com/reactphp/promise) - [v3.1.0](https://github.com/reactphp/promise/releases/tag/v3.1.0) (2 days ago)
 - [WyriHaximus/php-pool-info](https://github.com/WyriHaximus/php-pool-info) - [2.0.0](https://github.com/WyriHaximus/php-pool-info/releases/tag/2.0.0) (3 days ago)
 - [getsentry/sentry-docs](https://github.com/getsentry/sentry-docs) - [23.11.0](https://github.com/getsentry/sentry-docs/releases/tag/23.11.0) (3 days ago)
