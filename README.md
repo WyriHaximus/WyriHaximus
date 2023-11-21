@@ -11,15 +11,15 @@ All new major package release will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
+- [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (today)
+- [reactphp/http](https://github.com/reactphp/http) (today)
+- [reactphp/reactphp](https://github.com/reactphp/reactphp) (today)
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (2 days ago)
 - [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (2 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (4 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
+- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (4 days ago)
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (5 days ago)
-- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (6 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (6 days ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (6 days ago)
 
 ---
 
