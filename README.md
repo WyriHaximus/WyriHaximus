@@ -25,6 +25,7 @@ All new major package release will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [siderolabs/talos](https://github.com/siderolabs/talos) - [v1.6.0-alpha.2](https://github.com/siderolabs/talos/releases/tag/v1.6.0-alpha.2) (today)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.36](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.36) (today)
 - [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) - [2.0.0](https://github.com/WyriHaximus/php-monolog-factory/releases/tag/2.0.0) (2 days ago)
 - [reactphp/promise](https://github.com/reactphp/promise) - [v3.1.0](https://github.com/reactphp/promise/releases/tag/v3.1.0) (5 days ago)
@@ -33,7 +34,6 @@ All new major package release will be in PHP 8.2
 - [reactphp/event-loop](https://github.com/reactphp/event-loop) - [v1.5.0](https://github.com/reactphp/event-loop/releases/tag/v1.5.0) (1 week ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) - [r41](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r41) (1 week ago)
 - [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) - [v0.6.0](https://github.com/friends-of-reactphp/mysql/releases/tag/v0.6.0) (1 week ago)
-- [siderolabs/talos](https://github.com/siderolabs/talos) - [v1.5.5](https://github.com/siderolabs/talos/releases/tag/v1.5.5) (1 week ago)
 - [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) - [3.1.0](https://github.com/WyriHaximus/TickingPromise/releases/tag/3.1.0) (2 weeks ago)
 
 ---
