@@ -10,6 +10,7 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
 - [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (2 days ago)
 - [reactphp/http](https://github.com/reactphp/http) (2 days ago)
@@ -17,9 +18,8 @@ All new major package release will be in PHP 8.2
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (4 days ago)
 - [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (4 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (6 days ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (6 days ago)
-- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (1 week ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (6 days ago)
 
 ---
 
