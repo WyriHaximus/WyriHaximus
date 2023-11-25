@@ -10,7 +10,7 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (1 day ago)
+- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
 - [reactphp/http](https://github.com/reactphp/http) (4 days ago)
