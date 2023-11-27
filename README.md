@@ -25,6 +25,7 @@ All new major package release will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [ReactiveX/RxPHP](https://github.com/ReactiveX/RxPHP) - [2.0.12](https://github.com/ReactiveX/RxPHP/releases/tag/2.0.12) (today)
 - [reactphp/async](https://github.com/reactphp/async) - [v4.2.0](https://github.com/reactphp/async/releases/tag/v4.2.0) (5 days ago)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - [v1.6.0-alpha.2](https://github.com/siderolabs/talos/releases/tag/v1.6.0-alpha.2) (6 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.36](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.36) (6 days ago)
@@ -34,7 +35,6 @@ All new major package release will be in PHP 8.2
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) - [v1.22.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.22.0) (1 week ago)
 - [reactphp/event-loop](https://github.com/reactphp/event-loop) - [v1.5.0](https://github.com/reactphp/event-loop/releases/tag/v1.5.0) (2 weeks ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) - [r41](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r41) (2 weeks ago)
-- [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) - [v0.6.0](https://github.com/friends-of-reactphp/mysql/releases/tag/v0.6.0) (2 weeks ago)
 
 ---
 
