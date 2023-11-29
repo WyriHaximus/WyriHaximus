@@ -25,6 +25,7 @@ All new major package release will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [reactphp/dns](https://github.com/reactphp/dns) - [v1.12.0](https://github.com/reactphp/dns/releases/tag/v1.12.0) (today)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) - [v1.23.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.23.0) (1 day ago)
 - [ReactiveX/RxPHP](https://github.com/ReactiveX/RxPHP) - [2.0.12](https://github.com/ReactiveX/RxPHP/releases/tag/2.0.12) (2 days ago)
 - [reactphp/async](https://github.com/reactphp/async) - [v4.2.0](https://github.com/reactphp/async/releases/tag/v4.2.0) (1 week ago)
@@ -34,7 +35,6 @@ All new major package release will be in PHP 8.2
 - [reactphp/promise](https://github.com/reactphp/promise) - [v3.1.0](https://github.com/reactphp/promise/releases/tag/v3.1.0) (1 week ago)
 - [WyriHaximus/php-pool-info](https://github.com/WyriHaximus/php-pool-info) - [2.0.0](https://github.com/WyriHaximus/php-pool-info/releases/tag/2.0.0) (2 weeks ago)
 - [reactphp/event-loop](https://github.com/reactphp/event-loop) - [v1.5.0](https://github.com/reactphp/event-loop/releases/tag/v1.5.0) (2 weeks ago)
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) - [r41](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r41) (2 weeks ago)
 
 ---
 
