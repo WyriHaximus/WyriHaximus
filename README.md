@@ -25,12 +25,12 @@ All new major package release will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [siderolabs/talos](https://github.com/siderolabs/talos) - [v1.6.0-beta.0](https://github.com/siderolabs/talos/releases/tag/v1.6.0-beta.0) (today)
 - [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) - [1.1.0](https://github.com/WyriHaximus/reactphp-awaitable-observable/releases/tag/1.1.0) (1 day ago)
 - [reactphp/dns](https://github.com/reactphp/dns) - [v1.12.0](https://github.com/reactphp/dns/releases/tag/v1.12.0) (2 days ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) - [v1.23.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.23.0) (3 days ago)
 - [ReactiveX/RxPHP](https://github.com/ReactiveX/RxPHP) - [2.0.12](https://github.com/ReactiveX/RxPHP/releases/tag/2.0.12) (4 days ago)
 - [reactphp/async](https://github.com/reactphp/async) - [v4.2.0](https://github.com/reactphp/async/releases/tag/v4.2.0) (1 week ago)
-- [siderolabs/talos](https://github.com/siderolabs/talos) - [v1.6.0-alpha.2](https://github.com/siderolabs/talos/releases/tag/v1.6.0-alpha.2) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.36](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.36) (1 week ago)
 - [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) - [2.0.0](https://github.com/WyriHaximus/php-monolog-factory/releases/tag/2.0.0) (1 week ago)
 - [reactphp/promise](https://github.com/reactphp/promise) - [v3.1.0](https://github.com/reactphp/promise/releases/tag/v3.1.0) (2 weeks ago)
