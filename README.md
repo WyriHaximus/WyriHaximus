@@ -10,28 +10,28 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) (today)
-- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (1 day ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (3 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
-- [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (4 days ago)
-- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (4 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) (1 day ago)
+- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (2 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (3 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
+- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (4 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
+- [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (5 days ago)
+- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (5 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [siderolabs/talos](https://github.com/siderolabs/talos) - [v1.6.0-beta.0](https://github.com/siderolabs/talos/releases/tag/v1.6.0-beta.0) (3 days ago)
-- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) - [1.1.0](https://github.com/WyriHaximus/reactphp-awaitable-observable/releases/tag/1.1.0) (4 days ago)
-- [reactphp/dns](https://github.com/reactphp/dns) - [v1.12.0](https://github.com/reactphp/dns/releases/tag/v1.12.0) (5 days ago)
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) - [v1.23.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.23.0) (6 days ago)
+- [siderolabs/talos](https://github.com/siderolabs/talos) - [v1.6.0-beta.0](https://github.com/siderolabs/talos/releases/tag/v1.6.0-beta.0) (4 days ago)
+- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) - [1.1.0](https://github.com/WyriHaximus/reactphp-awaitable-observable/releases/tag/1.1.0) (5 days ago)
+- [reactphp/dns](https://github.com/reactphp/dns) - [v1.12.0](https://github.com/reactphp/dns/releases/tag/v1.12.0) (6 days ago)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) - [v1.23.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.23.0) (1 week ago)
 - [ReactiveX/RxPHP](https://github.com/ReactiveX/RxPHP) - [2.0.12](https://github.com/ReactiveX/RxPHP/releases/tag/2.0.12) (1 week ago)
 - [reactphp/async](https://github.com/reactphp/async) - [v4.2.0](https://github.com/reactphp/async/releases/tag/v4.2.0) (1 week ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.36](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.36) (1 week ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.36](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.36) (2 weeks ago)
 - [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) - [2.0.0](https://github.com/WyriHaximus/php-monolog-factory/releases/tag/2.0.0) (2 weeks ago)
 - [reactphp/promise](https://github.com/reactphp/promise) - [v3.1.0](https://github.com/reactphp/promise/releases/tag/v3.1.0) (2 weeks ago)
 - [WyriHaximus/php-pool-info](https://github.com/WyriHaximus/php-pool-info) - [2.0.0](https://github.com/WyriHaximus/php-pool-info/releases/tag/2.0.0) (2 weeks ago)
