@@ -25,8 +25,8 @@ All new major package release will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [siderolabs/talos](https://github.com/siderolabs/talos) - [v1.6.0-beta.1](https://github.com/siderolabs/talos/releases/tag/v1.6.0-beta.1) (today)
 - [the-orville/php-exceptions](https://github.com/the-orville/php-exceptions) - [1.0.0](https://github.com/the-orville/php-exceptions/releases/tag/1.0.0) (today)
-- [siderolabs/talos](https://github.com/siderolabs/talos) - [v1.6.0-beta.0](https://github.com/siderolabs/talos/releases/tag/v1.6.0-beta.0) (1 week ago)
 - [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) - [1.1.0](https://github.com/WyriHaximus/reactphp-awaitable-observable/releases/tag/1.1.0) (1 week ago)
 - [reactphp/dns](https://github.com/reactphp/dns) - [v1.12.0](https://github.com/reactphp/dns/releases/tag/v1.12.0) (1 week ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) - [v1.23.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.23.0) (1 week ago)
