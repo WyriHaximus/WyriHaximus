@@ -11,15 +11,15 @@ All new major package release will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [the-orville/php-exceptions](https://github.com/the-orville/php-exceptions) (today)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (today)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 day ago)
-- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (1 day ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (1 day ago)
 - [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (3 days ago)
 - [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) (3 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
-- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (5 days ago)
 
 ---
 
