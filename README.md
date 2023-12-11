@@ -25,6 +25,7 @@ All new major package release will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) - [4.4.0](https://github.com/WyriHaximus/reactphp-cache-redis/releases/tag/4.4.0) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.18.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.18.0) (1 day ago)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - [v1.6.0-beta.1](https://github.com/siderolabs/talos/releases/tag/v1.6.0-beta.1) (3 days ago)
 - [the-orville/php-exceptions](https://github.com/the-orville/php-exceptions) - [1.0.0](https://github.com/the-orville/php-exceptions/releases/tag/1.0.0) (3 days ago)
@@ -34,7 +35,6 @@ All new major package release will be in PHP 8.2
 - [ReactiveX/RxPHP](https://github.com/ReactiveX/RxPHP) - [2.0.12](https://github.com/ReactiveX/RxPHP/releases/tag/2.0.12) (2 weeks ago)
 - [reactphp/async](https://github.com/reactphp/async) - [v4.2.0](https://github.com/reactphp/async/releases/tag/v4.2.0) (2 weeks ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.36](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.36) (2 weeks ago)
-- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) - [2.0.0](https://github.com/WyriHaximus/php-monolog-factory/releases/tag/2.0.0) (3 weeks ago)
 
 ---
 
