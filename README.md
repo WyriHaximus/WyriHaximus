@@ -12,14 +12,14 @@ All new major package release will be in PHP 8.2
 
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (today)
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (today)
-- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (2 days ago)
+- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (today)
 - [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (2 days ago)
-- [the-orville/php-exceptions](https://github.com/the-orville/php-exceptions) (3 days ago)
+- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (2 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (3 days ago)
+- [the-orville/php-exceptions](https://github.com/the-orville/php-exceptions) (3 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (4 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 
 ---
 
