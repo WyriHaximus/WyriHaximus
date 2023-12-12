@@ -11,8 +11,8 @@ All new major package release will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (today)
-- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (1 day ago)
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (1 day ago)
+- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (1 day ago)
 - [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (3 days ago)
 - [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (3 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
