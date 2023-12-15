@@ -25,16 +25,16 @@ All new major package release will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [reactphp/socket](https://github.com/reactphp/socket) - [v1.15.0](https://github.com/reactphp/socket/releases/tag/v1.15.0) (today)
+- [siderolabs/talos](https://github.com/siderolabs/talos) - [v1.6.0](https://github.com/siderolabs/talos/releases/tag/v1.6.0) (today)
 - [reactphp/promise-stream](https://github.com/reactphp/promise-stream) - [v1.7.0](https://github.com/reactphp/promise-stream/releases/tag/v1.7.0) (2 days ago)
 - [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) - [4.4.0](https://github.com/WyriHaximus/reactphp-cache-redis/releases/tag/4.4.0) (4 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.18.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.18.0) (5 days ago)
-- [siderolabs/talos](https://github.com/siderolabs/talos) - [v1.6.0-beta.1](https://github.com/siderolabs/talos/releases/tag/v1.6.0-beta.1) (1 week ago)
 - [the-orville/php-exceptions](https://github.com/the-orville/php-exceptions) - [1.0.0](https://github.com/the-orville/php-exceptions/releases/tag/1.0.0) (1 week ago)
 - [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) - [1.1.0](https://github.com/WyriHaximus/reactphp-awaitable-observable/releases/tag/1.1.0) (2 weeks ago)
 - [reactphp/dns](https://github.com/reactphp/dns) - [v1.12.0](https://github.com/reactphp/dns/releases/tag/v1.12.0) (2 weeks ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) - [v1.23.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.23.0) (2 weeks ago)
 - [ReactiveX/RxPHP](https://github.com/ReactiveX/RxPHP) - [2.0.12](https://github.com/ReactiveX/RxPHP/releases/tag/2.0.12) (2 weeks ago)
-- [reactphp/async](https://github.com/reactphp/async) - [v4.2.0](https://github.com/reactphp/async/releases/tag/v4.2.0) (3 weeks ago)
 
 ---
 
