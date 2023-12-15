@@ -10,15 +10,15 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
+- [php-api-clients/openapi-client-generator](https://github.com/php-api-clients/openapi-client-generator) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
+- [php-api-clients/openapi-client-utils](https://github.com/php-api-clients/openapi-client-utils) (today)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) (1 day ago)
-- [reactphp/socket](https://github.com/reactphp/socket) (2 days ago)
 - [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (2 days ago)
-- [reactphp/promise-stream](https://github.com/reactphp/promise-stream) (2 days ago)
-- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (2 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 
 ---
