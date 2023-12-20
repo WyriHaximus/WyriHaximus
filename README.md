@@ -10,21 +10,22 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [WyriHaximus/github-action-create-milestone](https://github.com/WyriHaximus/github-action-create-milestone) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (1 day ago)
 - [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) (1 day ago)
-- [WyriHaximus/github-action-create-milestone](https://github.com/WyriHaximus/github-action-create-milestone) (1 day ago)
 - [php-api-clients/openapi-client-generator](https://github.com/php-api-clients/openapi-client-generator) (2 days ago)
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (3 days ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (5 days ago)
-- [php-api-clients/openapi-client-utils](https://github.com/php-api-clients/openapi-client-utils) (5 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.37](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.37) (today)
 - [WyriHaximus/github-action-create-milestone](https://github.com/WyriHaximus/github-action-create-milestone) - [v1.1.1](https://github.com/WyriHaximus/github-action-create-milestone/releases/tag/v1.1.1) (1 day ago)
 - [reactphp/socket](https://github.com/reactphp/socket) - [v1.15.0](https://github.com/reactphp/socket/releases/tag/v1.15.0) (5 days ago)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - [v1.6.0](https://github.com/siderolabs/talos/releases/tag/v1.6.0) (5 days ago)
@@ -34,7 +35,6 @@ All new major package release will be in PHP 8.2
 - [the-orville/php-exceptions](https://github.com/the-orville/php-exceptions) - [1.0.0](https://github.com/the-orville/php-exceptions/releases/tag/1.0.0) (1 week ago)
 - [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) - [1.1.0](https://github.com/WyriHaximus/reactphp-awaitable-observable/releases/tag/1.1.0) (2 weeks ago)
 - [reactphp/dns](https://github.com/reactphp/dns) - [v1.12.0](https://github.com/reactphp/dns/releases/tag/v1.12.0) (3 weeks ago)
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) - [v1.23.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.23.0) (3 weeks ago)
 
 ---
 
