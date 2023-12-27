@@ -10,16 +10,16 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (5 days ago)
-- [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (5 days ago)
-- [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (5 days ago)
 - [php-openapi-tools/registry](https://github.com/php-openapi-tools/registry) (5 days ago)
 - [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (5 days ago)
+- [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (5 days ago)
+- [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (5 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
-- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (1 week ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 
 ---
 
