@@ -15,10 +15,10 @@ All new major package release will be in PHP 8.2
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (5 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (6 days ago)
-- [php-openapi-tools/registry](https://github.com/php-openapi-tools/registry) (6 days ago)
+- [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (6 days ago)
 - [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (6 days ago)
 - [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (6 days ago)
-- [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (6 days ago)
+- [php-openapi-tools/registry](https://github.com/php-openapi-tools/registry) (6 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 
 ---
