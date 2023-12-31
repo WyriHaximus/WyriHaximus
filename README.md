@@ -10,9 +10,9 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (3 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
-- [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (6 days ago)
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (4 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
+- [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (1 week ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 week ago)
 - [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (1 week ago)
