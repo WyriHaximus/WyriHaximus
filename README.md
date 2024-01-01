@@ -10,8 +10,8 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (4 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (5 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
 - [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (1 week ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 week ago)
@@ -31,7 +31,7 @@ All new major package release will be in PHP 8.2
 - [WyriHaximus/github-action-create-milestone](https://github.com/WyriHaximus/github-action-create-milestone) - [v1.1.1](https://github.com/WyriHaximus/github-action-create-milestone/releases/tag/v1.1.1) (1 week ago)
 - [reactphp/socket](https://github.com/reactphp/socket) - [v1.15.0](https://github.com/reactphp/socket/releases/tag/v1.15.0) (2 weeks ago)
 - [reactphp/promise-stream](https://github.com/reactphp/promise-stream) - [v1.7.0](https://github.com/reactphp/promise-stream/releases/tag/v1.7.0) (2 weeks ago)
-- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) - [4.4.0](https://github.com/WyriHaximus/reactphp-cache-redis/releases/tag/4.4.0) (2 weeks ago)
+- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) - [4.4.0](https://github.com/WyriHaximus/reactphp-cache-redis/releases/tag/4.4.0) (3 weeks ago)
 - [the-orville/php-exceptions](https://github.com/the-orville/php-exceptions) - [1.0.0](https://github.com/the-orville/php-exceptions/releases/tag/1.0.0) (3 weeks ago)
 - [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) - [1.1.0](https://github.com/WyriHaximus/reactphp-awaitable-observable/releases/tag/1.1.0) (1 month ago)
 - [reactphp/dns](https://github.com/reactphp/dns) - [v1.12.0](https://github.com/reactphp/dns/releases/tag/v1.12.0) (1 month ago)
