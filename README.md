@@ -10,16 +10,16 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 week ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 week ago)
 - [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (1 week ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 week ago)
-- [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (1 week ago)
+- [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (1 week ago)
 - [php-openapi-tools/registry](https://github.com/php-openapi-tools/registry) (1 week ago)
 - [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (1 week ago)
 - [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (1 week ago)
-- [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (1 week ago)
 
 ---
 
