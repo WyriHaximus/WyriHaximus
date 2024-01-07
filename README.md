@@ -25,8 +25,8 @@ All new major package release will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0) (today)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - [v1.6.1](https://github.com/siderolabs/talos/releases/tag/v1.6.1) (2 weeks ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0rc1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0rc1) (2 weeks ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.37](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.37) (2 weeks ago)
 - [WyriHaximus/github-action-create-milestone](https://github.com/WyriHaximus/github-action-create-milestone) - [v1.1.1](https://github.com/WyriHaximus/github-action-create-milestone/releases/tag/v1.1.1) (2 weeks ago)
 - [reactphp/socket](https://github.com/reactphp/socket) - [v1.15.0](https://github.com/reactphp/socket/releases/tag/v1.15.0) (3 weeks ago)
