@@ -10,10 +10,10 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (2 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (2 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
+- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (2 days ago)
+- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (2 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 week ago)
