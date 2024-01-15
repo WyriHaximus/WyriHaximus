@@ -12,8 +12,8 @@ All new major package release will be in PHP 8.2
 
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (1 day ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (4 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (5 days ago)
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (5 days ago)
 - [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (6 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
