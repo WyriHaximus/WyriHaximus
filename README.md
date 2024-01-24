@@ -10,11 +10,11 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-file-descriptors](https://github.com/WyriHaximus/php-file-descriptors) (1 day ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
-- [WyriHaximus/php-metrics-prometheus-push-gateway](https://github.com/WyriHaximus/php-metrics-prometheus-push-gateway) (3 days ago)
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (4 days ago)
+- [WyriHaximus/php-file-descriptors](https://github.com/WyriHaximus/php-file-descriptors) (2 days ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
+- [WyriHaximus/php-metrics-prometheus-push-gateway](https://github.com/WyriHaximus/php-metrics-prometheus-push-gateway) (4 days ago)
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (5 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 week ago)
@@ -25,7 +25,7 @@ All new major package release will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/php-file-descriptors](https://github.com/WyriHaximus/php-file-descriptors) - [1.1.1](https://github.com/WyriHaximus/php-file-descriptors/releases/tag/1.1.1) (1 day ago)
+- [WyriHaximus/php-file-descriptors](https://github.com/WyriHaximus/php-file-descriptors) - [1.1.1](https://github.com/WyriHaximus/php-file-descriptors/releases/tag/1.1.1) (2 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.38](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.38) (1 week ago)
 - [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) - [4.5.0](https://github.com/WyriHaximus/reactphp-cache-redis/releases/tag/4.5.0) (2 weeks ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0) (2 weeks ago)
