@@ -25,6 +25,7 @@ All new major package release will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [frankdejonge/use-subsplit-publish](https://github.com/frankdejonge/use-subsplit-publish) - [1.1.0](https://github.com/frankdejonge/use-subsplit-publish/releases/tag/1.1.0) (today)
 - [WyriHaximus/php-file-descriptors](https://github.com/WyriHaximus/php-file-descriptors) - [1.1.1](https://github.com/WyriHaximus/php-file-descriptors/releases/tag/1.1.1) (2 weeks ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.38](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.38) (2 weeks ago)
 - [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) - [4.5.0](https://github.com/WyriHaximus/reactphp-cache-redis/releases/tag/4.5.0) (3 weeks ago)
@@ -34,7 +35,6 @@ All new major package release will be in PHP 8.2
 - [reactphp/promise-stream](https://github.com/reactphp/promise-stream) - [v1.7.0](https://github.com/reactphp/promise-stream/releases/tag/v1.7.0) (1 month ago)
 - [the-orville/php-exceptions](https://github.com/the-orville/php-exceptions) - [1.0.0](https://github.com/the-orville/php-exceptions/releases/tag/1.0.0) (1 month ago)
 - [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) - [1.1.0](https://github.com/WyriHaximus/reactphp-awaitable-observable/releases/tag/1.1.0) (2 months ago)
-- [reactphp/dns](https://github.com/reactphp/dns) - [v1.12.0](https://github.com/reactphp/dns/releases/tag/v1.12.0) (2 months ago)
 
 ---
 
