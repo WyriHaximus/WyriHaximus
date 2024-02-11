@@ -10,8 +10,8 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [reactphp/website](https://github.com/reactphp/website) (1 day ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (3 days ago)
