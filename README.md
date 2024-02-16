@@ -10,8 +10,8 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [reactphp/cache](https://github.com/reactphp/cache) (3 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
@@ -25,7 +25,7 @@ All new major package release will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) - [1.0.0](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/releases/tag/1.0.0) (today)
+- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) - [1.0.1](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/releases/tag/1.0.1) (today)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.39](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.39) (3 days ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) - [v2.0.1](https://github.com/WyriHaximus/github-action-composer.lock-diff/releases/tag/v2.0.1) (1 week ago)
 - [frankdejonge/use-subsplit-publish](https://github.com/frankdejonge/use-subsplit-publish) - [1.1.0](https://github.com/frankdejonge/use-subsplit-publish/releases/tag/1.1.0) (1 week ago)
