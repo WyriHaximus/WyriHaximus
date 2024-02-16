@@ -25,6 +25,7 @@ All new major package release will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) - [1.0.0](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/releases/tag/1.0.0) (today)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.39](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.39) (3 days ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) - [v2.0.1](https://github.com/WyriHaximus/github-action-composer.lock-diff/releases/tag/v2.0.1) (1 week ago)
 - [frankdejonge/use-subsplit-publish](https://github.com/frankdejonge/use-subsplit-publish) - [1.1.0](https://github.com/frankdejonge/use-subsplit-publish/releases/tag/1.1.0) (1 week ago)
@@ -34,7 +35,6 @@ All new major package release will be in PHP 8.2
 - [WyriHaximus/github-action-create-milestone](https://github.com/WyriHaximus/github-action-create-milestone) - [v1.1.1](https://github.com/WyriHaximus/github-action-create-milestone/releases/tag/v1.1.1) (1 month ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2023.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2023.3) (2 months ago)
 - [reactphp/socket](https://github.com/reactphp/socket) - [v1.15.0](https://github.com/reactphp/socket/releases/tag/v1.15.0) (2 months ago)
-- [reactphp/promise-stream](https://github.com/reactphp/promise-stream) - [v1.7.0](https://github.com/reactphp/promise-stream/releases/tag/v1.7.0) (2 months ago)
 
 ---
 
