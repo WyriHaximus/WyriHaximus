@@ -10,16 +10,16 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (2 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (5 days ago)
 - [reactphp/cache](https://github.com/reactphp/cache) (5 days ago)
-- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (6 days ago)
-- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (6 days ago)
-- [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) (6 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (5 days ago)
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (6 days ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (6 days ago)
+- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (6 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
+- [WyriHaximus/php-metrics-prometheus-push-gateway](https://github.com/WyriHaximus/php-metrics-prometheus-push-gateway) (6 days ago)
 
 ---
 
