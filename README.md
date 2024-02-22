@@ -10,8 +10,8 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (6 days ago)
 - [reactphp/cache](https://github.com/reactphp/cache) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
