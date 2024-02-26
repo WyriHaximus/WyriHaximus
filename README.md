@@ -17,9 +17,9 @@ All new major package release will be in PHP 8.2
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 week ago)
 - [reactphp/cache](https://github.com/reactphp/cache) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
-- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (2 weeks ago)
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (2 weeks ago)
 - [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (2 weeks ago)
+- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (2 weeks ago)
+- [WyriHaximus/php-pool-info](https://github.com/WyriHaximus/php-pool-info) (2 weeks ago)
 
 ---
 
