@@ -10,16 +10,16 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [reactphp/http](https://github.com/reactphp/http) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 week ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [reactphp/cache](https://github.com/reactphp/cache) (1 week ago)
-- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (2 weeks ago)
-- [WyriHaximus/php-metrics-prometheus-push-gateway](https://github.com/WyriHaximus/php-metrics-prometheus-push-gateway) (2 weeks ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
+- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (2 weeks ago)
+- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (2 weeks ago)
 - [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (2 weeks ago)
-- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (2 weeks ago)
 
 ---
 
