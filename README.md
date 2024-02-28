@@ -10,6 +10,7 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [reactphp/http](https://github.com/reactphp/http) (2 days ago)
@@ -17,9 +18,8 @@ All new major package release will be in PHP 8.2
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 week ago)
 - [reactphp/cache](https://github.com/reactphp/cache) (2 weeks ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 weeks ago)
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (2 weeks ago)
+- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (2 weeks ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (2 weeks ago)
-- [WyriHaximus/php-pool-info](https://github.com/WyriHaximus/php-pool-info) (2 weeks ago)
 
 ---
 
