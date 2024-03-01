@@ -10,9 +10,9 @@ All new major package release will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) (today)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (today)
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
-- [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
