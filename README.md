@@ -25,10 +25,10 @@ All new major package release will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.2](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.2) (today)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) - [v4.0.1](https://github.com/WyriHaximus/github-action-helm3/releases/tag/v4.0.1) (4 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) - [7.3.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/7.3.0) (5 days ago)
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) - [1.0.0](https://github.com/WyriHaximus/phpstan-reactphp/releases/tag/1.0.0) (5 days ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.1) (1 week ago)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) - [1.0.1](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/releases/tag/1.0.1) (2 weeks ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.39](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.39) (3 weeks ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) - [v2.0.1](https://github.com/WyriHaximus/github-action-composer.lock-diff/releases/tag/v2.0.1) (4 weeks ago)
