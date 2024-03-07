@@ -12,11 +12,11 @@ All new major package release will be in PHP 8.2
 
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
-- [WyriHaximus-labs/composer.lock-diff-forked-pr-test](https://github.com/WyriHaximus-labs/composer.lock-diff-forked-pr-test) (2 days ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (2 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
+- [WyriHaximus-labs/composer.lock-diff-forked-pr-test](https://github.com/WyriHaximus-labs/composer.lock-diff-forked-pr-test) (2 days ago)
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (6 days ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (6 days ago)
 - [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) (6 days ago)
