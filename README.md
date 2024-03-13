@@ -12,14 +12,14 @@ All new major package release will be in PHP 8.2
 
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/reactphp-mutex-test-utilities](https://github.com/WyriHaximus/reactphp-mutex-test-utilities) (today)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
+- [WyriHaximus/reactphp-mutex-test-utilities](https://github.com/WyriHaximus/reactphp-mutex-test-utilities) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) (2 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (6 days ago)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (6 days ago)
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 week ago)
+- [WyriHaximus-labs/composer.lock-diff-forked-pr-test](https://github.com/WyriHaximus-labs/composer.lock-diff-forked-pr-test) (1 week ago)
 
 ---
 
