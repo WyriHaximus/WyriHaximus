@@ -25,6 +25,7 @@ All new major package release will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/reactphp-mutex-redis](https://github.com/WyriHaximus/reactphp-mutex-redis) - [3.2.0](https://github.com/WyriHaximus/reactphp-mutex-redis/releases/tag/3.2.0) (today)
 - [WyriHaximus/reactphp-mutex](https://github.com/WyriHaximus/reactphp-mutex) - [3.2.0](https://github.com/WyriHaximus/reactphp-mutex/releases/tag/3.2.0) (today)
 - [WyriHaximus/reactphp-mutex-test-utilities](https://github.com/WyriHaximus/reactphp-mutex-test-utilities) - [3.0.0](https://github.com/WyriHaximus/reactphp-mutex-test-utilities/releases/tag/3.0.0) (today)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.40](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.40) (5 days ago)
@@ -34,7 +35,6 @@ All new major package release will be in PHP 8.2
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) - [1.0.0](https://github.com/WyriHaximus/phpstan-reactphp/releases/tag/1.0.0) (2 weeks ago)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) - [1.0.1](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/releases/tag/1.0.1) (1 month ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) - [v2.0.1](https://github.com/WyriHaximus/github-action-composer.lock-diff/releases/tag/v2.0.1) (1 month ago)
-- [WyriHaximus/php-file-descriptors](https://github.com/WyriHaximus/php-file-descriptors) - [1.1.1](https://github.com/WyriHaximus/php-file-descriptors/releases/tag/1.1.1) (1 month ago)
 
 ---
 
