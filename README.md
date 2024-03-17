@@ -2,7 +2,7 @@ Hi!
 
 I am Cees-Jan Kiewiet.
 
-All new major package release will be in PHP 8.2
+All new major package releases will be in PHP 8.2
 
 ![WyriHaximus's github stats](https://github-readme-stats.vercel.app/api?username=WyriHaximus&show_icons=true)
 
@@ -20,6 +20,9 @@ All new major package release will be in PHP 8.2
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [WyriHaximus/reactphp-mutex-test-utilities](https://github.com/WyriHaximus/reactphp-mutex-test-utilities) (4 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (4 days ago)
+- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 week ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
+- [WyriHaximus-labs/composer.lock-diff-forked-pr-test](https://github.com/WyriHaximus-labs/composer.lock-diff-forked-pr-test) (1 week ago)
 
 ---
 
@@ -35,6 +38,9 @@ All new major package release will be in PHP 8.2
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) - [1.0.0](https://github.com/WyriHaximus/phpstan-reactphp/releases/tag/1.0.0) (2 weeks ago)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) - [1.0.1](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/releases/tag/1.0.1) (1 month ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) - [v2.0.1](https://github.com/WyriHaximus/github-action-composer.lock-diff/releases/tag/v2.0.1) (1 month ago)
+- [WyriHaximus/php-file-descriptors](https://github.com/WyriHaximus/php-file-descriptors) - [1.1.1](https://github.com/WyriHaximus/php-file-descriptors/releases/tag/1.1.1) (1 month ago)
+- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) - [4.5.0](https://github.com/WyriHaximus/reactphp-cache-redis/releases/tag/4.5.0) (2 months ago)
+- [WyriHaximus/github-action-create-milestone](https://github.com/WyriHaximus/github-action-create-milestone) - [v1.1.1](https://github.com/WyriHaximus/github-action-create-milestone/releases/tag/v1.1.1) (2 months ago)
 
 ---
 
