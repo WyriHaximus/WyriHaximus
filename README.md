@@ -11,20 +11,21 @@ All new major package release will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [reactphp/http](https://github.com/reactphp/http) (today)
+- [WyriHaximus/reactphp-mutex](https://github.com/WyriHaximus/reactphp-mutex) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [WyriHaximus/reactphp-mutex-redis](https://github.com/WyriHaximus/reactphp-mutex-redis) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [WyriHaximus/reactphp-mutex-test-utilities](https://github.com/WyriHaximus/reactphp-mutex-test-utilities) (4 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (4 days ago)
 - [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) (6 days ago)
-- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/reactphp-mutex-test-utilities](https://github.com/WyriHaximus/reactphp-mutex-test-utilities) - [3.0.0](https://github.com/WyriHaximus/reactphp-mutex-test-utilities/releases/tag/3.0.0) (today)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.40](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.40) (5 days ago)
 - [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) - [2.2.0](https://github.com/WyriHaximus/reactphp-mutex-contracts/releases/tag/2.2.0) (6 days ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) - [v4.0.1](https://github.com/WyriHaximus/github-action-helm3/releases/tag/v4.0.1) (2 weeks ago)
@@ -34,7 +35,6 @@ All new major package release will be in PHP 8.2
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) - [v2.0.1](https://github.com/WyriHaximus/github-action-composer.lock-diff/releases/tag/v2.0.1) (1 month ago)
 - [WyriHaximus/php-file-descriptors](https://github.com/WyriHaximus/php-file-descriptors) - [1.1.1](https://github.com/WyriHaximus/php-file-descriptors/releases/tag/1.1.1) (1 month ago)
 - [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) - [4.5.0](https://github.com/WyriHaximus/reactphp-cache-redis/releases/tag/4.5.0) (2 months ago)
-- [WyriHaximus/github-action-create-milestone](https://github.com/WyriHaximus/github-action-create-milestone) - [v1.1.1](https://github.com/WyriHaximus/github-action-create-milestone/releases/tag/v1.1.1) (2 months ago)
 
 ---
 
