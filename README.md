@@ -10,17 +10,17 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
-- [WyriHaximus/reactphp-simple-orm](https://github.com/WyriHaximus/reactphp-simple-orm) (today)
-- [WyriHaximus/reactphp-mutex-redis](https://github.com/WyriHaximus/reactphp-mutex-redis) (1 day ago)
-- [reactphp/http](https://github.com/reactphp/http) (1 day ago)
-- [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) (1 day ago)
-- [WyriHaximus/reactphp-mutex](https://github.com/WyriHaximus/reactphp-mutex) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
-- [WyriHaximus/reactphp-mutex-test-utilities](https://github.com/WyriHaximus/reactphp-mutex-test-utilities) (5 days ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (5 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
+- [WyriHaximus/reactphp-simple-orm](https://github.com/WyriHaximus/reactphp-simple-orm) (1 day ago)
+- [WyriHaximus/reactphp-mutex-redis](https://github.com/WyriHaximus/reactphp-mutex-redis) (2 days ago)
+- [reactphp/http](https://github.com/reactphp/http) (2 days ago)
+- [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) (2 days ago)
+- [WyriHaximus/reactphp-mutex](https://github.com/WyriHaximus/reactphp-mutex) (2 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
+- [WyriHaximus/reactphp-mutex-test-utilities](https://github.com/WyriHaximus/reactphp-mutex-test-utilities) (6 days ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (6 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 week ago)
 
@@ -28,11 +28,11 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) - [2.3.0](https://github.com/WyriHaximus/reactphp-mutex-contracts/releases/tag/2.3.0) (1 day ago)
-- [WyriHaximus/reactphp-mutex-redis](https://github.com/WyriHaximus/reactphp-mutex-redis) - [3.2.0](https://github.com/WyriHaximus/reactphp-mutex-redis/releases/tag/3.2.0) (1 day ago)
-- [WyriHaximus/reactphp-mutex](https://github.com/WyriHaximus/reactphp-mutex) - [3.2.0](https://github.com/WyriHaximus/reactphp-mutex/releases/tag/3.2.0) (1 day ago)
-- [WyriHaximus/reactphp-mutex-test-utilities](https://github.com/WyriHaximus/reactphp-mutex-test-utilities) - [3.0.0](https://github.com/WyriHaximus/reactphp-mutex-test-utilities/releases/tag/3.0.0) (1 day ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.40](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.40) (6 days ago)
+- [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) - [2.3.0](https://github.com/WyriHaximus/reactphp-mutex-contracts/releases/tag/2.3.0) (2 days ago)
+- [WyriHaximus/reactphp-mutex-redis](https://github.com/WyriHaximus/reactphp-mutex-redis) - [3.2.0](https://github.com/WyriHaximus/reactphp-mutex-redis/releases/tag/3.2.0) (2 days ago)
+- [WyriHaximus/reactphp-mutex](https://github.com/WyriHaximus/reactphp-mutex) - [3.2.0](https://github.com/WyriHaximus/reactphp-mutex/releases/tag/3.2.0) (2 days ago)
+- [WyriHaximus/reactphp-mutex-test-utilities](https://github.com/WyriHaximus/reactphp-mutex-test-utilities) - [3.0.0](https://github.com/WyriHaximus/reactphp-mutex-test-utilities/releases/tag/3.0.0) (2 days ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.40](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.40) (1 week ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) - [v4.0.1](https://github.com/WyriHaximus/github-action-helm3/releases/tag/v4.0.1) (2 weeks ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) - [7.3.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/7.3.0) (2 weeks ago)
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) - [1.0.0](https://github.com/WyriHaximus/phpstan-reactphp/releases/tag/1.0.0) (2 weeks ago)
