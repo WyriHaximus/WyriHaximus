@@ -12,7 +12,7 @@ All new major package releases will be in PHP 8.2
 
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
 - [WyriHaximus/reactphp-simple-orm](https://github.com/WyriHaximus/reactphp-simple-orm) (3 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 - [reactphp/http](https://github.com/reactphp/http) (5 days ago)
