@@ -10,7 +10,7 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [reactphp/http](https://github.com/reactphp/http) (1 day ago)
+- [reactphp/http](https://github.com/reactphp/http) (today)
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 day ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) (2 days ago)
