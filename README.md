@@ -10,16 +10,16 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [reactphp/http](https://github.com/reactphp/http) (today)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 day ago)
-- [MammatusPHP/app](https://github.com/MammatusPHP/app) (2 days ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (2 days ago)
-- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (3 days ago)
-- [MammatusPHP/cron-contracts](https://github.com/MammatusPHP/cron-contracts) (3 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
-- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (4 days ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (4 days ago)
+- [reactphp/http](https://github.com/reactphp/http) (1 day ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (2 days ago)
+- [MammatusPHP/app](https://github.com/MammatusPHP/app) (3 days ago)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (3 days ago)
+- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (4 days ago)
+- [MammatusPHP/cron-contracts](https://github.com/MammatusPHP/cron-contracts) (4 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (5 days ago)
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (5 days ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (5 days ago)
 - [WyriHaximus/reactphp-simple-orm](https://github.com/WyriHaximus/reactphp-simple-orm) (1 week ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [WyriHaximus/reactphp-mutex-redis](https://github.com/WyriHaximus/reactphp-mutex-redis) (1 week ago)
@@ -28,10 +28,10 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) - [1.0.0](https://github.com/MammatusPHP/cron-attributes/releases/tag/1.0.0) (3 days ago)
-- [MammatusPHP/cron-contracts](https://github.com/MammatusPHP/cron-contracts) - [1.0.1](https://github.com/MammatusPHP/cron-contracts/releases/tag/1.0.1) (3 days ago)
-- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) - [2.0.0](https://github.com/MammatusPHP/life-cycle-events/releases/tag/2.0.0) (4 days ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) - [2.3.1](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.3.1) (4 days ago)
+- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) - [1.0.0](https://github.com/MammatusPHP/cron-attributes/releases/tag/1.0.0) (4 days ago)
+- [MammatusPHP/cron-contracts](https://github.com/MammatusPHP/cron-contracts) - [1.0.1](https://github.com/MammatusPHP/cron-contracts/releases/tag/1.0.1) (4 days ago)
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) - [2.0.0](https://github.com/MammatusPHP/life-cycle-events/releases/tag/2.0.0) (5 days ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) - [2.3.1](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.3.1) (5 days ago)
 - [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) - [2.3.0](https://github.com/WyriHaximus/reactphp-mutex-contracts/releases/tag/2.3.0) (1 week ago)
 - [WyriHaximus/reactphp-mutex-redis](https://github.com/WyriHaximus/reactphp-mutex-redis) - [3.2.0](https://github.com/WyriHaximus/reactphp-mutex-redis/releases/tag/3.2.0) (1 week ago)
 - [WyriHaximus/reactphp-mutex](https://github.com/WyriHaximus/reactphp-mutex) - [3.2.0](https://github.com/WyriHaximus/reactphp-mutex/releases/tag/3.2.0) (1 week ago)
