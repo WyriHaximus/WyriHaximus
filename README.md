@@ -10,15 +10,15 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (2 days ago)
 - [reactphp/http](https://github.com/reactphp/http) (3 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (5 days ago)
-- [MammatusPHP/app](https://github.com/MammatusPHP/app) (6 days ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (6 days ago)
+- [MammatusPHP/app](https://github.com/MammatusPHP/app) (6 days ago)
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (1 week ago)
 - [MammatusPHP/cron-contracts](https://github.com/MammatusPHP/cron-contracts) (1 week ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 week ago)
