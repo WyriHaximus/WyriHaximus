@@ -28,6 +28,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) - [8.0.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/8.0.0) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) - [6.0.1](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.1) (today)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) - [2.0.0](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/releases/tag/2.0.0) (today)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) - [r43](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r43) (1 day ago)
@@ -40,7 +41,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) - [2.3.0](https://github.com/WyriHaximus/reactphp-mutex-contracts/releases/tag/2.3.0) (2 weeks ago)
 - [WyriHaximus/reactphp-mutex-redis](https://github.com/WyriHaximus/reactphp-mutex-redis) - [3.2.0](https://github.com/WyriHaximus/reactphp-mutex-redis/releases/tag/3.2.0) (2 weeks ago)
 - [WyriHaximus/reactphp-mutex](https://github.com/WyriHaximus/reactphp-mutex) - [3.2.0](https://github.com/WyriHaximus/reactphp-mutex/releases/tag/3.2.0) (2 weeks ago)
-- [WyriHaximus/reactphp-mutex-test-utilities](https://github.com/WyriHaximus/reactphp-mutex-test-utilities) - [3.0.0](https://github.com/WyriHaximus/reactphp-mutex-test-utilities/releases/tag/3.0.0) (2 weeks ago)
 
 ---
 
