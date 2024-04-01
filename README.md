@@ -11,12 +11,12 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 day ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (4 days ago)
 - [reactphp/http](https://github.com/reactphp/http) (5 days ago)
@@ -28,8 +28,9 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) - [6.0.1](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.1) (today)
+- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) - [2.0.0](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/releases/tag/2.0.0) (today)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) - [r43](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r43) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) - [6.0.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.0) (1 day ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) - [3.4.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/3.4.0) (1 day ago)
 - [reactphp/http](https://github.com/reactphp/http) - [v1.10.0](https://github.com/reactphp/http/releases/tag/v1.10.0) (5 days ago)
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) - [1.0.0](https://github.com/MammatusPHP/cron-attributes/releases/tag/1.0.0) (1 week ago)
@@ -40,7 +41,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/reactphp-mutex-redis](https://github.com/WyriHaximus/reactphp-mutex-redis) - [3.2.0](https://github.com/WyriHaximus/reactphp-mutex-redis/releases/tag/3.2.0) (2 weeks ago)
 - [WyriHaximus/reactphp-mutex](https://github.com/WyriHaximus/reactphp-mutex) - [3.2.0](https://github.com/WyriHaximus/reactphp-mutex/releases/tag/3.2.0) (2 weeks ago)
 - [WyriHaximus/reactphp-mutex-test-utilities](https://github.com/WyriHaximus/reactphp-mutex-test-utilities) - [3.0.0](https://github.com/WyriHaximus/reactphp-mutex-test-utilities/releases/tag/3.0.0) (2 weeks ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.40](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.40) (2 weeks ago)
 
 ---
 
