@@ -11,11 +11,11 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) (today)
 - [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) (today)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
 - [php-api-clients/openapi-client-utils](https://github.com/php-api-clients/openapi-client-utils) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 day ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 day ago)
 - [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (1 day ago)
