@@ -28,8 +28,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) - [4.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/4.0.0) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) - [6.0.2](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.2) (3 days ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) - [3.5.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/3.5.0) (3 days ago)
 - [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) - [1.1.0](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter/releases/tag/1.1.0) (3 days ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) - [r45](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r45) (3 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) - [8.0.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/8.0.0) (4 days ago)
