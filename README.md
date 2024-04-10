@@ -28,7 +28,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.41](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.41) (1 day ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.42](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.42) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) - [8.0.1](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/8.0.1) (2 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) - [6.0.3](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.3) (2 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) - [6.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/6.0.0) (2 days ago)
