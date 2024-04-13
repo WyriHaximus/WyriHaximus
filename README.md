@@ -28,6 +28,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) - [5.0.0](https://github.com/WyriHaximus/reactphp-cron/releases/tag/5.0.0) (today)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.42](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.42) (3 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) - [8.0.1](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/8.0.1) (5 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) - [6.0.3](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.3) (5 days ago)
@@ -40,7 +41,6 @@ All new major package releases will be in PHP 8.2
 - [MammatusPHP/cron-contracts](https://github.com/MammatusPHP/cron-contracts) - [1.0.1](https://github.com/MammatusPHP/cron-contracts/releases/tag/1.0.1) (3 weeks ago)
 - [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) - [2.0.0](https://github.com/MammatusPHP/life-cycle-events/releases/tag/2.0.0) (3 weeks ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) - [2.3.1](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.3.1) (3 weeks ago)
-- [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) - [2.3.0](https://github.com/WyriHaximus/reactphp-mutex-contracts/releases/tag/2.3.0) (3 weeks ago)
 
 ---
 
