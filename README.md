@@ -28,6 +28,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [1Password/for-open-source](https://github.com/1Password/for-open-source) - [processor-1](https://github.com/1Password/for-open-source/releases/tag/processor-1) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) - [8.0.2](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/8.0.2) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) - [6.0.4](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.4) (today)
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) - [5.0.0](https://github.com/WyriHaximus/reactphp-cron/releases/tag/5.0.0) (2 days ago)
@@ -40,7 +41,6 @@ All new major package releases will be in PHP 8.2
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) - [1.0.0](https://github.com/MammatusPHP/cron-attributes/releases/tag/1.0.0) (3 weeks ago)
 - [MammatusPHP/cron-contracts](https://github.com/MammatusPHP/cron-contracts) - [1.0.1](https://github.com/MammatusPHP/cron-contracts/releases/tag/1.0.1) (3 weeks ago)
 - [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) - [2.0.0](https://github.com/MammatusPHP/life-cycle-events/releases/tag/2.0.0) (3 weeks ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) - [2.3.1](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.3.1) (3 weeks ago)
 
 ---
 
