@@ -10,15 +10,15 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) (2 days ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 days ago)
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (3 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (5 days ago)
 - [WyriHaximus/reactphp-simple-orm](https://github.com/WyriHaximus/reactphp-simple-orm) (6 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (1 week ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
@@ -28,10 +28,10 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) - [8.0.2](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/8.0.2) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) - [6.0.4](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.4) (today)
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) - [5.0.0](https://github.com/WyriHaximus/reactphp-cron/releases/tag/5.0.0) (2 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.42](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.42) (5 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) - [8.0.1](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/8.0.1) (1 week ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) - [6.0.3](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.3) (1 week ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) - [6.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/6.0.0) (1 week ago)
 - [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) - [1.1.0](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter/releases/tag/1.1.0) (1 week ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) - [r45](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r45) (1 week ago)
