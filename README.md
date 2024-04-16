@@ -28,6 +28,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2024.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.1) (today)
 - [1Password/for-open-source](https://github.com/1Password/for-open-source) - [processor-1](https://github.com/1Password/for-open-source/releases/tag/processor-1) (1 day ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) - [8.0.2](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/8.0.2) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) - [6.0.4](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.4) (1 day ago)
@@ -40,7 +41,6 @@ All new major package releases will be in PHP 8.2
 - [reactphp/http](https://github.com/reactphp/http) - [v1.10.0](https://github.com/reactphp/http/releases/tag/v1.10.0) (2 weeks ago)
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) - [1.0.0](https://github.com/MammatusPHP/cron-attributes/releases/tag/1.0.0) (3 weeks ago)
 - [MammatusPHP/cron-contracts](https://github.com/MammatusPHP/cron-contracts) - [1.0.1](https://github.com/MammatusPHP/cron-contracts/releases/tag/1.0.1) (3 weeks ago)
-- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) - [2.0.0](https://github.com/MammatusPHP/life-cycle-events/releases/tag/2.0.0) (3 weeks ago)
 
 ---
 
