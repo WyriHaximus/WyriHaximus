@@ -28,8 +28,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) - [6.0.7](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.7) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) - [8.0.4](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/8.0.4) (3 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) - [6.0.6](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.6) (3 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) - [6.0.1](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/6.0.1) (5 days ago)
 - [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) - [3.1.0](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body/releases/tag/3.1.0) (1 week ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2024.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.1) (1 week ago)
