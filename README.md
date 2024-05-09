@@ -28,6 +28,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) - [4.2.0](https://github.com/WyriHaximus/php-json-throwable/releases/tag/4.2.0) (today)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.43](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.43) (2 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) - [6.0.7](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.7) (2 weeks ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) - [8.0.4](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/8.0.4) (2 weeks ago)
@@ -40,7 +41,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) - [r45](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r45) (1 month ago)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) - [2.0.0](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/releases/tag/2.0.0) (1 month ago)
 - [reactphp/http](https://github.com/reactphp/http) - [v1.10.0](https://github.com/reactphp/http/releases/tag/v1.10.0) (1 month ago)
-- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) - [1.0.0](https://github.com/MammatusPHP/cron-attributes/releases/tag/1.0.0) (1 month ago)
 
 ---
 
