@@ -20,8 +20,8 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 weeks ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 weeks ago)
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (2 weeks ago)
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (2 weeks ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 weeks ago)
+- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (2 weeks ago)
 - [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (3 weeks ago)
 
 ---
