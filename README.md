@@ -10,17 +10,17 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
 - [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (1 day ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
-- [WyriHaximus/reactphp-child-process-messenger](https://github.com/WyriHaximus/reactphp-child-process-messenger) (4 days ago)
 - [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) (4 days ago)
+- [WyriHaximus/reactphp-child-process-messenger](https://github.com/WyriHaximus/reactphp-child-process-messenger) (4 days ago)
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (4 days ago)
-- [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (5 days ago)
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (5 days ago)
+- [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (5 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (6 days ago)
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) (2 weeks ago)
 
