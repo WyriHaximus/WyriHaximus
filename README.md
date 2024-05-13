@@ -14,8 +14,8 @@ All new major package releases will be in PHP 8.2
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (1 day ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
 - [WyriHaximus/reactphp-child-process-messenger](https://github.com/WyriHaximus/reactphp-child-process-messenger) (4 days ago)
 - [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) (4 days ago)
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (4 days ago)
@@ -28,7 +28,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) - [v2.0.2](https://github.com/WyriHaximus/github-action-composer.lock-diff/releases/tag/v2.0.2) (today)
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) - [v2.0.3](https://github.com/WyriHaximus/github-action-composer.lock-diff/releases/tag/v2.0.3) (today)
 - [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) - [4.2.0](https://github.com/WyriHaximus/php-json-throwable/releases/tag/4.2.0) (4 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) - [1.8.43](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.43) (6 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) - [6.0.7](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.7) (2 weeks ago)
