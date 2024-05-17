@@ -10,6 +10,7 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [reactphp/http](https://github.com/reactphp/http) (1 day ago)
 - [reactphp/promise](https://github.com/reactphp/promise) (2 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
@@ -18,10 +19,9 @@ All new major package releases will be in PHP 8.2
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (4 days ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (4 days ago)
 - [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (5 days ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 week ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 week ago)
-- [WyriHaximus/reactphp-child-process-messenger](https://github.com/WyriHaximus/reactphp-child-process-messenger) (1 week ago)
 - [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) (1 week ago)
 
 ---
