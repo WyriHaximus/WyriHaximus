@@ -12,8 +12,9 @@ All new major package releases will be in PHP 8.2
 
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (today)
 - [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (today)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [reactphp/cache](https://github.com/reactphp/cache) (1 day ago)
 - [reactphp/stream](https://github.com/reactphp/stream) (1 day ago)
@@ -22,7 +23,6 @@ All new major package releases will be in PHP 8.2
 - [reactphp/promise](https://github.com/reactphp/promise) (3 days ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (5 days ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (5 days ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
 
 ---
 
