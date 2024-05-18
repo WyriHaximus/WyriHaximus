@@ -11,15 +11,15 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [reactphp/stream](https://github.com/reactphp/stream) (1 day ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [reactphp/cache](https://github.com/reactphp/cache) (1 day ago)
+- [reactphp/stream](https://github.com/reactphp/stream) (1 day ago)
 - [reactphp/http](https://github.com/reactphp/http) (2 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
 - [reactphp/promise](https://github.com/reactphp/promise) (3 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (5 days ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (5 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
