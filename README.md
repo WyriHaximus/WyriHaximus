@@ -10,10 +10,10 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (today)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [reactphp/cache](https://github.com/reactphp/cache) (1 day ago)
