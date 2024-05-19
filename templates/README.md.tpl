@@ -15,9 +15,44 @@ All new major package releases will be in PHP 8.2
 
 ---
 
+#### 🌱 My latest projects
+{{range recentRepos 13}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
+
+---
+
 #### 🔭 Latest releases I've contributed to
 {{range recentReleases 13}}
-- [{{.Name}}]({{.URL}}) - [{{.LastRelease.TagName}}]({{.LastRelease.URL}}) ({{humanize .LastRelease.PublishedAt}})
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+{{- end}}
+
+---
+
+#### 🔨 My recent Pull Requests
+{{range recentPullRequests 13}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
+---
+
+#### ⭐ Recent Stars
+{{range recentStars 13}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
+{{- end}}
+
+---
+
+#### ❤️ These awesome people sponsor me (thank you!)
+{{range sponsors 666}}
+- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
+---
+
+#### 👯 Check out some of my recent followers
+{{range followers 5}}
+- [{{.Login}}]({{.URL}})
 {{- end}}
 
 ---
