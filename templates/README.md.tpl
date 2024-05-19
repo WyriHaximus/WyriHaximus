@@ -44,7 +44,7 @@ All new major package releases will be in PHP 8.2
 ---
 
 #### ❤️ These awesome people sponsor me (thank you!)
-{{range sponsors 666}}
+{{range sponsors 100}}
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
