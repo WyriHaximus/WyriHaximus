@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [reactphp/dns](https://github.com/reactphp/dns) (today)
-- [reactphp/stream](https://github.com/reactphp/stream) (today)
-- [reactphp/cache](https://github.com/reactphp/cache) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (1 day ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
-- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (1 day ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
-- [reactphp/http](https://github.com/reactphp/http) (3 days ago)
-- [reactphp/promise](https://github.com/reactphp/promise) (4 days ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (4 days ago)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (6 days ago)
+- [reactphp/dns](https://github.com/reactphp/dns) (1 day ago)
+- [reactphp/stream](https://github.com/reactphp/stream) (1 day ago)
+- [reactphp/cache](https://github.com/reactphp/cache) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
+- [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (2 days ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
+- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (2 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
+- [reactphp/http](https://github.com/reactphp/http) (4 days ago)
+- [reactphp/promise](https://github.com/reactphp/promise) (5 days ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (5 days ago)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 week ago)
 
 ---
 
@@ -46,12 +46,12 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([6.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/6.1.0), 4 days ago) - 🌯 PHPStan rules wrapper
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) ([v2.0.3](https://github.com/WyriHaximus/github-action-composer.lock-diff/releases/tag/v2.0.3), 6 days ago) - GitHub Action that diffs composer.lock between current branch and default branch
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([6.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/6.1.0), 5 days ago) - 🌯 PHPStan rules wrapper
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) ([v2.0.3](https://github.com/WyriHaximus/github-action-composer.lock-diff/releases/tag/v2.0.3), 1 week ago) - GitHub Action that diffs composer.lock between current branch and default branch
 - [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) ([4.2.0](https://github.com/WyriHaximus/php-json-throwable/releases/tag/4.2.0), 1 week ago) - JSON encode and decode throwables and exceptions
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.8.43](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.43), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([6.0.7](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.7), 3 weeks ago) - 
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([8.0.4](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/8.0.4), 3 weeks ago) - 
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([8.0.4](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/8.0.4), 4 weeks ago) - 
 - [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) ([3.1.0](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body/releases/tag/3.1.0), 1 month ago) - 
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2024.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.1), 1 month ago) - PHP runtime &amp; extensions header files for PhpStorm
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) ([5.0.0](https://github.com/WyriHaximus/reactphp-cron/releases/tag/5.0.0), 1 month ago) - Cronlike scheduler running inside a ReactPHP Event Loop
@@ -64,14 +64,14 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
-- [Bump to PHP8.2&#43;](https://github.com/WyriHaximus/HtmlCompress/pull/174) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (1 day ago)
-- [Pivot to generic deployments for split out queue workers](https://github.com/MammatusPHP/queue/pull/2) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
-- [Initial naive package setup](https://github.com/MammatusPHP/queue/pull/1) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
-- [Drop readonly from message](https://github.com/BBQueue/php-bunny/pull/2) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (1 day ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-0f0982c56c033e0a05c272552a6fbf83 from 1.1.4-7554ad7b532cd4af3a3f5eff505ec2bb](https://github.com/php-api-clients/github-root/pull/1174) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [[GitHub] Update to 1.1.4-4c2735d9a9f96c728ea6fe83fc500acd from 1.1.4-4d0175f50c5e15e911018fc5f4b5fee8](https://github.com/php-api-clients/github-root/pull/1173) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [Raise infection timeout](https://github.com/WyriHaximus/php-test-utilities/pull/904) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
-- [Hello `3.x` development branch](https://github.com/reactphp/http/pull/527) on [reactphp/http](https://github.com/reactphp/http) (3 days ago)
+- [Bump to PHP8.2&#43;](https://github.com/WyriHaximus/HtmlCompress/pull/174) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (2 days ago)
+- [Pivot to generic deployments for split out queue workers](https://github.com/MammatusPHP/queue/pull/2) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
+- [Initial naive package setup](https://github.com/MammatusPHP/queue/pull/1) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
+- [Drop readonly from message](https://github.com/BBQueue/php-bunny/pull/2) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (2 days ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-0f0982c56c033e0a05c272552a6fbf83 from 1.1.4-7554ad7b532cd4af3a3f5eff505ec2bb](https://github.com/php-api-clients/github-root/pull/1174) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
+- [[GitHub] Update to 1.1.4-4c2735d9a9f96c728ea6fe83fc500acd from 1.1.4-4d0175f50c5e15e911018fc5f4b5fee8](https://github.com/php-api-clients/github-root/pull/1173) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
+- [Raise infection timeout](https://github.com/WyriHaximus/php-test-utilities/pull/904) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
+- [Hello `3.x` development branch](https://github.com/reactphp/http/pull/527) on [reactphp/http](https://github.com/reactphp/http) (4 days ago)
 - [Initial package set up](https://github.com/BBQueue/php-bunny/pull/1) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (1 week ago)
 - [Drop double \ from parameter types](https://github.com/thecodingmachine/safe/pull/445) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (1 week ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-7554ad7b532cd4af3a3f5eff505ec2bb from 1.1.4-5ac0f2a93b2debe4d5052e2c911fc9c0](https://github.com/php-api-clients/github-root/pull/1170) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
@@ -82,8 +82,8 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
-- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language (today)
-- [achetronic/predoxy](https://github.com/achetronic/predoxy) - A TCP proxy with middleware plugins to process the messages on-the-fly (2 days ago)
+- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language (1 day ago)
+- [achetronic/predoxy](https://github.com/achetronic/predoxy) - A TCP proxy with middleware plugins to process the messages on-the-fly (3 days ago)
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation (1 week ago)
 - [php-enqueue/enqueue-dev](https://github.com/php-enqueue/enqueue-dev) - Message Queue, Job Queue, Broadcasting, WebSockets packages for PHP, Symfony, Laravel, Magento. DEVELOPMENT REPOSITORY - provided by Forma-Pro (1 week ago)
 - [swarrot/swarrot](https://github.com/swarrot/swarrot) - A lib to consume message from any Broker (1 week ago)
