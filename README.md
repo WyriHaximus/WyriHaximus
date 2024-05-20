@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
+- [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (today)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [reactphp/cache](https://github.com/reactphp/cache) (1 day ago)
-- [reactphp/stream](https://github.com/reactphp/stream) (1 day ago)
 - [reactphp/dns](https://github.com/reactphp/dns) (1 day ago)
-- [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (2 days ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
+- [reactphp/stream](https://github.com/reactphp/stream) (1 day ago)
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (2 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
 - [reactphp/http](https://github.com/reactphp/http) (4 days ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (5 days ago)
 - [reactphp/promise](https://github.com/reactphp/promise) (5 days ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (5 days ago)
 
 ---
 
@@ -64,6 +64,10 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [App should close consumer on signals](https://github.com/MammatusPHP/queue/pull/4) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
+- [Implement Context::close](https://github.com/BBQueue/php-bunny/pull/4) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (today)
+- [Make app work](https://github.com/MammatusPHP/queue/pull/3) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
+- [Keep consume running and fill a local cache](https://github.com/BBQueue/php-bunny/pull/3) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (today)
 - [Bump to PHP8.2&#43;](https://github.com/WyriHaximus/HtmlCompress/pull/174) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (2 days ago)
 - [Pivot to generic deployments for split out queue workers](https://github.com/MammatusPHP/queue/pull/2) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
 - [Initial naive package setup](https://github.com/MammatusPHP/queue/pull/1) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
@@ -73,10 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Raise infection timeout](https://github.com/WyriHaximus/php-test-utilities/pull/904) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
 - [Hello `3.x` development branch](https://github.com/reactphp/http/pull/527) on [reactphp/http](https://github.com/reactphp/http) (4 days ago)
 - [Initial package set up](https://github.com/BBQueue/php-bunny/pull/1) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (1 week ago)
-- [Drop double \ from parameter types](https://github.com/thecodingmachine/safe/pull/445) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (1 week ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-7554ad7b532cd4af3a3f5eff505ec2bb from 1.1.4-5ac0f2a93b2debe4d5052e2c911fc9c0](https://github.com/php-api-clients/github-root/pull/1170) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [[GitHub] Update to 1.1.4-4d0175f50c5e15e911018fc5f4b5fee8 from 1.1.4-3eab7bc09a6d3be61aedace0f4ddc61d](https://github.com/php-api-clients/github-root/pull/1169) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [Update to latest QA set up](https://github.com/WyriHaximus/php-json-throwable/pull/103) on [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) (1 week ago)
 
 ---
 
