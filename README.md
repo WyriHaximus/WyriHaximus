@@ -11,12 +11,12 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [reactphp/dns](https://github.com/reactphp/dns) (1 day ago)
-- [reactphp/cache](https://github.com/reactphp/cache) (1 day ago)
 - [reactphp/stream](https://github.com/reactphp/stream) (1 day ago)
-- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (2 days ago)
+- [reactphp/cache](https://github.com/reactphp/cache) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (2 days ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
+- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (2 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
 - [reactphp/http](https://github.com/reactphp/http) (4 days ago)
