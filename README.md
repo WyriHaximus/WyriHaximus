@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [reactphp/dns](https://github.com/reactphp/dns) (1 day ago)
-- [reactphp/stream](https://github.com/reactphp/stream) (1 day ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [reactphp/cache](https://github.com/reactphp/cache) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
+- [reactphp/stream](https://github.com/reactphp/stream) (1 day ago)
+- [reactphp/dns](https://github.com/reactphp/dns) (1 day ago)
 - [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (2 days ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (2 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
 - [reactphp/http](https://github.com/reactphp/http) (4 days ago)
-- [reactphp/promise](https://github.com/reactphp/promise) (5 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (5 days ago)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 week ago)
+- [reactphp/promise](https://github.com/reactphp/promise) (5 days ago)
 
 ---
 
