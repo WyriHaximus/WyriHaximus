@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
-- [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (today)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
+- [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (today)
 - [reactphp/cache](https://github.com/reactphp/cache) (1 day ago)
 - [reactphp/dns](https://github.com/reactphp/dns) (1 day ago)
 - [reactphp/stream](https://github.com/reactphp/stream) (1 day ago)
-- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (2 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (2 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
 - [reactphp/http](https://github.com/reactphp/http) (4 days ago)
 - [reactphp/promise](https://github.com/reactphp/promise) (5 days ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (5 days ago)
 
 ---
 
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Emit shutdown event when job has finished](https://github.com/MammatusPHP/cron/pull/82) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [App should close consumer on signals](https://github.com/MammatusPHP/queue/pull/4) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [Implement Context::close](https://github.com/BBQueue/php-bunny/pull/4) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (today)
 - [Make app work](https://github.com/MammatusPHP/queue/pull/3) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-4c2735d9a9f96c728ea6fe83fc500acd from 1.1.4-4d0175f50c5e15e911018fc5f4b5fee8](https://github.com/php-api-clients/github-root/pull/1173) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [Raise infection timeout](https://github.com/WyriHaximus/php-test-utilities/pull/904) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
 - [Hello `3.x` development branch](https://github.com/reactphp/http/pull/527) on [reactphp/http](https://github.com/reactphp/http) (4 days ago)
-- [Initial package set up](https://github.com/BBQueue/php-bunny/pull/1) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (1 week ago)
 
 ---
 
