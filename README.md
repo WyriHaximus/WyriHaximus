@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (1 day ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 day ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
 - [reactphp/cache](https://github.com/reactphp/cache) (2 days ago)
-- [reactphp/dns](https://github.com/reactphp/dns) (2 days ago)
 - [reactphp/stream](https://github.com/reactphp/stream) (2 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
+- [reactphp/dns](https://github.com/reactphp/dns) (2 days ago)
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (3 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
 - [reactphp/http](https://github.com/reactphp/http) (5 days ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (6 days ago)
+- [reactphp/promise](https://github.com/reactphp/promise) (6 days ago)
 
 ---
 
