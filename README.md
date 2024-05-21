@@ -11,14 +11,14 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
 - [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (1 day ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 day ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
 - [reactphp/cache](https://github.com/reactphp/cache) (2 days ago)
-- [reactphp/dns](https://github.com/reactphp/dns) (2 days ago)
 - [reactphp/stream](https://github.com/reactphp/stream) (2 days ago)
+- [reactphp/dns](https://github.com/reactphp/dns) (2 days ago)
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (3 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
 - [reactphp/http](https://github.com/reactphp/http) (5 days ago)
@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [mrk-its/homeassistant-blitzortung](https://github.com/mrk-its/homeassistant-blitzortung) - Custom Component for fetching lightning data from blitzortung.org (today)
 - [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) - A simple measure of dependency freshness (today)
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language (2 days ago)
 - [achetronic/predoxy](https://github.com/achetronic/predoxy) - A TCP proxy with middleware plugins to process the messages on-the-fly (4 days ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [jsonsystems/public](https://github.com/jsonsystems/public) -  (1 month ago)
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (1 month ago)
 - [cpulvermacher/time-travel](https://github.com/cpulvermacher/time-travel) - Time Travel - A Chrome extension to spoof the current date and time seen by websites. (1 month ago)
-- [freepik-company/notifik](https://github.com/freepik-company/notifik) - Kubernetes operator to watch groups of resources and send notifications if conditions are met (realtime) (1 month ago)
 
 ---
 
