@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) - A simple measure of dependency freshness (today)
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language (2 days ago)
 - [achetronic/predoxy](https://github.com/achetronic/predoxy) - A TCP proxy with middleware plugins to process the messages on-the-fly (4 days ago)
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation (1 week ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (1 month ago)
 - [cpulvermacher/time-travel](https://github.com/cpulvermacher/time-travel) - Time Travel - A Chrome extension to spoof the current date and time seen by websites. (1 month ago)
 - [freepik-company/notifik](https://github.com/freepik-company/notifik) - Kubernetes operator to watch groups of resources and send notifications if conditions are met (realtime) (1 month ago)
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100&#43; integration / Enterprise automation tool / Zapier Alternative (1 month ago)
 
 ---
 
