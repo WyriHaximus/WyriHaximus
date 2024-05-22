@@ -10,24 +10,25 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [reactphp/async](https://github.com/reactphp/async) (today)
+- [reactphp/promise](https://github.com/reactphp/promise) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (2 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
+- [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (2 days ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
-- [reactphp/cache](https://github.com/reactphp/cache) (3 days ago)
 - [reactphp/stream](https://github.com/reactphp/stream) (3 days ago)
 - [reactphp/dns](https://github.com/reactphp/dns) (3 days ago)
+- [reactphp/cache](https://github.com/reactphp/cache) (3 days ago)
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (4 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
-- [reactphp/http](https://github.com/reactphp/http) (6 days ago)
-- [reactphp/promise](https://github.com/reactphp/promise) (1 week ago)
 
 ---
 
 #### 🌱 My latest projects
 
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) - 
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) - Trait to run all tests in a fiber
 - [WyriHaximus/php-metrics-prometheus-push-gateway](https://github.com/WyriHaximus/php-metrics-prometheus-push-gateway) - Prom Push Gateway package for wyrihaximus/metrics
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) - ReactPHP extension for PHPStan
@@ -40,7 +41,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) - Shared GitHub Actions Workflows
 - [WyriHaximus/renovate-php-multiple-updates-possible](https://github.com/WyriHaximus/renovate-php-multiple-updates-possible) - 
 - [WyriHaximus/renovate-ignore-php-version](https://github.com/WyriHaximus/renovate-ignore-php-version) - 
-- [WyriHaximus/reactphp-psr-7-stream](https://github.com/WyriHaximus/reactphp-psr-7-stream) - Decorate ReactPHP streams as PSR-7 streams
 
 ---
 
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Initial version](https://github.com/WyriHaximus/php-tile-stitcher/pull/1) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (today)
 - [[1.x] Improve PHP 8.4&#43; support by avoiding implicitly nullable types](https://github.com/reactphp/dns/pull/224) on [reactphp/dns](https://github.com/reactphp/dns) (today)
 - [[3.x] Improve PHP 8.4&#43; support by avoiding implicitly nullable types](https://github.com/reactphp/dns/pull/223) on [reactphp/dns](https://github.com/reactphp/dns) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-1e75d6425ed4e4aae7d5a75047e1095c from 1.1.4-0f0982c56c033e0a05c272552a6fbf83](https://github.com/php-api-clients/github-root/pull/1176) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Bump to PHP8.2&#43;](https://github.com/WyriHaximus/HtmlCompress/pull/174) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (4 days ago)
 - [Pivot to generic deployments for split out queue workers](https://github.com/MammatusPHP/queue/pull/2) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
 - [Initial naive package setup](https://github.com/MammatusPHP/queue/pull/1) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
-- [Drop readonly from message](https://github.com/BBQueue/php-bunny/pull/2) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (4 days ago)
 
 ---
 
