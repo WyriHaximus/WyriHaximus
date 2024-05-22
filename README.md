@@ -11,14 +11,14 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (2 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
+- [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (2 days ago)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 days ago)
 - [reactphp/cache](https://github.com/reactphp/cache) (3 days ago)
-- [reactphp/stream](https://github.com/reactphp/stream) (3 days ago)
 - [reactphp/dns](https://github.com/reactphp/dns) (3 days ago)
+- [reactphp/stream](https://github.com/reactphp/stream) (3 days ago)
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (4 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
 - [reactphp/http](https://github.com/reactphp/http) (6 days ago)
@@ -64,6 +64,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[1.x] Improve PHP 8.4&#43; support by avoiding implicitly nullable types](https://github.com/reactphp/dns/pull/224) on [reactphp/dns](https://github.com/reactphp/dns) (today)
+- [[3.x] Improve PHP 8.4&#43; support by avoiding implicitly nullable types](https://github.com/reactphp/dns/pull/223) on [reactphp/dns](https://github.com/reactphp/dns) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-1e75d6425ed4e4aae7d5a75047e1095c from 1.1.4-0f0982c56c033e0a05c272552a6fbf83](https://github.com/php-api-clients/github-root/pull/1176) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHub] Update to 1.1.4-e19bc15f772c4b3caf0034592e8e59db from 1.1.4-4c2735d9a9f96c728ea6fe83fc500acd](https://github.com/php-api-clients/github-root/pull/1175) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [Emit shutdown event when job has finished](https://github.com/MammatusPHP/cron/pull/82) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 days ago)
@@ -75,8 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Pivot to generic deployments for split out queue workers](https://github.com/MammatusPHP/queue/pull/2) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
 - [Initial naive package setup](https://github.com/MammatusPHP/queue/pull/1) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
 - [Drop readonly from message](https://github.com/BBQueue/php-bunny/pull/2) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (4 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-0f0982c56c033e0a05c272552a6fbf83 from 1.1.4-7554ad7b532cd4af3a3f5eff505ec2bb](https://github.com/php-api-clients/github-root/pull/1174) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
-- [[GitHub] Update to 1.1.4-4c2735d9a9f96c728ea6fe83fc500acd from 1.1.4-4d0175f50c5e15e911018fc5f4b5fee8](https://github.com/php-api-clients/github-root/pull/1173) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 
 ---
 
