@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [travisghansen/node-red-contrib-kubernetes-client](https://github.com/travisghansen/node-red-contrib-kubernetes-client) - Node-RED node for interacting with Kubernetes clusters (today)
 - [ironsheep/lovelace-lightning-detector-card](https://github.com/ironsheep/lovelace-lightning-detector-card) - A Lightning Detection Display Card for Home Assistant Lovelace (1 day ago)
 - [mrk-its/homeassistant-blitzortung](https://github.com/mrk-its/homeassistant-blitzortung) - Custom Component for fetching lightning data from blitzortung.org (1 day ago)
 - [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) - A simple measure of dependency freshness (1 day ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [alexpusch/rust-magic-patterns](https://github.com/alexpusch/rust-magic-patterns) - Magical Rust patterns laid out and simplified (3 weeks ago)
 - [zalando/skipper](https://github.com/zalando/skipper) - An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress (3 weeks ago)
 - [jsonsystems/public](https://github.com/jsonsystems/public) -  (1 month ago)
-- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (1 month ago)
 
 ---
 
