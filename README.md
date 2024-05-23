@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [reactphp/event-loop](https://github.com/reactphp/event-loop) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [reactphp/promise](https://github.com/reactphp/promise) (today)
+- [reactphp/socket](https://github.com/reactphp/socket) (today)
 - [reactphp/async](https://github.com/reactphp/async) (1 day ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (3 days ago)
-- [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (3 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
+- [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (3 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (3 days ago)
 - [reactphp/dns](https://github.com/reactphp/dns) (4 days ago)
 - [reactphp/cache](https://github.com/reactphp/cache) (4 days ago)
-- [reactphp/stream](https://github.com/reactphp/stream) (4 days ago)
 
 ---
 
@@ -64,6 +64,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Try with empty exclude list 23/05/2024](https://github.com/WyriHaximusNet/docker-php/pull/246) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
+- [Build multi arch Docker image including arm64](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/159) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
 - [Initial version](https://github.com/WyriHaximus/php-tile-stitcher/pull/1) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
 - [[1.x] Improve PHP 8.4&#43; support by avoiding implicitly nullable types](https://github.com/reactphp/dns/pull/224) on [reactphp/dns](https://github.com/reactphp/dns) (1 day ago)
 - [[3.x] Improve PHP 8.4&#43; support by avoiding implicitly nullable types](https://github.com/reactphp/dns/pull/223) on [reactphp/dns](https://github.com/reactphp/dns) (1 day ago)
@@ -75,8 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Make app work](https://github.com/MammatusPHP/queue/pull/3) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
 - [Keep consume running and fill a local cache](https://github.com/BBQueue/php-bunny/pull/3) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (3 days ago)
 - [Bump to PHP8.2&#43;](https://github.com/WyriHaximus/HtmlCompress/pull/174) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (5 days ago)
-- [Pivot to generic deployments for split out queue workers](https://github.com/MammatusPHP/queue/pull/2) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (5 days ago)
-- [Initial naive package setup](https://github.com/MammatusPHP/queue/pull/1) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (5 days ago)
 
 ---
 
