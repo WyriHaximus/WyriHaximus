@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [reactphp/event-loop](https://github.com/reactphp/event-loop) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [reactphp/promise](https://github.com/reactphp/promise) (today)
-- [reactphp/event-loop](https://github.com/reactphp/event-loop) (today)
 - [reactphp/async](https://github.com/reactphp/async) (1 day ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (3 days ago)
-- [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (3 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
+- [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (3 days ago)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (3 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
+- [reactphp/stream](https://github.com/reactphp/stream) (4 days ago)
 - [reactphp/dns](https://github.com/reactphp/dns) (4 days ago)
 - [reactphp/cache](https://github.com/reactphp/cache) (4 days ago)
-- [reactphp/stream](https://github.com/reactphp/stream) (4 days ago)
 
 ---
 
