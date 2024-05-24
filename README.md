@@ -46,6 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [reactphp/promise](https://github.com/reactphp/promise) ([v3.2.0](https://github.com/reactphp/promise/releases/tag/v3.2.0), today) - Promises/A implementation for PHP.
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([6.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/6.1.0), 1 week ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) ([v2.0.3](https://github.com/WyriHaximus/github-action-composer.lock-diff/releases/tag/v2.0.3), 1 week ago) - GitHub Action that diffs composer.lock between current branch and default branch
 - [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) ([4.2.0](https://github.com/WyriHaximus/php-json-throwable/releases/tag/4.2.0), 2 weeks ago) - JSON encode and decode throwables and exceptions
@@ -58,7 +59,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) ([1.1.0](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter/releases/tag/1.1.0), 1 month ago) - 
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r45](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r45), 1 month ago) - 
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) ([2.0.0](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/releases/tag/2.0.0), 1 month ago) - Trait to run all tests in a fiber
-- [reactphp/http](https://github.com/reactphp/http) ([v1.10.0](https://github.com/reactphp/http/releases/tag/v1.10.0), 1 month ago) - Event-driven, streaming HTTP client and server implementation for ReactPHP.
 
 ---
 
