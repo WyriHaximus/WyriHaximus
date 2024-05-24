@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) - PHPStan extension to require minimal type-coverage (today)
 - [blobswop/dpd-php-api](https://github.com/blobswop/dpd-php-api) - PHP Wrapper for DPD Germany SOAP API (1 day ago)
 - [travisghansen/node-red-contrib-kubernetes-client](https://github.com/travisghansen/node-red-contrib-kubernetes-client) - Node-RED node for interacting with Kubernetes clusters (2 days ago)
 - [ironsheep/lovelace-lightning-detector-card](https://github.com/ironsheep/lovelace-lightning-detector-card) - A Lightning Detection Display Card for Home Assistant Lovelace (3 days ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [swarrot/swarrot](https://github.com/swarrot/swarrot) - A lib to consume message from any Broker (2 weeks ago)
 - [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (3 weeks ago)
 - [alexpusch/rust-magic-patterns](https://github.com/alexpusch/rust-magic-patterns) - Magical Rust patterns laid out and simplified (3 weeks ago)
-- [zalando/skipper](https://github.com/zalando/skipper) - An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress (4 weeks ago)
 
 ---
 
