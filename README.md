@@ -10,14 +10,14 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [reactphp/http](https://github.com/reactphp/http) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [reactphp/async](https://github.com/reactphp/async) (today)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
-- [reactphp/async](https://github.com/reactphp/async) (today)
+- [reactphp/http](https://github.com/reactphp/http) (today)
 - [reactphp/event-loop](https://github.com/reactphp/event-loop) (1 day ago)
 - [reactphp/socket](https://github.com/reactphp/socket) (1 day ago)
 - [reactphp/promise](https://github.com/reactphp/promise) (1 day ago)
@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [carvel-dev/kbld](https://github.com/carvel-dev/kbld) - kbld seamlessly incorporates image building and image pushing into your development and deployment workflows (today)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) - PHPStan extension to require minimal type-coverage (today)
 - [blobswop/dpd-php-api](https://github.com/blobswop/dpd-php-api) - PHP Wrapper for DPD Germany SOAP API (1 day ago)
 - [travisghansen/node-red-contrib-kubernetes-client](https://github.com/travisghansen/node-red-contrib-kubernetes-client) - Node-RED node for interacting with Kubernetes clusters (2 days ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [php-enqueue/enqueue-dev](https://github.com/php-enqueue/enqueue-dev) - Message Queue, Job Queue, Broadcasting, WebSockets packages for PHP, Symfony, Laravel, Magento. DEVELOPMENT REPOSITORY - provided by Forma-Pro (2 weeks ago)
 - [swarrot/swarrot](https://github.com/swarrot/swarrot) - A lib to consume message from any Broker (2 weeks ago)
 - [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (3 weeks ago)
-- [alexpusch/rust-magic-patterns](https://github.com/alexpusch/rust-magic-patterns) - Magical Rust patterns laid out and simplified (3 weeks ago)
 
 ---
 
