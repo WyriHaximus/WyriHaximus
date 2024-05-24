@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [reactphp/socket](https://github.com/reactphp/socket) (1 day ago)
-- [reactphp/event-loop](https://github.com/reactphp/event-loop) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
 - [reactphp/promise](https://github.com/reactphp/promise) (1 day ago)
+- [reactphp/event-loop](https://github.com/reactphp/event-loop) (1 day ago)
 - [reactphp/async](https://github.com/reactphp/async) (2 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (4 days ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
 - [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (4 days ago)
-- [reactphp/stream](https://github.com/reactphp/stream) (5 days ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
 - [reactphp/cache](https://github.com/reactphp/cache) (5 days ago)
+- [reactphp/stream](https://github.com/reactphp/stream) (5 days ago)
 
 ---
 
