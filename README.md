@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [reactphp/socket](https://github.com/reactphp/socket) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
-- [reactphp/promise](https://github.com/reactphp/promise) (today)
-- [reactphp/event-loop](https://github.com/reactphp/event-loop) (today)
-- [reactphp/async](https://github.com/reactphp/async) (1 day ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (3 days ago)
-- [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (3 days ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
-- [reactphp/cache](https://github.com/reactphp/cache) (4 days ago)
-- [reactphp/stream](https://github.com/reactphp/stream) (4 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [reactphp/socket](https://github.com/reactphp/socket) (1 day ago)
+- [reactphp/event-loop](https://github.com/reactphp/event-loop) (1 day ago)
+- [reactphp/promise](https://github.com/reactphp/promise) (1 day ago)
+- [reactphp/async](https://github.com/reactphp/async) (2 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (4 days ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
+- [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (4 days ago)
+- [reactphp/stream](https://github.com/reactphp/stream) (5 days ago)
+- [reactphp/cache](https://github.com/reactphp/cache) (5 days ago)
 
 ---
 
@@ -64,37 +64,37 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
-- [Try with empty exclude list 23/05/2024](https://github.com/WyriHaximusNet/docker-php/pull/246) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
-- [Build multi arch Docker image including arm64](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/159) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
-- [Initial version](https://github.com/WyriHaximus/php-tile-stitcher/pull/1) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
-- [[1.x] Improve PHP 8.4&#43; support by avoiding implicitly nullable types](https://github.com/reactphp/dns/pull/224) on [reactphp/dns](https://github.com/reactphp/dns) (1 day ago)
-- [[3.x] Improve PHP 8.4&#43; support by avoiding implicitly nullable types](https://github.com/reactphp/dns/pull/223) on [reactphp/dns](https://github.com/reactphp/dns) (1 day ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-1e75d6425ed4e4aae7d5a75047e1095c from 1.1.4-0f0982c56c033e0a05c272552a6fbf83](https://github.com/php-api-clients/github-root/pull/1176) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [[GitHub] Update to 1.1.4-e19bc15f772c4b3caf0034592e8e59db from 1.1.4-4c2735d9a9f96c728ea6fe83fc500acd](https://github.com/php-api-clients/github-root/pull/1175) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [Emit shutdown event when job has finished](https://github.com/MammatusPHP/cron/pull/82) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (3 days ago)
-- [App should close consumer on signals](https://github.com/MammatusPHP/queue/pull/4) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
-- [Implement Context::close](https://github.com/BBQueue/php-bunny/pull/4) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (3 days ago)
-- [Make app work](https://github.com/MammatusPHP/queue/pull/3) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
-- [Keep consume running and fill a local cache](https://github.com/BBQueue/php-bunny/pull/3) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (3 days ago)
-- [Bump to PHP8.2&#43;](https://github.com/WyriHaximus/HtmlCompress/pull/174) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (5 days ago)
+- [Try with empty exclude list 23/05/2024](https://github.com/WyriHaximusNet/docker-php/pull/246) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
+- [Build multi arch Docker image including arm64](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/159) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
+- [Initial version](https://github.com/WyriHaximus/php-tile-stitcher/pull/1) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (2 days ago)
+- [[1.x] Improve PHP 8.4&#43; support by avoiding implicitly nullable types](https://github.com/reactphp/dns/pull/224) on [reactphp/dns](https://github.com/reactphp/dns) (2 days ago)
+- [[3.x] Improve PHP 8.4&#43; support by avoiding implicitly nullable types](https://github.com/reactphp/dns/pull/223) on [reactphp/dns](https://github.com/reactphp/dns) (2 days ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-1e75d6425ed4e4aae7d5a75047e1095c from 1.1.4-0f0982c56c033e0a05c272552a6fbf83](https://github.com/php-api-clients/github-root/pull/1176) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
+- [[GitHub] Update to 1.1.4-e19bc15f772c4b3caf0034592e8e59db from 1.1.4-4c2735d9a9f96c728ea6fe83fc500acd](https://github.com/php-api-clients/github-root/pull/1175) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
+- [Emit shutdown event when job has finished](https://github.com/MammatusPHP/cron/pull/82) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (4 days ago)
+- [App should close consumer on signals](https://github.com/MammatusPHP/queue/pull/4) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
+- [Implement Context::close](https://github.com/BBQueue/php-bunny/pull/4) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (4 days ago)
+- [Make app work](https://github.com/MammatusPHP/queue/pull/3) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
+- [Keep consume running and fill a local cache](https://github.com/BBQueue/php-bunny/pull/3) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (4 days ago)
+- [Bump to PHP8.2&#43;](https://github.com/WyriHaximus/HtmlCompress/pull/174) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (6 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [blobswop/dpd-php-api](https://github.com/blobswop/dpd-php-api) - PHP Wrapper for DPD Germany SOAP API (today)
-- [travisghansen/node-red-contrib-kubernetes-client](https://github.com/travisghansen/node-red-contrib-kubernetes-client) - Node-RED node for interacting with Kubernetes clusters (1 day ago)
-- [ironsheep/lovelace-lightning-detector-card](https://github.com/ironsheep/lovelace-lightning-detector-card) - A Lightning Detection Display Card for Home Assistant Lovelace (2 days ago)
-- [mrk-its/homeassistant-blitzortung](https://github.com/mrk-its/homeassistant-blitzortung) - Custom Component for fetching lightning data from blitzortung.org (2 days ago)
-- [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) - A simple measure of dependency freshness (2 days ago)
-- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language (4 days ago)
-- [achetronic/predoxy](https://github.com/achetronic/predoxy) - A TCP proxy with middleware plugins to process the messages on-the-fly (6 days ago)
-- [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation (1 week ago)
+- [blobswop/dpd-php-api](https://github.com/blobswop/dpd-php-api) - PHP Wrapper for DPD Germany SOAP API (1 day ago)
+- [travisghansen/node-red-contrib-kubernetes-client](https://github.com/travisghansen/node-red-contrib-kubernetes-client) - Node-RED node for interacting with Kubernetes clusters (2 days ago)
+- [ironsheep/lovelace-lightning-detector-card](https://github.com/ironsheep/lovelace-lightning-detector-card) - A Lightning Detection Display Card for Home Assistant Lovelace (3 days ago)
+- [mrk-its/homeassistant-blitzortung](https://github.com/mrk-its/homeassistant-blitzortung) - Custom Component for fetching lightning data from blitzortung.org (3 days ago)
+- [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) - A simple measure of dependency freshness (3 days ago)
+- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language (5 days ago)
+- [achetronic/predoxy](https://github.com/achetronic/predoxy) - A TCP proxy with middleware plugins to process the messages on-the-fly (1 week ago)
+- [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation (2 weeks ago)
 - [php-enqueue/enqueue-dev](https://github.com/php-enqueue/enqueue-dev) - Message Queue, Job Queue, Broadcasting, WebSockets packages for PHP, Symfony, Laravel, Magento. DEVELOPMENT REPOSITORY - provided by Forma-Pro (2 weeks ago)
 - [swarrot/swarrot](https://github.com/swarrot/swarrot) - A lib to consume message from any Broker (2 weeks ago)
 - [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (3 weeks ago)
 - [alexpusch/rust-magic-patterns](https://github.com/alexpusch/rust-magic-patterns) - Magical Rust patterns laid out and simplified (3 weeks ago)
-- [zalando/skipper](https://github.com/zalando/skipper) - An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress (3 weeks ago)
+- [zalando/skipper](https://github.com/zalando/skipper) - An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress (4 weeks ago)
 
 ---
 
