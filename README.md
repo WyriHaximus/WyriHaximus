@@ -10,24 +10,25 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
+- [WyriHaximus/playground-github-action-mixed-js-docker](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker) (today)
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [reactphp/async](https://github.com/reactphp/async) (1 day ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
 - [reactphp/http](https://github.com/reactphp/http) (1 day ago)
-- [reactphp/event-loop](https://github.com/reactphp/event-loop) (2 days ago)
-- [reactphp/socket](https://github.com/reactphp/socket) (2 days ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
 - [reactphp/promise](https://github.com/reactphp/promise) (2 days ago)
+- [reactphp/socket](https://github.com/reactphp/socket) (2 days ago)
+- [reactphp/event-loop](https://github.com/reactphp/event-loop) (2 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (5 days ago)
 
 ---
 
 #### 🌱 My latest projects
 
+- [WyriHaximus/playground-github-action-mixed-js-docker](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker) - Playground to work on shared workflows
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) - 
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) - Trait to run all tests in a fiber
 - [WyriHaximus/php-metrics-prometheus-push-gateway](https://github.com/WyriHaximus/php-metrics-prometheus-push-gateway) - Prom Push Gateway package for wyrihaximus/metrics
@@ -40,7 +41,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up](https://github.com/WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up) - Auto hooking up ReactPHP&#39;s event loop to the RxPHP Async Schedular
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) - Shared GitHub Actions Workflows
 - [WyriHaximus/renovate-php-multiple-updates-possible](https://github.com/WyriHaximus/renovate-php-multiple-updates-possible) - 
-- [WyriHaximus/renovate-ignore-php-version](https://github.com/WyriHaximus/renovate-ignore-php-version) - 
 
 ---
 
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [GitHub Action Workflows](https://github.com/WyriHaximus/github-workflows/pull/29) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Add libyear](https://github.com/WyriHaximus/php-test-utilities/pull/907) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [Try with empty exclude list 23/05/2024](https://github.com/WyriHaximusNet/docker-php/pull/246) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 - [Build multi arch Docker image including arm64](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/159) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [App should close consumer on signals](https://github.com/MammatusPHP/queue/pull/4) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (5 days ago)
 - [Implement Context::close](https://github.com/BBQueue/php-bunny/pull/4) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (5 days ago)
 - [Make app work](https://github.com/MammatusPHP/queue/pull/3) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (5 days ago)
-- [Keep consume running and fill a local cache](https://github.com/BBQueue/php-bunny/pull/3) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (5 days ago)
 
 ---
 
