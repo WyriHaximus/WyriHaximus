@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[WIP] Add native types to public API](https://github.com/reactphp/dns/pull/225) on [reactphp/dns](https://github.com/reactphp/dns) (today)
 - [Switch to centralize workflow for release management](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/162) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
 - [GitHub Action Release Workflows (Docker &#43; Composit)](https://github.com/WyriHaximus/github-workflows/pull/29) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [Add libyear](https://github.com/WyriHaximus/php-test-utilities/pull/907) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-e19bc15f772c4b3caf0034592e8e59db from 1.1.4-4c2735d9a9f96c728ea6fe83fc500acd](https://github.com/php-api-clients/github-root/pull/1175) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [Emit shutdown event when job has finished](https://github.com/MammatusPHP/cron/pull/82) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 week ago)
 - [App should close consumer on signals](https://github.com/MammatusPHP/queue/pull/4) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 week ago)
-- [Implement Context::close](https://github.com/BBQueue/php-bunny/pull/4) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (1 week ago)
 
 ---
 
