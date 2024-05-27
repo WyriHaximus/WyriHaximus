@@ -64,6 +64,10 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Set basic prep for release commit message](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/164) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
+- [Set pre-release script](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/163) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
+- [Set Git actor before running pre-release script](https://github.com/WyriHaximus/github-workflows/pull/33) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [Add run shell before release](https://github.com/WyriHaximus/github-workflows/pull/32) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-041810bc991810fa97b34eae71cba9ac from 1.1.4-1e75d6425ed4e4aae7d5a75047e1095c](https://github.com/php-api-clients/github-root/pull/1178) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-6427e6326d9646fc1b49f1e1dcf2d9db from 1.1.4-e19bc15f772c4b3caf0034592e8e59db](https://github.com/php-api-clients/github-root/pull/1177) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Add native types to public API](https://github.com/reactphp/dns/pull/225) on [reactphp/dns](https://github.com/reactphp/dns) (today)
@@ -73,10 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Try with empty exclude list 23/05/2024](https://github.com/WyriHaximusNet/docker-php/pull/246) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
 - [Build multi arch Docker image including arm64](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/159) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (4 days ago)
 - [Initial version](https://github.com/WyriHaximus/php-tile-stitcher/pull/1) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (5 days ago)
-- [[1.x] Improve PHP 8.4&#43; support by avoiding implicitly nullable types](https://github.com/reactphp/dns/pull/224) on [reactphp/dns](https://github.com/reactphp/dns) (5 days ago)
-- [[3.x] Improve PHP 8.4&#43; support by avoiding implicitly nullable types](https://github.com/reactphp/dns/pull/223) on [reactphp/dns](https://github.com/reactphp/dns) (5 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-1e75d6425ed4e4aae7d5a75047e1095c from 1.1.4-0f0982c56c033e0a05c272552a6fbf83](https://github.com/php-api-clients/github-root/pull/1176) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [[GitHub] Update to 1.1.4-e19bc15f772c4b3caf0034592e8e59db from 1.1.4-4c2735d9a9f96c728ea6fe83fc500acd](https://github.com/php-api-clients/github-root/pull/1175) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
