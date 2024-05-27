@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [WyriHaximus/playground-github-action-mixed-js-docker](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (3 days ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (3 days ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
 - [reactphp/async](https://github.com/reactphp/async) (3 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (3 days ago)
 - [reactphp/http](https://github.com/reactphp/http) (3 days ago)
 - [reactphp/event-loop](https://github.com/reactphp/event-loop) (4 days ago)
-- [reactphp/promise](https://github.com/reactphp/promise) (4 days ago)
 - [reactphp/socket](https://github.com/reactphp/socket) (4 days ago)
 
 ---
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-041810bc991810fa97b34eae71cba9ac from 1.1.4-1e75d6425ed4e4aae7d5a75047e1095c](https://github.com/php-api-clients/github-root/pull/1178) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-6427e6326d9646fc1b49f1e1dcf2d9db from 1.1.4-e19bc15f772c4b3caf0034592e8e59db](https://github.com/php-api-clients/github-root/pull/1177) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Add native types to public API](https://github.com/reactphp/dns/pull/225) on [reactphp/dns](https://github.com/reactphp/dns) (today)
 - [Switch to centralize workflow for release management](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/162) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[3.x] Improve PHP 8.4&#43; support by avoiding implicitly nullable types](https://github.com/reactphp/dns/pull/223) on [reactphp/dns](https://github.com/reactphp/dns) (5 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-1e75d6425ed4e4aae7d5a75047e1095c from 1.1.4-0f0982c56c033e0a05c272552a6fbf83](https://github.com/php-api-clients/github-root/pull/1176) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHub] Update to 1.1.4-e19bc15f772c4b3caf0034592e8e59db from 1.1.4-4c2735d9a9f96c728ea6fe83fc500acd](https://github.com/php-api-clients/github-root/pull/1175) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [Emit shutdown event when job has finished](https://github.com/MammatusPHP/cron/pull/82) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 week ago)
 
 ---
 
