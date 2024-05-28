@@ -10,16 +10,16 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [WyriHaximus/playground-github-action-mixed-js-docker](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker) (today)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (4 days ago)
 - [reactphp/http](https://github.com/reactphp/http) (4 days ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (4 days ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (4 days ago)
 - [reactphp/async](https://github.com/reactphp/async) (4 days ago)
 - [reactphp/event-loop](https://github.com/reactphp/event-loop) (5 days ago)
@@ -64,6 +64,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Delegate creating the commit to the work flow](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/165) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
+- [All releasing jobs should use the same workflow](https://github.com/WyriHaximus/github-workflows/pull/34) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Crea pre](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker/pull/6) on [WyriHaximus/playground-github-action-mixed-js-docker](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker) (today)
 - [Set basic prep for release commit message](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/164) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
 - [Set pre-release script](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/163) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
@@ -75,13 +77,12 @@ All new major package releases will be in PHP 8.2
 - [Switch to centralize workflow for release management](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/162) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
 - [GitHub Action Release Workflows (Docker &#43; Composit)](https://github.com/WyriHaximus/github-workflows/pull/29) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
 - [Add libyear](https://github.com/WyriHaximus/php-test-utilities/pull/907) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
-- [Try with empty exclude list 23/05/2024](https://github.com/WyriHaximusNet/docker-php/pull/246) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
-- [Build multi arch Docker image including arm64](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/159) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (5 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
+- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases (today)
 - [chrissimpkins/Crunch](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization (2 days ago)
 - [AlexandrErohin/home-assistant-flightradar24](https://github.com/AlexandrErohin/home-assistant-flightradar24) - Flightradar24 integration for Home Assistant (3 days ago)
 - [carvel-dev/kbld](https://github.com/carvel-dev/kbld) - kbld seamlessly incorporates image building and image pushing into your development and deployment workflows (4 days ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language (1 week ago)
 - [achetronic/predoxy](https://github.com/achetronic/predoxy) - A TCP proxy with middleware plugins to process the messages on-the-fly (1 week ago)
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation (2 weeks ago)
-- [php-enqueue/enqueue-dev](https://github.com/php-enqueue/enqueue-dev) - Message Queue, Job Queue, Broadcasting, WebSockets packages for PHP, Symfony, Laravel, Magento. DEVELOPMENT REPOSITORY - provided by Forma-Pro (3 weeks ago)
 
 ---
 
@@ -116,11 +116,11 @@ All new major package releases will be in PHP 8.2
 
 #### 👯 Check out some of my recent followers
 
+- [aguinaldok4](https://github.com/aguinaldok4)
 - [smoench](https://github.com/smoench)
 - [Lukasss93](https://github.com/Lukasss93)
 - [michaelpetri](https://github.com/michaelpetri)
 - [halilcosdu](https://github.com/halilcosdu)
-- [decoderwhoami](https://github.com/decoderwhoami)
 
 ---
 
