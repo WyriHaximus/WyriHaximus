@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [osiemsiedem/intervention-image-vips-driver](https://github.com/osiemsiedem/intervention-image-vips-driver) - VIPS driver for Intervention Image. (today)
 - [toddcooke/namechecker](https://github.com/toddcooke/namechecker) - Find out if your project name is taken (today)
 - [custom-cards/stack-in-card](https://github.com/custom-cards/stack-in-card) - 🛠 group multiple cards into one card without the borders (today)
 - [ofekashery/vertical-stack-in-card](https://github.com/ofekashery/vertical-stack-in-card) - 📐 Home Assistant Card: Group multiple cards into a single sleek card. (today)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) - PHPStan extension to require minimal type-coverage (5 days ago)
 - [blobswop/dpd-php-api](https://github.com/blobswop/dpd-php-api) - PHP Wrapper for DPD Germany SOAP API (6 days ago)
 - [travisghansen/node-red-contrib-kubernetes-client](https://github.com/travisghansen/node-red-contrib-kubernetes-client) - Node-RED node for interacting with Kubernetes clusters (1 week ago)
-- [ironsheep/lovelace-lightning-detector-card](https://github.com/ironsheep/lovelace-lightning-detector-card) - A Lightning Detection Display Card for Home Assistant Lovelace (1 week ago)
 
 ---
 
