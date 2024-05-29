@@ -82,6 +82,10 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [toddcooke/namechecker](https://github.com/toddcooke/namechecker) - Find out if your project name is taken (today)
+- [custom-cards/stack-in-card](https://github.com/custom-cards/stack-in-card) - 🛠 group multiple cards into one card without the borders (today)
+- [ofekashery/vertical-stack-in-card](https://github.com/ofekashery/vertical-stack-in-card) - 📐 Home Assistant Card: Group multiple cards into a single sleek card. (today)
+- [jcwillox/lovelace-canary](https://github.com/jcwillox/lovelace-canary) - 🐤 Adds many useful extensions to lovelace, such as templating secondary info, stacking within a card and more! (today)
 - [cspray/assert-throws](https://github.com/cspray/assert-throws) - A library for testing complex exceptions (1 day ago)
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases (1 day ago)
 - [chrissimpkins/Crunch](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization (3 days ago)
@@ -91,10 +95,6 @@ All new major package releases will be in PHP 8.2
 - [blobswop/dpd-php-api](https://github.com/blobswop/dpd-php-api) - PHP Wrapper for DPD Germany SOAP API (6 days ago)
 - [travisghansen/node-red-contrib-kubernetes-client](https://github.com/travisghansen/node-red-contrib-kubernetes-client) - Node-RED node for interacting with Kubernetes clusters (1 week ago)
 - [ironsheep/lovelace-lightning-detector-card](https://github.com/ironsheep/lovelace-lightning-detector-card) - A Lightning Detection Display Card for Home Assistant Lovelace (1 week ago)
-- [mrk-its/homeassistant-blitzortung](https://github.com/mrk-its/homeassistant-blitzortung) - Custom Component for fetching lightning data from blitzortung.org (1 week ago)
-- [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) - A simple measure of dependency freshness (1 week ago)
-- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language (1 week ago)
-- [achetronic/predoxy](https://github.com/achetronic/predoxy) - A TCP proxy with middleware plugins to process the messages on-the-fly (1 week ago)
 
 ---
 
