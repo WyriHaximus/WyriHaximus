@@ -82,6 +82,8 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to install QEMU static binaries (today)
+- [uraimo/run-on-arch-action](https://github.com/uraimo/run-on-arch-action) - A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le, riscv64) via QEMU (today)
 - [osiemsiedem/intervention-image-vips-driver](https://github.com/osiemsiedem/intervention-image-vips-driver) - VIPS driver for Intervention Image. (today)
 - [toddcooke/namechecker](https://github.com/toddcooke/namechecker) - Find out if your project name is taken (today)
 - [custom-cards/stack-in-card](https://github.com/custom-cards/stack-in-card) - 🛠 group multiple cards into one card without the borders (today)
@@ -93,8 +95,6 @@ All new major package releases will be in PHP 8.2
 - [AlexandrErohin/home-assistant-flightradar24](https://github.com/AlexandrErohin/home-assistant-flightradar24) - Flightradar24 integration for Home Assistant (4 days ago)
 - [carvel-dev/kbld](https://github.com/carvel-dev/kbld) - kbld seamlessly incorporates image building and image pushing into your development and deployment workflows (5 days ago)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) - PHPStan extension to require minimal type-coverage (5 days ago)
-- [blobswop/dpd-php-api](https://github.com/blobswop/dpd-php-api) - PHP Wrapper for DPD Germany SOAP API (6 days ago)
-- [travisghansen/node-red-contrib-kubernetes-client](https://github.com/travisghansen/node-red-contrib-kubernetes-client) - Node-RED node for interacting with Kubernetes clusters (1 week ago)
 
 ---
 
