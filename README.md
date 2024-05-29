@@ -12,17 +12,17 @@ All new major package releases will be in PHP 8.2
 
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [WyriHaximus/playground-github-action-mixed-js-docker](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker) (1 day ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (5 days ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
+- [reactphp/async](https://github.com/reactphp/async) (5 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (5 days ago)
 - [reactphp/http](https://github.com/reactphp/http) (5 days ago)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (5 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
-- [reactphp/async](https://github.com/reactphp/async) (5 days ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
-- [reactphp/socket](https://github.com/reactphp/socket) (6 days ago)
+- [reactphp/event-loop](https://github.com/reactphp/event-loop) (6 days ago)
 
 ---
 
