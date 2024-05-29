@@ -64,6 +64,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-181d82ce3b7753835a4af0989c215e5c from 1.1.4-d61670a493c4eff3a04ce0deec100fb7](https://github.com/php-api-clients/github-root/pull/1182) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [[GitHub] Update to 1.1.4-7b81f53085c7eb703517cc9edd6bed5e from 1.1.4-eb75ba12b8f78ce6cf7e307635ad5f13](https://github.com/php-api-clients/github-root/pull/1181) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-d61670a493c4eff3a04ce0deec100fb7 from 1.1.4-041810bc991810fa97b34eae71cba9ac](https://github.com/php-api-clients/github-root/pull/1180) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-eb75ba12b8f78ce6cf7e307635ad5f13 from 1.1.4-6427e6326d9646fc1b49f1e1dcf2d9db](https://github.com/php-api-clients/github-root/pull/1179) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Delegate creating the commit to the work flow](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/165) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
@@ -75,8 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Add run shell before release](https://github.com/WyriHaximus/github-workflows/pull/32) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-041810bc991810fa97b34eae71cba9ac from 1.1.4-1e75d6425ed4e4aae7d5a75047e1095c](https://github.com/php-api-clients/github-root/pull/1178) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHub] Update to 1.1.4-6427e6326d9646fc1b49f1e1dcf2d9db from 1.1.4-e19bc15f772c4b3caf0034592e8e59db](https://github.com/php-api-clients/github-root/pull/1177) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [Add native types to public API](https://github.com/reactphp/dns/pull/225) on [reactphp/dns](https://github.com/reactphp/dns) (2 days ago)
-- [Switch to centralize workflow for release management](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/162) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (2 days ago)
 
 ---
 
