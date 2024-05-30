@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (today)
+- [WyriHaximus/github-action-jwage-changelog-generator](https://github.com/WyriHaximus/github-action-jwage-changelog-generator) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (2 days ago)
 - [WyriHaximus/playground-github-action-mixed-js-docker](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker) (2 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (6 days ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (6 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (6 days ago)
 - [reactphp/async](https://github.com/reactphp/async) (6 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (6 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (6 days ago)
 - [reactphp/http](https://github.com/reactphp/http) (6 days ago)
-- [reactphp/event-loop](https://github.com/reactphp/event-loop) (1 week ago)
 
 ---
 
@@ -64,6 +64,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Build ARM64 images](https://github.com/WyriHaximus/github-action-jwage-changelog-generator/pull/54) on [WyriHaximus/github-action-jwage-changelog-generator](https://github.com/WyriHaximus/github-action-jwage-changelog-generator) (today)
+- [Switch to centralised workflow for release management](https://github.com/WyriHaximus/github-action-jwage-changelog-generator/pull/53) on [WyriHaximus/github-action-jwage-changelog-generator](https://github.com/WyriHaximus/github-action-jwage-changelog-generator) (today)
 - [Use intervention/image for image operations](https://github.com/WyriHaximus/php-tile-stitcher/pull/5) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-181d82ce3b7753835a4af0989c215e5c from 1.1.4-d61670a493c4eff3a04ce0deec100fb7](https://github.com/php-api-clients/github-root/pull/1182) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-7b81f53085c7eb703517cc9edd6bed5e from 1.1.4-eb75ba12b8f78ce6cf7e307635ad5f13](https://github.com/php-api-clients/github-root/pull/1181) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -75,8 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Set basic prep for release commit message](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/164) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (3 days ago)
 - [Set pre-release script](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/163) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (3 days ago)
 - [Set Git actor before running pre-release script](https://github.com/WyriHaximus/github-workflows/pull/33) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
-- [Add run shell before release](https://github.com/WyriHaximus/github-workflows/pull/32) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-041810bc991810fa97b34eae71cba9ac from 1.1.4-1e75d6425ed4e4aae7d5a75047e1095c](https://github.com/php-api-clients/github-root/pull/1178) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 
 ---
 
