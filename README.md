@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
-- [WyriHaximus/playground-github-action-mixed-js-docker](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker) (1 day ago)
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (5 days ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
-- [reactphp/async](https://github.com/reactphp/async) (5 days ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (5 days ago)
-- [reactphp/http](https://github.com/reactphp/http) (5 days ago)
-- [reactphp/event-loop](https://github.com/reactphp/event-loop) (6 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (2 days ago)
+- [WyriHaximus/playground-github-action-mixed-js-docker](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker) (2 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
+- [reactphp/http](https://github.com/reactphp/http) (6 days ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (6 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (6 days ago)
+- [reactphp/async](https://github.com/reactphp/async) (6 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (6 days ago)
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (6 days ago)
+- [reactphp/socket](https://github.com/reactphp/socket) (1 week ago)
 
 ---
 
@@ -46,10 +46,10 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/playground-github-action-mixed-js-docker](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker) ([v1.3.0](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker/releases/tag/v1.3.0), 1 day ago) - Playground to work on shared workflows
-- [reactphp/promise](https://github.com/reactphp/promise) ([v3.2.0](https://github.com/reactphp/promise/releases/tag/v3.2.0), 5 days ago) - Promises/A implementation for PHP.
+- [WyriHaximus/playground-github-action-mixed-js-docker](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker) ([v1.3.0](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker/releases/tag/v1.3.0), 2 days ago) - Playground to work on shared workflows
+- [reactphp/promise](https://github.com/reactphp/promise) ([v3.2.0](https://github.com/reactphp/promise/releases/tag/v3.2.0), 6 days ago) - Promises/A implementation for PHP.
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([6.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/6.1.0), 2 weeks ago) - 🌯 PHPStan rules wrapper
-- [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) ([4.2.0](https://github.com/WyriHaximus/php-json-throwable/releases/tag/4.2.0), 2 weeks ago) - JSON encode and decode throwables and exceptions
+- [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) ([4.2.0](https://github.com/WyriHaximus/php-json-throwable/releases/tag/4.2.0), 3 weeks ago) - JSON encode and decode throwables and exceptions
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.8.43](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.43), 3 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([6.0.7](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.7), 1 month ago) - 
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([8.0.4](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/8.0.4), 1 month ago) - 
@@ -64,37 +64,37 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
-- [[GitHubEnterpriseCloud] Update to 1.1.4-181d82ce3b7753835a4af0989c215e5c from 1.1.4-d61670a493c4eff3a04ce0deec100fb7](https://github.com/php-api-clients/github-root/pull/1182) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [[GitHub] Update to 1.1.4-7b81f53085c7eb703517cc9edd6bed5e from 1.1.4-eb75ba12b8f78ce6cf7e307635ad5f13](https://github.com/php-api-clients/github-root/pull/1181) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-d61670a493c4eff3a04ce0deec100fb7 from 1.1.4-041810bc991810fa97b34eae71cba9ac](https://github.com/php-api-clients/github-root/pull/1180) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [[GitHub] Update to 1.1.4-eb75ba12b8f78ce6cf7e307635ad5f13 from 1.1.4-6427e6326d9646fc1b49f1e1dcf2d9db](https://github.com/php-api-clients/github-root/pull/1179) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [Delegate creating the commit to the work flow](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/165) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
-- [All releasing jobs should use the same workflow](https://github.com/WyriHaximus/github-workflows/pull/34) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
-- [Crea pre](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker/pull/6) on [WyriHaximus/playground-github-action-mixed-js-docker](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker) (1 day ago)
-- [Set basic prep for release commit message](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/164) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (2 days ago)
-- [Set pre-release script](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/163) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (2 days ago)
-- [Set Git actor before running pre-release script](https://github.com/WyriHaximus/github-workflows/pull/33) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
-- [Add run shell before release](https://github.com/WyriHaximus/github-workflows/pull/32) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-041810bc991810fa97b34eae71cba9ac from 1.1.4-1e75d6425ed4e4aae7d5a75047e1095c](https://github.com/php-api-clients/github-root/pull/1178) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [[GitHub] Update to 1.1.4-6427e6326d9646fc1b49f1e1dcf2d9db from 1.1.4-e19bc15f772c4b3caf0034592e8e59db](https://github.com/php-api-clients/github-root/pull/1177) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-181d82ce3b7753835a4af0989c215e5c from 1.1.4-d61670a493c4eff3a04ce0deec100fb7](https://github.com/php-api-clients/github-root/pull/1182) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [[GitHub] Update to 1.1.4-7b81f53085c7eb703517cc9edd6bed5e from 1.1.4-eb75ba12b8f78ce6cf7e307635ad5f13](https://github.com/php-api-clients/github-root/pull/1181) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-d61670a493c4eff3a04ce0deec100fb7 from 1.1.4-041810bc991810fa97b34eae71cba9ac](https://github.com/php-api-clients/github-root/pull/1180) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [[GitHub] Update to 1.1.4-eb75ba12b8f78ce6cf7e307635ad5f13 from 1.1.4-6427e6326d9646fc1b49f1e1dcf2d9db](https://github.com/php-api-clients/github-root/pull/1179) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [Delegate creating the commit to the work flow](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/165) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (2 days ago)
+- [All releasing jobs should use the same workflow](https://github.com/WyriHaximus/github-workflows/pull/34) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
+- [Crea pre](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker/pull/6) on [WyriHaximus/playground-github-action-mixed-js-docker](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker) (2 days ago)
+- [Set basic prep for release commit message](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/164) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (3 days ago)
+- [Set pre-release script](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/163) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (3 days ago)
+- [Set Git actor before running pre-release script](https://github.com/WyriHaximus/github-workflows/pull/33) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
+- [Add run shell before release](https://github.com/WyriHaximus/github-workflows/pull/32) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-041810bc991810fa97b34eae71cba9ac from 1.1.4-1e75d6425ed4e4aae7d5a75047e1095c](https://github.com/php-api-clients/github-root/pull/1178) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
+- [[GitHub] Update to 1.1.4-6427e6326d9646fc1b49f1e1dcf2d9db from 1.1.4-e19bc15f772c4b3caf0034592e8e59db](https://github.com/php-api-clients/github-root/pull/1177) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to install QEMU static binaries (today)
-- [uraimo/run-on-arch-action](https://github.com/uraimo/run-on-arch-action) - A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le, riscv64) via QEMU (today)
-- [osiemsiedem/intervention-image-vips-driver](https://github.com/osiemsiedem/intervention-image-vips-driver) - VIPS driver for Intervention Image. (today)
-- [toddcooke/namechecker](https://github.com/toddcooke/namechecker) - Find out if your project name is taken (today)
-- [custom-cards/stack-in-card](https://github.com/custom-cards/stack-in-card) - 🛠 group multiple cards into one card without the borders (today)
-- [ofekashery/vertical-stack-in-card](https://github.com/ofekashery/vertical-stack-in-card) - 📐 Home Assistant Card: Group multiple cards into a single sleek card. (today)
-- [jcwillox/lovelace-canary](https://github.com/jcwillox/lovelace-canary) - 🐤 Adds many useful extensions to lovelace, such as templating secondary info, stacking within a card and more! (today)
-- [cspray/assert-throws](https://github.com/cspray/assert-throws) - A library for testing complex exceptions (1 day ago)
-- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases (1 day ago)
-- [chrissimpkins/Crunch](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization (3 days ago)
-- [AlexandrErohin/home-assistant-flightradar24](https://github.com/AlexandrErohin/home-assistant-flightradar24) - Flightradar24 integration for Home Assistant (4 days ago)
-- [carvel-dev/kbld](https://github.com/carvel-dev/kbld) - kbld seamlessly incorporates image building and image pushing into your development and deployment workflows (5 days ago)
-- [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) - PHPStan extension to require minimal type-coverage (5 days ago)
+- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to install QEMU static binaries (1 day ago)
+- [uraimo/run-on-arch-action](https://github.com/uraimo/run-on-arch-action) - A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le, riscv64) via QEMU (1 day ago)
+- [osiemsiedem/intervention-image-vips-driver](https://github.com/osiemsiedem/intervention-image-vips-driver) - VIPS driver for Intervention Image. (1 day ago)
+- [toddcooke/namechecker](https://github.com/toddcooke/namechecker) - Find out if your project name is taken (1 day ago)
+- [custom-cards/stack-in-card](https://github.com/custom-cards/stack-in-card) - 🛠 group multiple cards into one card without the borders (1 day ago)
+- [ofekashery/vertical-stack-in-card](https://github.com/ofekashery/vertical-stack-in-card) - 📐 Home Assistant Card: Group multiple cards into a single sleek card. (1 day ago)
+- [jcwillox/lovelace-canary](https://github.com/jcwillox/lovelace-canary) - 🐤 Adds many useful extensions to lovelace, such as templating secondary info, stacking within a card and more! (1 day ago)
+- [cspray/assert-throws](https://github.com/cspray/assert-throws) - A library for testing complex exceptions (2 days ago)
+- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases (2 days ago)
+- [chrissimpkins/Crunch](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization (4 days ago)
+- [AlexandrErohin/home-assistant-flightradar24](https://github.com/AlexandrErohin/home-assistant-flightradar24) - Flightradar24 integration for Home Assistant (5 days ago)
+- [carvel-dev/kbld](https://github.com/carvel-dev/kbld) - kbld seamlessly incorporates image building and image pushing into your development and deployment workflows (6 days ago)
+- [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) - PHPStan extension to require minimal type-coverage (6 days ago)
 
 ---
 
