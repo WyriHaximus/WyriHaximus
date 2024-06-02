@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [WyriHaximus/github-action-jwage-changelog-generator](https://github.com/WyriHaximus/github-action-jwage-changelog-generator) (1 day ago)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (2 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (2 days ago)
 - [reactphp/socket](https://github.com/reactphp/socket) (2 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
 - [WyriHaximus/playground-github-action-mixed-js-docker](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker) (5 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (5 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
+- [reactphp/http](https://github.com/reactphp/http) (1 week ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
-- [reactphp/async](https://github.com/reactphp/async) (1 week ago)
 
 ---
 
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Fix: github-action-craft-release.yaml](https://github.com/WyriHaximus/github-workflows/pull/35) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Switch to returning generate image as string](https://github.com/WyriHaximus/php-tile-stitcher/pull/8) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (2 days ago)
 - [Simplify Map bounds calculation](https://github.com/WyriHaximus/php-tile-stitcher/pull/7) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (2 days ago)
 - [Build ARM64 images](https://github.com/WyriHaximus/github-action-jwage-changelog-generator/pull/54) on [WyriHaximus/github-action-jwage-changelog-generator](https://github.com/WyriHaximus/github-action-jwage-changelog-generator) (3 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Delegate creating the commit to the work flow](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/165) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (5 days ago)
 - [All releasing jobs should use the same workflow](https://github.com/WyriHaximus/github-workflows/pull/34) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
 - [Crea pre](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker/pull/6) on [WyriHaximus/playground-github-action-mixed-js-docker](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker) (5 days ago)
-- [Set basic prep for release commit message](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/164) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (6 days ago)
 
 ---
 
