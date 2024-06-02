@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (today)
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (today)
 - [WyriHaximus/github-action-jwage-changelog-generator](https://github.com/WyriHaximus/github-action-jwage-changelog-generator) (1 day ago)
-- [reactphp/socket](https://github.com/reactphp/socket) (2 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
+- [reactphp/socket](https://github.com/reactphp/socket) (2 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (5 days ago)
 - [WyriHaximus/playground-github-action-mixed-js-docker](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker) (5 days ago)
-- [reactphp/async](https://github.com/reactphp/async) (1 week ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (5 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
+- [reactphp/http](https://github.com/reactphp/http) (1 week ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
 
 ---
 
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Introduce Loader(Interface) for I/O deferring](https://github.com/WyriHaximus/php-tile-stitcher/pull/9) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (today)
 - [k9s home cluster posts photos June 2024 batch](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/193) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
 - [Fix: github-action-craft-release.yaml](https://github.com/WyriHaximus/github-workflows/pull/35) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Switch to returning generate image as string](https://github.com/WyriHaximus/php-tile-stitcher/pull/8) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-d61670a493c4eff3a04ce0deec100fb7 from 1.1.4-041810bc991810fa97b34eae71cba9ac](https://github.com/php-api-clients/github-root/pull/1180) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHub] Update to 1.1.4-eb75ba12b8f78ce6cf7e307635ad5f13 from 1.1.4-6427e6326d9646fc1b49f1e1dcf2d9db](https://github.com/php-api-clients/github-root/pull/1179) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [Delegate creating the commit to the work flow](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/165) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (5 days ago)
-- [All releasing jobs should use the same workflow](https://github.com/WyriHaximus/github-workflows/pull/34) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
 
 ---
 
