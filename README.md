@@ -46,6 +46,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [reactphp/async](https://github.com/reactphp/async) ([v4.3.0](https://github.com/reactphp/async/releases/tag/v4.3.0), today) - Async utilities and fibers for ReactPHP.
+- [reactphp/promise-timer](https://github.com/reactphp/promise-timer) ([v1.11.0](https://github.com/reactphp/promise-timer/releases/tag/v1.11.0), today) - A trivial implementation of timeouts for Promises, built on top of ReactPHP.
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r46](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r46), 2 days ago) - 
 - [WyriHaximus/playground-github-action-mixed-js-docker](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker) ([v1.3.0](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker/releases/tag/v1.3.0), 1 week ago) - Playground to work on shared workflows
 - [reactphp/promise](https://github.com/reactphp/promise) ([v3.2.0](https://github.com/reactphp/promise/releases/tag/v3.2.0), 1 week ago) - Promises/A implementation for PHP.
@@ -57,8 +59,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) ([3.1.0](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body/releases/tag/3.1.0), 1 month ago) - 
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2024.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.1), 1 month ago) - PHP runtime &amp; extensions header files for PhpStorm
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) ([5.0.0](https://github.com/WyriHaximus/reactphp-cron/releases/tag/5.0.0), 1 month ago) - Cronlike scheduler running inside a ReactPHP Event Loop
-- [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) ([1.1.0](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter/releases/tag/1.1.0), 2 months ago) - 
-- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) ([2.0.0](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/releases/tag/2.0.0), 2 months ago) - Trait to run all tests in a fiber
 
 ---
 
@@ -82,6 +82,8 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [luau-lang/luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua (today)
+- [LadybirdWebBrowser/ladybird](https://github.com/LadybirdWebBrowser/ladybird) - Truly independent web browser (today)
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (4 days ago)
 - [dream-num/univer](https://github.com/dream-num/univer) - Univer is an open-source alternative to Google Sheets, Slides, and Docs (4 days ago)
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks (5 days ago)
@@ -93,8 +95,6 @@ All new major package releases will be in PHP 8.2
 - [ofekashery/vertical-stack-in-card](https://github.com/ofekashery/vertical-stack-in-card) - 📐 Home Assistant Card: Group multiple cards into a single sleek card. (6 days ago)
 - [jcwillox/lovelace-canary](https://github.com/jcwillox/lovelace-canary) - 🐤 Adds many useful extensions to lovelace, such as templating secondary info, stacking within a card and more! (6 days ago)
 - [cspray/assert-throws](https://github.com/cspray/assert-throws) - A library for testing complex exceptions (1 week ago)
-- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases (1 week ago)
-- [chrissimpkins/Crunch](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization (1 week ago)
 
 ---
 
