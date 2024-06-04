@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-30445c941a97be3bcb4ba3b3bae9e8f3 from 1.1.4-165dc4edaf3899f8fa74f18ab70adbb6](https://github.com/php-api-clients/github-root/pull/1186) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[New Version] Update versions file to PHP 8.3.8](https://github.com/WyriHaximus/php-fake-php-version/pull/115) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-9ba395332ab1fb03d596ca95c67b1ffc from 1.1.4-181d82ce3b7753835a4af0989c215e5c](https://github.com/php-api-clients/github-root/pull/1184) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-165dc4edaf3899f8fa74f18ab70adbb6 from 1.1.4-7b81f53085c7eb703517cc9edd6bed5e](https://github.com/php-api-clients/github-root/pull/1183) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -76,12 +77,12 @@ All new major package releases will be in PHP 8.2
 - [Switch to centralised workflow for release management](https://github.com/WyriHaximus/github-action-jwage-changelog-generator/pull/53) on [WyriHaximus/github-action-jwage-changelog-generator](https://github.com/WyriHaximus/github-action-jwage-changelog-generator) (5 days ago)
 - [Use intervention/image for image operations](https://github.com/WyriHaximus/php-tile-stitcher/pull/5) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (5 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-181d82ce3b7753835a4af0989c215e5c from 1.1.4-d61670a493c4eff3a04ce0deec100fb7](https://github.com/php-api-clients/github-root/pull/1182) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
-- [[GitHub] Update to 1.1.4-7b81f53085c7eb703517cc9edd6bed5e from 1.1.4-eb75ba12b8f78ce6cf7e307635ad5f13](https://github.com/php-api-clients/github-root/pull/1181) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
+- [flavioheleno/php-active-releases-action](https://github.com/flavioheleno/php-active-releases-action) - This action retrieves a list of active PHP Releases (today)
 - [luau-lang/luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua (today)
 - [LadybirdWebBrowser/ladybird](https://github.com/LadybirdWebBrowser/ladybird) - Truly independent web browser (today)
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (4 days ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [custom-cards/stack-in-card](https://github.com/custom-cards/stack-in-card) - 🛠 group multiple cards into one card without the borders (6 days ago)
 - [ofekashery/vertical-stack-in-card](https://github.com/ofekashery/vertical-stack-in-card) - 📐 Home Assistant Card: Group multiple cards into a single sleek card. (6 days ago)
 - [jcwillox/lovelace-canary](https://github.com/jcwillox/lovelace-canary) - 🐤 Adds many useful extensions to lovelace, such as templating secondary info, stacking within a card and more! (6 days ago)
-- [cspray/assert-throws](https://github.com/cspray/assert-throws) - A library for testing complex exceptions (1 week ago)
 
 ---
 
