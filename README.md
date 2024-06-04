@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-161166e01fd79918e39c52792abbb175 from 1.1.4-9ba395332ab1fb03d596ca95c67b1ffc](https://github.com/php-api-clients/github-root/pull/1187) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-30445c941a97be3bcb4ba3b3bae9e8f3 from 1.1.4-165dc4edaf3899f8fa74f18ab70adbb6](https://github.com/php-api-clients/github-root/pull/1186) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[New Version] Update versions file to PHP 8.3.8](https://github.com/WyriHaximus/php-fake-php-version/pull/115) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-9ba395332ab1fb03d596ca95c67b1ffc from 1.1.4-181d82ce3b7753835a4af0989c215e5c](https://github.com/php-api-clients/github-root/pull/1184) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Build ARM64 images](https://github.com/WyriHaximus/github-action-jwage-changelog-generator/pull/54) on [WyriHaximus/github-action-jwage-changelog-generator](https://github.com/WyriHaximus/github-action-jwage-changelog-generator) (5 days ago)
 - [Switch to centralised workflow for release management](https://github.com/WyriHaximus/github-action-jwage-changelog-generator/pull/53) on [WyriHaximus/github-action-jwage-changelog-generator](https://github.com/WyriHaximus/github-action-jwage-changelog-generator) (5 days ago)
 - [Use intervention/image for image operations](https://github.com/WyriHaximus/php-tile-stitcher/pull/5) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (5 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-181d82ce3b7753835a4af0989c215e5c from 1.1.4-d61670a493c4eff3a04ce0deec100fb7](https://github.com/php-api-clients/github-root/pull/1182) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 
 ---
 
