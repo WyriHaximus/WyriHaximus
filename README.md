@@ -11,11 +11,11 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [reactphp/cache](https://github.com/reactphp/cache) (1 day ago)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
-- [reactphp/http](https://github.com/reactphp/http) (1 day ago)
 - [reactphp/stream](https://github.com/reactphp/stream) (1 day ago)
+- [reactphp/http](https://github.com/reactphp/http) (1 day ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
+- [reactphp/cache](https://github.com/reactphp/cache) (1 day ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (2 days ago)
 - [WyriHaximus/github-action-jwage-changelog-generator](https://github.com/WyriHaximus/github-action-jwage-changelog-generator) (3 days ago)
