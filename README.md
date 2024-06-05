@@ -64,6 +64,12 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.6] Update to 1.1.4-34d12e9c9f557d2d2977464d5cd49398 from 1.1.4-34d12e9c9f557d2d2977464d5cd49398](https://github.com/php-api-clients/github-root/pull/1194) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [[GitHubEnterprise-3.5] Update to 1.1.4-a21d39699884865a10804a02a66c5b60 from 1.1.4-a21d39699884865a10804a02a66c5b60](https://github.com/php-api-clients/github-root/pull/1193) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [[GitHubEnterprise-3.4] Update to 1.1.4-8491d07e4903341efa2424ac8af7c5ec from 1.1.4-8491d07e4903341efa2424ac8af7c5ec](https://github.com/php-api-clients/github-root/pull/1192) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [[GitHubEnterprise-3.1] Update to 1.1.4-defb420907f5c36a22e1584342e0e531 from 1.1.4-defb420907f5c36a22e1584342e0e531](https://github.com/php-api-clients/github-root/pull/1191) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [[GitHubEnterprise-3.3] Update to 1.1.4-1e26e0dd1e96061fd9e8934a7a019705 from 1.1.4-1e26e0dd1e96061fd9e8934a7a019705](https://github.com/php-api-clients/github-root/pull/1190) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [[GitHubEnterprise-3.2] Update to 1.1.4-cc0f6d8c98886b66f1e16372f632e7d8 from 1.1.4-cc0f6d8c98886b66f1e16372f632e7d8](https://github.com/php-api-clients/github-root/pull/1189) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.0] Update to 1.1.4-3e0a7810d254da4d26f0002e587eb763 from 1.1.4-3e0a7810d254da4d26f0002e587eb763](https://github.com/php-api-clients/github-root/pull/1188) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-161166e01fd79918e39c52792abbb175 from 1.1.4-9ba395332ab1fb03d596ca95c67b1ffc](https://github.com/php-api-clients/github-root/pull/1187) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-30445c941a97be3bcb4ba3b3bae9e8f3 from 1.1.4-165dc4edaf3899f8fa74f18ab70adbb6](https://github.com/php-api-clients/github-root/pull/1186) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -71,12 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-9ba395332ab1fb03d596ca95c67b1ffc from 1.1.4-181d82ce3b7753835a4af0989c215e5c](https://github.com/php-api-clients/github-root/pull/1184) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHub] Update to 1.1.4-165dc4edaf3899f8fa74f18ab70adbb6 from 1.1.4-7b81f53085c7eb703517cc9edd6bed5e](https://github.com/php-api-clients/github-root/pull/1183) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [Introduce Loader(Interface) for I/O deferring](https://github.com/WyriHaximus/php-tile-stitcher/pull/9) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (3 days ago)
-- [k9s home cluster posts photos June 2024 batch](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/193) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (3 days ago)
-- [Fix: github-action-craft-release.yaml](https://github.com/WyriHaximus/github-workflows/pull/35) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
-- [Switch to returning generate image as string](https://github.com/WyriHaximus/php-tile-stitcher/pull/8) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (5 days ago)
-- [Simplify Map bounds calculation](https://github.com/WyriHaximus/php-tile-stitcher/pull/7) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (5 days ago)
-- [Build ARM64 images](https://github.com/WyriHaximus/github-action-jwage-changelog-generator/pull/54) on [WyriHaximus/github-action-jwage-changelog-generator](https://github.com/WyriHaximus/github-action-jwage-changelog-generator) (6 days ago)
-- [Switch to centralised workflow for release management](https://github.com/WyriHaximus/github-action-jwage-changelog-generator/pull/53) on [WyriHaximus/github-action-jwage-changelog-generator](https://github.com/WyriHaximus/github-action-jwage-changelog-generator) (6 days ago)
 
 ---
 
