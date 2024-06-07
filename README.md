@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [xaitax/TotalRecall](https://github.com/xaitax/TotalRecall) - This tool extracts and displays data from the Recall feature in Windows 11, providing an easy way to access information about your PC&#39;s activity snapshots. (today)
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD. (2 days ago)
 - [flavioheleno/php-active-releases-action](https://github.com/flavioheleno/php-active-releases-action) - This action retrieves a list of active PHP Releases (3 days ago)
 - [luau-lang/luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua (3 days ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [osiemsiedem/intervention-image-vips-driver](https://github.com/osiemsiedem/intervention-image-vips-driver) - VIPS driver for Intervention Image. (1 week ago)
 - [toddcooke/namechecker](https://github.com/toddcooke/namechecker) - Find out if your project name is taken (1 week ago)
 - [custom-cards/stack-in-card](https://github.com/custom-cards/stack-in-card) - 🛠 group multiple cards into one card without the borders (1 week ago)
-- [ofekashery/vertical-stack-in-card](https://github.com/ofekashery/vertical-stack-in-card) - 📐 Home Assistant Card: Group multiple cards into a single sleek card. (1 week ago)
 
 ---
 
