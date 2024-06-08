@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (1 day ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (3 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (4 days ago)
-- [reactphp/http](https://github.com/reactphp/http) (5 days ago)
-- [reactphp/cache](https://github.com/reactphp/cache) (5 days ago)
 - [reactphp/stream](https://github.com/reactphp/stream) (5 days ago)
+- [reactphp/cache](https://github.com/reactphp/cache) (5 days ago)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (5 days ago)
+- [reactphp/http](https://github.com/reactphp/http) (5 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (6 days ago)
-- [WyriHaximus/github-action-jwage-changelog-generator](https://github.com/WyriHaximus/github-action-jwage-changelog-generator) (1 week ago)
-- [reactphp/socket](https://github.com/reactphp/socket) (1 week ago)
 
 ---
 
@@ -46,6 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([6.0.8](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.8), today) - 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.8.44](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.44), 4 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [reactphp/async](https://github.com/reactphp/async) ([v4.3.0](https://github.com/reactphp/async/releases/tag/v4.3.0), 4 days ago) - Async utilities and fibers for ReactPHP.
 - [reactphp/promise-timer](https://github.com/reactphp/promise-timer) ([v1.11.0](https://github.com/reactphp/promise-timer/releases/tag/v1.11.0), 4 days ago) - A trivial implementation of timeouts for Promises, built on top of ReactPHP.
@@ -54,7 +55,6 @@ All new major package releases will be in PHP 8.2
 - [reactphp/promise](https://github.com/reactphp/promise) ([v3.2.0](https://github.com/reactphp/promise/releases/tag/v3.2.0), 2 weeks ago) - Promises/A implementation for PHP.
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([6.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/6.1.0), 3 weeks ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) ([4.2.0](https://github.com/WyriHaximus/php-json-throwable/releases/tag/4.2.0), 1 month ago) - JSON encode and decode throwables and exceptions
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([6.0.7](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.7), 1 month ago) - 
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([8.0.4](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/8.0.4), 1 month ago) - 
 - [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) ([3.1.0](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body/releases/tag/3.1.0), 1 month ago) - 
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2024.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.1), 1 month ago) - PHP runtime &amp; extensions header files for PhpStorm
@@ -64,6 +64,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-a520a0da1346bda8d17b35be14a878ac from 1.1.4-161166e01fd79918e39c52792abbb175](https://github.com/php-api-clients/github-root/pull/1202) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [[GitHub] Update to 1.1.4-90291aa8f69083a3b160c871835515fc from 1.1.4-30445c941a97be3bcb4ba3b3bae9e8f3](https://github.com/php-api-clients/github-root/pull/1201) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-a520a0da1346bda8d17b35be14a878ac from 1.1.4-161166e01fd79918e39c52792abbb175](https://github.com/php-api-clients/github-root/pull/1200) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-90291aa8f69083a3b160c871835515fc from 1.1.4-30445c941a97be3bcb4ba3b3bae9e8f3](https://github.com/php-api-clients/github-root/pull/1199) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHubAE] Update to 1.1.4-be889f4ae6e8593844d922a840dd93b1 from 1.1.4-be889f4ae6e8593844d922a840dd93b1](https://github.com/php-api-clients/github-root/pull/1198) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -75,8 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.4] Update to 1.1.4-8491d07e4903341efa2424ac8af7c5ec from 1.1.4-8491d07e4903341efa2424ac8af7c5ec](https://github.com/php-api-clients/github-root/pull/1192) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [[GitHubEnterprise-3.1] Update to 1.1.4-defb420907f5c36a22e1584342e0e531 from 1.1.4-defb420907f5c36a22e1584342e0e531](https://github.com/php-api-clients/github-root/pull/1191) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [[GitHubEnterprise-3.3] Update to 1.1.4-1e26e0dd1e96061fd9e8934a7a019705 from 1.1.4-1e26e0dd1e96061fd9e8934a7a019705](https://github.com/php-api-clients/github-root/pull/1190) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [[GitHubEnterprise-3.2] Update to 1.1.4-cc0f6d8c98886b66f1e16372f632e7d8 from 1.1.4-cc0f6d8c98886b66f1e16372f632e7d8](https://github.com/php-api-clients/github-root/pull/1189) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [[GitHubEnterprise-3.0] Update to 1.1.4-3e0a7810d254da4d26f0002e587eb763 from 1.1.4-3e0a7810d254da4d26f0002e587eb763](https://github.com/php-api-clients/github-root/pull/1188) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 
 ---
 
