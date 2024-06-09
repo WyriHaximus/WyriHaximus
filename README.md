@@ -19,10 +19,10 @@ All new major package releases will be in PHP 8.2
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (2 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (4 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (5 days ago)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (6 days ago)
-- [reactphp/stream](https://github.com/reactphp/stream) (6 days ago)
-- [reactphp/cache](https://github.com/reactphp/cache) (6 days ago)
 - [reactphp/http](https://github.com/reactphp/http) (6 days ago)
+- [reactphp/stream](https://github.com/reactphp/stream) (6 days ago)
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (6 days ago)
+- [reactphp/cache](https://github.com/reactphp/cache) (6 days ago)
 
 ---
 
@@ -46,7 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.6](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.6), today) - 
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.7](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.7), today) - 
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) ([4.3.0](https://github.com/WyriHaximus/HtmlCompress/releases/tag/4.3.0), 1 day ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([6.0.8](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.8), 1 day ago) - 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.8.44](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.44), 5 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Introduce release value](https://github.com/MammatusPHP/helm-charts/pull/9) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
 - [Fix env configmap](https://github.com/MammatusPHP/helm-charts/pull/8) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
 - [Pass missing command for deployment](https://github.com/MammatusPHP/helm-charts/pull/7) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
 - [Add priority class](https://github.com/MammatusPHP/helm-charts/pull/6) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Initial set up](https://github.com/MammatusPHP/helm-charts/pull/1) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-a520a0da1346bda8d17b35be14a878ac from 1.1.4-161166e01fd79918e39c52792abbb175](https://github.com/php-api-clients/github-root/pull/1202) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-90291aa8f69083a3b160c871835515fc from 1.1.4-30445c941a97be3bcb4ba3b3bae9e8f3](https://github.com/php-api-clients/github-root/pull/1201) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-a520a0da1346bda8d17b35be14a878ac from 1.1.4-161166e01fd79918e39c52792abbb175](https://github.com/php-api-clients/github-root/pull/1200) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 
 ---
 
