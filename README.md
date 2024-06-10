@@ -15,14 +15,14 @@ All new major package releases will be in PHP 8.2
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
-- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (2 days ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (2 days ago)
+- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (2 days ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (3 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (6 days ago)
-- [reactphp/stream](https://github.com/reactphp/stream) (1 week ago)
-- [reactphp/cache](https://github.com/reactphp/cache) (1 week ago)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 week ago)
 - [reactphp/http](https://github.com/reactphp/http) (1 week ago)
+- [reactphp/cache](https://github.com/reactphp/cache) (1 week ago)
+- [reactphp/stream](https://github.com/reactphp/stream) (1 week ago)
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 week ago)
 
 ---
 
