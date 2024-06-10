@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Automate supported versions](https://github.com/MammatusPHP/helm-charts/pull/10) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
 - [Introduce release value](https://github.com/MammatusPHP/helm-charts/pull/9) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 day ago)
 - [Fix env configmap](https://github.com/MammatusPHP/helm-charts/pull/8) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 day ago)
 - [Pass missing command for deployment](https://github.com/MammatusPHP/helm-charts/pull/7) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Use GITHUB_TOKEN as CR_TOKEN](https://github.com/MammatusPHP/helm-charts/pull/2) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
 - [Initial set up](https://github.com/MammatusPHP/helm-charts/pull/1) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-a520a0da1346bda8d17b35be14a878ac from 1.1.4-161166e01fd79918e39c52792abbb175](https://github.com/php-api-clients/github-root/pull/1202) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [[GitHub] Update to 1.1.4-90291aa8f69083a3b160c871835515fc from 1.1.4-30445c941a97be3bcb4ba3b3bae9e8f3](https://github.com/php-api-clients/github-root/pull/1201) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 
 ---
 
