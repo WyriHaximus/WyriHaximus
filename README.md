@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
-- [reactphp-parallel/filesystem](https://github.com/reactphp-parallel/filesystem) (1 day ago)
+- [reactphp-parallel/filesystem](https://github.com/reactphp-parallel/filesystem) (today)
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 day ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
-- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (3 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (3 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
+- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (3 days ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (4 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 week ago)
-- [reactphp/stream](https://github.com/reactphp/stream) (1 week ago)
+- [reactphp/cache](https://github.com/reactphp/cache) (1 week ago)
 
 ---
 
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Fix static $this bug](https://github.com/reactphp-parallel/filesystem/pull/4) on [reactphp-parallel/filesystem](https://github.com/reactphp-parallel/filesystem) (today)
 - [Block AI Leechers](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/194) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
 - [Initial (rough) set up](https://github.com/reactphp-parallel/filesystem/pull/1) on [reactphp-parallel/filesystem](https://github.com/reactphp-parallel/filesystem) (1 day ago)
 - [[CronJobs] Correctly switch to every minute for dev](https://github.com/MammatusPHP/helm-charts/pull/11) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Pass config file to chart testing](https://github.com/MammatusPHP/helm-charts/pull/4) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (3 days ago)
 - [Update voku packages](https://github.com/WyriHaximus/HtmlCompress/pull/176) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (3 days ago)
 - [Drop](https://github.com/WyriHaximus/HtmlCompress/pull/175) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (3 days ago)
-- [Fix subchart issues](https://github.com/MammatusPHP/helm-charts/pull/3) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (3 days ago)
 
 ---
 
