@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-49e6f9eda2f9b53adb152deaeefd9f73 from 1.1.4-90291aa8f69083a3b160c871835515fc](https://github.com/php-api-clients/github-root/pull/1203) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Fix static $this bug](https://github.com/reactphp-parallel/filesystem/pull/4) on [reactphp-parallel/filesystem](https://github.com/reactphp-parallel/filesystem) (today)
 - [Block AI Leechers](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/194) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
 - [Initial (rough) set up](https://github.com/reactphp-parallel/filesystem/pull/1) on [reactphp-parallel/filesystem](https://github.com/reactphp-parallel/filesystem) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Fix cron command and arguments](https://github.com/MammatusPHP/helm-charts/pull/5) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
 - [Pass config file to chart testing](https://github.com/MammatusPHP/helm-charts/pull/4) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (3 days ago)
 - [Update voku packages](https://github.com/WyriHaximus/HtmlCompress/pull/176) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (3 days ago)
-- [Drop](https://github.com/WyriHaximus/HtmlCompress/pull/175) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (3 days ago)
 
 ---
 
