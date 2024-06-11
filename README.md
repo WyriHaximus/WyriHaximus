@@ -12,9 +12,9 @@ All new major package releases will be in PHP 8.2
 
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
 - [reactphp-parallel/filesystem](https://github.com/reactphp-parallel/filesystem) (today)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 day ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (3 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-39135bdfcebfe58c32955a3638a37701 from 1.1.4-a520a0da1346bda8d17b35be14a878ac](https://github.com/php-api-clients/github-root/pull/1204) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-49e6f9eda2f9b53adb152deaeefd9f73 from 1.1.4-90291aa8f69083a3b160c871835515fc](https://github.com/php-api-clients/github-root/pull/1203) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Fix static $this bug](https://github.com/reactphp-parallel/filesystem/pull/4) on [reactphp-parallel/filesystem](https://github.com/reactphp-parallel/filesystem) (today)
 - [Block AI Leechers](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/194) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Add priority class](https://github.com/MammatusPHP/helm-charts/pull/6) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
 - [Fix cron command and arguments](https://github.com/MammatusPHP/helm-charts/pull/5) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
 - [Pass config file to chart testing](https://github.com/MammatusPHP/helm-charts/pull/4) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (3 days ago)
-- [Update voku packages](https://github.com/WyriHaximus/HtmlCompress/pull/176) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (3 days ago)
 
 ---
 
