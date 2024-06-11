@@ -10,15 +10,15 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (2 days ago)
-- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (2 days ago)
-- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (3 days ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (6 days ago)
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 day ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (3 days ago)
+- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (3 days ago)
+- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (4 days ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [reactphp/cache](https://github.com/reactphp/cache) (1 week ago)
 - [reactphp/http](https://github.com/reactphp/http) (1 week ago)
 - [reactphp/stream](https://github.com/reactphp/stream) (1 week ago)
@@ -46,14 +46,14 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.8](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.8), today) - 
-- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) ([4.3.0](https://github.com/WyriHaximus/HtmlCompress/releases/tag/4.3.0), 2 days ago) - 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([6.0.8](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.8), 2 days ago) - 
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.8.44](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.44), 6 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
-- [reactphp/async](https://github.com/reactphp/async) ([v4.3.0](https://github.com/reactphp/async/releases/tag/v4.3.0), 6 days ago) - Async utilities and fibers for ReactPHP.
-- [reactphp/promise-timer](https://github.com/reactphp/promise-timer) ([v1.11.0](https://github.com/reactphp/promise-timer/releases/tag/v1.11.0), 6 days ago) - A trivial implementation of timeouts for Promises, built on top of ReactPHP.
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.8](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.8), 1 day ago) - 
+- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) ([4.3.0](https://github.com/WyriHaximus/HtmlCompress/releases/tag/4.3.0), 3 days ago) - 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([6.0.8](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.8), 3 days ago) - 
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.8.44](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.44), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
+- [reactphp/async](https://github.com/reactphp/async) ([v4.3.0](https://github.com/reactphp/async/releases/tag/v4.3.0), 1 week ago) - Async utilities and fibers for ReactPHP.
+- [reactphp/promise-timer](https://github.com/reactphp/promise-timer) ([v1.11.0](https://github.com/reactphp/promise-timer/releases/tag/v1.11.0), 1 week ago) - A trivial implementation of timeouts for Promises, built on top of ReactPHP.
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r46](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r46), 1 week ago) - 
-- [WyriHaximus/playground-github-action-mixed-js-docker](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker) ([v1.3.0](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker/releases/tag/v1.3.0), 1 week ago) - Playground to work on shared workflows
+- [WyriHaximus/playground-github-action-mixed-js-docker](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker) ([v1.3.0](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker/releases/tag/v1.3.0), 2 weeks ago) - Playground to work on shared workflows
 - [reactphp/promise](https://github.com/reactphp/promise) ([v3.2.0](https://github.com/reactphp/promise/releases/tag/v3.2.0), 2 weeks ago) - Promises/A implementation for PHP.
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([6.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/6.1.0), 3 weeks ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) ([4.2.0](https://github.com/WyriHaximus/php-json-throwable/releases/tag/4.2.0), 1 month ago) - JSON encode and decode throwables and exceptions
@@ -64,32 +64,32 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
-- [Initial (rough) set up](https://github.com/reactphp-parallel/filesystem/pull/1) on [reactphp-parallel/filesystem](https://github.com/reactphp-parallel/filesystem) (today)
-- [[CronJobs] Correctly switch to every minute for dev](https://github.com/MammatusPHP/helm-charts/pull/11) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
-- [Automate supported versions](https://github.com/MammatusPHP/helm-charts/pull/10) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
-- [Introduce release value](https://github.com/MammatusPHP/helm-charts/pull/9) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 day ago)
-- [Fix env configmap](https://github.com/MammatusPHP/helm-charts/pull/8) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 day ago)
-- [Pass missing command for deployment](https://github.com/MammatusPHP/helm-charts/pull/7) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 day ago)
-- [Add priority class](https://github.com/MammatusPHP/helm-charts/pull/6) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 day ago)
-- [Fix cron command and arguments](https://github.com/MammatusPHP/helm-charts/pull/5) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 day ago)
-- [Pass config file to chart testing](https://github.com/MammatusPHP/helm-charts/pull/4) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
-- [Update voku packages](https://github.com/WyriHaximus/HtmlCompress/pull/176) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (2 days ago)
-- [Drop](https://github.com/WyriHaximus/HtmlCompress/pull/175) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (2 days ago)
-- [Fix subchart issues](https://github.com/MammatusPHP/helm-charts/pull/3) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
-- [Use GITHUB_TOKEN as CR_TOKEN](https://github.com/MammatusPHP/helm-charts/pull/2) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
+- [Initial (rough) set up](https://github.com/reactphp-parallel/filesystem/pull/1) on [reactphp-parallel/filesystem](https://github.com/reactphp-parallel/filesystem) (1 day ago)
+- [[CronJobs] Correctly switch to every minute for dev](https://github.com/MammatusPHP/helm-charts/pull/11) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 day ago)
+- [Automate supported versions](https://github.com/MammatusPHP/helm-charts/pull/10) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 day ago)
+- [Introduce release value](https://github.com/MammatusPHP/helm-charts/pull/9) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
+- [Fix env configmap](https://github.com/MammatusPHP/helm-charts/pull/8) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
+- [Pass missing command for deployment](https://github.com/MammatusPHP/helm-charts/pull/7) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
+- [Add priority class](https://github.com/MammatusPHP/helm-charts/pull/6) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
+- [Fix cron command and arguments](https://github.com/MammatusPHP/helm-charts/pull/5) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
+- [Pass config file to chart testing](https://github.com/MammatusPHP/helm-charts/pull/4) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (3 days ago)
+- [Update voku packages](https://github.com/WyriHaximus/HtmlCompress/pull/176) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (3 days ago)
+- [Drop](https://github.com/WyriHaximus/HtmlCompress/pull/175) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (3 days ago)
+- [Fix subchart issues](https://github.com/MammatusPHP/helm-charts/pull/3) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (3 days ago)
+- [Use GITHUB_TOKEN as CR_TOKEN](https://github.com/MammatusPHP/helm-charts/pull/2) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (3 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [marian42/gears](https://github.com/marian42/gears) - Lego Technic gear ratio calculator (1 day ago)
-- [k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - A CNI meta-plugin for multi-homed pods in Kubernetes (2 days ago)
-- [pgale/lineage_15.1_Installation_TSV](https://github.com/pgale/lineage_15.1_Installation_TSV) - Lenovo ThinkSmart View Lineage 15.1 installation guide (2 days ago)
-- [xaitax/TotalRecall](https://github.com/xaitax/TotalRecall) - This tool extracts and displays data from the Recall feature in Windows 11, providing an easy way to access information about your PC&#39;s activity snapshots. (3 days ago)
-- [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD. (5 days ago)
-- [flavioheleno/php-active-releases-action](https://github.com/flavioheleno/php-active-releases-action) - This action retrieves a list of active PHP Releases (6 days ago)
-- [luau-lang/luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua (6 days ago)
-- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (6 days ago)
+- [marian42/gears](https://github.com/marian42/gears) - Lego Technic gear ratio calculator (2 days ago)
+- [k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - A CNI meta-plugin for multi-homed pods in Kubernetes (3 days ago)
+- [pgale/lineage_15.1_Installation_TSV](https://github.com/pgale/lineage_15.1_Installation_TSV) - Lenovo ThinkSmart View Lineage 15.1 installation guide (3 days ago)
+- [xaitax/TotalRecall](https://github.com/xaitax/TotalRecall) - This tool extracts and displays data from the Recall feature in Windows 11, providing an easy way to access information about your PC&#39;s activity snapshots. (4 days ago)
+- [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD. (6 days ago)
+- [flavioheleno/php-active-releases-action](https://github.com/flavioheleno/php-active-releases-action) - This action retrieves a list of active PHP Releases (1 week ago)
+- [luau-lang/luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua (1 week ago)
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (1 week ago)
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (1 week ago)
 - [dream-num/univer](https://github.com/dream-num/univer) - Univer is an open-source alternative to Google Sheets, Slides, and Docs (1 week ago)
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks (1 week ago)
