@@ -46,6 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [reactphp/stream](https://github.com/reactphp/stream) ([v1.4.0](https://github.com/reactphp/stream/releases/tag/v1.4.0), today) - Event-driven readable and writable streams for non-blocking I/O in ReactPHP.
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r47](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r47), today) - 
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.8](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.8), 1 day ago) - 
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) ([4.3.0](https://github.com/WyriHaximus/HtmlCompress/releases/tag/4.3.0), 3 days ago) - 
@@ -58,7 +59,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([6.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/6.1.0), 3 weeks ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) ([4.2.0](https://github.com/WyriHaximus/php-json-throwable/releases/tag/4.2.0), 1 month ago) - JSON encode and decode throwables and exceptions
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([8.0.4](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/8.0.4), 1 month ago) - 
-- [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) ([3.1.0](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body/releases/tag/3.1.0), 1 month ago) - 
 
 ---
 
