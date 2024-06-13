@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-d2d01395df29a6b406754b59eca9b64e from 1.1.4-49e6f9eda2f9b53adb152deaeefd9f73](https://github.com/php-api-clients/github-root/pull/1205) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-39135bdfcebfe58c32955a3638a37701 from 1.1.4-a520a0da1346bda8d17b35be14a878ac](https://github.com/php-api-clients/github-root/pull/1204) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHub] Update to 1.1.4-49e6f9eda2f9b53adb152deaeefd9f73 from 1.1.4-90291aa8f69083a3b160c871835515fc](https://github.com/php-api-clients/github-root/pull/1203) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [Fix static $this bug](https://github.com/reactphp-parallel/filesystem/pull/4) on [reactphp-parallel/filesystem](https://github.com/reactphp-parallel/filesystem) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Pass missing command for deployment](https://github.com/MammatusPHP/helm-charts/pull/7) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (4 days ago)
 - [Add priority class](https://github.com/MammatusPHP/helm-charts/pull/6) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (4 days ago)
 - [Fix cron command and arguments](https://github.com/MammatusPHP/helm-charts/pull/5) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (4 days ago)
-- [Pass config file to chart testing](https://github.com/MammatusPHP/helm-charts/pull/4) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (5 days ago)
 
 ---
 
