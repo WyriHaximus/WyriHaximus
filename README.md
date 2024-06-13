@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [goofball222/unifi](https://github.com/goofball222/unifi) - UniFi Docker Container (today)
 - [squat/generic-device-plugin](https://github.com/squat/generic-device-plugin) - A Kubernetes device plugin to schedule generic Linux devices (1 day ago)
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block. (2 days ago)
 - [marian42/gears](https://github.com/marian42/gears) - Lego Technic gear ratio calculator (4 days ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (1 week ago)
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (1 week ago)
 - [dream-num/univer](https://github.com/dream-num/univer) - Univer is an open-source alternative to Google Sheets, Slides, and Docs (1 week ago)
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks (2 weeks ago)
 
 ---
 
