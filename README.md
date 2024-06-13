@@ -46,6 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [reactphp/dns](https://github.com/reactphp/dns) ([v1.13.0](https://github.com/reactphp/dns/releases/tag/v1.13.0), today) - Async DNS resolver for ReactPHP.
 - [reactphp/stream](https://github.com/reactphp/stream) ([v1.4.0](https://github.com/reactphp/stream/releases/tag/v1.4.0), 2 days ago) - Event-driven readable and writable streams for non-blocking I/O in ReactPHP.
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r47](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r47), 2 days ago) - 
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.8](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.8), 3 days ago) - 
@@ -58,7 +59,6 @@ All new major package releases will be in PHP 8.2
 - [reactphp/promise](https://github.com/reactphp/promise) ([v3.2.0](https://github.com/reactphp/promise/releases/tag/v3.2.0), 2 weeks ago) - Promises/A implementation for PHP.
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([6.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/6.1.0), 4 weeks ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) ([4.2.0](https://github.com/WyriHaximus/php-json-throwable/releases/tag/4.2.0), 1 month ago) - JSON encode and decode throwables and exceptions
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([8.0.4](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/8.0.4), 1 month ago) - 
 
 ---
 
