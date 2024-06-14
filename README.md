@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-c3f89da8f4e736748f0a13e02db3c36d from 1.1.4-d2d01395df29a6b406754b59eca9b64e](https://github.com/php-api-clients/github-root/pull/1207) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-6061900a2a9a80fad8e347fe7f6f508a from 1.1.4-39135bdfcebfe58c32955a3638a37701](https://github.com/php-api-clients/github-root/pull/1206) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-d2d01395df29a6b406754b59eca9b64e from 1.1.4-49e6f9eda2f9b53adb152deaeefd9f73](https://github.com/php-api-clients/github-root/pull/1205) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-39135bdfcebfe58c32955a3638a37701 from 1.1.4-a520a0da1346bda8d17b35be14a878ac](https://github.com/php-api-clients/github-root/pull/1204) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Introduce release value](https://github.com/MammatusPHP/helm-charts/pull/9) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (5 days ago)
 - [Fix env configmap](https://github.com/MammatusPHP/helm-charts/pull/8) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (5 days ago)
 - [Pass missing command for deployment](https://github.com/MammatusPHP/helm-charts/pull/7) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (5 days ago)
-- [Add priority class](https://github.com/MammatusPHP/helm-charts/pull/6) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (5 days ago)
 
 ---
 
