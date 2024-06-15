@@ -22,7 +22,7 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (1 week ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
-- [reactphp/stream](https://github.com/reactphp/stream) (1 week ago)
+- [reactphp/http](https://github.com/reactphp/http) (1 week ago)
 
 ---
 
