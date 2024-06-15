@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [reactphp-parallel/filesystem](https://github.com/reactphp-parallel/filesystem) (4 days ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (4 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (5 days ago)
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (5 days ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 week ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (5 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 week ago)
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (1 week ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 week ago)
-- [reactphp/http](https://github.com/reactphp/http) (1 week ago)
+- [reactphp/stream](https://github.com/reactphp/stream) (1 week ago)
 
 ---
 
@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript. (today)
 - [goofball222/unifi](https://github.com/goofball222/unifi) - UniFi Docker Container (2 days ago)
 - [squat/generic-device-plugin](https://github.com/squat/generic-device-plugin) - A Kubernetes device plugin to schedule generic Linux devices (3 days ago)
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block. (4 days ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [luau-lang/luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua (1 week ago)
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (1 week ago)
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (2 weeks ago)
-- [dream-num/univer](https://github.com/dream-num/univer) - Univer is an open-source alternative to Google Sheets, Slides, and Docs (2 weeks ago)
 
 ---
 
