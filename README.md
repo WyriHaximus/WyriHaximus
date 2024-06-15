@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Drop symfony v6](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/167) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-f1693c4fe023412f22716f3034812b11 from 1.1.4-1a530a6498e6aa969894cbe18e5bc2f3](https://github.com/php-api-clients/github-root/pull/1209) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-1a530a6498e6aa969894cbe18e5bc2f3 from 1.1.4-6061900a2a9a80fad8e347fe7f6f508a](https://github.com/php-api-clients/github-root/pull/1208) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-c3f89da8f4e736748f0a13e02db3c36d from 1.1.4-d2d01395df29a6b406754b59eca9b64e](https://github.com/php-api-clients/github-root/pull/1207) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Initial (rough) set up](https://github.com/reactphp-parallel/filesystem/pull/1) on [reactphp-parallel/filesystem](https://github.com/reactphp-parallel/filesystem) (5 days ago)
 - [[CronJobs] Correctly switch to every minute for dev](https://github.com/MammatusPHP/helm-charts/pull/11) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (5 days ago)
 - [Automate supported versions](https://github.com/MammatusPHP/helm-charts/pull/10) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (5 days ago)
-- [Introduce release value](https://github.com/MammatusPHP/helm-charts/pull/9) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (6 days ago)
 
 ---
 
