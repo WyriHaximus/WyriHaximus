@@ -11,12 +11,12 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [reactphp-parallel/filesystem](https://github.com/reactphp-parallel/filesystem) (4 days ago)
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (4 days ago)
-- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (5 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (5 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [reactphp-parallel/filesystem](https://github.com/reactphp-parallel/filesystem) (5 days ago)
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (5 days ago)
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (6 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (6 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 week ago)
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (1 week ago)
@@ -46,10 +46,10 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [reactphp/dns](https://github.com/reactphp/dns) ([v1.13.0](https://github.com/reactphp/dns/releases/tag/v1.13.0), 2 days ago) - Async DNS resolver for ReactPHP.
-- [reactphp/stream](https://github.com/reactphp/stream) ([v1.4.0](https://github.com/reactphp/stream/releases/tag/v1.4.0), 4 days ago) - Event-driven readable and writable streams for non-blocking I/O in ReactPHP.
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r47](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r47), 4 days ago) - 
-- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.8](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.8), 5 days ago) - 
+- [reactphp/dns](https://github.com/reactphp/dns) ([v1.13.0](https://github.com/reactphp/dns/releases/tag/v1.13.0), 3 days ago) - Async DNS resolver for ReactPHP.
+- [reactphp/stream](https://github.com/reactphp/stream) ([v1.4.0](https://github.com/reactphp/stream/releases/tag/v1.4.0), 5 days ago) - Event-driven readable and writable streams for non-blocking I/O in ReactPHP.
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r47](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r47), 5 days ago) - 
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.8](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.8), 6 days ago) - 
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) ([4.3.0](https://github.com/WyriHaximus/HtmlCompress/releases/tag/4.3.0), 1 week ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([6.0.8](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.8), 1 week ago) - 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.8.44](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.44), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
@@ -64,29 +64,29 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
-- [Drop symfony v6](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/167) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-f1693c4fe023412f22716f3034812b11 from 1.1.4-1a530a6498e6aa969894cbe18e5bc2f3](https://github.com/php-api-clients/github-root/pull/1209) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-1a530a6498e6aa969894cbe18e5bc2f3 from 1.1.4-6061900a2a9a80fad8e347fe7f6f508a](https://github.com/php-api-clients/github-root/pull/1208) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[GitHub] Update to 1.1.4-c3f89da8f4e736748f0a13e02db3c36d from 1.1.4-d2d01395df29a6b406754b59eca9b64e](https://github.com/php-api-clients/github-root/pull/1207) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-6061900a2a9a80fad8e347fe7f6f508a from 1.1.4-39135bdfcebfe58c32955a3638a37701](https://github.com/php-api-clients/github-root/pull/1206) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [[GitHub] Update to 1.1.4-d2d01395df29a6b406754b59eca9b64e from 1.1.4-49e6f9eda2f9b53adb152deaeefd9f73](https://github.com/php-api-clients/github-root/pull/1205) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-39135bdfcebfe58c32955a3638a37701 from 1.1.4-a520a0da1346bda8d17b35be14a878ac](https://github.com/php-api-clients/github-root/pull/1204) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[GitHub] Update to 1.1.4-49e6f9eda2f9b53adb152deaeefd9f73 from 1.1.4-90291aa8f69083a3b160c871835515fc](https://github.com/php-api-clients/github-root/pull/1203) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [Fix static $this bug](https://github.com/reactphp-parallel/filesystem/pull/4) on [reactphp-parallel/filesystem](https://github.com/reactphp-parallel/filesystem) (4 days ago)
-- [Block AI Leechers](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/194) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (4 days ago)
-- [Initial (rough) set up](https://github.com/reactphp-parallel/filesystem/pull/1) on [reactphp-parallel/filesystem](https://github.com/reactphp-parallel/filesystem) (5 days ago)
-- [[CronJobs] Correctly switch to every minute for dev](https://github.com/MammatusPHP/helm-charts/pull/11) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (5 days ago)
-- [Automate supported versions](https://github.com/MammatusPHP/helm-charts/pull/10) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (5 days ago)
+- [Drop symfony v6](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/167) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-f1693c4fe023412f22716f3034812b11 from 1.1.4-1a530a6498e6aa969894cbe18e5bc2f3](https://github.com/php-api-clients/github-root/pull/1209) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-1a530a6498e6aa969894cbe18e5bc2f3 from 1.1.4-6061900a2a9a80fad8e347fe7f6f508a](https://github.com/php-api-clients/github-root/pull/1208) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [[GitHub] Update to 1.1.4-c3f89da8f4e736748f0a13e02db3c36d from 1.1.4-d2d01395df29a6b406754b59eca9b64e](https://github.com/php-api-clients/github-root/pull/1207) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-6061900a2a9a80fad8e347fe7f6f508a from 1.1.4-39135bdfcebfe58c32955a3638a37701](https://github.com/php-api-clients/github-root/pull/1206) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
+- [[GitHub] Update to 1.1.4-d2d01395df29a6b406754b59eca9b64e from 1.1.4-49e6f9eda2f9b53adb152deaeefd9f73](https://github.com/php-api-clients/github-root/pull/1205) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-39135bdfcebfe58c32955a3638a37701 from 1.1.4-a520a0da1346bda8d17b35be14a878ac](https://github.com/php-api-clients/github-root/pull/1204) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
+- [[GitHub] Update to 1.1.4-49e6f9eda2f9b53adb152deaeefd9f73 from 1.1.4-90291aa8f69083a3b160c871835515fc](https://github.com/php-api-clients/github-root/pull/1203) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
+- [Fix static $this bug](https://github.com/reactphp-parallel/filesystem/pull/4) on [reactphp-parallel/filesystem](https://github.com/reactphp-parallel/filesystem) (5 days ago)
+- [Block AI Leechers](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/194) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (5 days ago)
+- [Initial (rough) set up](https://github.com/reactphp-parallel/filesystem/pull/1) on [reactphp-parallel/filesystem](https://github.com/reactphp-parallel/filesystem) (6 days ago)
+- [[CronJobs] Correctly switch to every minute for dev](https://github.com/MammatusPHP/helm-charts/pull/11) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (6 days ago)
+- [Automate supported versions](https://github.com/MammatusPHP/helm-charts/pull/10) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (6 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript. (today)
-- [goofball222/unifi](https://github.com/goofball222/unifi) - UniFi Docker Container (2 days ago)
-- [squat/generic-device-plugin](https://github.com/squat/generic-device-plugin) - A Kubernetes device plugin to schedule generic Linux devices (3 days ago)
-- [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block. (4 days ago)
-- [marian42/gears](https://github.com/marian42/gears) - Lego Technic gear ratio calculator (6 days ago)
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript. (1 day ago)
+- [goofball222/unifi](https://github.com/goofball222/unifi) - UniFi Docker Container (3 days ago)
+- [squat/generic-device-plugin](https://github.com/squat/generic-device-plugin) - A Kubernetes device plugin to schedule generic Linux devices (4 days ago)
+- [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block. (5 days ago)
+- [marian42/gears](https://github.com/marian42/gears) - Lego Technic gear ratio calculator (1 week ago)
 - [k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - A CNI meta-plugin for multi-homed pods in Kubernetes (1 week ago)
 - [pgale/lineage_15.1_Installation_TSV](https://github.com/pgale/lineage_15.1_Installation_TSV) - Lenovo ThinkSmart View Lineage 15.1 installation guide (1 week ago)
 - [xaitax/TotalRecall](https://github.com/xaitax/TotalRecall) - This tool extracts and displays data from the Recall feature in Windows 11, providing an easy way to access information about your PC&#39;s activity snapshots. (1 week ago)
