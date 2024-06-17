@@ -13,16 +13,16 @@ All new major package releases will be in PHP 8.2
 - [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (today)
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (1 day ago)
-- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 day ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 day ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [reactphp-parallel/filesystem](https://github.com/reactphp-parallel/filesystem) (6 days ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (6 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 week ago)
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (1 week ago)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 week ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 
 ---
 
