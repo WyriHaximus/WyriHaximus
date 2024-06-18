@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
 - [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 day ago)
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 day ago)
+- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (2 days ago)
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (2 days ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (2 days ago)
-- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (2 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [reactphp-parallel/filesystem](https://github.com/reactphp-parallel/filesystem) (1 week ago)
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
-- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (1 week ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 week ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
+- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (1 week ago)
 
 ---
 
@@ -46,10 +46,10 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r48](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r48), today) - 
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.10](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.10), 1 day ago) - 
 - [reactphp/dns](https://github.com/reactphp/dns) ([v1.13.0](https://github.com/reactphp/dns/releases/tag/v1.13.0), 5 days ago) - Async DNS resolver for ReactPHP.
 - [reactphp/stream](https://github.com/reactphp/stream) ([v1.4.0](https://github.com/reactphp/stream/releases/tag/v1.4.0), 1 week ago) - Event-driven readable and writable streams for non-blocking I/O in ReactPHP.
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r47](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r47), 1 week ago) - 
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) ([4.3.0](https://github.com/WyriHaximus/HtmlCompress/releases/tag/4.3.0), 1 week ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([6.0.8](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.8), 1 week ago) - 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.8.44](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.44), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [New post: Updating (PHP) packages to ReactPHP Promise v3, and test your types with PHPStan](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/195) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
 - [[mammatus] Fix env order issue](https://github.com/MammatusPHP/helm-charts/pull/14) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 day ago)
 - [Create Keda scaler chart](https://github.com/MammatusPHP/helm-charts/pull/13) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 day ago)
 - [Add AddOns](https://github.com/MammatusPHP/queue/pull/5) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-6061900a2a9a80fad8e347fe7f6f508a from 1.1.4-39135bdfcebfe58c32955a3638a37701](https://github.com/php-api-clients/github-root/pull/1206) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [[GitHub] Update to 1.1.4-d2d01395df29a6b406754b59eca9b64e from 1.1.4-49e6f9eda2f9b53adb152deaeefd9f73](https://github.com/php-api-clients/github-root/pull/1205) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-39135bdfcebfe58c32955a3638a37701 from 1.1.4-a520a0da1346bda8d17b35be14a878ac](https://github.com/php-api-clients/github-root/pull/1204) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [[GitHub] Update to 1.1.4-49e6f9eda2f9b53adb152deaeefd9f73 from 1.1.4-90291aa8f69083a3b160c871835515fc](https://github.com/php-api-clients/github-root/pull/1203) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
