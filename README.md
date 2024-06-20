@@ -85,7 +85,7 @@ All new major package releases will be in PHP 8.2
 - [custom-cards/decluttering-card](https://github.com/custom-cards/decluttering-card) - 🧹 Declutter your lovelace configuration with the help of this card (1 day ago)
 - [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) - Create your own Technology Radar: A static site generator for a full featured Technology Radar. Features: Quadrants, Rings, Dashboard, Radar Visualization, Item History, Search etc.. (2 days ago)
 - [custom-cards/canvas-gauge-card](https://github.com/custom-cards/canvas-gauge-card) - The card makes it possible to use gauges from https://canvas-gauges.com/ (3 days ago)
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript. (5 days ago)
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript (5 days ago)
 - [goofball222/unifi](https://github.com/goofball222/unifi) - UniFi Docker Container (1 week ago)
 - [squat/generic-device-plugin](https://github.com/squat/generic-device-plugin) - A Kubernetes device plugin to schedule generic Linux devices (1 week ago)
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block. (1 week ago)
