@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [SupremeSports/HA-Domotic](https://github.com/SupremeSports/HA-Domotic) - My Home Automation using Home Assistant and DIY IoT devices (today)
 - [custom-cards/decluttering-card](https://github.com/custom-cards/decluttering-card) - 🧹 Declutter your lovelace configuration with the help of this card (2 days ago)
 - [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) - Create your own Technology Radar: A static site generator for a full featured Technology Radar. Features: Quadrants, Rings, Dashboard, Radar Visualization, Item History, Search etc.. (3 days ago)
 - [custom-cards/canvas-gauge-card](https://github.com/custom-cards/canvas-gauge-card) - The card makes it possible to use gauges from https://canvas-gauges.com/ (4 days ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [pgale/lineage_15.1_Installation_TSV](https://github.com/pgale/lineage_15.1_Installation_TSV) - Lenovo ThinkSmart View Lineage 15.1 installation guide (1 week ago)
 - [xaitax/TotalRecall](https://github.com/xaitax/TotalRecall) - This tool extracts and displays data from the Recall feature in Windows 11, providing an easy way to access information about your PC&#39;s activity snapshots. (2 weeks ago)
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD. (2 weeks ago)
-- [flavioheleno/php-active-releases-action](https://github.com/flavioheleno/php-active-releases-action) - This action retrieves a list of active PHP Releases (2 weeks ago)
 
 ---
 
