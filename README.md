@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-356ea13d8867f0f4f84319bdf06dc720 from 1.1.4-0479485a780820e347c408d64af6de00](https://github.com/php-api-clients/github-root/pull/1215) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[WIP] PHPStan at max level](https://github.com/reactphp/dns/pull/227) on [reactphp/dns](https://github.com/reactphp/dns) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-75e34aeeed8a99a2532a8a0eee1f6ea6 from 1.1.4-38a45d7a3a3bb0ec70df310b701a186e](https://github.com/php-api-clients/github-root/pull/1214) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-38a45d7a3a3bb0ec70df310b701a186e from 1.1.4-f1693c4fe023412f22716f3034812b11](https://github.com/php-api-clients/github-root/pull/1213) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Add addons](https://github.com/MammatusPHP/queue-attributes/pull/4) on [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (5 days ago)
 - [Add addon support](https://github.com/MammatusPHP/helm-charts/pull/12) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (5 days ago)
 - [Drop symfony v6](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/167) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (6 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-f1693c4fe023412f22716f3034812b11 from 1.1.4-1a530a6498e6aa969894cbe18e5bc2f3](https://github.com/php-api-clients/github-root/pull/1209) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 
 ---
 
