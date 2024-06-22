@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-081bef496d922a6ab0786c6f28cc06f0 from 1.1.4-8aa51203644293fefbacb3175de170f9](https://github.com/php-api-clients/github-root/pull/1218) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-97ae665c50dc0af2640cf572009dd76b from 1.1.4-356ea13d8867f0f4f84319bdf06dc720](https://github.com/php-api-clients/github-root/pull/1217) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-8aa51203644293fefbacb3175de170f9 from 1.1.4-75e34aeeed8a99a2532a8a0eee1f6ea6](https://github.com/php-api-clients/github-root/pull/1216) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-356ea13d8867f0f4f84319bdf06dc720 from 1.1.4-0479485a780820e347c408d64af6de00](https://github.com/php-api-clients/github-root/pull/1215) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[mammatus] Fix env order issue](https://github.com/MammatusPHP/helm-charts/pull/14) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (5 days ago)
 - [Create Keda scaler chart](https://github.com/MammatusPHP/helm-charts/pull/13) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (5 days ago)
 - [Add AddOns](https://github.com/MammatusPHP/queue/pull/5) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (6 days ago)
-- [Add addons](https://github.com/MammatusPHP/queue-attributes/pull/4) on [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (6 days ago)
 
 ---
 
