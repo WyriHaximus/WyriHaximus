@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [kubeshop/botkube](https://github.com/kubeshop/botkube) - An app that helps you monitor your Kubernetes cluster, debug critical deployments &amp; gives recommendations for standard practices (today)
 - [JFryy/qq](https://github.com/JFryy/qq) - jq inspired interoperable config format transcoder with interactive querying. (today)
 - [mulder82/TNDisplay](https://github.com/mulder82/TNDisplay) - Complete project for build wireless touch display to control HomeAssistant powered SmartHome. (1 day ago)
 - [SupremeSports/HA-Domotic](https://github.com/SupremeSports/HA-Domotic) - My Home Automation using Home Assistant and DIY IoT devices (5 days ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block. (2 weeks ago)
 - [marian42/gears](https://github.com/marian42/gears) - Lego Technic gear ratio calculator (2 weeks ago)
 - [k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - A CNI meta-plugin for multi-homed pods in Kubernetes (2 weeks ago)
-- [pgale/lineage_15.1_Installation_TSV](https://github.com/pgale/lineage_15.1_Installation_TSV) - Lenovo ThinkSmart View Lineage 15.1 installation guide (2 weeks ago)
 
 ---
 
@@ -116,11 +116,11 @@ All new major package releases will be in PHP 8.2
 
 #### 👯 Check out some of my recent followers
 
-- [Kos-M](https://github.com/Kos-M)
 - [skillaug](https://github.com/skillaug)
 - [missAnneThorpe](https://github.com/missAnneThorpe)
 - [lighth7015](https://github.com/lighth7015)
 - [cassifyit](https://github.com/cassifyit)
+- [aguinaldok4](https://github.com/aguinaldok4)
 
 ---
 
