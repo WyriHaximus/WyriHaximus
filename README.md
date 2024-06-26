@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [JFryy/qq](https://github.com/JFryy/qq) - jq inspired interoperable config format transcoder with interactive querying. (today)
 - [mulder82/TNDisplay](https://github.com/mulder82/TNDisplay) - Complete project for build wireless touch display to control HomeAssistant powered SmartHome. (1 day ago)
 - [SupremeSports/HA-Domotic](https://github.com/SupremeSports/HA-Domotic) - My Home Automation using Home Assistant and DIY IoT devices (5 days ago)
 - [custom-cards/decluttering-card](https://github.com/custom-cards/decluttering-card) - 🧹 Declutter your lovelace configuration with the help of this card (1 week ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [marian42/gears](https://github.com/marian42/gears) - Lego Technic gear ratio calculator (2 weeks ago)
 - [k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - A CNI meta-plugin for multi-homed pods in Kubernetes (2 weeks ago)
 - [pgale/lineage_15.1_Installation_TSV](https://github.com/pgale/lineage_15.1_Installation_TSV) - Lenovo ThinkSmart View Lineage 15.1 installation guide (2 weeks ago)
-- [xaitax/TotalRecall](https://github.com/xaitax/TotalRecall) - This tool extracts and displays data from the Recall feature in Windows 11, providing an easy way to access information about your PC&#39;s activity snapshots. (2 weeks ago)
 
 ---
 
