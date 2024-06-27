@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-3bb51b62aac445e7ef25ee2b95e79a01 from 1.1.4-081bef496d922a6ab0786c6f28cc06f0](https://github.com/php-api-clients/github-root/pull/1220) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-4cf5c64422925cf50a90b6e402d5aa38 from 1.1.4-97ae665c50dc0af2640cf572009dd76b](https://github.com/php-api-clients/github-root/pull/1219) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Add one level nested schema test](https://github.com/php-openapi-tools/gatherer/pull/3) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (1 day ago)
 - [Add unit tests foundation](https://github.com/php-openapi-tools/gatherer/pull/2) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-75e34aeeed8a99a2532a8a0eee1f6ea6 from 1.1.4-38a45d7a3a3bb0ec70df310b701a186e](https://github.com/php-api-clients/github-root/pull/1214) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-38a45d7a3a3bb0ec70df310b701a186e from 1.1.4-f1693c4fe023412f22716f3034812b11](https://github.com/php-api-clients/github-root/pull/1213) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHub] Update to 1.1.4-0479485a780820e347c408d64af6de00 from 1.1.4-c3f89da8f4e736748f0a13e02db3c36d](https://github.com/php-api-clients/github-root/pull/1212) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [Add missing destination to package](https://github.com/php-openapi-tools/configuration/pull/1) on [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (1 week ago)
 
 ---
 
