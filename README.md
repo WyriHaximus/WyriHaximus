@@ -11,7 +11,7 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (today)
-- [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (1 day ago)
+- [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (5 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (5 days ago)
