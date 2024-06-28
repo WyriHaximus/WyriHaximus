@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-554d172cf98044b9f5c6d63efe52b97e from 1.1.4-3bb51b62aac445e7ef25ee2b95e79a01](https://github.com/php-api-clients/github-root/pull/1222) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-81b4fcdf6c7b3f61c17f56a0c4f2231d from 1.1.4-4cf5c64422925cf50a90b6e402d5aa38](https://github.com/php-api-clients/github-root/pull/1221) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Add triple level nested schema test](https://github.com/php-openapi-tools/gatherer/pull/4) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-3bb51b62aac445e7ef25ee2b95e79a01 from 1.1.4-081bef496d922a6ab0786c6f28cc06f0](https://github.com/php-api-clients/github-root/pull/1220) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-8aa51203644293fefbacb3175de170f9 from 1.1.4-75e34aeeed8a99a2532a8a0eee1f6ea6](https://github.com/php-api-clients/github-root/pull/1216) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHub] Update to 1.1.4-356ea13d8867f0f4f84319bdf06dc720 from 1.1.4-0479485a780820e347c408d64af6de00](https://github.com/php-api-clients/github-root/pull/1215) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[WIP] PHPStan at max level](https://github.com/reactphp/dns/pull/227) on [reactphp/dns](https://github.com/reactphp/dns) (1 week ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-75e34aeeed8a99a2532a8a0eee1f6ea6 from 1.1.4-38a45d7a3a3bb0ec70df310b701a186e](https://github.com/php-api-clients/github-root/pull/1214) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
