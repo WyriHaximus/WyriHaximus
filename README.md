@@ -12,8 +12,8 @@ All new major package releases will be in PHP 8.2
 
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
+- [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
-- [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (2 days ago)
 - [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (2 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Add schema aliases test](https://github.com/php-openapi-tools/gatherer/pull/5) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (today)
 - [[keda] Drop mode since it&#39;s meta data and metadata is YAML](https://github.com/MammatusPHP/helm-charts/pull/16) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
 - [[keda] Add missing metadata](https://github.com/MammatusPHP/helm-charts/pull/15) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-554d172cf98044b9f5c6d63efe52b97e from 1.1.4-3bb51b62aac445e7ef25ee2b95e79a01](https://github.com/php-api-clients/github-root/pull/1222) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -76,12 +77,12 @@ All new major package releases will be in PHP 8.2
 - [Gather unknown schemas](https://github.com/php-openapi-tools/gatherer/pull/1) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (6 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-081bef496d922a6ab0786c6f28cc06f0 from 1.1.4-8aa51203644293fefbacb3175de170f9](https://github.com/php-api-clients/github-root/pull/1218) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHub] Update to 1.1.4-97ae665c50dc0af2640cf572009dd76b from 1.1.4-356ea13d8867f0f4f84319bdf06dc720](https://github.com/php-api-clients/github-root/pull/1217) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-8aa51203644293fefbacb3175de170f9 from 1.1.4-75e34aeeed8a99a2532a8a0eee1f6ea6](https://github.com/php-api-clients/github-root/pull/1216) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
 #### ⭐ Recent Stars
 
+- [seanrmurphy/nix-container-build-gha](https://github.com/seanrmurphy/nix-container-build-gha) - Demo repo - building nix container image with github action (today)
 - [kubeshop/botkube](https://github.com/kubeshop/botkube) - An app that helps you monitor your Kubernetes cluster, debug critical deployments &amp; gives recommendations for standard practices (3 days ago)
 - [JFryy/qq](https://github.com/JFryy/qq) - jq inspired interoperable config format transcoder with interactive querying. (3 days ago)
 - [mulder82/TNDisplay](https://github.com/mulder82/TNDisplay) - Complete project for build wireless touch display to control HomeAssistant powered SmartHome. (4 days ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [squat/generic-device-plugin](https://github.com/squat/generic-device-plugin) - A Kubernetes device plugin to schedule generic Linux devices (2 weeks ago)
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block. (2 weeks ago)
 - [marian42/gears](https://github.com/marian42/gears) - Lego Technic gear ratio calculator (2 weeks ago)
-- [k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - A CNI meta-plugin for multi-homed pods in Kubernetes (3 weeks ago)
 
 ---
 
