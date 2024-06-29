@@ -46,7 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([keda-0.0.2](https://github.com/MammatusPHP/helm-charts/releases/tag/keda-0.0.2), today) - 
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([keda-0.0.3](https://github.com/MammatusPHP/helm-charts/releases/tag/keda-0.0.3), today) - 
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r48](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r48), 1 week ago) - 
 - [reactphp/dns](https://github.com/reactphp/dns) ([v1.13.0](https://github.com/reactphp/dns/releases/tag/v1.13.0), 2 weeks ago) - Async DNS resolver for ReactPHP.
 - [reactphp/stream](https://github.com/reactphp/stream) ([v1.4.0](https://github.com/reactphp/stream/releases/tag/v1.4.0), 2 weeks ago) - Event-driven readable and writable streams for non-blocking I/O in ReactPHP.
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[keda] Drop mode since it&#39;s meta data and metadata is YAML](https://github.com/MammatusPHP/helm-charts/pull/16) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
 - [[keda] Add missing metadata](https://github.com/MammatusPHP/helm-charts/pull/15) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-554d172cf98044b9f5c6d63efe52b97e from 1.1.4-3bb51b62aac445e7ef25ee2b95e79a01](https://github.com/php-api-clients/github-root/pull/1222) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-81b4fcdf6c7b3f61c17f56a0c4f2231d from 1.1.4-4cf5c64422925cf50a90b6e402d5aa38](https://github.com/php-api-clients/github-root/pull/1221) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-081bef496d922a6ab0786c6f28cc06f0 from 1.1.4-8aa51203644293fefbacb3175de170f9](https://github.com/php-api-clients/github-root/pull/1218) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHub] Update to 1.1.4-97ae665c50dc0af2640cf572009dd76b from 1.1.4-356ea13d8867f0f4f84319bdf06dc720](https://github.com/php-api-clients/github-root/pull/1217) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-8aa51203644293fefbacb3175de170f9 from 1.1.4-75e34aeeed8a99a2532a8a0eee1f6ea6](https://github.com/php-api-clients/github-root/pull/1216) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [[GitHub] Update to 1.1.4-356ea13d8867f0f4f84319bdf06dc720 from 1.1.4-0479485a780820e347c408d64af6de00](https://github.com/php-api-clients/github-root/pull/1215) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
