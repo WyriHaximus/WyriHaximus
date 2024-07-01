@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (today)
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
 - [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (2 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
 - [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (4 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (1 week ago)
 - [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (2 weeks ago)
-- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (2 weeks ago)
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (2 weeks ago)
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (2 weeks ago)
+- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (2 weeks ago)
 
 ---
 
@@ -46,8 +46,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r49](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r49), today) - 
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([keda-0.0.3](https://github.com/MammatusPHP/helm-charts/releases/tag/keda-0.0.3), 2 days ago) - 
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r48](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r48), 1 week ago) - 
 - [reactphp/dns](https://github.com/reactphp/dns) ([v1.13.0](https://github.com/reactphp/dns/releases/tag/v1.13.0), 2 weeks ago) - Async DNS resolver for ReactPHP.
 - [reactphp/stream](https://github.com/reactphp/stream) ([v1.4.0](https://github.com/reactphp/stream/releases/tag/v1.4.0), 2 weeks ago) - Event-driven readable and writable streams for non-blocking I/O in ReactPHP.
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) ([4.3.0](https://github.com/WyriHaximus/HtmlCompress/releases/tag/4.3.0), 3 weeks ago) - 
@@ -64,6 +64,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Add addons](https://github.com/MammatusPHP/cron/pull/83) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
+- [Introduce resources attribute](https://github.com/MammatusPHP/kubernetes-attributes/pull/1) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (today)
 - [New post: Building a kubernetes homelab with Raspberry Pi and Lego: Network: Switch](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/196) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
 - [Add schema aliases test](https://github.com/php-openapi-tools/gatherer/pull/5) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (2 days ago)
 - [[keda] Drop mode since it&#39;s meta data and metadata is YAML](https://github.com/MammatusPHP/helm-charts/pull/16) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
@@ -75,8 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-4cf5c64422925cf50a90b6e402d5aa38 from 1.1.4-97ae665c50dc0af2640cf572009dd76b](https://github.com/php-api-clients/github-root/pull/1219) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [Add one level nested schema test](https://github.com/php-openapi-tools/gatherer/pull/3) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (5 days ago)
 - [Add unit tests foundation](https://github.com/php-openapi-tools/gatherer/pull/2) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (5 days ago)
-- [Gather unknown schemas](https://github.com/php-openapi-tools/gatherer/pull/1) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (1 week ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-081bef496d922a6ab0786c6f28cc06f0 from 1.1.4-8aa51203644293fefbacb3175de170f9](https://github.com/php-api-clients/github-root/pull/1218) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
