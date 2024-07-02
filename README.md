@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Drop deprecated package: wyrihaximus/iterator-or-array-to-array](https://github.com/WyriHaximus/php-pool-info/pull/7) on [WyriHaximus/php-pool-info](https://github.com/WyriHaximus/php-pool-info) (today)
 - [[2.x] Type Callable arguments](https://github.com/reactphp-parallel/contracts/pull/9) on [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (today)
 - [Add addons](https://github.com/MammatusPHP/cron/pull/83) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 day ago)
 - [Introduce resources attribute](https://github.com/MammatusPHP/kubernetes-attributes/pull/1) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Add triple level nested schema test](https://github.com/php-openapi-tools/gatherer/pull/4) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (4 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-3bb51b62aac445e7ef25ee2b95e79a01 from 1.1.4-081bef496d922a6ab0786c6f28cc06f0](https://github.com/php-api-clients/github-root/pull/1220) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [[GitHub] Update to 1.1.4-4cf5c64422925cf50a90b6e402d5aa38 from 1.1.4-97ae665c50dc0af2640cf572009dd76b](https://github.com/php-api-clients/github-root/pull/1219) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
-- [Add one level nested schema test](https://github.com/php-openapi-tools/gatherer/pull/3) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (6 days ago)
 
 ---
 
