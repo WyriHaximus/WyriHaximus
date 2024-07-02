@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-4fef0f9e03cf11aed96c1dfc31630f25 from 1.1.4-554d172cf98044b9f5c6d63efe52b97e](https://github.com/php-api-clients/github-root/pull/1223) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Drop 32bit ARM support](https://github.com/WyriHaximus/github-action-wait-for-status/pull/167) on [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (today)
 - [Switch to GitHub hosted base image](https://github.com/WyriHaximus/github-action-wait-for-status/pull/165) on [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (today)
 - [Add 401 status to app error test](https://github.com/WyriHaximus/github-action-wait-for-status/pull/164) on [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (today)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Add schema aliases test](https://github.com/php-openapi-tools/gatherer/pull/5) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (3 days ago)
 - [[keda] Drop mode since it&#39;s meta data and metadata is YAML](https://github.com/MammatusPHP/helm-charts/pull/16) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (3 days ago)
 - [[keda] Add missing metadata](https://github.com/MammatusPHP/helm-charts/pull/15) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (3 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-554d172cf98044b9f5c6d63efe52b97e from 1.1.4-3bb51b62aac445e7ef25ee2b95e79a01](https://github.com/php-api-clients/github-root/pull/1222) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 
 ---
 
