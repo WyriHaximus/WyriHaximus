@@ -13,10 +13,10 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-pool-info](https://github.com/WyriHaximus/php-pool-info) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (1 day ago)
 - [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (1 day ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (2 days ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (2 days ago)
 - [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (4 days ago)
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-a64005d8253466da5566a833f48e8713 from 1.1.4-4fef0f9e03cf11aed96c1dfc31630f25](https://github.com/php-api-clients/github-root/pull/1225) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-ed9f9c8a528083c4f510bc9ec29e7cbc from 1.1.4-81b4fcdf6c7b3f61c17f56a0c4f2231d](https://github.com/php-api-clients/github-root/pull/1224) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Drop unused nunomaduro/collision](https://github.com/WyriHaximus/php-test-utilities/pull/917) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-4fef0f9e03cf11aed96c1dfc31630f25 from 1.1.4-554d172cf98044b9f5c6d63efe52b97e](https://github.com/php-api-clients/github-root/pull/1223) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Add addons](https://github.com/MammatusPHP/cron/pull/83) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 days ago)
 - [Introduce resources attribute](https://github.com/MammatusPHP/kubernetes-attributes/pull/1) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (2 days ago)
 - [New post: Building a kubernetes homelab with Raspberry Pi and Lego: Network: Switch](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/196) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (2 days ago)
-- [Add schema aliases test](https://github.com/php-openapi-tools/gatherer/pull/5) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (4 days ago)
 
 ---
 
