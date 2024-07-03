@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (1 day ago)
+- [WyriHaximus/php-pool-info](https://github.com/WyriHaximus/php-pool-info) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (1 day ago)
 - [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (1 day ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (2 days ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (2 days ago)
 - [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (4 days ago)
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (4 days ago)
 - [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (6 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (2 weeks ago)
-- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (2 weeks ago)
 
 ---
 
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Drop unused nunomaduro/collision](https://github.com/WyriHaximus/php-test-utilities/pull/917) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-4fef0f9e03cf11aed96c1dfc31630f25 from 1.1.4-554d172cf98044b9f5c6d63efe52b97e](https://github.com/php-api-clients/github-root/pull/1223) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [Drop 32bit ARM support](https://github.com/WyriHaximus/github-action-wait-for-status/pull/167) on [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (1 day ago)
 - [Switch to GitHub hosted base image](https://github.com/WyriHaximus/github-action-wait-for-status/pull/165) on [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [New post: Building a kubernetes homelab with Raspberry Pi and Lego: Network: Switch](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/196) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (2 days ago)
 - [Add schema aliases test](https://github.com/php-openapi-tools/gatherer/pull/5) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (4 days ago)
 - [[keda] Drop mode since it&#39;s meta data and metadata is YAML](https://github.com/MammatusPHP/helm-charts/pull/16) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (4 days ago)
-- [[keda] Add missing metadata](https://github.com/MammatusPHP/helm-charts/pull/15) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (4 days ago)
 
 ---
 
@@ -116,11 +116,11 @@ All new major package releases will be in PHP 8.2
 
 #### 👯 Check out some of my recent followers
 
+- [sammorozov](https://github.com/sammorozov)
 - [CodeRunne](https://github.com/CodeRunne)
 - [al-amin-shamim-webdev](https://github.com/al-amin-shamim-webdev)
 - [skillaug](https://github.com/skillaug)
 - [missAnneThorpe](https://github.com/missAnneThorpe)
-- [lighth7015](https://github.com/lighth7015)
 
 ---
 
