@@ -46,12 +46,12 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([6.0.9](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.9), today) - 
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r49](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r49), 2 days ago) - 
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([keda-0.0.3](https://github.com/MammatusPHP/helm-charts/releases/tag/keda-0.0.3), 4 days ago) - 
 - [reactphp/dns](https://github.com/reactphp/dns) ([v1.13.0](https://github.com/reactphp/dns/releases/tag/v1.13.0), 2 weeks ago) - Async DNS resolver for ReactPHP.
 - [reactphp/stream](https://github.com/reactphp/stream) ([v1.4.0](https://github.com/reactphp/stream/releases/tag/v1.4.0), 3 weeks ago) - Event-driven readable and writable streams for non-blocking I/O in ReactPHP.
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) ([4.3.0](https://github.com/WyriHaximus/HtmlCompress/releases/tag/4.3.0), 3 weeks ago) - 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([6.0.8](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.8), 3 weeks ago) - 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.8.44](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.44), 4 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [reactphp/async](https://github.com/reactphp/async) ([v4.3.0](https://github.com/reactphp/async/releases/tag/v4.3.0), 4 weeks ago) - Async utilities and fibers for ReactPHP.
 - [reactphp/promise-timer](https://github.com/reactphp/promise-timer) ([v1.11.0](https://github.com/reactphp/promise-timer/releases/tag/v1.11.0), 4 weeks ago) - A trivial implementation of timeouts for Promises, built on top of ReactPHP.
