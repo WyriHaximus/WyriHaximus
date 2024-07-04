@@ -10,13 +10,13 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [WyriHaximus/php-pool-info](https://github.com/WyriHaximus/php-pool-info) (1 day ago)
 - [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (2 days ago)
-- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (2 days ago)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (3 days ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (3 days ago)
 - [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (5 days ago)
@@ -46,6 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([8.0.5](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/8.0.5), today) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([6.0.9](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.9), 1 day ago) - 
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r49](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r49), 3 days ago) - 
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([keda-0.0.3](https://github.com/MammatusPHP/helm-charts/releases/tag/keda-0.0.3), 5 days ago) - 
@@ -58,7 +59,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/playground-github-action-mixed-js-docker](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker) ([v1.3.0](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker/releases/tag/v1.3.0), 1 month ago) - Playground to work on shared workflows
 - [reactphp/promise](https://github.com/reactphp/promise) ([v3.2.0](https://github.com/reactphp/promise/releases/tag/v3.2.0), 1 month ago) - Promises/A implementation for PHP.
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([6.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/6.1.0), 1 month ago) - 🌯 PHPStan rules wrapper
-- [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) ([4.2.0](https://github.com/WyriHaximus/php-json-throwable/releases/tag/4.2.0), 1 month ago) - JSON encode and decode throwables and exceptions
 
 ---
 
