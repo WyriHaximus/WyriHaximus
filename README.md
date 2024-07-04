@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Only run syntax check, unit tests, and mutation tests on all supported](https://github.com/WyriHaximus/php-test-utilities/pull/919) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-a64005d8253466da5566a833f48e8713 from 1.1.4-4fef0f9e03cf11aed96c1dfc31630f25](https://github.com/php-api-clients/github-root/pull/1225) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-ed9f9c8a528083c4f510bc9ec29e7cbc from 1.1.4-81b4fcdf6c7b3f61c17f56a0c4f2231d](https://github.com/php-api-clients/github-root/pull/1224) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [Drop unused nunomaduro/collision](https://github.com/WyriHaximus/php-test-utilities/pull/917) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[2.x] Type Callable arguments](https://github.com/reactphp-parallel/contracts/pull/9) on [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (2 days ago)
 - [Add addons](https://github.com/MammatusPHP/cron/pull/83) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (3 days ago)
 - [Introduce resources attribute](https://github.com/MammatusPHP/kubernetes-attributes/pull/1) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (3 days ago)
-- [New post: Building a kubernetes homelab with Raspberry Pi and Lego: Network: Switch](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/196) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (3 days ago)
 
 ---
 
