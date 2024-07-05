@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/php-pool-info](https://github.com/WyriHaximus/php-pool-info) (today)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (today)
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (1 day ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
 - [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (3 days ago)
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (4 days ago)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (4 days ago)
-- [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (6 days ago)
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (4 days ago)
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (6 days ago)
+- [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (6 days ago)
 - [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (1 week ago)
-- [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (2 weeks ago)
 
 ---
 
@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen database explorer - Postgres, MySQL, SQLite, MongoDB, &amp; Redis (today)
 - [th3jesta/ha-lcars](https://github.com/th3jesta/ha-lcars) - LCARS theme for Home Assistant (4 days ago)
 - [seanrmurphy/nix-container-build-gha](https://github.com/seanrmurphy/nix-container-build-gha) - Demo repo - building nix container image with github action (6 days ago)
 - [kubeshop/botkube](https://github.com/kubeshop/botkube) - An app that helps you monitor your Kubernetes cluster, debug critical deployments &amp; gives recommendations for standard practices (1 week ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript (2 weeks ago)
 - [goofball222/unifi](https://github.com/goofball222/unifi) - UniFi Docker Container (3 weeks ago)
 - [squat/generic-device-plugin](https://github.com/squat/generic-device-plugin) - A Kubernetes device plugin to schedule generic Linux devices (3 weeks ago)
-- [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block. (3 weeks ago)
 
 ---
 
