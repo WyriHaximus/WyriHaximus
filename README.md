@@ -12,8 +12,8 @@ All new major package releases will be in PHP 8.2
 
 - [WyriHaximus/php-pool-info](https://github.com/WyriHaximus/php-pool-info) (1 day ago)
 - [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (1 day ago)
-- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (2 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (2 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (3 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
