@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [8.4 alpha1 is now upcoming](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/52) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
 - [Only run syntax check, unit tests, and mutation tests on all supported](https://github.com/WyriHaximus/php-test-utilities/pull/919) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-a64005d8253466da5566a833f48e8713 from 1.1.4-4fef0f9e03cf11aed96c1dfc31630f25](https://github.com/php-api-clients/github-root/pull/1225) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHub] Update to 1.1.4-ed9f9c8a528083c4f510bc9ec29e7cbc from 1.1.4-81b4fcdf6c7b3f61c17f56a0c4f2231d](https://github.com/php-api-clients/github-root/pull/1224) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Drop deprecated package: wyrihaximus/iterator-or-array-to-array](https://github.com/WyriHaximus/php-pool-info/pull/7) on [WyriHaximus/php-pool-info](https://github.com/WyriHaximus/php-pool-info) (5 days ago)
 - [[2.x] Type Callable arguments](https://github.com/reactphp-parallel/contracts/pull/9) on [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (5 days ago)
 - [Add addons](https://github.com/MammatusPHP/cron/pull/83) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (6 days ago)
-- [Introduce resources attribute](https://github.com/MammatusPHP/kubernetes-attributes/pull/1) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (6 days ago)
 
 ---
 
