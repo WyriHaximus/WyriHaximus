@@ -14,9 +14,9 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-pool-info](https://github.com/WyriHaximus/php-pool-info) (2 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (3 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (4 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
 - [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (5 days ago)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (6 days ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (6 days ago)
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Creation](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/1) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [8.4 alpha1 is now upcoming](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/52) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
 - [Only run syntax check, unit tests, and mutation tests on all supported](https://github.com/WyriHaximus/php-test-utilities/pull/919) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-a64005d8253466da5566a833f48e8713 from 1.1.4-4fef0f9e03cf11aed96c1dfc31630f25](https://github.com/php-api-clients/github-root/pull/1225) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Switch to centralized release management workflows](https://github.com/WyriHaximus/github-action-wait-for-status/pull/163) on [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (5 days ago)
 - [Drop deprecated package: wyrihaximus/iterator-or-array-to-array](https://github.com/WyriHaximus/php-pool-info/pull/7) on [WyriHaximus/php-pool-info](https://github.com/WyriHaximus/php-pool-info) (5 days ago)
 - [[2.x] Type Callable arguments](https://github.com/reactphp-parallel/contracts/pull/9) on [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (5 days ago)
-- [Add addons](https://github.com/MammatusPHP/cron/pull/83) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (6 days ago)
 
 ---
 
