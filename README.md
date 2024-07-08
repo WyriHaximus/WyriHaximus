@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [TomasVotruba/phpstan-bodyscan](https://github.com/TomasVotruba/phpstan-bodyscan) - Get error count for each PHPStan level (today)
 - [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen database explorer - Postgres, MySQL, SQLite, MongoDB, &amp; Redis (3 days ago)
 - [th3jesta/ha-lcars](https://github.com/th3jesta/ha-lcars) - LCARS theme for Home Assistant (1 week ago)
 - [seanrmurphy/nix-container-build-gha](https://github.com/seanrmurphy/nix-container-build-gha) - Demo repo - building nix container image with github action (1 week ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [custom-cards/canvas-gauge-card](https://github.com/custom-cards/canvas-gauge-card) - The card makes it possible to use gauges from https://canvas-gauges.com/ (3 weeks ago)
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript (3 weeks ago)
 - [goofball222/unifi](https://github.com/goofball222/unifi) - UniFi Docker Container (3 weeks ago)
-- [squat/generic-device-plugin](https://github.com/squat/generic-device-plugin) - A Kubernetes device plugin to schedule generic Linux devices (3 weeks ago)
 
 ---
 
