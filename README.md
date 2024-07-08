@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (3 days ago)
+- [igorw/evenement](https://github.com/igorw/evenement) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/php-pool-info](https://github.com/WyriHaximus/php-pool-info) (3 days ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
+- [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (3 days ago)
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (4 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (5 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (5 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
 - [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (6 days ago)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 week ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
-- [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (1 week ago)
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 week ago)
-- [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (1 week ago)
+- [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (1 week ago)
 
 ---
 
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Added text eol=lf to .gitattributes](https://github.com/WyriHaximus/php-test-utilities/pull/922) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [Creation](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/1) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
 - [8.4 alpha1 is now upcoming](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/52) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
 - [Only run syntax check, unit tests, and mutation tests on all supported](https://github.com/WyriHaximus/php-test-utilities/pull/919) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Add 401 status to app error test](https://github.com/WyriHaximus/github-action-wait-for-status/pull/164) on [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (6 days ago)
 - [Switch to centralized release management workflows](https://github.com/WyriHaximus/github-action-wait-for-status/pull/163) on [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (6 days ago)
 - [Drop deprecated package: wyrihaximus/iterator-or-array-to-array](https://github.com/WyriHaximus/php-pool-info/pull/7) on [WyriHaximus/php-pool-info](https://github.com/WyriHaximus/php-pool-info) (6 days ago)
-- [[2.x] Type Callable arguments](https://github.com/reactphp-parallel/contracts/pull/9) on [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (6 days ago)
 
 ---
 
