@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Generative Plugin Executioner](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/3) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [Added text eol=lf to .gitattributes](https://github.com/WyriHaximus/php-test-utilities/pull/922) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [Creation](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/1) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
 - [8.4 alpha1 is now upcoming](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/52) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Switch to GitHub hosted base image](https://github.com/WyriHaximus/github-action-wait-for-status/pull/165) on [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (1 week ago)
 - [Add 401 status to app error test](https://github.com/WyriHaximus/github-action-wait-for-status/pull/164) on [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (1 week ago)
 - [Switch to centralized release management workflows](https://github.com/WyriHaximus/github-action-wait-for-status/pull/163) on [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (1 week ago)
-- [Drop deprecated package: wyrihaximus/iterator-or-array-to-array](https://github.com/WyriHaximus/php-pool-info/pull/7) on [WyriHaximus/php-pool-info](https://github.com/WyriHaximus/php-pool-info) (1 week ago)
 
 ---
 
