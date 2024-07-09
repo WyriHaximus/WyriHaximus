@@ -12,17 +12,17 @@ All new major package releases will be in PHP 8.2
 
 - [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [igorw/evenement](https://github.com/igorw/evenement) (1 day ago)
 - [WyriHaximus/php-pool-info](https://github.com/WyriHaximus/php-pool-info) (4 days ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (5 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (6 days ago)
 - [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (1 week ago)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 week ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
-- [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (1 week ago)
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 week ago)
 
 ---
 
