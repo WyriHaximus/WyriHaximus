@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-bd1a2cde4ef1f12a463c3206d4665fb8 from 1.1.4-ed9f9c8a528083c4f510bc9ec29e7cbc](https://github.com/php-api-clients/github-root/pull/1227) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Drop duplicate $osDestinationName](https://github.com/WyriHaximusNet/docker-php/pull/247) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-79d271b80da67ba121ac31c018476e9a from 1.1.4-a64005d8253466da5566a833f48e8713](https://github.com/php-api-clients/github-root/pull/1226) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [Generative Plugin Executioner](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/3) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
@@ -76,12 +77,12 @@ All new major package releases will be in PHP 8.2
 - [Drop unused nunomaduro/collision](https://github.com/WyriHaximus/php-test-utilities/pull/917) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-4fef0f9e03cf11aed96c1dfc31630f25 from 1.1.4-554d172cf98044b9f5c6d63efe52b97e](https://github.com/php-api-clients/github-root/pull/1223) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [Drop 32bit ARM support](https://github.com/WyriHaximus/github-action-wait-for-status/pull/167) on [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (1 week ago)
-- [Switch to GitHub hosted base image](https://github.com/WyriHaximus/github-action-wait-for-status/pull/165) on [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (1 week ago)
 
 ---
 
 #### ⭐ Recent Stars
 
+- [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a &#34;Vulnerable by Design&#34; cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀 (today)
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (2 days ago)
 - [TomasVotruba/phpstan-bodyscan](https://github.com/TomasVotruba/phpstan-bodyscan) - Get error count for each PHPStan level (2 days ago)
 - [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen database explorer - Postgres, MySQL, SQLite, MongoDB, &amp; Redis (5 days ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [custom-cards/decluttering-card](https://github.com/custom-cards/decluttering-card) - 🧹 Declutter your lovelace configuration with the help of this card (3 weeks ago)
 - [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) - Create your own Technology Radar: A static site generator for a full featured Technology Radar. Features: Quadrants, Rings, Dashboard, Radar Visualization, Item History, Search etc.. (3 weeks ago)
 - [custom-cards/canvas-gauge-card](https://github.com/custom-cards/canvas-gauge-card) - The card makes it possible to use gauges from https://canvas-gauges.com/ (3 weeks ago)
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript (3 weeks ago)
 
 ---
 
