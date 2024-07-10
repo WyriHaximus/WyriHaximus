@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Drop duplicate $osDestinationName](https://github.com/WyriHaximusNet/docker-php/pull/247) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-79d271b80da67ba121ac31c018476e9a from 1.1.4-a64005d8253466da5566a833f48e8713](https://github.com/php-api-clients/github-root/pull/1226) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [Generative Plugin Executioner](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/3) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
 - [Added text eol=lf to .gitattributes](https://github.com/WyriHaximus/php-test-utilities/pull/922) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-4fef0f9e03cf11aed96c1dfc31630f25 from 1.1.4-554d172cf98044b9f5c6d63efe52b97e](https://github.com/php-api-clients/github-root/pull/1223) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [Drop 32bit ARM support](https://github.com/WyriHaximus/github-action-wait-for-status/pull/167) on [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (1 week ago)
 - [Switch to GitHub hosted base image](https://github.com/WyriHaximus/github-action-wait-for-status/pull/165) on [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (1 week ago)
-- [Add 401 status to app error test](https://github.com/WyriHaximus/github-action-wait-for-status/pull/164) on [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (1 week ago)
 
 ---
 
