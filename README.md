@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[2.x] Down bump to PHP 8.1](https://github.com/reactphp-parallel/contracts/pull/11) on [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (today)
 - [[GitHub] Update to 1.1.4-bd1a2cde4ef1f12a463c3206d4665fb8 from 1.1.4-ed9f9c8a528083c4f510bc9ec29e7cbc](https://github.com/php-api-clients/github-root/pull/1227) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [Drop duplicate $osDestinationName](https://github.com/WyriHaximusNet/docker-php/pull/247) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-79d271b80da67ba121ac31c018476e9a from 1.1.4-a64005d8253466da5566a833f48e8713](https://github.com/php-api-clients/github-root/pull/1226) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-ed9f9c8a528083c4f510bc9ec29e7cbc from 1.1.4-81b4fcdf6c7b3f61c17f56a0c4f2231d](https://github.com/php-api-clients/github-root/pull/1224) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [Drop unused nunomaduro/collision](https://github.com/WyriHaximus/php-test-utilities/pull/917) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-4fef0f9e03cf11aed96c1dfc31630f25 from 1.1.4-554d172cf98044b9f5c6d63efe52b97e](https://github.com/php-api-clients/github-root/pull/1223) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [Drop 32bit ARM support](https://github.com/WyriHaximus/github-action-wait-for-status/pull/167) on [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (1 week ago)
 
 ---
 
