@@ -13,10 +13,10 @@ All new major package releases will be in PHP 8.2
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (3 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (3 days ago)
 - [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (3 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (3 days ago)
 - [igorw/evenement](https://github.com/igorw/evenement) (4 days ago)
 - [WyriHaximus/php-pool-info](https://github.com/WyriHaximus/php-pool-info) (1 week ago)
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (1 week ago)
@@ -126,6 +126,8 @@ All new major package releases will be in PHP 8.2
 
 #### 📫 How to reach me
 
-- Twitter: [@WyriHaximus](https://twitter.com/WyriHaximus)
 - Mastodon: [@wyri@haxim.us](https://toot-toot.wyrihaxim.us/@wyri)
+- [Blog](https://blog.wyrihaximus.net/)
+- The X formally known as Twitter: [@WyriHaximus](https://twitter.com/WyriHaximus)
+- [Website](https://wyrihaximus.net/)
 - Email: [github@ceesjankiewiet.nl](mailto:github@ceesjankiewiet.nl)
