@@ -59,6 +59,8 @@ All new major package releases will be in PHP 8.2
 
 #### 📫 How to reach me
 
-- Twitter: [@WyriHaximus](https://twitter.com/WyriHaximus)
 - Mastodon: [@wyri@haxim.us](https://toot-toot.wyrihaxim.us/@wyri)
+- [Blog](https://blog.wyrihaximus.net/)
+- The X formally known as Twitter: [@WyriHaximus](https://twitter.com/WyriHaximus)
+- [Website](https://wyrihaximus.net/)
 - Email: [github@ceesjankiewiet.nl](mailto:github@ceesjankiewiet.nl)
