@@ -60,7 +60,7 @@ All new major package releases will be in PHP 8.2
 #### 📫 How to reach me
 
 - Mastodon: [@wyri@haxim.us](https://toot-toot.wyrihaxim.us/@wyri)
-- [Blog](https://blog.wyrihaximus.net/)
+- Blog: [blog.wyrihaximus.net](https://blog.wyrihaximus.net/)
 - The X formally known as Twitter: [@WyriHaximus](https://twitter.com/WyriHaximus)
-- [Website](https://wyrihaximus.net/)
+- Website: [wyrihaximus.net](https://wyrihaximus.net/)
 - Email: [github@ceesjankiewiet.nl](mailto:github@ceesjankiewiet.nl)
