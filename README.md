@@ -46,6 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.0](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.0), today) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.24.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.24.0), 4 days ago) - 
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([8.0.5](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/8.0.5), 1 week ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([6.0.9](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.9), 1 week ago) - 
@@ -54,7 +55,6 @@ All new major package releases will be in PHP 8.2
 - [reactphp/dns](https://github.com/reactphp/dns) ([v1.13.0](https://github.com/reactphp/dns/releases/tag/v1.13.0), 1 month ago) - Async DNS resolver for ReactPHP.
 - [reactphp/stream](https://github.com/reactphp/stream) ([v1.4.0](https://github.com/reactphp/stream/releases/tag/v1.4.0), 1 month ago) - Event-driven readable and writable streams for non-blocking I/O in ReactPHP.
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) ([4.3.0](https://github.com/WyriHaximus/HtmlCompress/releases/tag/4.3.0), 1 month ago) - 
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.8.44](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.8.44), 1 month ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [reactphp/async](https://github.com/reactphp/async) ([v4.3.0](https://github.com/reactphp/async/releases/tag/v4.3.0), 1 month ago) - Async utilities and fibers for ReactPHP.
 - [reactphp/promise-timer](https://github.com/reactphp/promise-timer) ([v1.11.0](https://github.com/reactphp/promise-timer/releases/tag/v1.11.0), 1 month ago) - A trivial implementation of timeouts for Promises, built on top of ReactPHP.
 - [WyriHaximus/playground-github-action-mixed-js-docker](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker) ([v1.3.0](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker/releases/tag/v1.3.0), 1 month ago) - Playground to work on shared workflows
@@ -64,6 +64,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Introduce versions class](https://github.com/WyriHaximus/php-fake-php-version/pull/125) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
+- [Fix readme badges](https://github.com/WyriHaximus/php-fake-php-version/pull/124) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [Test across supported PHP versions in range](https://github.com/WyriHaximus/php-fake-php-version/pull/118) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
 - [Unlock PHP 8](https://github.com/WyriHaximus/php-fake-php-version/pull/117) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-354bdd6e24f33acc7638d9ddbf2fce07 from 1.1.4-79d271b80da67ba121ac31c018476e9a](https://github.com/php-api-clients/github-root/pull/1229) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
@@ -75,8 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Generative Plugin Executioner](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/3) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (4 days ago)
 - [Added text eol=lf to .gitattributes](https://github.com/WyriHaximus/php-test-utilities/pull/922) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
 - [Creation](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/1) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (6 days ago)
-- [8.4 alpha1 is now upcoming](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/52) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (6 days ago)
-- [Only run syntax check, unit tests, and mutation tests on all supported](https://github.com/WyriHaximus/php-test-utilities/pull/919) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 
 ---
 
