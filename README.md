@@ -46,7 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.0](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.0), today) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.1](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.1), today) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.24.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.24.0), 4 days ago) - 
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([8.0.5](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/8.0.5), 1 week ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([6.0.9](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.9), 1 week ago) - 
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Detect lowest supported PHP version automatically and generate on that](https://github.com/WyriHaximus/php-fake-php-version/pull/126) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [Add ext-random](https://github.com/WyriHaximusNet/docker-php/pull/248) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Introduce versions class](https://github.com/WyriHaximus/php-fake-php-version/pull/125) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [Fix readme badges](https://github.com/WyriHaximus/php-fake-php-version/pull/124) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Drop duplicate $osDestinationName](https://github.com/WyriHaximusNet/docker-php/pull/247) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-79d271b80da67ba121ac31c018476e9a from 1.1.4-a64005d8253466da5566a833f48e8713](https://github.com/php-api-clients/github-root/pull/1226) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [Generative Plugin Executioner](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/3) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (4 days ago)
-- [Added text eol=lf to .gitattributes](https://github.com/WyriHaximus/php-test-utilities/pull/922) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
 
 ---
 
