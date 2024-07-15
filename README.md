@@ -14,10 +14,10 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (6 days ago)
-- [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (6 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (6 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (6 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
+- [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (6 days ago)
 - [igorw/evenement](https://github.com/igorw/evenement) (1 week ago)
 - [WyriHaximus/php-pool-info](https://github.com/WyriHaximus/php-pool-info) (1 week ago)
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (1 week ago)
@@ -64,6 +64,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Switch to centralized GitHub Actions Workflows](https://github.com/WyriHaximus/php-list-classes-in-directory/pull/63) on [WyriHaximus/php-list-classes-in-directory](https://github.com/WyriHaximus/php-list-classes-in-directory) (today)
+- [Introduce class based API](https://github.com/WyriHaximus/php-list-classes-in-directory/pull/61) on [WyriHaximus/php-list-classes-in-directory](https://github.com/WyriHaximus/php-list-classes-in-directory) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-a9a79e364b853c47d43f74efabc55fe4 from 1.1.4-354bdd6e24f33acc7638d9ddbf2fce07](https://github.com/php-api-clients/github-root/pull/1231) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-c956dacd1ed3014e8efb91f1eb6a337d from 1.1.4-12b8dbc76c459480c3e846bc22d32615](https://github.com/php-api-clients/github-root/pull/1230) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Detect lowest supported PHP version automatically and generate on that](https://github.com/WyriHaximus/php-fake-php-version/pull/126) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
@@ -75,8 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-354bdd6e24f33acc7638d9ddbf2fce07 from 1.1.4-79d271b80da67ba121ac31c018476e9a](https://github.com/php-api-clients/github-root/pull/1229) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHub] Update to 1.1.4-12b8dbc76c459480c3e846bc22d32615 from 1.1.4-bd1a2cde4ef1f12a463c3206d4665fb8](https://github.com/php-api-clients/github-root/pull/1228) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[2.x] Down bump to PHP 8.1](https://github.com/reactphp-parallel/contracts/pull/11) on [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (4 days ago)
-- [[GitHub] Update to 1.1.4-bd1a2cde4ef1f12a463c3206d4665fb8 from 1.1.4-ed9f9c8a528083c4f510bc9ec29e7cbc](https://github.com/php-api-clients/github-root/pull/1227) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
-- [Drop duplicate $osDestinationName](https://github.com/WyriHaximusNet/docker-php/pull/247) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
 
 ---
 
