@@ -10,8 +10,8 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (6 days ago)
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-a9a79e364b853c47d43f74efabc55fe4 from 1.1.4-354bdd6e24f33acc7638d9ddbf2fce07](https://github.com/php-api-clients/github-root/pull/1231) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-c956dacd1ed3014e8efb91f1eb6a337d from 1.1.4-12b8dbc76c459480c3e846bc22d32615](https://github.com/php-api-clients/github-root/pull/1230) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Detect lowest supported PHP version automatically and generate on that](https://github.com/WyriHaximus/php-fake-php-version/pull/126) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
 - [Add ext-random](https://github.com/WyriHaximusNet/docker-php/pull/248) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[2.x] Down bump to PHP 8.1](https://github.com/reactphp-parallel/contracts/pull/11) on [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (4 days ago)
 - [[GitHub] Update to 1.1.4-bd1a2cde4ef1f12a463c3206d4665fb8 from 1.1.4-ed9f9c8a528083c4f510bc9ec29e7cbc](https://github.com/php-api-clients/github-root/pull/1227) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [Drop duplicate $osDestinationName](https://github.com/WyriHaximusNet/docker-php/pull/247) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-79d271b80da67ba121ac31c018476e9a from 1.1.4-a64005d8253466da5566a833f48e8713](https://github.com/php-api-clients/github-root/pull/1226) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 
 ---
 
