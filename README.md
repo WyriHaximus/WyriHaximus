@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-01b3a10116bf0a1ac4be25bb7b236bf7 from 1.1.4-a9a79e364b853c47d43f74efabc55fe4](https://github.com/php-api-clients/github-root/pull/1232) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Switch to centralized GitHub Actions Workflows](https://github.com/WyriHaximus/php-list-classes-in-directory/pull/63) on [WyriHaximus/php-list-classes-in-directory](https://github.com/WyriHaximus/php-list-classes-in-directory) (1 day ago)
 - [Introduce class based API](https://github.com/WyriHaximus/php-list-classes-in-directory/pull/61) on [WyriHaximus/php-list-classes-in-directory](https://github.com/WyriHaximus/php-list-classes-in-directory) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-a9a79e364b853c47d43f74efabc55fe4 from 1.1.4-354bdd6e24f33acc7638d9ddbf2fce07](https://github.com/php-api-clients/github-root/pull/1231) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Unlock PHP 8](https://github.com/WyriHaximus/php-fake-php-version/pull/117) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (4 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-354bdd6e24f33acc7638d9ddbf2fce07 from 1.1.4-79d271b80da67ba121ac31c018476e9a](https://github.com/php-api-clients/github-root/pull/1229) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [[GitHub] Update to 1.1.4-12b8dbc76c459480c3e846bc22d32615 from 1.1.4-bd1a2cde4ef1f12a463c3206d4665fb8](https://github.com/php-api-clients/github-root/pull/1228) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
-- [[2.x] Down bump to PHP 8.1](https://github.com/reactphp-parallel/contracts/pull/11) on [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (5 days ago)
 
 ---
 
