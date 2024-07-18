@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Drop verbose from cp call](https://github.com/github/docs/pull/34015) on [github/docs](https://github.com/github/docs) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-01b3a10116bf0a1ac4be25bb7b236bf7 from 1.1.4-a9a79e364b853c47d43f74efabc55fe4](https://github.com/php-api-clients/github-root/pull/1232) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [Switch to centralized GitHub Actions Workflows](https://github.com/WyriHaximus/php-list-classes-in-directory/pull/63) on [WyriHaximus/php-list-classes-in-directory](https://github.com/WyriHaximus/php-list-classes-in-directory) (3 days ago)
 - [Introduce class based API](https://github.com/WyriHaximus/php-list-classes-in-directory/pull/61) on [WyriHaximus/php-list-classes-in-directory](https://github.com/WyriHaximus/php-list-classes-in-directory) (3 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Test across supported PHP versions in range](https://github.com/WyriHaximus/php-fake-php-version/pull/118) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (6 days ago)
 - [Unlock PHP 8](https://github.com/WyriHaximus/php-fake-php-version/pull/117) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (6 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-354bdd6e24f33acc7638d9ddbf2fce07 from 1.1.4-79d271b80da67ba121ac31c018476e9a](https://github.com/php-api-clients/github-root/pull/1229) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [[GitHub] Update to 1.1.4-12b8dbc76c459480c3e846bc22d32615 from 1.1.4-bd1a2cde4ef1f12a463c3206d4665fb8](https://github.com/php-api-clients/github-root/pull/1228) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
@@ -116,11 +116,11 @@ All new major package releases will be in PHP 8.2
 
 #### 👯 Check out some of my recent followers
 
+- [vintagewang](https://github.com/vintagewang)
 - [fox-hassam](https://github.com/fox-hassam)
 - [RustChainBuilder](https://github.com/RustChainBuilder)
 - [davisenra](https://github.com/davisenra)
 - [hu8813](https://github.com/hu8813)
-- [sammorozov](https://github.com/sammorozov)
 
 ---
 
