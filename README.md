@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-a0f103fbdfbd51bde7455e34664c5ba3 from 1.1.4-c956dacd1ed3014e8efb91f1eb6a337d](https://github.com/php-api-clients/github-root/pull/1233) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Drop verbose from cp call](https://github.com/github/docs/pull/34015) on [github/docs](https://github.com/github/docs) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-01b3a10116bf0a1ac4be25bb7b236bf7 from 1.1.4-a9a79e364b853c47d43f74efabc55fe4](https://github.com/php-api-clients/github-root/pull/1232) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [Switch to centralized GitHub Actions Workflows](https://github.com/WyriHaximus/php-list-classes-in-directory/pull/63) on [WyriHaximus/php-list-classes-in-directory](https://github.com/WyriHaximus/php-list-classes-in-directory) (4 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Fix readme badges](https://github.com/WyriHaximus/php-fake-php-version/pull/124) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (6 days ago)
 - [Test across supported PHP versions in range](https://github.com/WyriHaximus/php-fake-php-version/pull/118) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [Unlock PHP 8](https://github.com/WyriHaximus/php-fake-php-version/pull/117) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-354bdd6e24f33acc7638d9ddbf2fce07 from 1.1.4-79d271b80da67ba121ac31c018476e9a](https://github.com/php-api-clients/github-root/pull/1229) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
