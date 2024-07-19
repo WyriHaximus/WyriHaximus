@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut (today)
 - [blampe/goat](https://github.com/blampe/goat) - Render ASCII art as SVG diagrams (6 days ago)
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a &#34;Vulnerable by Design&#34; cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀 (1 week ago)
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 week ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [mulder82/TNDisplay](https://github.com/mulder82/TNDisplay) - Complete project for build wireless touch display to control HomeAssistant powered SmartHome. (3 weeks ago)
 - [SupremeSports/HA-Domotic](https://github.com/SupremeSports/HA-Domotic) - My Home Automation using Home Assistant and DIY IoT devices (4 weeks ago)
 - [custom-cards/decluttering-card](https://github.com/custom-cards/decluttering-card) - 🧹 Declutter your lovelace configuration with the help of this card (1 month ago)
-- [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) - Create your own Technology Radar: A static site generator for a full featured Technology Radar. Features: Quadrants, Rings, Dashboard, Radar Visualization, Item History, Search etc.. (1 month ago)
 
 ---
 
