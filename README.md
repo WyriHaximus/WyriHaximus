@@ -11,10 +11,10 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [WyriHaximus/php-list-classes-in-directory](https://github.com/WyriHaximus/php-list-classes-in-directory) (3 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (6 days ago)
 - [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (1 week ago)
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-c0c105796e9d1dc06a29e146077e02a1 from 1.1.4-01b3a10116bf0a1ac4be25bb7b236bf7](https://github.com/php-api-clients/github-root/pull/1234) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-a0f103fbdfbd51bde7455e34664c5ba3 from 1.1.4-c956dacd1ed3014e8efb91f1eb6a337d](https://github.com/php-api-clients/github-root/pull/1233) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Drop verbose from cp call](https://github.com/github/docs/pull/34015) on [github/docs](https://github.com/github/docs) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-01b3a10116bf0a1ac4be25bb7b236bf7 from 1.1.4-a9a79e364b853c47d43f74efabc55fe4](https://github.com/php-api-clients/github-root/pull/1232) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Introduce versions class](https://github.com/WyriHaximus/php-fake-php-version/pull/125) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (6 days ago)
 - [Fix readme badges](https://github.com/WyriHaximus/php-fake-php-version/pull/124) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (6 days ago)
 - [Test across supported PHP versions in range](https://github.com/WyriHaximus/php-fake-php-version/pull/118) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
-- [Unlock PHP 8](https://github.com/WyriHaximus/php-fake-php-version/pull/117) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 
 ---
 
