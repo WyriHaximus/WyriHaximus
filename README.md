@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-aa24377344d6471ce1e177feecf11db1 from 1.1.4-0336551e2d2d85984cfed5879256ad77](https://github.com/php-api-clients/github-root/pull/1238) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-a5a20c93e8ace47c79943304e911cf70 from 1.1.4-ee23af97204cde51d4c62161bf274df2](https://github.com/php-api-clients/github-root/pull/1237) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Down bump to PHP 8.1](https://github.com/reactphp-parallel/streams/pull/40) on [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (today)
 - [[4.x] Down bump to PHP 8.1](https://github.com/reactphp-parallel/pool-tests/pull/55) on [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (today)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-a0f103fbdfbd51bde7455e34664c5ba3 from 1.1.4-c956dacd1ed3014e8efb91f1eb6a337d](https://github.com/php-api-clients/github-root/pull/1233) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [Drop verbose from cp call](https://github.com/github/docs/pull/34015) on [github/docs](https://github.com/github/docs) (5 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-01b3a10116bf0a1ac4be25bb7b236bf7 from 1.1.4-a9a79e364b853c47d43f74efabc55fe4](https://github.com/php-api-clients/github-root/pull/1232) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [Switch to centralized GitHub Actions Workflows](https://github.com/WyriHaximus/php-list-classes-in-directory/pull/63) on [WyriHaximus/php-list-classes-in-directory](https://github.com/WyriHaximus/php-list-classes-in-directory) (1 week ago)
 
 ---
 
