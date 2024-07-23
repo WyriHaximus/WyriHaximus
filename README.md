@@ -10,8 +10,9 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (today)
 - [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (today)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (today)
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
@@ -21,7 +22,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (6 days ago)
 - [WyriHaximus/php-list-classes-in-directory](https://github.com/WyriHaximus/php-list-classes-in-directory) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
-- [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (2 weeks ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 weeks ago)
 
 ---
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Down bump to PHP 8.1](https://github.com/reactphp-parallel/streams/pull/40) on [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (today)
 - [[4.x] Down bump to PHP 8.1](https://github.com/reactphp-parallel/pool-tests/pull/55) on [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-0336551e2d2d85984cfed5879256ad77 from 1.1.4-c0c105796e9d1dc06a29e146077e02a1](https://github.com/php-api-clients/github-root/pull/1236) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-ee23af97204cde51d4c62161bf274df2 from 1.1.4-a0f103fbdfbd51bde7455e34664c5ba3](https://github.com/php-api-clients/github-root/pull/1235) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-01b3a10116bf0a1ac4be25bb7b236bf7 from 1.1.4-a9a79e364b853c47d43f74efabc55fe4](https://github.com/php-api-clients/github-root/pull/1232) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [Switch to centralized GitHub Actions Workflows](https://github.com/WyriHaximus/php-list-classes-in-directory/pull/63) on [WyriHaximus/php-list-classes-in-directory](https://github.com/WyriHaximus/php-list-classes-in-directory) (1 week ago)
 - [Introduce class based API](https://github.com/WyriHaximus/php-list-classes-in-directory/pull/61) on [WyriHaximus/php-list-classes-in-directory](https://github.com/WyriHaximus/php-list-classes-in-directory) (1 week ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-a9a79e364b853c47d43f74efabc55fe4 from 1.1.4-354bdd6e24f33acc7638d9ddbf2fce07](https://github.com/php-api-clients/github-root/pull/1231) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
