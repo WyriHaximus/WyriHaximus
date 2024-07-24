@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (today)
+- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (today)
 - [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (today)
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (1 day ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
+- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (1 day ago)
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (1 day ago)
 - [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 day ago)
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (1 day ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (3 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (6 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
-- [WyriHaximus/php-list-classes-in-directory](https://github.com/WyriHaximus/php-list-classes-in-directory) (1 week ago)
 
 ---
 
