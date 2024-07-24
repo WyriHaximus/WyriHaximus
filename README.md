@@ -82,6 +82,8 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [skydiablo/reactphp-unifi-api-client](https://github.com/skydiablo/reactphp-unifi-api-client) -  (today)
+- [clementtalleu/php-redis-om](https://github.com/clementtalleu/php-redis-om) - A PHP object mapper for redis (today)
 - [Redocly/museum-openapi-example](https://github.com/Redocly/museum-openapi-example) - An example OpenAPI description for an imaginary Museum API.  (2 days ago)
 - [stephank/composer-plugin-nixify](https://github.com/stephank/composer-plugin-nixify) - Composer plugin to help with Nix packaging (4 days ago)
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox] (4 days ago)
@@ -93,8 +95,6 @@ All new major package releases will be in PHP 8.2
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (2 weeks ago)
 - [TomasVotruba/phpstan-bodyscan](https://github.com/TomasVotruba/phpstan-bodyscan) - Get error count for each PHPStan level (2 weeks ago)
 - [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen database explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB &amp; Elastic Search (2 weeks ago)
-- [th3jesta/ha-lcars](https://github.com/th3jesta/ha-lcars) - LCARS theme for Home Assistant (3 weeks ago)
-- [seanrmurphy/nix-container-build-gha](https://github.com/seanrmurphy/nix-container-build-gha) - Demo repo - building nix container image with github action (3 weeks ago)
 
 ---
 
