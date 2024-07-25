@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Updated rabbitmq chart for RabbitMQ 3.13.6](https://github.com/groundhog2k/helm-charts/pull/1379) on [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) (today)
 - [Down bump to PHP 8.1](https://github.com/reactphp-parallel/reactphp-parallel/pull/54) on [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (1 day ago)
 - [Down bump to PHP 8.1](https://github.com/reactphp-parallel/limited-pool/pull/54) on [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-aa24377344d6471ce1e177feecf11db1 from 1.1.4-0336551e2d2d85984cfed5879256ad77](https://github.com/php-api-clients/github-root/pull/1238) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[2.x] Bump down to PHP 8.1](https://github.com/reactphp-parallel/event-loop/pull/56) on [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (5 days ago)
 - [Down bump to PHP 8.1](https://github.com/reactphp-parallel/infinite-pool/pull/57) on [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (5 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-c0c105796e9d1dc06a29e146077e02a1 from 1.1.4-01b3a10116bf0a1ac4be25bb7b236bf7](https://github.com/php-api-clients/github-root/pull/1234) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
-- [[GitHub] Update to 1.1.4-a0f103fbdfbd51bde7455e34664c5ba3 from 1.1.4-c956dacd1ed3014e8efb91f1eb6a337d](https://github.com/php-api-clients/github-root/pull/1233) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 
 ---
 
