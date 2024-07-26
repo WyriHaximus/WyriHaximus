@@ -10,9 +10,9 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [reactphp/socket](https://github.com/reactphp/socket) (1 day ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (2 days ago)
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (2 days ago)
 - [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (2 days ago)
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-fb4f59d4f7690940a5768a05bb3a93e7 from 1.1.4-aa24377344d6471ce1e177feecf11db1](https://github.com/php-api-clients/github-root/pull/1240) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-64034f0aaa76d6090b5eb70ffe778e12 from 1.1.4-a5a20c93e8ace47c79943304e911cf70](https://github.com/php-api-clients/github-root/pull/1239) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Updated rabbitmq chart for RabbitMQ 3.13.6](https://github.com/groundhog2k/helm-charts/pull/1379) on [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) (1 day ago)
 - [Down bump to PHP 8.1](https://github.com/reactphp-parallel/reactphp-parallel/pull/54) on [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-ee23af97204cde51d4c62161bf274df2 from 1.1.4-a0f103fbdfbd51bde7455e34664c5ba3](https://github.com/php-api-clients/github-root/pull/1235) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[3.x] Down bumpto PHP 8.1](https://github.com/reactphp-parallel/runtime/pull/65) on [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (6 days ago)
 - [[2.x] Bump down to PHP 8.1](https://github.com/reactphp-parallel/event-loop/pull/56) on [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (6 days ago)
-- [Down bump to PHP 8.1](https://github.com/reactphp-parallel/infinite-pool/pull/57) on [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (6 days ago)
 
 ---
 
