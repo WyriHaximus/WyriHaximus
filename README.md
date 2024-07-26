@@ -46,6 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [reactphp/socket](https://github.com/reactphp/socket) ([v1.16.0](https://github.com/reactphp/socket/releases/tag/v1.16.0), today) - Async, streaming plaintext TCP/IP and secure TLS socket server and client connections for ReactPHP.
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([rabbitmq-1.1.6](https://github.com/groundhog2k/helm-charts/releases/tag/rabbitmq-1.1.6), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-list-classes-in-directory](https://github.com/WyriHaximus/php-list-classes-in-directory) ([1.7.0](https://github.com/WyriHaximus/php-list-classes-in-directory/releases/tag/1.7.0), 1 week ago) - Allows you to list full qualified class names in directories and files.
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.1](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.1), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
@@ -58,7 +59,6 @@ All new major package releases will be in PHP 8.2
 - [reactphp/stream](https://github.com/reactphp/stream) ([v1.4.0](https://github.com/reactphp/stream/releases/tag/v1.4.0), 1 month ago) - Event-driven readable and writable streams for non-blocking I/O in ReactPHP.
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) ([4.3.0](https://github.com/WyriHaximus/HtmlCompress/releases/tag/4.3.0), 1 month ago) - 
 - [reactphp/async](https://github.com/reactphp/async) ([v4.3.0](https://github.com/reactphp/async/releases/tag/v4.3.0), 1 month ago) - Async utilities and fibers for ReactPHP.
-- [reactphp/promise-timer](https://github.com/reactphp/promise-timer) ([v1.11.0](https://github.com/reactphp/promise-timer/releases/tag/v1.11.0), 1 month ago) - A trivial implementation of timeouts for Promises, built on top of ReactPHP.
 
 ---
 
