@@ -10,17 +10,17 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [reactphp/socket](https://github.com/reactphp/socket) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [reactphp/socket](https://github.com/reactphp/socket) (1 day ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (2 days ago)
 - [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (2 days ago)
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (2 days ago)
-- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (3 days ago)
-- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (3 days ago)
-- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (3 days ago)
+- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (2 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (3 days ago)
+- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (3 days ago)
+- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (3 days ago)
+- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (3 days ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (5 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
 
@@ -46,6 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([rabbitmq-1.1.6](https://github.com/groundhog2k/helm-charts/releases/tag/rabbitmq-1.1.6), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-list-classes-in-directory](https://github.com/WyriHaximus/php-list-classes-in-directory) ([1.7.0](https://github.com/WyriHaximus/php-list-classes-in-directory/releases/tag/1.7.0), 1 week ago) - Allows you to list full qualified class names in directories and files.
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.1](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.1), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.24.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.24.0), 2 weeks ago) - 
@@ -58,7 +59,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) ([4.3.0](https://github.com/WyriHaximus/HtmlCompress/releases/tag/4.3.0), 1 month ago) - 
 - [reactphp/async](https://github.com/reactphp/async) ([v4.3.0](https://github.com/reactphp/async/releases/tag/v4.3.0), 1 month ago) - Async utilities and fibers for ReactPHP.
 - [reactphp/promise-timer](https://github.com/reactphp/promise-timer) ([v1.11.0](https://github.com/reactphp/promise-timer/releases/tag/v1.11.0), 1 month ago) - A trivial implementation of timeouts for Promises, built on top of ReactPHP.
-- [WyriHaximus/playground-github-action-mixed-js-docker](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker) ([v1.3.0](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker/releases/tag/v1.3.0), 1 month ago) - Playground to work on shared workflows
 
 ---
 
