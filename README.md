@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [dantleech/docbot](https://github.com/dantleech/docbot) -  (today)
 - [skydiablo/reactphp-unifi-api-client](https://github.com/skydiablo/reactphp-unifi-api-client) -  (3 days ago)
 - [clementtalleu/php-redis-om](https://github.com/clementtalleu/php-redis-om) - A PHP object mapper for redis (3 days ago)
 - [Redocly/museum-openapi-example](https://github.com/Redocly/museum-openapi-example) - An example OpenAPI description for an imaginary Museum API.  (5 days ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a &#34;Vulnerable by Design&#34; cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀 (2 weeks ago)
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (2 weeks ago)
 - [TomasVotruba/phpstan-bodyscan](https://github.com/TomasVotruba/phpstan-bodyscan) - Get error count for each PHPStan level (2 weeks ago)
-- [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen database explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB &amp; Elastic Search (3 weeks ago)
 
 ---
 
