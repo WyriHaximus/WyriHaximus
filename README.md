@@ -17,10 +17,10 @@ All new major package releases will be in PHP 8.2
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (6 days ago)
 - [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (6 days ago)
 - [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (6 days ago)
+- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 week ago)
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (1 week ago)
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (1 week ago)
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (1 week ago)
-- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 week ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 week ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
 
