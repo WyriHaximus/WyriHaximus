@@ -14,15 +14,15 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
-- [reactphp/socket](https://github.com/reactphp/socket) (6 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
+- [reactphp/socket](https://github.com/reactphp/socket) (6 days ago)
+- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (1 week ago)
 - [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (1 week ago)
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (1 week ago)
-- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (1 week ago)
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (1 week ago)
+- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (1 week ago)
 - [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 week ago)
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (1 week ago)
-- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (1 week ago)
 
 ---
 
@@ -46,6 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) ([2.0.0](https://github.com/MammatusPHP/cron-attributes/releases/tag/2.0.0), today) - Cron manager attributes
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([redis-1.3.1](https://github.com/groundhog2k/helm-charts/releases/tag/redis-1.3.1), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [reactphp/socket](https://github.com/reactphp/socket) ([v1.16.0](https://github.com/reactphp/socket/releases/tag/v1.16.0), 5 days ago) - Async, streaming plaintext TCP/IP and secure TLS socket server and client connections for ReactPHP.
 - [WyriHaximus/php-list-classes-in-directory](https://github.com/WyriHaximus/php-list-classes-in-directory) ([1.7.0](https://github.com/WyriHaximus/php-list-classes-in-directory/releases/tag/1.7.0), 2 weeks ago) - Allows you to list full qualified class names in directories and files.
@@ -58,12 +59,12 @@ All new major package releases will be in PHP 8.2
 - [reactphp/dns](https://github.com/reactphp/dns) ([v1.13.0](https://github.com/reactphp/dns/releases/tag/v1.13.0), 1 month ago) - Async DNS resolver for ReactPHP.
 - [reactphp/stream](https://github.com/reactphp/stream) ([v1.4.0](https://github.com/reactphp/stream/releases/tag/v1.4.0), 1 month ago) - Event-driven readable and writable streams for non-blocking I/O in ReactPHP.
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) ([4.3.0](https://github.com/WyriHaximus/HtmlCompress/releases/tag/4.3.0), 1 month ago) - 
-- [reactphp/async](https://github.com/reactphp/async) ([v4.3.0](https://github.com/reactphp/async/releases/tag/v4.3.0), 1 month ago) - Async utilities and fibers for ReactPHP.
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Add AddOn Support](https://github.com/MammatusPHP/cron-attributes/pull/4) on [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-5ebfc5c2a69a8e68eadbe18dfa04e5f0 from 1.1.4-fb4f59d4f7690940a5768a05bb3a93e7](https://github.com/php-api-clients/github-root/pull/1242) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHub] Update to 1.1.4-1f428455b4cea06755dbb12f469fc171 from 1.1.4-64034f0aaa76d6090b5eb70ffe778e12](https://github.com/php-api-clients/github-root/pull/1241) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-fb4f59d4f7690940a5768a05bb3a93e7 from 1.1.4-aa24377344d6471ce1e177feecf11db1](https://github.com/php-api-clients/github-root/pull/1240) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Down bump to PHP 8.1](https://github.com/reactphp-parallel/streams/pull/40) on [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (1 week ago)
 - [[4.x] Down bump to PHP 8.1](https://github.com/reactphp-parallel/pool-tests/pull/55) on [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (1 week ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-0336551e2d2d85984cfed5879256ad77 from 1.1.4-c0c105796e9d1dc06a29e146077e02a1](https://github.com/php-api-clients/github-root/pull/1236) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [[GitHub] Update to 1.1.4-ee23af97204cde51d4c62161bf274df2 from 1.1.4-a0f103fbdfbd51bde7455e34664c5ba3](https://github.com/php-api-clients/github-root/pull/1235) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
