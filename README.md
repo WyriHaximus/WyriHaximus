@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac. (today)
 - [ssoready/ssoready](https://github.com/ssoready/ssoready) - Open-source dev tools for enterprise SSO. Ship SAML support this afternoon. (1 day ago)
 - [9gustin/react-notion-render](https://github.com/9gustin/react-notion-render) - A library to render notion pages (1 day ago)
 - [dantleech/docbot](https://github.com/dantleech/docbot) -  (6 days ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻ (1 week ago)
 - [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut (2 weeks ago)
 - [blampe/goat](https://github.com/blampe/goat) - Render ASCII art as SVG diagrams (2 weeks ago)
-- [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a &#34;Vulnerable by Design&#34; cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀 (3 weeks ago)
 
 ---
 
