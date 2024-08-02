@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-258d33610c11c1d10d29617d894e1ce8 from 1.1.4-1f428455b4cea06755dbb12f469fc171](https://github.com/php-api-clients/github-root/pull/1243) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Add AddOn Support](https://github.com/MammatusPHP/cron-attributes/pull/4) on [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (2 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-5ebfc5c2a69a8e68eadbe18dfa04e5f0 from 1.1.4-fb4f59d4f7690940a5768a05bb3a93e7](https://github.com/php-api-clients/github-root/pull/1242) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 - [[GitHub] Update to 1.1.4-1f428455b4cea06755dbb12f469fc171 from 1.1.4-64034f0aaa76d6090b5eb70ffe778e12](https://github.com/php-api-clients/github-root/pull/1241) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-a5a20c93e8ace47c79943304e911cf70 from 1.1.4-ee23af97204cde51d4c62161bf274df2](https://github.com/php-api-clients/github-root/pull/1237) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [Down bump to PHP 8.1](https://github.com/reactphp-parallel/streams/pull/40) on [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (1 week ago)
 - [[4.x] Down bump to PHP 8.1](https://github.com/reactphp-parallel/pool-tests/pull/55) on [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (1 week ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-0336551e2d2d85984cfed5879256ad77 from 1.1.4-c0c105796e9d1dc06a29e146077e02a1](https://github.com/php-api-clients/github-root/pull/1236) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
