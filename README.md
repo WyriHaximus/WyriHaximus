@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [ginger51011/pandoras_pot](https://github.com/ginger51011/pandoras_pot) - A HellPot inspired HTTP honeypot to punish and educate unruly web crawlers, written in Rust (🚀) (today)
 - [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac. (1 day ago)
 - [ssoready/ssoready](https://github.com/ssoready/ssoready) - Open-source dev tools for enterprise SSO. Ship SAML support this afternoon. (2 days ago)
 - [9gustin/react-notion-render](https://github.com/9gustin/react-notion-render) - A library to render notion pages (2 days ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily (2 weeks ago)
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻ (2 weeks ago)
 - [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut (2 weeks ago)
-- [blampe/goat](https://github.com/blampe/goat) - Render ASCII art as SVG diagrams (3 weeks ago)
 
 ---
 
