@@ -86,7 +86,7 @@ All new major package releases will be in PHP 8.2
 - [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac. (2 days ago)
 - [ssoready/ssoready](https://github.com/ssoready/ssoready) - Open-source dev tools for enterprise SSO. Ship SAML support this afternoon. (3 days ago)
 - [9gustin/react-notion-render](https://github.com/9gustin/react-notion-render) - A library to render notion pages (3 days ago)
-- [dantleech/docbot](https://github.com/dantleech/docbot) -  (1 week ago)
+- [dantleech/docbot](https://github.com/dantleech/docbot) - Documentation as Code (1 week ago)
 - [skydiablo/reactphp-unifi-api-client](https://github.com/skydiablo/reactphp-unifi-api-client) -  (1 week ago)
 - [clementtalleu/php-redis-om](https://github.com/clementtalleu/php-redis-om) - A PHP object mapper for redis (1 week ago)
 - [Redocly/museum-openapi-example](https://github.com/Redocly/museum-openapi-example) - An example OpenAPI description for an imaginary Museum API.  (1 week ago)
