@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (today)
 - [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (today)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (6 days ago)
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (6 days ago)
 - [reactphp/socket](https://github.com/reactphp/socket) (1 week ago)
 - [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (1 week ago)
-- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (1 week ago)
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (1 week ago)
-- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (2 weeks ago)
+- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (1 week ago)
 
 ---
 
@@ -46,12 +46,12 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.25](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.25), today) - 
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([valkey-1.0.2](https://github.com/groundhog2k/helm-charts/releases/tag/valkey-1.0.2), 3 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) ([2.0.0](https://github.com/MammatusPHP/cron-attributes/releases/tag/2.0.0), 6 days ago) - Cron manager attributes
 - [reactphp/socket](https://github.com/reactphp/socket) ([v1.16.0](https://github.com/reactphp/socket/releases/tag/v1.16.0), 1 week ago) - Async, streaming plaintext TCP/IP and secure TLS socket server and client connections for ReactPHP.
 - [WyriHaximus/php-list-classes-in-directory](https://github.com/WyriHaximus/php-list-classes-in-directory) ([1.7.0](https://github.com/WyriHaximus/php-list-classes-in-directory/releases/tag/1.7.0), 3 weeks ago) - Allows you to list full qualified class names in directories and files.
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.1](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.1), 3 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.24.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.24.0), 4 weeks ago) - 
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([8.0.5](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/8.0.5), 1 month ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([6.0.9](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.9), 1 month ago) - 
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r49](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r49), 1 month ago) - 
