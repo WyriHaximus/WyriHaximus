@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (6 days ago)
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (6 days ago)
 - [reactphp/socket](https://github.com/reactphp/socket) (1 week ago)
+- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (1 week ago)
 - [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (1 week ago)
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (1 week ago)
-- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (1 week ago)
-- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (2 weeks ago)
 - [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (2 weeks ago)
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (2 weeks ago)
 
 ---
 
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [FIleGenerators need the namespaced representation](https://github.com/php-openapi-tools/contract/pull/1) on [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (today)
 - [Set prefer-stable and minimum-stability for can require](https://github.com/WyriHaximus/github-workflows/pull/36) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-b27c55fe8bd2fdd9a35c169d7fc9ddf7 from 1.1.4-5ebfc5c2a69a8e68eadbe18dfa04e5f0](https://github.com/php-api-clients/github-root/pull/1244) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [Add support for namespaced representation](https://github.com/php-openapi-tools/representation/pull/1) on [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (4 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Updated rabbitmq chart for RabbitMQ 3.13.6](https://github.com/groundhog2k/helm-charts/pull/1379) on [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) (1 week ago)
 - [Down bump to PHP 8.1](https://github.com/reactphp-parallel/reactphp-parallel/pull/54) on [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (1 week ago)
 - [Down bump to PHP 8.1](https://github.com/reactphp-parallel/limited-pool/pull/54) on [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (1 week ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-aa24377344d6471ce1e177feecf11db1 from 1.1.4-0336551e2d2d85984cfed5879256ad77](https://github.com/php-api-clients/github-root/pull/1238) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 weeks ago)
 
 ---
 
