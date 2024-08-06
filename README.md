@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Update 8.4 to alpha2](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/54) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
 - [FIleGenerators need the namespaced representation](https://github.com/php-openapi-tools/contract/pull/1) on [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (today)
 - [Set prefer-stable and minimum-stability for can require](https://github.com/WyriHaximus/github-workflows/pull/36) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-b27c55fe8bd2fdd9a35c169d7fc9ddf7 from 1.1.4-5ebfc5c2a69a8e68eadbe18dfa04e5f0](https://github.com/php-api-clients/github-root/pull/1244) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-64034f0aaa76d6090b5eb70ffe778e12 from 1.1.4-a5a20c93e8ace47c79943304e911cf70](https://github.com/php-api-clients/github-root/pull/1239) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [Updated rabbitmq chart for RabbitMQ 3.13.6](https://github.com/groundhog2k/helm-charts/pull/1379) on [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) (1 week ago)
 - [Down bump to PHP 8.1](https://github.com/reactphp-parallel/reactphp-parallel/pull/54) on [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (1 week ago)
-- [Down bump to PHP 8.1](https://github.com/reactphp-parallel/limited-pool/pull/54) on [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (1 week ago)
 
 ---
 
