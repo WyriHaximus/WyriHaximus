@@ -12,17 +12,17 @@ All new major package releases will be in PHP 8.2
 
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 day ago)
-- [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (2 days ago)
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (2 days ago)
+- [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (2 days ago)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (6 days ago)
-- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (1 week ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
+- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (1 week ago)
 - [reactphp/socket](https://github.com/reactphp/socket) (2 weeks ago)
 - [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (2 weeks ago)
-- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (2 weeks ago)
+- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (2 weeks ago)
 
 ---
 
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Clean up clair tmp directory](https://github.com/WyriHaximusNet/docker-php/pull/249) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [New post: Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Storage](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/197) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 day ago)
 - [Update 8.4 to alpha2](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/54) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 days ago)
 - [FIleGenerators need the namespaced representation](https://github.com/php-openapi-tools/contract/pull/1) on [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-1f428455b4cea06755dbb12f469fc171 from 1.1.4-64034f0aaa76d6090b5eb70ffe778e12](https://github.com/php-api-clients/github-root/pull/1241) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-fb4f59d4f7690940a5768a05bb3a93e7 from 1.1.4-aa24377344d6471ce1e177feecf11db1](https://github.com/php-api-clients/github-root/pull/1240) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHub] Update to 1.1.4-64034f0aaa76d6090b5eb70ffe778e12 from 1.1.4-a5a20c93e8ace47c79943304e911cf70](https://github.com/php-api-clients/github-root/pull/1239) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [Updated rabbitmq chart for RabbitMQ 3.13.6](https://github.com/groundhog2k/helm-charts/pull/1379) on [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) (2 weeks ago)
 
 ---
 
