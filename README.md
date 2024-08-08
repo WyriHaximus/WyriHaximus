@@ -12,16 +12,16 @@ All new major package releases will be in PHP 8.2
 
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 day ago)
-- [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (2 days ago)
-- [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (2 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
+- [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (2 days ago)
+- [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (2 days ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (6 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (1 week ago)
 - [reactphp/socket](https://github.com/reactphp/socket) (2 weeks ago)
-- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (2 weeks ago)
+- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (2 weeks ago)
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (2 weeks ago)
 
 ---
