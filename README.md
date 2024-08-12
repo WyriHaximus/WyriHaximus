@@ -17,11 +17,11 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (5 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
-- [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (6 days ago)
 - [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (6 days ago)
+- [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (6 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
-- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (1 week ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
+- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (1 week ago)
 - [reactphp/socket](https://github.com/reactphp/socket) (2 weeks ago)
 
 ---
