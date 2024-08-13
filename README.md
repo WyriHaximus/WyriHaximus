@@ -10,9 +10,9 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (2 days ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (4 days ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (5 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (6 days ago)
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-19cf932411c2a086023a2daee7e3425d from 1.1.4-f3cad7b63e4151c8567d2e9a4b0e26a6](https://github.com/php-api-clients/github-root/pull/1249) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-49b27bf070e71e6e97e24f657713d508 from 1.1.4-b5681abce03354e41943d59e8d8bc4a6](https://github.com/php-api-clients/github-root/pull/1248) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Initial set up](https://github.com/php-openapi-tools/test-data/pull/1) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (2 days ago)
 - [Update 8.4 to alpha4](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/55) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (4 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Set prefer-stable and minimum-stability for can require](https://github.com/WyriHaximus/github-workflows/pull/36) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-b27c55fe8bd2fdd9a35c169d7fc9ddf7 from 1.1.4-5ebfc5c2a69a8e68eadbe18dfa04e5f0](https://github.com/php-api-clients/github-root/pull/1244) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [Add support for namespaced representation](https://github.com/php-openapi-tools/representation/pull/1) on [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (1 week ago)
-- [[GitHub] Update to 1.1.4-258d33610c11c1d10d29617d894e1ce8 from 1.1.4-1f428455b4cea06755dbb12f469fc171](https://github.com/php-api-clients/github-root/pull/1243) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
