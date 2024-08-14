@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Resolve escaped mutators](https://github.com/php-openapi-tools/test-data/pull/3) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (today)
 - [Update ramsey/composer-install to v3](https://github.com/WyriHaximus/github-workflows/pull/37) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Introduce DataSet class](https://github.com/php-openapi-tools/test-data/pull/2) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-19cf932411c2a086023a2daee7e3425d from 1.1.4-f3cad7b63e4151c8567d2e9a4b0e26a6](https://github.com/php-api-clients/github-root/pull/1249) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [New post: Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Storage](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/197) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
 - [Update 8.4 to alpha2](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/54) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
 - [FIleGenerators need the namespaced representation](https://github.com/php-openapi-tools/contract/pull/1) on [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (1 week ago)
-- [Set prefer-stable and minimum-stability for can require](https://github.com/WyriHaximus/github-workflows/pull/36) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 
 ---
 
