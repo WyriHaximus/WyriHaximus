@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (today)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (5 days ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (6 days ago)
+- [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (1 day ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (6 days ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
 - [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (1 week ago)
 - [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (1 week ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 weeks ago)
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (2 weeks ago)
-- [reactphp/socket](https://github.com/reactphp/socket) (2 weeks ago)
+- [reactphp/socket](https://github.com/reactphp/socket) (3 weeks ago)
 
 ---
 
@@ -46,12 +46,12 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.130.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.130.0), 4 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.26](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.26), 5 days ago) - 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.130.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.130.0), 5 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.26](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.26), 6 days ago) - 
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r50](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r50), 1 week ago) - 
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) ([2.0.0](https://github.com/MammatusPHP/cron-attributes/releases/tag/2.0.0), 2 weeks ago) - Cron manager attributes
 - [reactphp/socket](https://github.com/reactphp/socket) ([v1.16.0](https://github.com/reactphp/socket/releases/tag/v1.16.0), 2 weeks ago) - Async, streaming plaintext TCP/IP and secure TLS socket server and client connections for ReactPHP.
-- [WyriHaximus/php-list-classes-in-directory](https://github.com/WyriHaximus/php-list-classes-in-directory) ([1.7.0](https://github.com/WyriHaximus/php-list-classes-in-directory/releases/tag/1.7.0), 4 weeks ago) - Allows you to list full qualified class names in directories and files.
+- [WyriHaximus/php-list-classes-in-directory](https://github.com/WyriHaximus/php-list-classes-in-directory) ([1.7.0](https://github.com/WyriHaximus/php-list-classes-in-directory/releases/tag/1.7.0), 1 month ago) - Allows you to list full qualified class names in directories and files.
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.1](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.1), 1 month ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([8.0.5](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/8.0.5), 1 month ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([6.0.9](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.9), 1 month ago) - 
@@ -64,17 +64,17 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
-- [[GitHub] Update to 1.1.4-9bdf0d87b61dcb75ec907d0344bd6b72 from 1.1.4-49b27bf070e71e6e97e24f657713d508](https://github.com/php-api-clients/github-root/pull/1250) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [Resolve escaped mutators](https://github.com/php-openapi-tools/test-data/pull/3) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (today)
-- [Update ramsey/composer-install to v3](https://github.com/WyriHaximus/github-workflows/pull/37) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [Introduce DataSet class](https://github.com/php-openapi-tools/test-data/pull/2) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (today)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-19cf932411c2a086023a2daee7e3425d from 1.1.4-f3cad7b63e4151c8567d2e9a4b0e26a6](https://github.com/php-api-clients/github-root/pull/1249) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[GitHub] Update to 1.1.4-49b27bf070e71e6e97e24f657713d508 from 1.1.4-b5681abce03354e41943d59e8d8bc4a6](https://github.com/php-api-clients/github-root/pull/1248) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [Initial set up](https://github.com/php-openapi-tools/test-data/pull/1) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (3 days ago)
-- [Update 8.4 to alpha4](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/55) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (5 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-f3cad7b63e4151c8567d2e9a4b0e26a6 from 1.1.4-b27c55fe8bd2fdd9a35c169d7fc9ddf7](https://github.com/php-api-clients/github-root/pull/1247) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
-- [[GitHub] Update to 1.1.4-b5681abce03354e41943d59e8d8bc4a6 from 1.1.4-258d33610c11c1d10d29617d894e1ce8](https://github.com/php-api-clients/github-root/pull/1246) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
-- [Clean up clair tmp directory](https://github.com/WyriHaximusNet/docker-php/pull/249) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (6 days ago)
+- [[GitHub] Update to 1.1.4-9bdf0d87b61dcb75ec907d0344bd6b72 from 1.1.4-49b27bf070e71e6e97e24f657713d508](https://github.com/php-api-clients/github-root/pull/1250) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [Resolve escaped mutators](https://github.com/php-openapi-tools/test-data/pull/3) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (1 day ago)
+- [Update ramsey/composer-install to v3](https://github.com/WyriHaximus/github-workflows/pull/37) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [Introduce DataSet class](https://github.com/php-openapi-tools/test-data/pull/2) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (1 day ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-19cf932411c2a086023a2daee7e3425d from 1.1.4-f3cad7b63e4151c8567d2e9a4b0e26a6](https://github.com/php-api-clients/github-root/pull/1249) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [[GitHub] Update to 1.1.4-49b27bf070e71e6e97e24f657713d508 from 1.1.4-b5681abce03354e41943d59e8d8bc4a6](https://github.com/php-api-clients/github-root/pull/1248) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [Initial set up](https://github.com/php-openapi-tools/test-data/pull/1) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (4 days ago)
+- [Update 8.4 to alpha4](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/55) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (6 days ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-f3cad7b63e4151c8567d2e9a4b0e26a6 from 1.1.4-b27c55fe8bd2fdd9a35c169d7fc9ddf7](https://github.com/php-api-clients/github-root/pull/1247) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
+- [[GitHub] Update to 1.1.4-b5681abce03354e41943d59e8d8bc4a6 from 1.1.4-258d33610c11c1d10d29617d894e1ce8](https://github.com/php-api-clients/github-root/pull/1246) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
+- [Clean up clair tmp directory](https://github.com/WyriHaximusNet/docker-php/pull/249) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [New post: Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Storage](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/197) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
 - [Update 8.4 to alpha2](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/54) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
 
@@ -82,13 +82,13 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
-- [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions (2 days ago)
-- [easimon/shelly-exporter](https://github.com/easimon/shelly-exporter) - Prometheus exporter for shelly devices (4 days ago)
+- [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions (3 days ago)
+- [easimon/shelly-exporter](https://github.com/easimon/shelly-exporter) - Prometheus exporter for shelly devices (5 days ago)
 - [iximiuz/docker-to-linux](https://github.com/iximiuz/docker-to-linux) - Make bootable Linux disk image (ab)using Docker (1 week ago)
 - [ginger51011/pandoras_pot](https://github.com/ginger51011/pandoras_pot) - A HellPot inspired HTTP honeypot to punish and educate unruly web crawlers, written in Rust (🚀) (1 week ago)
 - [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac. (1 week ago)
-- [ssoready/ssoready](https://github.com/ssoready/ssoready) - Open-source dev tools for enterprise SSO. Ship SAML support this afternoon. (1 week ago)
-- [9gustin/react-notion-render](https://github.com/9gustin/react-notion-render) - A library to render notion pages (1 week ago)
+- [ssoready/ssoready](https://github.com/ssoready/ssoready) - Open-source dev tools for enterprise SSO. Ship SAML support this afternoon. (2 weeks ago)
+- [9gustin/react-notion-render](https://github.com/9gustin/react-notion-render) - A library to render notion pages (2 weeks ago)
 - [dantleech/docbot](https://github.com/dantleech/docbot) - Documentation as Code (2 weeks ago)
 - [skydiablo/reactphp-unifi-api-client](https://github.com/skydiablo/reactphp-unifi-api-client) -  (3 weeks ago)
 - [clementtalleu/php-redis-om](https://github.com/clementtalleu/php-redis-om) - A PHP object mapper for redis (3 weeks ago)
