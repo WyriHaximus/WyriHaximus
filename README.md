@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Automatically resize tiles to the desired tile size](https://github.com/WyriHaximus/php-tile-stitcher/pull/11) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (today)
 - [[GitHub] Update to 1.1.4-9bdf0d87b61dcb75ec907d0344bd6b72 from 1.1.4-49b27bf070e71e6e97e24f657713d508](https://github.com/php-api-clients/github-root/pull/1250) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [Resolve escaped mutators](https://github.com/php-openapi-tools/test-data/pull/3) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (1 day ago)
 - [Update ramsey/composer-install to v3](https://github.com/WyriHaximus/github-workflows/pull/37) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-b5681abce03354e41943d59e8d8bc4a6 from 1.1.4-258d33610c11c1d10d29617d894e1ce8](https://github.com/php-api-clients/github-root/pull/1246) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [Clean up clair tmp directory](https://github.com/WyriHaximusNet/docker-php/pull/249) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [New post: Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Storage](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/197) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
-- [Update 8.4 to alpha2](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/54) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
 
 ---
 
