@@ -64,6 +64,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-086edf837d1788f656cccf1db324ddf9 from 1.1.4-086edf837d1788f656cccf1db324ddf9](https://github.com/php-api-clients/github-root/pull/1255) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [[GitHubEnterprise-3.0] Update to 1.1.4-3e0a7810d254da4d26f0002e587eb763 from 1.1.4-3e0a7810d254da4d26f0002e587eb763](https://github.com/php-api-clients/github-root/pull/1254) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-086edf837d1788f656cccf1db324ddf9 from 1.1.4-19cf932411c2a086023a2daee7e3425d](https://github.com/php-api-clients/github-root/pull/1252) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHub] Update to 1.1.4-79bfc552fc9431ae453024109bc3424d from 1.1.4-9bdf0d87b61dcb75ec907d0344bd6b72](https://github.com/php-api-clients/github-root/pull/1251) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [Automatically resize tiles to the desired tile size](https://github.com/WyriHaximus/php-tile-stitcher/pull/11) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (3 days ago)
@@ -75,8 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-49b27bf070e71e6e97e24f657713d508 from 1.1.4-b5681abce03354e41943d59e8d8bc4a6](https://github.com/php-api-clients/github-root/pull/1248) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [Initial set up](https://github.com/php-openapi-tools/test-data/pull/1) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (1 week ago)
 - [Update 8.4 to alpha4](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/55) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-f3cad7b63e4151c8567d2e9a4b0e26a6 from 1.1.4-b27c55fe8bd2fdd9a35c169d7fc9ddf7](https://github.com/php-api-clients/github-root/pull/1247) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [[GitHub] Update to 1.1.4-b5681abce03354e41943d59e8d8bc4a6 from 1.1.4-258d33610c11c1d10d29617d894e1ce8](https://github.com/php-api-clients/github-root/pull/1246) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
