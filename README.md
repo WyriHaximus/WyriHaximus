@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.1] Update to 1.1.4-defb420907f5c36a22e1584342e0e531 from 1.1.4-defb420907f5c36a22e1584342e0e531](https://github.com/php-api-clients/github-root/pull/1257) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubAE] Update to 1.1.4-be889f4ae6e8593844d922a840dd93b1 from 1.1.4-be889f4ae6e8593844d922a840dd93b1](https://github.com/php-api-clients/github-root/pull/1256) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-086edf837d1788f656cccf1db324ddf9 from 1.1.4-086edf837d1788f656cccf1db324ddf9](https://github.com/php-api-clients/github-root/pull/1255) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.0] Update to 1.1.4-3e0a7810d254da4d26f0002e587eb763 from 1.1.4-3e0a7810d254da4d26f0002e587eb763](https://github.com/php-api-clients/github-root/pull/1254) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Introduce DataSet class](https://github.com/php-openapi-tools/test-data/pull/2) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (4 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-19cf932411c2a086023a2daee7e3425d from 1.1.4-f3cad7b63e4151c8567d2e9a4b0e26a6](https://github.com/php-api-clients/github-root/pull/1249) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [[GitHub] Update to 1.1.4-49b27bf070e71e6e97e24f657713d508 from 1.1.4-b5681abce03354e41943d59e8d8bc4a6](https://github.com/php-api-clients/github-root/pull/1248) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
-- [Initial set up](https://github.com/php-openapi-tools/test-data/pull/1) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (1 week ago)
 
 ---
 
