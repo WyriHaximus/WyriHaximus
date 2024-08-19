@@ -64,6 +64,11 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.5] Update to 1.1.4-a21d39699884865a10804a02a66c5b60 from 1.1.4-a21d39699884865a10804a02a66c5b60](https://github.com/php-api-clients/github-root/pull/1262) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [[GitHubEnterprise-3.6] Update to 1.1.4-34d12e9c9f557d2d2977464d5cd49398 from 1.1.4-34d12e9c9f557d2d2977464d5cd49398](https://github.com/php-api-clients/github-root/pull/1261) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [[GitHubEnterprise-3.4] Update to 1.1.4-8491d07e4903341efa2424ac8af7c5ec from 1.1.4-8491d07e4903341efa2424ac8af7c5ec](https://github.com/php-api-clients/github-root/pull/1260) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [[GitHubEnterprise-3.3] Update to 1.1.4-1e26e0dd1e96061fd9e8934a7a019705 from 1.1.4-1e26e0dd1e96061fd9e8934a7a019705](https://github.com/php-api-clients/github-root/pull/1259) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [[GitHubEnterprise-3.2] Update to 1.1.4-cc0f6d8c98886b66f1e16372f632e7d8 from 1.1.4-cc0f6d8c98886b66f1e16372f632e7d8](https://github.com/php-api-clients/github-root/pull/1258) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.1] Update to 1.1.4-defb420907f5c36a22e1584342e0e531 from 1.1.4-defb420907f5c36a22e1584342e0e531](https://github.com/php-api-clients/github-root/pull/1257) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHubAE] Update to 1.1.4-be889f4ae6e8593844d922a840dd93b1 from 1.1.4-be889f4ae6e8593844d922a840dd93b1](https://github.com/php-api-clients/github-root/pull/1256) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-086edf837d1788f656cccf1db324ddf9 from 1.1.4-086edf837d1788f656cccf1db324ddf9](https://github.com/php-api-clients/github-root/pull/1255) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -72,11 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-79bfc552fc9431ae453024109bc3424d from 1.1.4-9bdf0d87b61dcb75ec907d0344bd6b72](https://github.com/php-api-clients/github-root/pull/1251) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [Automatically resize tiles to the desired tile size](https://github.com/WyriHaximus/php-tile-stitcher/pull/11) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (4 days ago)
 - [[GitHub] Update to 1.1.4-9bdf0d87b61dcb75ec907d0344bd6b72 from 1.1.4-49b27bf070e71e6e97e24f657713d508](https://github.com/php-api-clients/github-root/pull/1250) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
-- [Resolve escaped mutators](https://github.com/php-openapi-tools/test-data/pull/3) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (5 days ago)
-- [Update ramsey/composer-install to v3](https://github.com/WyriHaximus/github-workflows/pull/37) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
-- [Introduce DataSet class](https://github.com/php-openapi-tools/test-data/pull/2) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (5 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-19cf932411c2a086023a2daee7e3425d from 1.1.4-f3cad7b63e4151c8567d2e9a4b0e26a6](https://github.com/php-api-clients/github-root/pull/1249) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
-- [[GitHub] Update to 1.1.4-49b27bf070e71e6e97e24f657713d508 from 1.1.4-b5681abce03354e41943d59e8d8bc4a6](https://github.com/php-api-clients/github-root/pull/1248) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 
 ---
 
