@@ -46,7 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.130.1](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.130.1), 4 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.130.2](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.130.2), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.26](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.26), 1 week ago) - 
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r50](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r50), 2 weeks ago) - 
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) ([2.0.0](https://github.com/MammatusPHP/cron-attributes/releases/tag/2.0.0), 3 weeks ago) - Cron manager attributes
