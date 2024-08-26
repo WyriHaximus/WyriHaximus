@@ -46,6 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2024.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.2), today) - PHP runtime &amp; extensions header files for PhpStorm
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.131.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.131.0), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.26](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.26), 2 weeks ago) - 
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r50](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r50), 2 weeks ago) - 
@@ -58,7 +59,6 @@ All new major package releases will be in PHP 8.2
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([keda-0.0.3](https://github.com/MammatusPHP/helm-charts/releases/tag/keda-0.0.3), 1 month ago) - 
 - [reactphp/dns](https://github.com/reactphp/dns) ([v1.13.0](https://github.com/reactphp/dns/releases/tag/v1.13.0), 2 months ago) - Async DNS resolver for ReactPHP.
 - [reactphp/stream](https://github.com/reactphp/stream) ([v1.4.0](https://github.com/reactphp/stream/releases/tag/v1.4.0), 2 months ago) - Event-driven readable and writable streams for non-blocking I/O in ReactPHP.
-- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) ([4.3.0](https://github.com/WyriHaximus/HtmlCompress/releases/tag/4.3.0), 2 months ago) - 
 
 ---
 
