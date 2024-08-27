@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-a937c40b238be216f274ad4de79f6216 from 1.1.4-5f0efa5b768ca4017b3104dc35554b9b](https://github.com/php-api-clients/github-root/pull/1272) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Fix expected error code in tests when ext-sockets is not enabled](https://github.com/reactphp/http/pull/539) on [reactphp/http](https://github.com/reactphp/http) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-601b18bfd84aea65a8ea2afe1965bce7 from 1.1.4-086edf837d1788f656cccf1db324ddf9](https://github.com/php-api-clients/github-root/pull/1271) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [[GitHub] Update to 1.1.4-5f0efa5b768ca4017b3104dc35554b9b from 1.1.4-79bfc552fc9431ae453024109bc3424d](https://github.com/php-api-clients/github-root/pull/1270) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.7] Update to 1.1.4-71bbe883e48c685b3b1ee41db4eee800 from 1.1.4-71bbe883e48c685b3b1ee41db4eee800](https://github.com/php-api-clients/github-root/pull/1263) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHubEnterprise-3.5] Update to 1.1.4-a21d39699884865a10804a02a66c5b60 from 1.1.4-a21d39699884865a10804a02a66c5b60](https://github.com/php-api-clients/github-root/pull/1262) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHubEnterprise-3.6] Update to 1.1.4-34d12e9c9f557d2d2977464d5cd49398 from 1.1.4-34d12e9c9f557d2d2977464d5cd49398](https://github.com/php-api-clients/github-root/pull/1261) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [[GitHubEnterprise-3.4] Update to 1.1.4-8491d07e4903341efa2424ac8af7c5ec from 1.1.4-8491d07e4903341efa2424ac8af7c5ec](https://github.com/php-api-clients/github-root/pull/1260) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
