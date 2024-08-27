@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (5 days ago)
+- [reactphp/http](https://github.com/reactphp/http) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (5 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (1 week ago)
-- [reactphp/http](https://github.com/reactphp/http) (1 week ago)
-- [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (1 week ago)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 week ago)
+- [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (1 week ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 weeks ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 weeks ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (2 weeks ago)
-- [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (3 weeks ago)
 - [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (3 weeks ago)
+- [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (3 weeks ago)
 
 ---
 
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Fix expected error code in tests when ext-sockets is not enabled](https://github.com/reactphp/http/pull/539) on [reactphp/http](https://github.com/reactphp/http) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-601b18bfd84aea65a8ea2afe1965bce7 from 1.1.4-086edf837d1788f656cccf1db324ddf9](https://github.com/php-api-clients/github-root/pull/1271) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [[GitHub] Update to 1.1.4-5f0efa5b768ca4017b3104dc35554b9b from 1.1.4-79bfc552fc9431ae453024109bc3424d](https://github.com/php-api-clients/github-root/pull/1270) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-8d73ea7417490bc19d7d63fcbaea9056 from 1.1.4-086edf837d1788f656cccf1db324ddf9](https://github.com/php-api-clients/github-root/pull/1269) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.5] Update to 1.1.4-a21d39699884865a10804a02a66c5b60 from 1.1.4-a21d39699884865a10804a02a66c5b60](https://github.com/php-api-clients/github-root/pull/1262) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHubEnterprise-3.6] Update to 1.1.4-34d12e9c9f557d2d2977464d5cd49398 from 1.1.4-34d12e9c9f557d2d2977464d5cd49398](https://github.com/php-api-clients/github-root/pull/1261) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHubEnterprise-3.4] Update to 1.1.4-8491d07e4903341efa2424ac8af7c5ec from 1.1.4-8491d07e4903341efa2424ac8af7c5ec](https://github.com/php-api-clients/github-root/pull/1260) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [[GitHubEnterprise-3.3] Update to 1.1.4-1e26e0dd1e96061fd9e8934a7a019705 from 1.1.4-1e26e0dd1e96061fd9e8934a7a019705](https://github.com/php-api-clients/github-root/pull/1259) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
