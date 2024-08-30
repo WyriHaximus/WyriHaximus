@@ -11,9 +11,10 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (today)
+- [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (today)
 - [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (1 day ago)
-- [WyriHaximus/php-subsplit-tools](https://github.com/WyriHaximus/php-subsplit-tools) (2 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [WyriHaximus/php-subsplit-tools](https://github.com/WyriHaximus/php-subsplit-tools) (2 days ago)
 - [reactphp/http](https://github.com/reactphp/http) (3 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
@@ -22,7 +23,6 @@ All new major package releases will be in PHP 8.2
 - [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (2 weeks ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 weeks ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (3 weeks ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 weeks ago)
 
 ---
 
@@ -64,6 +64,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[ReactPHP] Update to PHP 8(.4)](https://github.com/WyriHaximusNet/docker-redirect/pull/152) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (today)
+- [Fix Renovate configuration](https://github.com/WyriHaximusNet/docker-redirect/pull/148) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (today)
 - [Add package metadata](https://github.com/php-openapi-tools/configuration/pull/2) on [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (1 day ago)
 - [Introduce render method on Files](https://github.com/WyriHaximus/php-subsplit-tools/pull/22) on [WyriHaximus/php-subsplit-tools](https://github.com/WyriHaximus/php-subsplit-tools) (2 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-7deddf9e4aa09fc616db5959c95d3f00 from 1.1.4-601b18bfd84aea65a8ea2afe1965bce7](https://github.com/php-api-clients/github-root/pull/1273) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
@@ -75,8 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-045e5b013b51c6a9b4cceeceae74dd4d from 1.1.4-79bfc552fc9431ae453024109bc3424d](https://github.com/php-api-clients/github-root/pull/1268) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHubEnterprise-3.6] Update to 1.1.4-34d12e9c9f557d2d2977464d5cd49398 from 1.1.4-34d12e9c9f557d2d2977464d5cd49398](https://github.com/php-api-clients/github-root/pull/1267) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHubEnterprise-3.5] Update to 1.1.4-a21d39699884865a10804a02a66c5b60 from 1.1.4-a21d39699884865a10804a02a66c5b60](https://github.com/php-api-clients/github-root/pull/1266) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [[GitHubEnterprise-3.4] Update to 1.1.4-8491d07e4903341efa2424ac8af7c5ec from 1.1.4-8491d07e4903341efa2424ac8af7c5ec](https://github.com/php-api-clients/github-root/pull/1265) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [[GitHub] Update to 1.1.4-79bfc552fc9431ae453024109bc3424d from 1.1.4-79bfc552fc9431ae453024109bc3424d](https://github.com/php-api-clients/github-root/pull/1264) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
