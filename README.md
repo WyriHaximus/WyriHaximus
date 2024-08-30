@@ -10,8 +10,8 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (today)
 - [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (today)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (today)
 - [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (1 day ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [WyriHaximus/php-subsplit-tools](https://github.com/WyriHaximus/php-subsplit-tools) (2 days ago)
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Switch Renovate configuration from PHP project to Docker Image](https://github.com/WyriHaximusNet/docker-php/pull/250) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [[ReactPHP] Update to PHP 8(.4)](https://github.com/WyriHaximusNet/docker-redirect/pull/152) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (today)
 - [Fix Renovate configuration](https://github.com/WyriHaximusNet/docker-redirect/pull/148) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (today)
 - [Add package metadata](https://github.com/php-openapi-tools/configuration/pull/2) on [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (1 day ago)
@@ -76,12 +77,12 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-8d73ea7417490bc19d7d63fcbaea9056 from 1.1.4-086edf837d1788f656cccf1db324ddf9](https://github.com/php-api-clients/github-root/pull/1269) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHub] Update to 1.1.4-045e5b013b51c6a9b4cceeceae74dd4d from 1.1.4-79bfc552fc9431ae453024109bc3424d](https://github.com/php-api-clients/github-root/pull/1268) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHubEnterprise-3.6] Update to 1.1.4-34d12e9c9f557d2d2977464d5cd49398 from 1.1.4-34d12e9c9f557d2d2977464d5cd49398](https://github.com/php-api-clients/github-root/pull/1267) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [[GitHubEnterprise-3.5] Update to 1.1.4-a21d39699884865a10804a02a66c5b60 from 1.1.4-a21d39699884865a10804a02a66c5b60](https://github.com/php-api-clients/github-root/pull/1266) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
 #### ⭐ Recent Stars
 
+- [Nerwyn/material-rounded-theme](https://github.com/Nerwyn/material-rounded-theme) - A Material You and Google Home app influenced theme for Home Assistant (today)
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (today)
 - [shinnn/github-username-regex](https://github.com/shinnn/github-username-regex) - A regular expression that only matches a currently valid Github username (1 week ago)
 - [Corollarium/localtls](https://github.com/Corollarium/localtls) - DNS server for providing TLS to webservices on local addresses (1 week ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [ssoready/ssoready](https://github.com/ssoready/ssoready) - Open-source dev tools for enterprise SSO. Ship SAML support this afternoon. (4 weeks ago)
 - [9gustin/react-notion-render](https://github.com/9gustin/react-notion-render) - A library to render notion pages (4 weeks ago)
 - [dantleech/docbot](https://github.com/dantleech/docbot) - Documentation as Code (1 month ago)
-- [skydiablo/reactphp-unifi-api-client](https://github.com/skydiablo/reactphp-unifi-api-client) -  (1 month ago)
 
 ---
 
