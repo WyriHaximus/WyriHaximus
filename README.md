@@ -10,13 +10,13 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (today)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (today)
-- [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (1 day ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [WyriHaximus/php-subsplit-tools](https://github.com/WyriHaximus/php-subsplit-tools) (2 days ago)
-- [reactphp/http](https://github.com/reactphp/http) (3 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
+- [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (1 day ago)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 day ago)
+- [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (2 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
+- [WyriHaximus/php-subsplit-tools](https://github.com/WyriHaximus/php-subsplit-tools) (3 days ago)
+- [reactphp/http](https://github.com/reactphp/http) (4 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (1 week ago)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (2 weeks ago)
@@ -46,8 +46,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([rabbitmq-1.1.7](https://github.com/groundhog2k/helm-charts/releases/tag/rabbitmq-1.1.7), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
-- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2024.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.2), 4 days ago) - PHP runtime &amp; extensions header files for PhpStorm
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([rabbitmq-1.1.7](https://github.com/groundhog2k/helm-charts/releases/tag/rabbitmq-1.1.7), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2024.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.2), 5 days ago) - PHP runtime &amp; extensions header files for PhpStorm
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.26](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.26), 3 weeks ago) - 
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r50](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r50), 3 weeks ago) - 
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) ([2.0.0](https://github.com/MammatusPHP/cron-attributes/releases/tag/2.0.0), 1 month ago) - Cron manager attributes
@@ -64,14 +64,14 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
-- [Switch Renovate configuration from PHP project to Docker Image](https://github.com/WyriHaximusNet/docker-php/pull/250) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
-- [[ReactPHP] Update to PHP 8(.4)](https://github.com/WyriHaximusNet/docker-redirect/pull/152) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (today)
-- [Fix Renovate configuration](https://github.com/WyriHaximusNet/docker-redirect/pull/148) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (today)
-- [Add package metadata](https://github.com/php-openapi-tools/configuration/pull/2) on [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (1 day ago)
-- [Introduce render method on Files](https://github.com/WyriHaximus/php-subsplit-tools/pull/22) on [WyriHaximus/php-subsplit-tools](https://github.com/WyriHaximus/php-subsplit-tools) (2 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-7deddf9e4aa09fc616db5959c95d3f00 from 1.1.4-601b18bfd84aea65a8ea2afe1965bce7](https://github.com/php-api-clients/github-root/pull/1273) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [[GitHub] Update to 1.1.4-a937c40b238be216f274ad4de79f6216 from 1.1.4-5f0efa5b768ca4017b3104dc35554b9b](https://github.com/php-api-clients/github-root/pull/1272) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [Fix expected error code in tests when ext-sockets is not enabled](https://github.com/reactphp/http/pull/539) on [reactphp/http](https://github.com/reactphp/http) (3 days ago)
+- [Switch Renovate configuration from PHP project to Docker Image](https://github.com/WyriHaximusNet/docker-php/pull/250) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
+- [[ReactPHP] Update to PHP 8(.4)](https://github.com/WyriHaximusNet/docker-redirect/pull/152) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (1 day ago)
+- [Fix Renovate configuration](https://github.com/WyriHaximusNet/docker-redirect/pull/148) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (1 day ago)
+- [Add package metadata](https://github.com/php-openapi-tools/configuration/pull/2) on [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (2 days ago)
+- [Introduce render method on Files](https://github.com/WyriHaximus/php-subsplit-tools/pull/22) on [WyriHaximus/php-subsplit-tools](https://github.com/WyriHaximus/php-subsplit-tools) (3 days ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-7deddf9e4aa09fc616db5959c95d3f00 from 1.1.4-601b18bfd84aea65a8ea2afe1965bce7](https://github.com/php-api-clients/github-root/pull/1273) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
+- [[GitHub] Update to 1.1.4-a937c40b238be216f274ad4de79f6216 from 1.1.4-5f0efa5b768ca4017b3104dc35554b9b](https://github.com/php-api-clients/github-root/pull/1272) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
+- [Fix expected error code in tests when ext-sockets is not enabled](https://github.com/reactphp/http/pull/539) on [reactphp/http](https://github.com/reactphp/http) (4 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-601b18bfd84aea65a8ea2afe1965bce7 from 1.1.4-086edf837d1788f656cccf1db324ddf9](https://github.com/php-api-clients/github-root/pull/1271) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHub] Update to 1.1.4-5f0efa5b768ca4017b3104dc35554b9b from 1.1.4-79bfc552fc9431ae453024109bc3424d](https://github.com/php-api-clients/github-root/pull/1270) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-8d73ea7417490bc19d7d63fcbaea9056 from 1.1.4-086edf837d1788f656cccf1db324ddf9](https://github.com/php-api-clients/github-root/pull/1269) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
@@ -82,18 +82,18 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
-- [Nerwyn/material-rounded-theme](https://github.com/Nerwyn/material-rounded-theme) - A Material You and Google Home app influenced theme for Home Assistant (today)
-- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (today)
+- [Nerwyn/material-rounded-theme](https://github.com/Nerwyn/material-rounded-theme) - A Material You and Google Home app influenced theme for Home Assistant (1 day ago)
+- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (1 day ago)
 - [shinnn/github-username-regex](https://github.com/shinnn/github-username-regex) - A regular expression that only matches a currently valid Github username (1 week ago)
 - [Corollarium/localtls](https://github.com/Corollarium/localtls) - DNS server for providing TLS to webservices on local addresses (1 week ago)
 - [flyimg/flyimg](https://github.com/flyimg/flyimg) - Dockerized application that resizes and crops images on the fly, delivering optimized images in formats such as AVIF, WebP, MozJPEG, or PNG using ImageMagick, with an efficient caching system. (1 week ago)
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions (2 weeks ago)
-- [easimon/shelly-exporter](https://github.com/easimon/shelly-exporter) - Prometheus exporter for shelly devices (2 weeks ago)
+- [easimon/shelly-exporter](https://github.com/easimon/shelly-exporter) - Prometheus exporter for shelly devices (3 weeks ago)
 - [iximiuz/docker-to-linux](https://github.com/iximiuz/docker-to-linux) - Make bootable Linux disk image (ab)using Docker (3 weeks ago)
-- [ginger51011/pandoras_pot](https://github.com/ginger51011/pandoras_pot) - A HellPot inspired HTTP honeypot to punish and educate unruly web crawlers, written in Rust (🚀) (3 weeks ago)
+- [ginger51011/pandoras_pot](https://github.com/ginger51011/pandoras_pot) - A HellPot inspired HTTP honeypot to punish and educate unruly web crawlers, written in Rust (🚀) (4 weeks ago)
 - [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac. (4 weeks ago)
-- [ssoready/ssoready](https://github.com/ssoready/ssoready) - Open-source dev tools for enterprise SSO. Ship SAML support this afternoon. (4 weeks ago)
-- [9gustin/react-notion-render](https://github.com/9gustin/react-notion-render) - A library to render notion pages (4 weeks ago)
+- [ssoready/ssoready](https://github.com/ssoready/ssoready) - Open-source dev tools for enterprise SSO. Ship SAML support this afternoon. (1 month ago)
+- [9gustin/react-notion-render](https://github.com/9gustin/react-notion-render) - A library to render notion pages (1 month ago)
 - [dantleech/docbot](https://github.com/dantleech/docbot) - Documentation as Code (1 month ago)
 
 ---
