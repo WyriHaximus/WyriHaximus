@@ -12,17 +12,17 @@ All new major package releases will be in PHP 8.2
 
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 day ago)
-- [WyriHaximus/reactphp-http-middleware-with-headers](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers) (2 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (3 days ago)
 - [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (3 days ago)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (3 days ago)
 - [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (4 days ago)
-- [WyriHaximus/php-subsplit-tools](https://github.com/WyriHaximus/php-subsplit-tools) (5 days ago)
 - [reactphp/http](https://github.com/reactphp/http) (6 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 weeks ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (2 weeks ago)
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (2 weeks ago)
 - [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (2 weeks ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 weeks ago)
 
 ---
 
