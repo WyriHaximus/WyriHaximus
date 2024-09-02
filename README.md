@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [vue-leaflet/vue-leaflet](https://github.com/vue-leaflet/vue-leaflet) - vue-leaflet compatible with vue3 (today)
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers. (1 day ago)
 - [carpenike/k8s-gitops](https://github.com/carpenike/k8s-gitops) - My k8s cluster built with talos and managed by Flux-v2 (1 day ago)
 - [Nerwyn/material-rounded-theme](https://github.com/Nerwyn/material-rounded-theme) - A Material You and Google Home app influenced theme for Home Assistant (3 days ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [iximiuz/docker-to-linux](https://github.com/iximiuz/docker-to-linux) - Make bootable Linux disk image (ab)using Docker (3 weeks ago)
 - [ginger51011/pandoras_pot](https://github.com/ginger51011/pandoras_pot) - A HellPot inspired HTTP honeypot to punish and educate unruly web crawlers, written in Rust (🚀) (1 month ago)
 - [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac. (1 month ago)
-- [ssoready/ssoready](https://github.com/ssoready/ssoready) - Open-source dev tools for enterprise SSO. Ship SAML support this afternoon. (1 month ago)
 
 ---
 
