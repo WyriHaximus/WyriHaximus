@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [WyriHaximus/reactphp-http-middleware-with-headers](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (1 day ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (3 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
 - [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (5 days ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (5 days ago)
 - [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (6 days ago)
 - [WyriHaximus/php-subsplit-tools](https://github.com/WyriHaximus/php-subsplit-tools) (1 week ago)
 - [reactphp/http](https://github.com/reactphp/http) (1 week ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (2 weeks ago)
-- [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (2 weeks ago)
 
 ---
 
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Introduce iterable to headers helper](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers/pull/53) on [WyriHaximus/reactphp-http-middleware-with-headers](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers) (today)
 - [Raise MSI to 100%](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers/pull/52) on [WyriHaximus/reactphp-http-middleware-with-headers](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers) (today)
 - [Bump to PHP 8.2&#43;](https://github.com/WyriHaximusNet/php-x-headers/pull/12) on [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (1 day ago)
 - [New post: Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Power](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/198) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (3 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Add package metadata](https://github.com/php-openapi-tools/configuration/pull/2) on [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (6 days ago)
 - [Introduce render method on Files](https://github.com/WyriHaximus/php-subsplit-tools/pull/22) on [WyriHaximus/php-subsplit-tools](https://github.com/WyriHaximus/php-subsplit-tools) (1 week ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-7deddf9e4aa09fc616db5959c95d3f00 from 1.1.4-601b18bfd84aea65a8ea2afe1965bce7](https://github.com/php-api-clients/github-root/pull/1273) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [[GitHub] Update to 1.1.4-a937c40b238be216f274ad4de79f6216 from 1.1.4-5f0efa5b768ca4017b3104dc35554b9b](https://github.com/php-api-clients/github-root/pull/1272) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
