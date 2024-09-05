@@ -64,6 +64,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-9bd39ebd9de7218f0077517e1ac614f4 from 1.1.4-f14afa6095b928550e397c99507c5224](https://github.com/php-api-clients/github-root/pull/1282) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [[GitHub] Update to 1.1.4-27d2025567219eabd469390370e022c1 from 1.1.4-9458c0477f3e10e00654df3219f3506a](https://github.com/php-api-clients/github-root/pull/1281) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Only don&#39;t push on PR](https://github.com/WyriHaximusNet/docker-php/pull/251) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Require at least one tile](https://github.com/WyriHaximus/php-tile-stitcher/pull/12) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (today)
 - [8.4.0alpha4 =&gt; 8.4.0beta4](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/56) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
@@ -75,8 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Raise MSI to 100%](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers/pull/52) on [WyriHaximus/reactphp-http-middleware-with-headers](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers) (1 day ago)
 - [Bump to PHP 8.2&#43;](https://github.com/WyriHaximusNet/php-x-headers/pull/12) on [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (2 days ago)
 - [New post: Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Power](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/198) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (4 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-1361f78292c83f6e3e25de0a25ba1a99 from 1.1.4-7deddf9e4aa09fc616db5959c95d3f00](https://github.com/php-api-clients/github-root/pull/1275) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
-- [[GitHub] Update to 1.1.4-c1edbd9927fe103e94027b18d46aa0e4 from 1.1.4-a937c40b238be216f274ad4de79f6216](https://github.com/php-api-clients/github-root/pull/1274) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 
 ---
 
