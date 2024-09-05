@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [8.4.0alpha4 =&gt; 8.4.0beta4](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/56) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-f14afa6095b928550e397c99507c5224 from 1.1.4-1361f78292c83f6e3e25de0a25ba1a99](https://github.com/php-api-clients/github-root/pull/1280) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-9458c0477f3e10e00654df3219f3506a from 1.1.4-c1edbd9927fe103e94027b18d46aa0e4](https://github.com/php-api-clients/github-root/pull/1279) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[New Version] Update versions file to PHP 8.3.11](https://github.com/WyriHaximus/php-fake-php-version/pull/129) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-c1edbd9927fe103e94027b18d46aa0e4 from 1.1.4-a937c40b238be216f274ad4de79f6216](https://github.com/php-api-clients/github-root/pull/1274) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [Bump to PHP 8.2&#43;](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers/pull/51) on [WyriHaximus/reactphp-http-middleware-with-headers](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers) (5 days ago)
 - [Switch Renovate configuration from PHP project to Docker Image](https://github.com/WyriHaximusNet/docker-php/pull/250) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (6 days ago)
-- [[ReactPHP] Update to PHP 8(.4)](https://github.com/WyriHaximusNet/docker-redirect/pull/152) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (6 days ago)
 
 ---
 
