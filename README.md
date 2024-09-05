@@ -10,16 +10,16 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [WyriHaximus/reactphp-http-middleware-with-headers](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers) (1 day ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (2 days ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (4 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (5 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
-- [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (6 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (5 days ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (6 days ago)
+- [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (6 days ago)
 - [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (1 week ago)
 - [WyriHaximus/php-subsplit-tools](https://github.com/WyriHaximus/php-subsplit-tools) (1 week ago)
 - [reactphp/http](https://github.com/reactphp/http) (1 week ago)
@@ -64,6 +64,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-f14afa6095b928550e397c99507c5224 from 1.1.4-1361f78292c83f6e3e25de0a25ba1a99](https://github.com/php-api-clients/github-root/pull/1280) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [[GitHub] Update to 1.1.4-9458c0477f3e10e00654df3219f3506a from 1.1.4-c1edbd9927fe103e94027b18d46aa0e4](https://github.com/php-api-clients/github-root/pull/1279) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[New Version] Update versions file to PHP 8.3.11](https://github.com/WyriHaximus/php-fake-php-version/pull/129) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
 - [Fix checkout permissions](https://github.com/WyriHaximus/php-fake-php-version/pull/128) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
 - [Introduce iterable to headers helper](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers/pull/53) on [WyriHaximus/reactphp-http-middleware-with-headers](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers) (1 day ago)
@@ -75,8 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Bump to PHP 8.2&#43;](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers/pull/51) on [WyriHaximus/reactphp-http-middleware-with-headers](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers) (5 days ago)
 - [Switch Renovate configuration from PHP project to Docker Image](https://github.com/WyriHaximusNet/docker-php/pull/250) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (6 days ago)
 - [[ReactPHP] Update to PHP 8(.4)](https://github.com/WyriHaximusNet/docker-redirect/pull/152) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (6 days ago)
-- [Fix Renovate configuration](https://github.com/WyriHaximusNet/docker-redirect/pull/148) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (6 days ago)
-- [Add package metadata](https://github.com/php-openapi-tools/configuration/pull/2) on [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (1 week ago)
 
 ---
 
