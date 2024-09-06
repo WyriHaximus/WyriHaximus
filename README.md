@@ -46,7 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([gitea-0.11.2](https://github.com/groundhog2k/helm-charts/releases/tag/gitea-0.11.2), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([graylog-0.8.6](https://github.com/groundhog2k/helm-charts/releases/tag/graylog-0.8.6), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [reactphp/datagram](https://github.com/reactphp/datagram) ([v1.10.0](https://github.com/reactphp/datagram/releases/tag/v1.10.0), today) - Event-driven UDP client and server sockets for ReactPHP.
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.27](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.27), 1 day ago) - 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.3](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.3), 2 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
