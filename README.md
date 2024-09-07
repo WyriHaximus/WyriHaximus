@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Switch to wyrihaximus/metrics for metrics](https://github.com/reactphp-inspector/global-state/pull/2) on [reactphp-inspector/global-state](https://github.com/reactphp-inspector/global-state) (today)
 - [Get Psalm to stop bitching about features that aren&#39;t supported by all PHP versions in range](https://github.com/WyriHaximus/php-tile-stitcher/pull/13) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-9bd39ebd9de7218f0077517e1ac614f4 from 1.1.4-f14afa6095b928550e397c99507c5224](https://github.com/php-api-clients/github-root/pull/1282) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHub] Update to 1.1.4-27d2025567219eabd469390370e022c1 from 1.1.4-9458c0477f3e10e00654df3219f3506a](https://github.com/php-api-clients/github-root/pull/1281) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Fix checkout permissions](https://github.com/WyriHaximus/php-fake-php-version/pull/128) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
 - [Introduce iterable to headers helper](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers/pull/53) on [WyriHaximus/reactphp-http-middleware-with-headers](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers) (3 days ago)
 - [Raise MSI to 100%](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers/pull/52) on [WyriHaximus/reactphp-http-middleware-with-headers](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers) (3 days ago)
-- [Bump to PHP 8.2&#43;](https://github.com/WyriHaximusNet/php-x-headers/pull/12) on [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (4 days ago)
 
 ---
 
