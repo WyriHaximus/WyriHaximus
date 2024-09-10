@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [pnbruckner/ha-sun2](https://github.com/pnbruckner/ha-sun2) - Home Assistant Sun2 Sensor (today)
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling. (5 days ago)
 - [vue-leaflet/vue-leaflet](https://github.com/vue-leaflet/vue-leaflet) - vue-leaflet compatible with vue3 (1 week ago)
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers. (1 week ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions (4 weeks ago)
 - [easimon/shelly-exporter](https://github.com/easimon/shelly-exporter) - Prometheus exporter for shelly devices (1 month ago)
 - [iximiuz/docker-to-linux](https://github.com/iximiuz/docker-to-linux) - Make bootable Linux disk image (ab)using Docker (1 month ago)
-- [ginger51011/pandoras_pot](https://github.com/ginger51011/pandoras_pot) - A HellPot inspired HTTP honeypot to punish and educate unruly web crawlers, written in Rust (🚀) (1 month ago)
 
 ---
 
