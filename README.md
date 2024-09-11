@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-fab1ddd37553337c5ed4418939293ccb from 1.1.4-12cb03fcf4474304824f71a72f6d6238](https://github.com/php-api-clients/github-root/pull/1285) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-09839999823ef90b1da82eac02b00b4b from 1.1.4-9bd39ebd9de7218f0077517e1ac614f4](https://github.com/php-api-clients/github-root/pull/1284) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHub] Update to 1.1.4-12cb03fcf4474304824f71a72f6d6238 from 1.1.4-27d2025567219eabd469390370e022c1](https://github.com/php-api-clients/github-root/pull/1283) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [Switch to wyrihaximus/metrics for metrics](https://github.com/reactphp-inspector/global-state/pull/2) on [reactphp-inspector/global-state](https://github.com/reactphp-inspector/global-state) (4 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-f14afa6095b928550e397c99507c5224 from 1.1.4-1361f78292c83f6e3e25de0a25ba1a99](https://github.com/php-api-clients/github-root/pull/1280) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 - [[GitHub] Update to 1.1.4-9458c0477f3e10e00654df3219f3506a from 1.1.4-c1edbd9927fe103e94027b18d46aa0e4](https://github.com/php-api-clients/github-root/pull/1279) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 - [[New Version] Update versions file to PHP 8.3.11](https://github.com/WyriHaximus/php-fake-php-version/pull/129) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
-- [Fix checkout permissions](https://github.com/WyriHaximus/php-fake-php-version/pull/128) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 
 ---
 
