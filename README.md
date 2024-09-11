@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️ (today)
 - [pnbruckner/ha-sun2](https://github.com/pnbruckner/ha-sun2) - Home Assistant Sun2 Sensor (1 day ago)
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling. (6 days ago)
 - [vue-leaflet/vue-leaflet](https://github.com/vue-leaflet/vue-leaflet) - vue-leaflet compatible with vue3 (1 week ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [flyimg/flyimg](https://github.com/flyimg/flyimg) - Dockerized application that resizes and crops images on the fly, delivering optimized images in formats such as AVIF, WebP, MozJPEG, or PNG using ImageMagick, with an efficient caching system. (2 weeks ago)
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions (1 month ago)
 - [easimon/shelly-exporter](https://github.com/easimon/shelly-exporter) - Prometheus exporter for shelly devices (1 month ago)
-- [iximiuz/docker-to-linux](https://github.com/iximiuz/docker-to-linux) - Make bootable Linux disk image (ab)using Docker (1 month ago)
 
 ---
 
