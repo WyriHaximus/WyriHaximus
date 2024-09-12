@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-f6c5967d188725d592d648c646675aaa from 1.1.4-6fc53ca80578d52ccc88d457f5870461](https://github.com/php-api-clients/github-root/pull/1288) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-7175787c7e49e097149d5858b6551438 from 1.1.4-fab1ddd37553337c5ed4418939293ccb](https://github.com/php-api-clients/github-root/pull/1287) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-6fc53ca80578d52ccc88d457f5870461 from 1.1.4-09839999823ef90b1da82eac02b00b4b](https://github.com/php-api-clients/github-root/pull/1286) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-fab1ddd37553337c5ed4418939293ccb from 1.1.4-12cb03fcf4474304824f71a72f6d6238](https://github.com/php-api-clients/github-root/pull/1285) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Only don&#39;t push on PR](https://github.com/WyriHaximusNet/docker-php/pull/251) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [Require at least one tile](https://github.com/WyriHaximus/php-tile-stitcher/pull/12) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 week ago)
 - [8.4.0alpha4 =&gt; 8.4.0beta4](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/56) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-f14afa6095b928550e397c99507c5224 from 1.1.4-1361f78292c83f6e3e25de0a25ba1a99](https://github.com/php-api-clients/github-root/pull/1280) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
