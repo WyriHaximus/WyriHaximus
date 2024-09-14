@@ -46,9 +46,9 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.134.1](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.134.1), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([6.2.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/6.2.0), 2 days ago) - 🌯 PHPStan rules wrapper
 - [reactphp-inspector/global-state](https://github.com/reactphp-inspector/global-state) ([1.0.0](https://github.com/reactphp-inspector/global-state/releases/tag/1.0.0), 6 days ago) - 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.134.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.134.0), 1 week ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [reactphp/datagram](https://github.com/reactphp/datagram) ([v1.10.0](https://github.com/reactphp/datagram/releases/tag/v1.10.0), 1 week ago) - Event-driven UDP client and server sockets for ReactPHP.
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.27](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.27), 1 week ago) - 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.3](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.3), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
