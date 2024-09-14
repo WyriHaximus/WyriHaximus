@@ -14,15 +14,15 @@ All new major package releases will be in PHP 8.2
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 week ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [WyriHaximus/reactphp-http-middleware-with-headers](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers) (1 week ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
+- [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (1 week ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
-- [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (2 weeks ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (2 weeks ago)
-- [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (2 weeks ago)
+- [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (2 weeks ago)
 
 ---
 
@@ -46,6 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) ([2.0.0](https://github.com/WyriHaximus/php-metrics-lazy-registry/releases/tag/2.0.0), today) - Lazy Metrics Registry
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.134.1](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.134.1), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([6.2.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/6.2.0), 2 days ago) - 🌯 PHPStan rules wrapper
 - [reactphp-inspector/global-state](https://github.com/reactphp-inspector/global-state) ([1.0.0](https://github.com/reactphp-inspector/global-state/releases/tag/1.0.0), 6 days ago) - 
@@ -58,7 +59,6 @@ All new major package releases will be in PHP 8.2
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2024.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.2), 2 weeks ago) - PHP runtime &amp; extensions header files for PhpStorm
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) ([2.0.0](https://github.com/MammatusPHP/cron-attributes/releases/tag/2.0.0), 1 month ago) - Cron manager attributes
 - [reactphp/socket](https://github.com/reactphp/socket) ([v1.16.0](https://github.com/reactphp/socket/releases/tag/v1.16.0), 1 month ago) - Async, streaming plaintext TCP/IP and secure TLS socket server and client connections for ReactPHP.
-- [WyriHaximus/php-list-classes-in-directory](https://github.com/WyriHaximus/php-list-classes-in-directory) ([1.7.0](https://github.com/WyriHaximus/php-list-classes-in-directory/releases/tag/1.7.0), 2 months ago) - Allows you to list full qualified class names in directories and files.
 
 ---
 
@@ -116,11 +116,11 @@ All new major package releases will be in PHP 8.2
 
 #### 👯 Check out some of my recent followers
 
+- [mohammedterfa](https://github.com/mohammedterfa)
 - [kcharfi24](https://github.com/kcharfi24)
 - [sazidulcse](https://github.com/sazidulcse)
 - [Franckins](https://github.com/Franckins)
 - [zeon-neon](https://github.com/zeon-neon)
-- [mariopenterman](https://github.com/mariopenterman)
 
 ---
 
