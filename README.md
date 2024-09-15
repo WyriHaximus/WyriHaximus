@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [CDN Hosted Project Workflows](https://github.com/WyriHaximus/github-workflows/pull/38) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Raise PHP to 8.2&#43;](https://github.com/WyriHaximus/php-metrics-lazy-registry/pull/44) on [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-f6c5967d188725d592d648c646675aaa from 1.1.4-6fc53ca80578d52ccc88d457f5870461](https://github.com/php-api-clients/github-root/pull/1288) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [[GitHub] Update to 1.1.4-7175787c7e49e097149d5858b6551438 from 1.1.4-fab1ddd37553337c5ed4418939293ccb](https://github.com/php-api-clients/github-root/pull/1287) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-9bd39ebd9de7218f0077517e1ac614f4 from 1.1.4-f14afa6095b928550e397c99507c5224](https://github.com/php-api-clients/github-root/pull/1282) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHub] Update to 1.1.4-27d2025567219eabd469390370e022c1 from 1.1.4-9458c0477f3e10e00654df3219f3506a](https://github.com/php-api-clients/github-root/pull/1281) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [Only don&#39;t push on PR](https://github.com/WyriHaximusNet/docker-php/pull/251) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
-- [Require at least one tile](https://github.com/WyriHaximus/php-tile-stitcher/pull/12) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 week ago)
 
 ---
 
