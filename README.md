@@ -46,6 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [reactphp-inspector/stream](https://github.com/reactphp-inspector/stream) ([2.0.0](https://github.com/reactphp-inspector/stream/releases/tag/2.0.0), today) - 
 - [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) ([2.0.0](https://github.com/WyriHaximus/php-metrics-lazy-registry/releases/tag/2.0.0), 2 days ago) - Lazy Metrics Registry
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.134.1](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.134.1), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([6.2.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/6.2.0), 4 days ago) - 🌯 PHPStan rules wrapper
@@ -58,7 +59,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r51](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r51), 2 weeks ago) - 
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2024.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.2), 3 weeks ago) - PHP runtime &amp; extensions header files for PhpStorm
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) ([2.0.0](https://github.com/MammatusPHP/cron-attributes/releases/tag/2.0.0), 1 month ago) - Cron manager attributes
-- [reactphp/socket](https://github.com/reactphp/socket) ([v1.16.0](https://github.com/reactphp/socket/releases/tag/v1.16.0), 1 month ago) - Async, streaming plaintext TCP/IP and secure TLS socket server and client connections for ReactPHP.
 
 ---
 
