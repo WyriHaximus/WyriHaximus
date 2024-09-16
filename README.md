@@ -12,11 +12,11 @@ All new major package releases will be in PHP 8.2
 
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (4 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 week ago)
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [WyriHaximus/reactphp-http-middleware-with-headers](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers) (1 week ago)
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-10709c2cd95791d7429380234be06a83 from 1.1.4-7175787c7e49e097149d5858b6551438](https://github.com/php-api-clients/github-root/pull/1289) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Unlock node v20](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/8) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
 - [Add list of additional packages](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/7) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
 - [Fix Typo](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/6) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-f6c5967d188725d592d648c646675aaa from 1.1.4-6fc53ca80578d52ccc88d457f5870461](https://github.com/php-api-clients/github-root/pull/1288) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHub] Update to 1.1.4-7175787c7e49e097149d5858b6551438 from 1.1.4-fab1ddd37553337c5ed4418939293ccb](https://github.com/php-api-clients/github-root/pull/1287) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-6fc53ca80578d52ccc88d457f5870461 from 1.1.4-09839999823ef90b1da82eac02b00b4b](https://github.com/php-api-clients/github-root/pull/1286) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
-- [[GitHub] Update to 1.1.4-fab1ddd37553337c5ed4418939293ccb from 1.1.4-12cb03fcf4474304824f71a72f6d6238](https://github.com/php-api-clients/github-root/pull/1285) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 
 ---
 
