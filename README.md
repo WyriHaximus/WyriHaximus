@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Deploy kubernetes workflow](https://github.com/WyriHaximus/github-workflows/pull/39) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-d447e3d393f86b8bab369d6928d9de52 from 1.1.4-f6c5967d188725d592d648c646675aaa](https://github.com/php-api-clients/github-root/pull/1290) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-10709c2cd95791d7429380234be06a83 from 1.1.4-7175787c7e49e097149d5858b6551438](https://github.com/php-api-clients/github-root/pull/1289) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Unlock node v20](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/8) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [CDN Hosted Project Workflows](https://github.com/WyriHaximus/github-workflows/pull/38) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [Raise PHP to 8.2&#43;](https://github.com/WyriHaximus/php-metrics-lazy-registry/pull/44) on [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (2 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-f6c5967d188725d592d648c646675aaa from 1.1.4-6fc53ca80578d52ccc88d457f5870461](https://github.com/php-api-clients/github-root/pull/1288) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[GitHub] Update to 1.1.4-7175787c7e49e097149d5858b6551438 from 1.1.4-fab1ddd37553337c5ed4418939293ccb](https://github.com/php-api-clients/github-root/pull/1287) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 
 ---
 
