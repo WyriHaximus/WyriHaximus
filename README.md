@@ -10,8 +10,8 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (4 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 week ago)
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-d447e3d393f86b8bab369d6928d9de52 from 1.1.4-f6c5967d188725d592d648c646675aaa](https://github.com/php-api-clients/github-root/pull/1290) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-10709c2cd95791d7429380234be06a83 from 1.1.4-7175787c7e49e097149d5858b6551438](https://github.com/php-api-clients/github-root/pull/1289) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Unlock node v20](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/8) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
 - [Add list of additional packages](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/7) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Raise PHP to 8.2&#43;](https://github.com/WyriHaximus/php-metrics-lazy-registry/pull/44) on [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (2 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-f6c5967d188725d592d648c646675aaa from 1.1.4-6fc53ca80578d52ccc88d457f5870461](https://github.com/php-api-clients/github-root/pull/1288) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHub] Update to 1.1.4-7175787c7e49e097149d5858b6551438 from 1.1.4-fab1ddd37553337c5ed4418939293ccb](https://github.com/php-api-clients/github-root/pull/1287) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-6fc53ca80578d52ccc88d457f5870461 from 1.1.4-09839999823ef90b1da82eac02b00b4b](https://github.com/php-api-clients/github-root/pull/1286) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 
 ---
 
