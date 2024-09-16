@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
+- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (4 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (4 days ago)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 week ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [WyriHaximus/reactphp-http-middleware-with-headers](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers) (1 week ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (2 weeks ago)
-- [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (2 weeks ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (2 weeks ago)
+- [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (2 weeks ago)
 
 ---
 
@@ -64,6 +64,9 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Add list of additional packages](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/7) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
+- [Fix Typo](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/6) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
+- [Docker login through action](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/5) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
 - [Add token to push](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/4) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
 - [Initial image](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/2) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
 - [Switch to wyrihaximus/metrics for metrics](https://github.com/reactphp-inspector/stream/pull/47) on [reactphp-inspector/stream](https://github.com/reactphp-inspector/stream) (1 day ago)
@@ -74,9 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-6fc53ca80578d52ccc88d457f5870461 from 1.1.4-09839999823ef90b1da82eac02b00b4b](https://github.com/php-api-clients/github-root/pull/1286) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [[GitHub] Update to 1.1.4-fab1ddd37553337c5ed4418939293ccb from 1.1.4-12cb03fcf4474304824f71a72f6d6238](https://github.com/php-api-clients/github-root/pull/1285) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-09839999823ef90b1da82eac02b00b4b from 1.1.4-9bd39ebd9de7218f0077517e1ac614f4](https://github.com/php-api-clients/github-root/pull/1284) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [[GitHub] Update to 1.1.4-12cb03fcf4474304824f71a72f6d6238 from 1.1.4-27d2025567219eabd469390370e022c1](https://github.com/php-api-clients/github-root/pull/1283) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [Switch to wyrihaximus/metrics for metrics](https://github.com/reactphp-inspector/global-state/pull/2) on [reactphp-inspector/global-state](https://github.com/reactphp-inspector/global-state) (1 week ago)
-- [Get Psalm to stop bitching about features that aren&#39;t supported by all PHP versions in range](https://github.com/WyriHaximus/php-tile-stitcher/pull/13) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 week ago)
 
 ---
 
