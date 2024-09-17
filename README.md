@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-ffa2a2629ce7e409178910932d1b8231 from 1.1.4-10709c2cd95791d7429380234be06a83](https://github.com/php-api-clients/github-root/pull/1291) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Move diffs to release management](https://github.com/WyriHaximus/github-workflows/pull/40) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [Deploy kubernetes workflow](https://github.com/WyriHaximus/github-workflows/pull/39) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-d447e3d393f86b8bab369d6928d9de52 from 1.1.4-f6c5967d188725d592d648c646675aaa](https://github.com/php-api-clients/github-root/pull/1290) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Initial image](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/2) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 days ago)
 - [Switch to wyrihaximus/metrics for metrics](https://github.com/reactphp-inspector/stream/pull/47) on [reactphp-inspector/stream](https://github.com/reactphp-inspector/stream) (2 days ago)
 - [CDN Hosted Project Workflows](https://github.com/WyriHaximus/github-workflows/pull/38) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
-- [Raise PHP to 8.2&#43;](https://github.com/WyriHaximus/php-metrics-lazy-registry/pull/44) on [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (3 days ago)
 
 ---
 
