@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-2613abe9bea3162d3f87cc73a6dfdeed from 1.1.4-ffa2a2629ce7e409178910932d1b8231](https://github.com/php-api-clients/github-root/pull/1293) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Switch to wyrihaximus/metrics for metrics](https://github.com/reactphp-inspector/event-loop/pull/41) on [reactphp-inspector/event-loop](https://github.com/reactphp-inspector/event-loop) (today)
 - [Add: jq](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/9) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-95df4267202b432fe4f72cf542eb28c8 from 1.1.4-d447e3d393f86b8bab369d6928d9de52](https://github.com/php-api-clients/github-root/pull/1292) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Add list of additional packages](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/7) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 days ago)
 - [Fix Typo](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/6) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 days ago)
 - [Docker login through action](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/5) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 days ago)
-- [Add token to push](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/4) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (3 days ago)
 
 ---
 
