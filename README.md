@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-bb053ea7f78df19d2e4d4872d9eed9c7 from 1.1.4-95df4267202b432fe4f72cf542eb28c8](https://github.com/php-api-clients/github-root/pull/1294) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Add: Helm](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/10) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
 - [[GitHub] Update to 1.1.4-2613abe9bea3162d3f87cc73a6dfdeed from 1.1.4-ffa2a2629ce7e409178910932d1b8231](https://github.com/php-api-clients/github-root/pull/1293) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Switch to wyrihaximus/metrics for metrics](https://github.com/reactphp-inspector/event-loop/pull/41) on [reactphp-inspector/event-loop](https://github.com/reactphp-inspector/event-loop) (today)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-10709c2cd95791d7429380234be06a83 from 1.1.4-7175787c7e49e097149d5858b6551438](https://github.com/php-api-clients/github-root/pull/1289) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [Unlock node v20](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/8) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 days ago)
 - [Add list of additional packages](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/7) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 days ago)
-- [Fix Typo](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/6) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 days ago)
 
 ---
 
