@@ -46,10 +46,10 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([nextcloud-0.17.7](https://github.com/groundhog2k/helm-charts/releases/tag/nextcloud-0.17.7), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/github-action-create-milestone](https://github.com/WyriHaximus/github-action-create-milestone) ([v1.1.2](https://github.com/WyriHaximus/github-action-create-milestone/releases/tag/v1.1.2), 1 day ago) - Create a new milestone
 - [reactphp-inspector/stream](https://github.com/reactphp-inspector/stream) ([2.0.0](https://github.com/reactphp-inspector/stream/releases/tag/2.0.0), 4 days ago) - 
 - [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) ([2.0.0](https://github.com/WyriHaximus/php-metrics-lazy-registry/releases/tag/2.0.0), 6 days ago) - Lazy Metrics Registry
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.134.1](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.134.1), 6 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([6.2.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/6.2.0), 1 week ago) - 🌯 PHPStan rules wrapper
 - [reactphp-inspector/global-state](https://github.com/reactphp-inspector/global-state) ([1.0.0](https://github.com/reactphp-inspector/global-state/releases/tag/1.0.0), 1 week ago) - 
 - [reactphp/datagram](https://github.com/reactphp/datagram) ([v1.10.0](https://github.com/reactphp/datagram/releases/tag/v1.10.0), 2 weeks ago) - Event-driven UDP client and server sockets for ReactPHP.
