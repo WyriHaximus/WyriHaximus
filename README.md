@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (today)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - Composer plugin for automatic installation of PHPStan extensions. (today)
 - [rodyherrera/Quantum](https://github.com/rodyherrera/Quantum) - 🚀 Hackable &amp; Self-hosted Open-Source alternative to Vercel, Heroku, Netlify, etc. All your applications, just in one place. Develop and deploy with your favorite tools, and enjoy continuous deployment with GitHub.  (2 days ago)
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of sites that contain AI generated content for uBlock Origin &amp; uBlacklist. (3 days ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers. (2 weeks ago)
 - [carpenike/k8s-gitops](https://github.com/carpenike/k8s-gitops) - My k8s cluster built with talos and managed by Flux-v2 (2 weeks ago)
 - [Nerwyn/material-rounded-theme](https://github.com/Nerwyn/material-rounded-theme) - A Material You and Google Home app influenced theme for Home Assistant (3 weeks ago)
-- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (3 weeks ago)
 
 ---
 
