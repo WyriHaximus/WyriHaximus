@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Drop brandembassy/mockery-tools as it&#39;s not supporting PHPUnit 11&#43;](https://github.com/WyriHaximus/php-test-utilities/pull/942) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [Create daily tag](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/11) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
 - [Bump wyrihaximus/phpstan-rules-wrapper to v7](https://github.com/WyriHaximus/php-test-utilities/pull/939) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [Switch to phpstan/extension-installer for extension loading](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/128) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Switch to wyrihaximus/metrics for metrics](https://github.com/reactphp-inspector/memory-usage/pull/44) on [reactphp-inspector/memory-usage](https://github.com/reactphp-inspector/memory-usage) (2 days ago)
 - [Remove reliance on unmaintained upstream image](https://github.com/WyriHaximus/github-action-set-milestone/pull/2) on [WyriHaximus/github-action-set-milestone](https://github.com/WyriHaximus/github-action-set-milestone) (3 days ago)
 - [Drop --daemon-off flag from Mockoon](https://github.com/WyriHaximus/github-action-create-milestone/pull/15) on [WyriHaximus/github-action-create-milestone](https://github.com/WyriHaximus/github-action-create-milestone) (3 days ago)
-- [Remove reliance on unmaintained upstream image](https://github.com/WyriHaximus/github-action-create-milestone/pull/14) on [WyriHaximus/github-action-create-milestone](https://github.com/WyriHaximus/github-action-create-milestone) (3 days ago)
 
 ---
 
