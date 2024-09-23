@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-a9f9373b436a715e38764f5f7b04e767 from 1.1.4-2613abe9bea3162d3f87cc73a6dfdeed](https://github.com/php-api-clients/github-root/pull/1296) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Initial PoC](https://github.com/MammatusPHP/helm-json-action/pull/1) on [MammatusPHP/helm-json-action](https://github.com/MammatusPHP/helm-json-action) (1 day ago)
 - [Drop brandembassy/mockery-tools as it&#39;s not supporting PHPUnit 11&#43;](https://github.com/WyriHaximus/php-test-utilities/pull/942) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [Create daily tag](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/11) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Clean up actions](https://github.com/reactphp-inspector/event-loop/pull/44) on [reactphp-inspector/event-loop](https://github.com/reactphp-inspector/event-loop) (3 days ago)
 - [Clean up old actions](https://github.com/reactphp-inspector/memory-usage/pull/45) on [reactphp-inspector/memory-usage](https://github.com/reactphp-inspector/memory-usage) (3 days ago)
 - [Switch to wyrihaximus/metrics for metrics](https://github.com/reactphp-inspector/memory-usage/pull/44) on [reactphp-inspector/memory-usage](https://github.com/reactphp-inspector/memory-usage) (3 days ago)
-- [Remove reliance on unmaintained upstream image](https://github.com/WyriHaximus/github-action-set-milestone/pull/2) on [WyriHaximus/github-action-set-milestone](https://github.com/WyriHaximus/github-action-set-milestone) (4 days ago)
 
 ---
 
