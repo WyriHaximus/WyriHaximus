@@ -46,10 +46,10 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([rabbitmq-2.0.0](https://github.com/groundhog2k/helm-charts/releases/tag/rabbitmq-2.0.0), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([6.0.10](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.10), 2 days ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([7.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/7.0.0), 2 days ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.28](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.28), 2 days ago) - 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([nextcloud-0.17.7](https://github.com/groundhog2k/helm-charts/releases/tag/nextcloud-0.17.7), 3 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/github-action-create-milestone](https://github.com/WyriHaximus/github-action-create-milestone) ([v1.1.2](https://github.com/WyriHaximus/github-action-create-milestone/releases/tag/v1.1.2), 4 days ago) - Create a new milestone
 - [reactphp-inspector/stream](https://github.com/reactphp-inspector/stream) ([2.0.0](https://github.com/reactphp-inspector/stream/releases/tag/2.0.0), 1 week ago) - 
 - [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) ([2.0.0](https://github.com/WyriHaximus/php-metrics-lazy-registry/releases/tag/2.0.0), 1 week ago) - Lazy Metrics Registry
