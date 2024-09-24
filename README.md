@@ -11,11 +11,11 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
-- [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (today)
 - [reactphp-inspector/memory-usage](https://github.com/reactphp-inspector/memory-usage) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
+- [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (today)
 - [WyriHaximus/github-action-get-milestones](https://github.com/WyriHaximus/github-action-get-milestones) (1 day ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
@@ -46,10 +46,10 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([7.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/7.1.0), today) - 🌯 PHPStan rules wrapper
 - [reactphp-inspector/event-loop](https://github.com/reactphp-inspector/event-loop) ([2.0.0](https://github.com/reactphp-inspector/event-loop/releases/tag/2.0.0), today) - 
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([rabbitmq-2.0.0](https://github.com/groundhog2k/helm-charts/releases/tag/rabbitmq-2.0.0), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([6.0.10](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.10), 3 days ago) - 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([7.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/7.0.0), 3 days ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.28](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.28), 3 days ago) - 
 - [WyriHaximus/github-action-create-milestone](https://github.com/WyriHaximus/github-action-create-milestone) ([v1.1.2](https://github.com/WyriHaximus/github-action-create-milestone/releases/tag/v1.1.2), 5 days ago) - Create a new milestone
 - [reactphp-inspector/stream](https://github.com/reactphp-inspector/stream) ([2.0.0](https://github.com/reactphp-inspector/stream/releases/tag/2.0.0), 1 week ago) - 
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Add: yamadashy/phpstan-friendly-formatter](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/130) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [Use new and improve output](https://github.com/WyriHaximus/github-action-get-milestones/pull/4) on [WyriHaximus/github-action-get-milestones](https://github.com/WyriHaximus/github-action-get-milestones) (1 day ago)
 - [Remove reliance on unmaintained upstream image](https://github.com/WyriHaximus/github-action-get-milestones/pull/3) on [WyriHaximus/github-action-get-milestones](https://github.com/WyriHaximus/github-action-get-milestones) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-105708433ef2827723e57d66a0f7645f from 1.1.4-bb053ea7f78df19d2e4d4872d9eed9c7](https://github.com/php-api-clients/github-root/pull/1297) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Switch to phpstan/extension-installer for extension loading](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/127) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
 - [Add tomasvotruba/type-coverage](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/126) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
 - [Update readme to PHP 8.4](https://github.com/WyriHaximusNet/docker-php/pull/252) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
-- [8.4.0beta4 =&gt; 8.4.0beta5](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/57) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (3 days ago)
 
 ---
 
