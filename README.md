@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [8.4.0beta5 =&gt; 8.4.0RC1](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/58) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
 - [[New Version] Update versions file to PHP 8.3.12](https://github.com/WyriHaximus/php-fake-php-version/pull/132) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-9490e41553676ba8db2a5129723d9e63 from 1.1.4-105708433ef2827723e57d66a0f7645f](https://github.com/php-api-clients/github-root/pull/1298) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Add: yamadashy/phpstan-friendly-formatter](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/130) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Create daily tag](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/11) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 days ago)
 - [Bump wyrihaximus/phpstan-rules-wrapper to v7](https://github.com/WyriHaximus/php-test-utilities/pull/939) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
 - [Switch to phpstan/extension-installer for extension loading](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/128) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
-- [Switch to phpstan/extension-installer for extension loading](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/127) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
 
 ---
 
