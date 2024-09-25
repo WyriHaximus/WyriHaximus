@@ -46,11 +46,11 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([wordpress-0.12.1](https://github.com/groundhog2k/helm-charts/releases/tag/wordpress-0.12.1), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [reactphp-inspector/memory-usage](https://github.com/reactphp-inspector/memory-usage) ([2.0.0](https://github.com/reactphp-inspector/memory-usage/releases/tag/2.0.0), today) - 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.4](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.4), 1 day ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([7.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/7.1.0), 1 day ago) - 🌯 PHPStan rules wrapper
 - [reactphp-inspector/event-loop](https://github.com/reactphp-inspector/event-loop) ([2.0.0](https://github.com/reactphp-inspector/event-loop/releases/tag/2.0.0), 1 day ago) - 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([rabbitmq-2.0.0](https://github.com/groundhog2k/helm-charts/releases/tag/rabbitmq-2.0.0), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([6.0.10](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.10), 4 days ago) - 
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.28](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.28), 4 days ago) - 
 - [WyriHaximus/github-action-create-milestone](https://github.com/WyriHaximus/github-action-create-milestone) ([v1.1.2](https://github.com/WyriHaximus/github-action-create-milestone/releases/tag/v1.1.2), 6 days ago) - Create a new milestone
