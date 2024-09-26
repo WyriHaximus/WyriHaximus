@@ -10,10 +10,10 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
 - [reactphp-inspector/memory-usage](https://github.com/reactphp-inspector/memory-usage) (2 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
 - [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (2 days ago)
 - [WyriHaximus/github-action-get-milestones](https://github.com/WyriHaximus/github-action-get-milestones) (3 days ago)
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-e44a416901524b2c0d9993b097322ff2 from 1.1.4-9490e41553676ba8db2a5129723d9e63](https://github.com/php-api-clients/github-root/pull/1300) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-1286a2730d7f8da9f91dca4d989b2f56 from 1.1.4-a9f9373b436a715e38764f5f7b04e767](https://github.com/php-api-clients/github-root/pull/1299) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Add support for labels through a request attribute that is passed down the line](https://github.com/reactphp-inspector/http-middleware/pull/76) on [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) (today)
 - [Update to promise v3](https://github.com/reactphp-inspector/http-middleware/pull/75) on [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-105708433ef2827723e57d66a0f7645f from 1.1.4-bb053ea7f78df19d2e4d4872d9eed9c7](https://github.com/php-api-clients/github-root/pull/1297) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [[GitHub] Update to 1.1.4-a9f9373b436a715e38764f5f7b04e767 from 1.1.4-2613abe9bea3162d3f87cc73a6dfdeed](https://github.com/php-api-clients/github-root/pull/1296) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [Initial PoC](https://github.com/MammatusPHP/helm-json-action/pull/1) on [MammatusPHP/helm-json-action](https://github.com/MammatusPHP/helm-json-action) (4 days ago)
-- [Drop brandembassy/mockery-tools as it&#39;s not supporting PHPUnit 11&#43;](https://github.com/WyriHaximus/php-test-utilities/pull/942) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
 
 ---
 
