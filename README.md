@@ -16,12 +16,12 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
-- [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (3 days ago)
 - [reactphp-inspector/memory-usage](https://github.com/reactphp-inspector/memory-usage) (3 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
+- [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (3 days ago)
 - [WyriHaximus/github-action-get-milestones](https://github.com/WyriHaximus/github-action-get-milestones) (4 days ago)
+- [MammatusPHP/helm-json-action](https://github.com/MammatusPHP/helm-json-action) (5 days ago)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (5 days ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (6 days ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (6 days ago)
 
 ---
@@ -46,6 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) ([3.0.0](https://github.com/reactphp-inspector/http-middleware/releases/tag/3.0.0), today) - 
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([wordpress-0.12.1](https://github.com/groundhog2k/helm-charts/releases/tag/wordpress-0.12.1), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [reactphp-inspector/memory-usage](https://github.com/reactphp-inspector/memory-usage) ([2.0.0](https://github.com/reactphp-inspector/memory-usage/releases/tag/2.0.0), 2 days ago) - 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.4](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.4), 3 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
@@ -58,12 +59,12 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) ([2.0.0](https://github.com/WyriHaximus/php-metrics-lazy-registry/releases/tag/2.0.0), 1 week ago) - Lazy Metrics Registry
 - [reactphp-inspector/global-state](https://github.com/reactphp-inspector/global-state) ([1.0.0](https://github.com/reactphp-inspector/global-state/releases/tag/1.0.0), 2 weeks ago) - 
 - [reactphp/datagram](https://github.com/reactphp/datagram) ([v1.10.0](https://github.com/reactphp/datagram/releases/tag/v1.10.0), 3 weeks ago) - Event-driven UDP client and server sockets for ReactPHP.
-- [WyriHaximus/reactphp-http-middleware-with-headers](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers) ([3.0.0](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers/releases/tag/3.0.0), 3 weeks ago) - 
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Use centralized Renovate config](https://github.com/reactphp-inspector/http-middleware/pull/77) on [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) (today)
 - [Move set milestone to release management](https://github.com/WyriHaximus/github-workflows/pull/41) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [Fix milestones](https://github.com/WyriHaximus/php-test-utilities/pull/944) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-e44a416901524b2c0d9993b097322ff2 from 1.1.4-9490e41553676ba8db2a5129723d9e63](https://github.com/php-api-clients/github-root/pull/1300) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Add: yamadashy/phpstan-friendly-formatter](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/130) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
 - [Use new and improve output](https://github.com/WyriHaximus/github-action-get-milestones/pull/4) on [WyriHaximus/github-action-get-milestones](https://github.com/WyriHaximus/github-action-get-milestones) (4 days ago)
 - [Remove reliance on unmaintained upstream image](https://github.com/WyriHaximus/github-action-get-milestones/pull/3) on [WyriHaximus/github-action-get-milestones](https://github.com/WyriHaximus/github-action-get-milestones) (4 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-105708433ef2827723e57d66a0f7645f from 1.1.4-bb053ea7f78df19d2e4d4872d9eed9c7](https://github.com/php-api-clients/github-root/pull/1297) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 
 ---
 
