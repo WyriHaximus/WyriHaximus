@@ -11,11 +11,11 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) (today)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (today)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
 - [reactphp-inspector/memory-usage](https://github.com/reactphp-inspector/memory-usage) (3 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-7b73af1e4dbdd0025b62a706c5a2f386 from 1.1.4-e44a416901524b2c0d9993b097322ff2](https://github.com/php-api-clients/github-root/pull/1302) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-a5d0ef223e8ea4b0fd40cfba849d6268 from 1.1.4-1286a2730d7f8da9f91dca4d989b2f56](https://github.com/php-api-clients/github-root/pull/1301) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Swap ringcentral for nyholm psr7 implementation](https://github.com/reactphp-inspector/http-middleware/pull/78) on [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) (today)
 - [Packages: Only set milestones during PR&#39;s workflow calls](https://github.com/WyriHaximus/github-workflows/pull/42) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Update to promise v3](https://github.com/reactphp-inspector/http-middleware/pull/75) on [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) (2 days ago)
 - [8.4.0beta5 =&gt; 8.4.0RC1](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/58) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (3 days ago)
 - [[New Version] Update versions file to PHP 8.3.12](https://github.com/WyriHaximus/php-fake-php-version/pull/132) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-9490e41553676ba8db2a5129723d9e63 from 1.1.4-105708433ef2827723e57d66a0f7645f](https://github.com/php-api-clients/github-root/pull/1298) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 
 ---
 
