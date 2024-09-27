@@ -11,17 +11,17 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) (today)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
 - [reactphp-inspector/memory-usage](https://github.com/reactphp-inspector/memory-usage) (3 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
 - [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (3 days ago)
 - [WyriHaximus/github-action-get-milestones](https://github.com/WyriHaximus/github-action-get-milestones) (4 days ago)
-- [MammatusPHP/helm-json-action](https://github.com/MammatusPHP/helm-json-action) (5 days ago)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (5 days ago)
+- [MammatusPHP/helm-json-action](https://github.com/MammatusPHP/helm-json-action) (5 days ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (6 days ago)
 
 ---
@@ -64,6 +64,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Swap ringcentral for nyholm psr7 implementation](https://github.com/reactphp-inspector/http-middleware/pull/78) on [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) (today)
+- [Packages: Only set milestones during PR&#39;s workflow calls](https://github.com/WyriHaximus/github-workflows/pull/42) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Use centralized Renovate config](https://github.com/reactphp-inspector/http-middleware/pull/77) on [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) (today)
 - [Move set milestone to release management](https://github.com/WyriHaximus/github-workflows/pull/41) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [Fix milestones](https://github.com/WyriHaximus/php-test-utilities/pull/944) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
@@ -75,8 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[New Version] Update versions file to PHP 8.3.12](https://github.com/WyriHaximus/php-fake-php-version/pull/132) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-9490e41553676ba8db2a5129723d9e63 from 1.1.4-105708433ef2827723e57d66a0f7645f](https://github.com/php-api-clients/github-root/pull/1298) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [Add: yamadashy/phpstan-friendly-formatter](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/130) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
-- [Use new and improve output](https://github.com/WyriHaximus/github-action-get-milestones/pull/4) on [WyriHaximus/github-action-get-milestones](https://github.com/WyriHaximus/github-action-get-milestones) (4 days ago)
-- [Remove reliance on unmaintained upstream image](https://github.com/WyriHaximus/github-action-get-milestones/pull/3) on [WyriHaximus/github-action-get-milestones](https://github.com/WyriHaximus/github-action-get-milestones) (4 days ago)
 
 ---
 
