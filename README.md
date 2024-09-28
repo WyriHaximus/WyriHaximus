@@ -46,8 +46,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.135.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.135.0), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) ([3.1.0](https://github.com/reactphp-inspector/http-middleware/releases/tag/3.1.0), 1 day ago) - 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([wordpress-0.12.1](https://github.com/groundhog2k/helm-charts/releases/tag/wordpress-0.12.1), 3 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [reactphp-inspector/memory-usage](https://github.com/reactphp-inspector/memory-usage) ([2.0.0](https://github.com/reactphp-inspector/memory-usage/releases/tag/2.0.0), 3 days ago) - 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.4](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.4), 4 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([7.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/7.1.0), 4 days ago) - 🌯 PHPStan rules wrapper
