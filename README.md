@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[ReactPHP] Don&#39;t verbosely chown](https://github.com/WyriHaximusNet/docker-redirect/pull/164) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (today)
 - [Build multi arch images](https://github.com/WyriHaximusNet/docker-redirect/pull/163) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (today)
 - [Bump nodejs image](https://github.com/WyriHaximusNet/docker-redirect/pull/162) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-7b73af1e4dbdd0025b62a706c5a2f386 from 1.1.4-e44a416901524b2c0d9993b097322ff2](https://github.com/php-api-clients/github-root/pull/1302) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -76,12 +77,12 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-e44a416901524b2c0d9993b097322ff2 from 1.1.4-9490e41553676ba8db2a5129723d9e63](https://github.com/php-api-clients/github-root/pull/1300) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHub] Update to 1.1.4-1286a2730d7f8da9f91dca4d989b2f56 from 1.1.4-a9f9373b436a715e38764f5f7b04e767](https://github.com/php-api-clients/github-root/pull/1299) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [Add support for labels through a request attribute that is passed down the line](https://github.com/reactphp-inspector/http-middleware/pull/76) on [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) (2 days ago)
-- [Update to promise v3](https://github.com/reactphp-inspector/http-middleware/pull/75) on [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) (3 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
+- [peter-evans/dockerhub-description](https://github.com/peter-evans/dockerhub-description) - A GitHub action to update a Docker Hub repository description from README.md (today)
 - [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data (3 days ago)
 - [yamadashy/phpstan-friendly-formatter](https://github.com/yamadashy/phpstan-friendly-formatter) - 🤝 A friendly error formatter extension for PHPStan that provides more readable and informative output, including code snippets and color highlighting. (4 days ago)
 - [0xdea/tactical-exploitation](https://github.com/0xdea/tactical-exploitation) - Modern tactical exploitation toolkit. (4 days ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [luizm/action-sh-checker](https://github.com/luizm/action-sh-checker) - A GitHub action that performs static analysis for shell scripts using shellcheck, shfmt and checkbashisms. (2 weeks ago)
 - [alekc/terraform-provider-kubectl](https://github.com/alekc/terraform-provider-kubectl) -  (2 weeks ago)
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️ (2 weeks ago)
-- [pnbruckner/ha-sun2](https://github.com/pnbruckner/ha-sun2) - Home Assistant Sun2 Sensor (2 weeks ago)
 
 ---
 
