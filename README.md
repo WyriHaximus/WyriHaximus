@@ -10,12 +10,12 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (1 day ago)
+- [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) (2 days ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [reactphp-inspector/memory-usage](https://github.com/reactphp-inspector/memory-usage) (5 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (5 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (5 days ago)
