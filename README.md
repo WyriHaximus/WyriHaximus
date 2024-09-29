@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Drop Buildx set up for building image](https://github.com/WyriHaximusNet/docker-redirect/pull/165) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (today)
 - [[ReactPHP] Don&#39;t verbosely chown](https://github.com/WyriHaximusNet/docker-redirect/pull/164) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (1 day ago)
 - [Build multi arch images](https://github.com/WyriHaximusNet/docker-redirect/pull/163) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (1 day ago)
 - [Bump nodejs image](https://github.com/WyriHaximusNet/docker-redirect/pull/162) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Fix milestones](https://github.com/WyriHaximus/php-test-utilities/pull/944) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-e44a416901524b2c0d9993b097322ff2 from 1.1.4-9490e41553676ba8db2a5129723d9e63](https://github.com/php-api-clients/github-root/pull/1300) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [[GitHub] Update to 1.1.4-1286a2730d7f8da9f91dca4d989b2f56 from 1.1.4-a9f9373b436a715e38764f5f7b04e767](https://github.com/php-api-clients/github-root/pull/1299) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [Add support for labels through a request attribute that is passed down the line](https://github.com/reactphp-inspector/http-middleware/pull/76) on [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) (3 days ago)
 
 ---
 
