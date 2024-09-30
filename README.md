@@ -46,6 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.29.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.29.0), today) - 
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.135.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.135.0), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) ([3.1.0](https://github.com/reactphp-inspector/http-middleware/releases/tag/3.1.0), 3 days ago) - 
 - [reactphp-inspector/memory-usage](https://github.com/reactphp-inspector/memory-usage) ([2.0.0](https://github.com/reactphp-inspector/memory-usage/releases/tag/2.0.0), 5 days ago) - 
@@ -53,7 +54,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([7.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/7.1.0), 6 days ago) - 🌯 PHPStan rules wrapper
 - [reactphp-inspector/event-loop](https://github.com/reactphp-inspector/event-loop) ([2.0.0](https://github.com/reactphp-inspector/event-loop/releases/tag/2.0.0), 6 days ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([6.0.10](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.10), 1 week ago) - 
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.28](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.28), 1 week ago) - 
 - [WyriHaximus/github-action-create-milestone](https://github.com/WyriHaximus/github-action-create-milestone) ([v1.1.2](https://github.com/WyriHaximus/github-action-create-milestone/releases/tag/v1.1.2), 1 week ago) - Create a new milestone
 - [reactphp-inspector/stream](https://github.com/reactphp-inspector/stream) ([2.0.0](https://github.com/reactphp-inspector/stream/releases/tag/2.0.0), 2 weeks ago) - 
 - [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) ([2.0.0](https://github.com/WyriHaximus/php-metrics-lazy-registry/releases/tag/2.0.0), 2 weeks ago) - Lazy Metrics Registry
