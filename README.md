@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
 - [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (1 day ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) (3 days ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (6 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (6 days ago)
 - [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (6 days ago)
 - [reactphp-inspector/memory-usage](https://github.com/reactphp-inspector/memory-usage) (6 days ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (6 days ago)
 - [WyriHaximus/github-action-get-milestones](https://github.com/WyriHaximus/github-action-get-milestones) (1 week ago)
-- [MammatusPHP/helm-json-action](https://github.com/MammatusPHP/helm-json-action) (1 week ago)
 
 ---
 
@@ -46,6 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r52](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r52), today) - 
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.29.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.29.0), today) - 
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.135.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.135.0), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) ([3.1.0](https://github.com/reactphp-inspector/http-middleware/releases/tag/3.1.0), 3 days ago) - 
@@ -58,12 +59,12 @@ All new major package releases will be in PHP 8.2
 - [reactphp-inspector/stream](https://github.com/reactphp-inspector/stream) ([2.0.0](https://github.com/reactphp-inspector/stream/releases/tag/2.0.0), 2 weeks ago) - 
 - [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) ([2.0.0](https://github.com/WyriHaximus/php-metrics-lazy-registry/releases/tag/2.0.0), 2 weeks ago) - Lazy Metrics Registry
 - [reactphp-inspector/global-state](https://github.com/reactphp-inspector/global-state) ([1.0.0](https://github.com/reactphp-inspector/global-state/releases/tag/1.0.0), 3 weeks ago) - 
-- [reactphp/datagram](https://github.com/reactphp/datagram) ([v1.10.0](https://github.com/reactphp/datagram/releases/tag/v1.10.0), 3 weeks ago) - Event-driven UDP client and server sockets for ReactPHP.
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Post: Building Secure Images with GitHub Actions](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/199) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
 - [Drop Buildx set up for building image](https://github.com/WyriHaximusNet/docker-redirect/pull/165) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (1 day ago)
 - [[ReactPHP] Don&#39;t verbosely chown](https://github.com/WyriHaximusNet/docker-redirect/pull/164) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (2 days ago)
 - [Build multi arch images](https://github.com/WyriHaximusNet/docker-redirect/pull/163) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Move set milestone to release management](https://github.com/WyriHaximus/github-workflows/pull/41) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 - [Fix milestones](https://github.com/WyriHaximus/php-test-utilities/pull/944) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-e44a416901524b2c0d9993b097322ff2 from 1.1.4-9490e41553676ba8db2a5129723d9e63](https://github.com/php-api-clients/github-root/pull/1300) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[GitHub] Update to 1.1.4-1286a2730d7f8da9f91dca4d989b2f56 from 1.1.4-a9f9373b436a715e38764f5f7b04e767](https://github.com/php-api-clients/github-root/pull/1299) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 
 ---
 
