@@ -12,15 +12,15 @@ All new major package releases will be in PHP 8.2
 
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (2 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 - [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) (4 days ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
-- [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
+- [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (1 week ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [reactphp-inspector/memory-usage](https://github.com/reactphp-inspector/memory-usage) (1 week ago)
 - [WyriHaximus/github-action-get-milestones](https://github.com/WyriHaximus/github-action-get-milestones) (1 week ago)
 
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-086c888146955fa3886508f5e1e7debb from 1.1.4-e00d8234bb59cf8cf984a3d8bf324323](https://github.com/php-api-clients/github-root/pull/1307) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-846e79a967c97fff1f751d713e16fc13 from 1.1.4-a62519fb7f7e65d753064fbb86d95c90](https://github.com/php-api-clients/github-root/pull/1306) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Removed accidental space from top readme example](https://github.com/bakame-php/http-structured-fields/pull/9) on [bakame-php/http-structured-fields](https://github.com/bakame-php/http-structured-fields) (today)
 - [Comment out fixed brokages in spec files](https://github.com/php-api-clients/github-root/pull/1305) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Bump nodejs image](https://github.com/WyriHaximusNet/docker-redirect/pull/162) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (4 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-7b73af1e4dbdd0025b62a706c5a2f386 from 1.1.4-e44a416901524b2c0d9993b097322ff2](https://github.com/php-api-clients/github-root/pull/1302) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHub] Update to 1.1.4-a5d0ef223e8ea4b0fd40cfba849d6268 from 1.1.4-1286a2730d7f8da9f91dca4d989b2f56](https://github.com/php-api-clients/github-root/pull/1301) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [Swap ringcentral for nyholm psr7 implementation](https://github.com/reactphp-inspector/http-middleware/pull/78) on [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) (4 days ago)
 
 ---
 
