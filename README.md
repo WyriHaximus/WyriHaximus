@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-846e79a967c97fff1f751d713e16fc13 from 1.1.4-a62519fb7f7e65d753064fbb86d95c90](https://github.com/php-api-clients/github-root/pull/1306) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Removed accidental space from top readme example](https://github.com/bakame-php/http-structured-fields/pull/9) on [bakame-php/http-structured-fields](https://github.com/bakame-php/http-structured-fields) (today)
 - [Comment out fixed brokages in spec files](https://github.com/php-api-clients/github-root/pull/1305) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-e00d8234bb59cf8cf984a3d8bf324323 from 1.1.4-7b73af1e4dbdd0025b62a706c5a2f386](https://github.com/php-api-clients/github-root/pull/1304) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-7b73af1e4dbdd0025b62a706c5a2f386 from 1.1.4-e44a416901524b2c0d9993b097322ff2](https://github.com/php-api-clients/github-root/pull/1302) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHub] Update to 1.1.4-a5d0ef223e8ea4b0fd40cfba849d6268 from 1.1.4-1286a2730d7f8da9f91dca4d989b2f56](https://github.com/php-api-clients/github-root/pull/1301) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [Swap ringcentral for nyholm psr7 implementation](https://github.com/reactphp-inspector/http-middleware/pull/78) on [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) (4 days ago)
-- [Packages: Only set milestones during PR&#39;s workflow calls](https://github.com/WyriHaximus/github-workflows/pull/42) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 
 ---
 
