@@ -10,10 +10,10 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 day ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
 - [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (2 days ago)
 - [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) (4 days ago)
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Comment out fixed brokages in spec files](https://github.com/php-api-clients/github-root/pull/1305) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-e00d8234bb59cf8cf984a3d8bf324323 from 1.1.4-7b73af1e4dbdd0025b62a706c5a2f386](https://github.com/php-api-clients/github-root/pull/1304) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-a62519fb7f7e65d753064fbb86d95c90 from 1.1.4-a5d0ef223e8ea4b0fd40cfba849d6268](https://github.com/php-api-clients/github-root/pull/1303) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [Post: Building Secure Images with GitHub Actions](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/199) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Swap ringcentral for nyholm psr7 implementation](https://github.com/reactphp-inspector/http-middleware/pull/78) on [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) (4 days ago)
 - [Packages: Only set milestones during PR&#39;s workflow calls](https://github.com/WyriHaximus/github-workflows/pull/42) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 - [Use centralized Renovate config](https://github.com/reactphp-inspector/http-middleware/pull/77) on [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) (4 days ago)
-- [Move set milestone to release management](https://github.com/WyriHaximus/github-workflows/pull/41) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
 
 ---
 
