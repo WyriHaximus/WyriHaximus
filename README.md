@@ -10,17 +10,17 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (2 days ago)
 - [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (3 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
 - [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) (5 days ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (1 week ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [reactphp-inspector/memory-usage](https://github.com/reactphp-inspector/memory-usage) (1 week ago)
 - [WyriHaximus/github-action-get-milestones](https://github.com/WyriHaximus/github-action-get-milestones) (1 week ago)
 
@@ -64,6 +64,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Toggle PHPUnit flag displayDetailsOnTestsThatTriggerWarnings to true](https://github.com/WyriHaximus/php-test-utilities/pull/947) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [Introduce tile locator](https://github.com/WyriHaximus/php-tile-stitcher/pull/14) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-086c888146955fa3886508f5e1e7debb from 1.1.4-e00d8234bb59cf8cf984a3d8bf324323](https://github.com/php-api-clients/github-root/pull/1307) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-846e79a967c97fff1f751d713e16fc13 from 1.1.4-a62519fb7f7e65d753064fbb86d95c90](https://github.com/php-api-clients/github-root/pull/1306) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [Removed accidental space from top readme example](https://github.com/bakame-php/http-structured-fields/pull/9) on [bakame-php/http-structured-fields](https://github.com/bakame-php/http-structured-fields) (1 day ago)
@@ -75,8 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[ReactPHP] Don&#39;t verbosely chown](https://github.com/WyriHaximusNet/docker-redirect/pull/164) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (4 days ago)
 - [Build multi arch images](https://github.com/WyriHaximusNet/docker-redirect/pull/163) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (4 days ago)
 - [Bump nodejs image](https://github.com/WyriHaximusNet/docker-redirect/pull/162) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (5 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-7b73af1e4dbdd0025b62a706c5a2f386 from 1.1.4-e44a416901524b2c0d9993b097322ff2](https://github.com/php-api-clients/github-root/pull/1302) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
-- [[GitHub] Update to 1.1.4-a5d0ef223e8ea4b0fd40cfba849d6268 from 1.1.4-1286a2730d7f8da9f91dca4d989b2f56](https://github.com/php-api-clients/github-root/pull/1301) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 
 ---
 
