@@ -10,11 +10,11 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (3 days ago)
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (3 days ago)
 - [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (4 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
 - [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) (6 days ago)
@@ -46,7 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r52](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r52), 3 days ago) - 
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r53](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r53), today) - 
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.29.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.29.0), 3 days ago) - 
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.135.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.135.0), 5 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) ([3.1.0](https://github.com/reactphp-inspector/http-middleware/releases/tag/3.1.0), 6 days ago) - 
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Typos](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/200) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
 - [Toggle PHPUnit flag displayDetailsOnTestsThatTriggerWarnings to true](https://github.com/WyriHaximus/php-test-utilities/pull/947) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [Introduce tile locator](https://github.com/WyriHaximus/php-tile-stitcher/pull/14) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-086c888146955fa3886508f5e1e7debb from 1.1.4-e00d8234bb59cf8cf984a3d8bf324323](https://github.com/php-api-clients/github-root/pull/1307) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Drop Buildx set up for building image](https://github.com/WyriHaximusNet/docker-redirect/pull/165) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (4 days ago)
 - [[ReactPHP] Don&#39;t verbosely chown](https://github.com/WyriHaximusNet/docker-redirect/pull/164) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (5 days ago)
 - [Build multi arch images](https://github.com/WyriHaximusNet/docker-redirect/pull/163) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (5 days ago)
-- [Bump nodejs image](https://github.com/WyriHaximusNet/docker-redirect/pull/162) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (6 days ago)
 
 ---
 
