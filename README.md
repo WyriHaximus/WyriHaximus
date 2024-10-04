@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-24f4c3ebacf1ca5821698e28d77d32d1 from 1.1.4-e288c500d4a08bc38358e1b96cec2090](https://github.com/php-api-clients/github-root/pull/1310) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [jq docker image doesn&#39;t also need the jq command specified](https://github.com/WyriHaximus/github-workflows/pull/43) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-61362eae34baa8aaf089660247a67141 from 1.1.4-086c888146955fa3886508f5e1e7debb](https://github.com/php-api-clients/github-root/pull/1309) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-e288c500d4a08bc38358e1b96cec2090 from 1.1.4-846e79a967c97fff1f751d713e16fc13](https://github.com/php-api-clients/github-root/pull/1308) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Comment out fixed brokages in spec files](https://github.com/php-api-clients/github-root/pull/1305) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-e00d8234bb59cf8cf984a3d8bf324323 from 1.1.4-7b73af1e4dbdd0025b62a706c5a2f386](https://github.com/php-api-clients/github-root/pull/1304) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHub] Update to 1.1.4-a62519fb7f7e65d753064fbb86d95c90 from 1.1.4-a5d0ef223e8ea4b0fd40cfba849d6268](https://github.com/php-api-clients/github-root/pull/1303) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [Post: Building Secure Images with GitHub Actions](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/199) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (4 days ago)
 
 ---
 
