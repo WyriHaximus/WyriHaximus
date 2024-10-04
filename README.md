@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 day ago)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 day ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (4 days ago)
 - [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (5 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) (1 week ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (1 week ago)
 - [reactphp-inspector/memory-usage](https://github.com/reactphp-inspector/memory-usage) (1 week ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 
 ---
 
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [jq docker image doesn&#39;t also need the jq command specified](https://github.com/WyriHaximus/github-workflows/pull/43) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-61362eae34baa8aaf089660247a67141 from 1.1.4-086c888146955fa3886508f5e1e7debb](https://github.com/php-api-clients/github-root/pull/1309) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-e288c500d4a08bc38358e1b96cec2090 from 1.1.4-846e79a967c97fff1f751d713e16fc13](https://github.com/php-api-clients/github-root/pull/1308) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [Typos](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/200) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-e00d8234bb59cf8cf984a3d8bf324323 from 1.1.4-7b73af1e4dbdd0025b62a706c5a2f386](https://github.com/php-api-clients/github-root/pull/1304) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHub] Update to 1.1.4-a62519fb7f7e65d753064fbb86d95c90 from 1.1.4-a5d0ef223e8ea4b0fd40cfba849d6268](https://github.com/php-api-clients/github-root/pull/1303) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [Post: Building Secure Images with GitHub Actions](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/199) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (4 days ago)
-- [Drop Buildx set up for building image](https://github.com/WyriHaximusNet/docker-redirect/pull/165) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (5 days ago)
 
 ---
 
