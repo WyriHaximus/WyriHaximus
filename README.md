@@ -12,17 +12,17 @@ All new major package releases will be in PHP 8.2
 
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (3 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (4 days ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
 - [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (1 week ago)
 - [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) (1 week ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (1 week ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 
 ---
 
@@ -64,6 +64,9 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Assert AWS CLI runs](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/17) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
+- [Assert Helm runs](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/16) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
+- [Assert TerraForm runs](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/15) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
 - [Fold both RUN commands into one](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/14) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
 - [Add container testing](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/13) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
 - [Build, scan, test, and push](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/12) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
@@ -74,9 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-e288c500d4a08bc38358e1b96cec2090 from 1.1.4-846e79a967c97fff1f751d713e16fc13](https://github.com/php-api-clients/github-root/pull/1308) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [Typos](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/200) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (4 days ago)
 - [Toggle PHPUnit flag displayDetailsOnTestsThatTriggerWarnings to true](https://github.com/WyriHaximus/php-test-utilities/pull/947) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
-- [Introduce tile locator](https://github.com/WyriHaximus/php-tile-stitcher/pull/14) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (5 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-086c888146955fa3886508f5e1e7debb from 1.1.4-e00d8234bb59cf8cf984a3d8bf324323](https://github.com/php-api-clients/github-root/pull/1307) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
-- [[GitHub] Update to 1.1.4-846e79a967c97fff1f751d713e16fc13 from 1.1.4-a62519fb7f7e65d753064fbb86d95c90](https://github.com/php-api-clients/github-root/pull/1306) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 
 ---
 
