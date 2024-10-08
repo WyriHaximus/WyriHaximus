@@ -116,11 +116,11 @@ All new major package releases will be in PHP 8.2
 
 #### 👯 Check out some of my recent followers
 
+- [samarjitsahoo](https://github.com/samarjitsahoo)
 - [rak-ahsan](https://github.com/rak-ahsan)
 - [mohammedterfa](https://github.com/mohammedterfa)
 - [kcharfi24](https://github.com/kcharfi24)
 - [sazidulcse](https://github.com/sazidulcse)
-- [Franckins](https://github.com/Franckins)
 
 ---
 
