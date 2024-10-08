@@ -10,12 +10,12 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (4 days ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (5 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (5 days ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-b756a9c2ae79f483113462f9d47c6cbf from 1.1.4-61362eae34baa8aaf089660247a67141](https://github.com/php-api-clients/github-root/pull/1312) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-c6249831ad99957f8d160f21b8d426dd from 1.1.4-24f4c3ebacf1ca5821698e28d77d32d1](https://github.com/php-api-clients/github-root/pull/1311) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Test item order](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/10) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [Mutation testing](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/9) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Add container testing](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/13) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
 - [Build, scan, test, and push](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/12) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 days ago)
 - [Not Invented Here Package Discovery](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/4) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
-- [[GitHub] Update to 1.1.4-24f4c3ebacf1ca5821698e28d77d32d1 from 1.1.4-e288c500d4a08bc38358e1b96cec2090](https://github.com/php-api-clients/github-root/pull/1310) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 
 ---
 
