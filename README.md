@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Tests](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/7) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [Assert AWS CLI runs](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/17) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
 - [Assert Helm runs](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/16) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
 - [Assert TerraForm runs](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/15) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-61362eae34baa8aaf089660247a67141 from 1.1.4-086c888146955fa3886508f5e1e7debb](https://github.com/php-api-clients/github-root/pull/1309) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [[GitHub] Update to 1.1.4-e288c500d4a08bc38358e1b96cec2090 from 1.1.4-846e79a967c97fff1f751d713e16fc13](https://github.com/php-api-clients/github-root/pull/1308) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [Typos](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/200) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (5 days ago)
-- [Toggle PHPUnit flag displayDetailsOnTestsThatTriggerWarnings to true](https://github.com/WyriHaximus/php-test-utilities/pull/947) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
 
 ---
 
