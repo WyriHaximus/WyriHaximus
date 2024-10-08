@@ -46,7 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.136.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.136.0), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([redis-1.3.2](https://github.com/groundhog2k/helm-charts/releases/tag/redis-1.3.2), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) ([1.0.0](https://github.com/WyriHaximus/php-tile-stitcher/releases/tag/1.0.0), 3 days ago) - 
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r53](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r53), 5 days ago) - 
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.29.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.29.0), 1 week ago) - 
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [100% typed](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/8) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [Tests](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/7) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [Assert AWS CLI runs](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/17) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
 - [Assert Helm runs](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/16) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [jq docker image doesn&#39;t also need the jq command specified](https://github.com/WyriHaximus/github-workflows/pull/43) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-61362eae34baa8aaf089660247a67141 from 1.1.4-086c888146955fa3886508f5e1e7debb](https://github.com/php-api-clients/github-root/pull/1309) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [[GitHub] Update to 1.1.4-e288c500d4a08bc38358e1b96cec2090 from 1.1.4-846e79a967c97fff1f751d713e16fc13](https://github.com/php-api-clients/github-root/pull/1308) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
-- [Typos](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/200) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (5 days ago)
 
 ---
 
