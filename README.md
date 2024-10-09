@@ -46,7 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([redis-1.3.2](https://github.com/groundhog2k/helm-charts/releases/tag/redis-1.3.2), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([gitea-0.11.3](https://github.com/groundhog2k/helm-charts/releases/tag/gitea-0.11.3), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) ([1.0.0](https://github.com/WyriHaximus/php-tile-stitcher/releases/tag/1.0.0), 4 days ago) - 
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r53](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r53), 6 days ago) - 
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.29.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.29.0), 1 week ago) - 
