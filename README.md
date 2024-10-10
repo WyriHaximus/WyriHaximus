@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Move container PSR to prod require where it should have been from the…](https://github.com/WyriHaximus/php-broadcast/pull/286) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
 - [Switch to generator composer plugin tooling](https://github.com/WyriHaximus/php-broadcast/pull/285) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
 - [Update require checker config to ignore composer classes](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/16) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
 - [Fix Makefile](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/15) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Test item order](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/10) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
 - [Mutation testing](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/9) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
 - [100% typed](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/8) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
-- [Tests](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/7) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
 
 ---
 
