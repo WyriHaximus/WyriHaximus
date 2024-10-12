@@ -10,9 +10,9 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (5 days ago)
@@ -22,7 +22,7 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
 - [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (1 week ago)
 - [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) (2 weeks ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 weeks ago)
+- [reactphp-inspector/memory-usage](https://github.com/reactphp-inspector/memory-usage) (2 weeks ago)
 
 ---
 
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Introduce class based API](https://github.com/WyriHaximus/php-simple-twig/pull/72) on [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (today)
 - [Bump to PHP8.2&#43;](https://github.com/WyriHaximus/php-simple-twig/pull/71) on [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-3d6ad7276957d3dd8952df409fac0650 from 1.1.4-b756a9c2ae79f483113462f9d47c6cbf](https://github.com/php-api-clients/github-root/pull/1314) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHub] Update to 1.1.4-f0ef821141c0585bc8759f53f482f086 from 1.1.4-c6249831ad99957f8d160f21b8d426dd](https://github.com/php-api-clients/github-root/pull/1313) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [No functions anywhere](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/12) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
 - [Documentation](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/11) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-b756a9c2ae79f483113462f9d47c6cbf from 1.1.4-61362eae34baa8aaf089660247a67141](https://github.com/php-api-clients/github-root/pull/1312) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[GitHub] Update to 1.1.4-c6249831ad99957f8d160f21b8d426dd from 1.1.4-24f4c3ebacf1ca5821698e28d77d32d1](https://github.com/php-api-clients/github-root/pull/1311) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 
 ---
 
@@ -116,11 +116,11 @@ All new major package releases will be in PHP 8.2
 
 #### 👯 Check out some of my recent followers
 
+- [jelspace](https://github.com/jelspace)
 - [eust-w](https://github.com/eust-w)
 - [samarjitsahoo](https://github.com/samarjitsahoo)
 - [rak-ahsan](https://github.com/rak-ahsan)
 - [mohammedterfa](https://github.com/mohammedterfa)
-- [kcharfi24](https://github.com/kcharfi24)
 
 ---
 
