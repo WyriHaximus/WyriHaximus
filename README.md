@@ -10,6 +10,7 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (today)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
@@ -22,7 +23,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
 - [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (1 week ago)
 - [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) (2 weeks ago)
-- [reactphp-inspector/memory-usage](https://github.com/reactphp-inspector/memory-usage) (2 weeks ago)
 
 ---
 
@@ -46,6 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) ([2.2.0](https://github.com/WyriHaximus/php-simple-twig/releases/tag/2.2.0), today) - Wrapper around Twig making rendering a string template trivial.
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) ([2.4.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.4.0), 2 days ago) - PSR-14 Event Processing and Notification package
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.0.1](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.0.1), 3 days ago) - Tooling for creating generative Composer Plugins
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([gitea-0.11.3](https://github.com/groundhog2k/helm-charts/releases/tag/gitea-0.11.3), 3 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
@@ -58,12 +59,12 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([7.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/7.1.0), 2 weeks ago) - 🌯 PHPStan rules wrapper
 - [reactphp-inspector/event-loop](https://github.com/reactphp-inspector/event-loop) ([2.0.0](https://github.com/reactphp-inspector/event-loop/releases/tag/2.0.0), 2 weeks ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([6.0.10](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.10), 3 weeks ago) - 
-- [WyriHaximus/github-action-create-milestone](https://github.com/WyriHaximus/github-action-create-milestone) ([v1.1.2](https://github.com/WyriHaximus/github-action-create-milestone/releases/tag/v1.1.2), 3 weeks ago) - Create a new milestone
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Can&#39;t use constant from functions file in no functions mode](https://github.com/WyriHaximus/php-simple-twig/pull/73) on [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (today)
 - [Introduce class based API](https://github.com/WyriHaximus/php-simple-twig/pull/72) on [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (today)
 - [Bump to PHP8.2&#43;](https://github.com/WyriHaximus/php-simple-twig/pull/71) on [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-3d6ad7276957d3dd8952df409fac0650 from 1.1.4-b756a9c2ae79f483113462f9d47c6cbf](https://github.com/php-api-clients/github-root/pull/1314) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Package set milestone should also kept to only run one at a time](https://github.com/WyriHaximus/github-workflows/pull/44) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
 - [No functions anywhere](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/12) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
 - [Documentation](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/11) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-b756a9c2ae79f483113462f9d47c6cbf from 1.1.4-61362eae34baa8aaf089660247a67141](https://github.com/php-api-clients/github-root/pull/1312) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 
 ---
 
