@@ -11,8 +11,8 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (1 day ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (3 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (3 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (4 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
@@ -46,10 +46,10 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.136.1](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.136.1), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) ([2.2.1](https://github.com/WyriHaximus/php-simple-twig/releases/tag/2.2.1), 1 day ago) - Wrapper around Twig making rendering a string template trivial.
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) ([2.4.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.4.0), 3 days ago) - PSR-14 Event Processing and Notification package
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.0.1](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.0.1), 4 days ago) - Tooling for creating generative Composer Plugins
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([gitea-0.11.3](https://github.com/groundhog2k/helm-charts/releases/tag/gitea-0.11.3), 4 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) ([1.0.0](https://github.com/WyriHaximus/php-tile-stitcher/releases/tag/1.0.0), 1 week ago) - 
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r53](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r53), 1 week ago) - 
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.29.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.29.0), 1 week ago) - 
