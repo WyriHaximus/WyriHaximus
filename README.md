@@ -46,7 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.136.1](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.136.1), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([graylog-0.8.8](https://github.com/groundhog2k/helm-charts/releases/tag/graylog-0.8.8), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) ([2.2.1](https://github.com/WyriHaximus/php-simple-twig/releases/tag/2.2.1), 2 days ago) - Wrapper around Twig making rendering a string template trivial.
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) ([2.4.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.4.0), 4 days ago) - PSR-14 Event Processing and Notification package
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.0.1](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.0.1), 5 days ago) - Tooling for creating generative Composer Plugins
