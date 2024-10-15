@@ -10,6 +10,7 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (today)
 - [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (3 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (5 days ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (5 days ago)
@@ -22,7 +23,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 weeks ago)
 - [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (2 weeks ago)
-- [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) (2 weeks ago)
 
 ---
 
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Readme minimalistic documentation a.k.a. none for now](https://github.com/MammatusPHP/kubernetes-contracts/pull/2) on [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (today)
 - [Can&#39;t use constant from functions file in no functions mode](https://github.com/WyriHaximus/php-simple-twig/pull/73) on [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (3 days ago)
 - [Introduce class based API](https://github.com/WyriHaximus/php-simple-twig/pull/72) on [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (3 days ago)
 - [Bump to PHP8.2&#43;](https://github.com/WyriHaximus/php-simple-twig/pull/71) on [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (3 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Add missing roave/better-reflection dependency](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/13) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (6 days ago)
 - [Package set milestone should also kept to only run one at a time](https://github.com/WyriHaximus/github-workflows/pull/44) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
 - [No functions anywhere](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/12) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (6 days ago)
-- [Documentation](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/11) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (6 days ago)
 
 ---
 
