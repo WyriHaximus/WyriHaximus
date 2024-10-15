@@ -46,6 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) ([1.0.0](https://github.com/MammatusPHP/kubernetes-contracts/releases/tag/1.0.0), today) - Contracts for Kubernetes related attributes
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([graylog-0.8.8](https://github.com/groundhog2k/helm-charts/releases/tag/graylog-0.8.8), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) ([2.2.1](https://github.com/WyriHaximus/php-simple-twig/releases/tag/2.2.1), 3 days ago) - Wrapper around Twig making rendering a string template trivial.
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) ([2.4.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.4.0), 5 days ago) - PSR-14 Event Processing and Notification package
@@ -58,7 +59,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.4](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.4), 3 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([7.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/7.1.0), 3 weeks ago) - 🌯 PHPStan rules wrapper
 - [reactphp-inspector/event-loop](https://github.com/reactphp-inspector/event-loop) ([2.0.0](https://github.com/reactphp-inspector/event-loop/releases/tag/2.0.0), 3 weeks ago) - 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([6.0.10](https://github.com/WyriHaximus/php-test-utilities/releases/tag/6.0.10), 3 weeks ago) - 
 
 ---
 
