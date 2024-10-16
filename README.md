@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Initial package set up](https://github.com/MammatusPHP/kubernetes-events/pull/1) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (today)
 - [Documentation](https://github.com/MammatusPHP/kubernetes-attributes/pull/4) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (today)
 - [Introduce QA](https://github.com/MammatusPHP/kubernetes-attributes/pull/2) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (today)
 - [Readme minimalistic documentation a.k.a. none for now](https://github.com/MammatusPHP/kubernetes-contracts/pull/2) on [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Switch to generator composer plugin tooling](https://github.com/WyriHaximus/php-broadcast/pull/285) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
 - [Update require checker config to ignore composer classes](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/16) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 week ago)
 - [Fix Makefile](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/15) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 week ago)
-- [Add missing roave/better-reflection dependency](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/13) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 week ago)
 
 ---
 
