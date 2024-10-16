@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (today)
+- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (today)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (today)
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (1 day ago)
 - [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (4 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (6 days ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (6 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (6 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 week ago)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 week ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 week ago)
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 weeks ago)
 
 ---
 
@@ -46,6 +46,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) ([2.0.1](https://github.com/MammatusPHP/cron-attributes/releases/tag/2.0.1), today) - Cron manager attributes
+- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([1.0.0](https://github.com/MammatusPHP/kubernetes-events/releases/tag/1.0.0), today) - 
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) ([1.0.0](https://github.com/MammatusPHP/kubernetes-attributes/releases/tag/1.0.0), today) - 
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) ([1.0.0](https://github.com/MammatusPHP/kubernetes-contracts/releases/tag/1.0.0), 1 day ago) - Contracts for Kubernetes related attributes
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([graylog-0.8.8](https://github.com/groundhog2k/helm-charts/releases/tag/graylog-0.8.8), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
@@ -57,13 +59,13 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.29.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.29.0), 2 weeks ago) - 
 - [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) ([3.1.0](https://github.com/reactphp-inspector/http-middleware/releases/tag/3.1.0), 2 weeks ago) - 
 - [reactphp-inspector/memory-usage](https://github.com/reactphp-inspector/memory-usage) ([2.0.0](https://github.com/reactphp-inspector/memory-usage/releases/tag/2.0.0), 3 weeks ago) - 
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.4](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.4), 3 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([7.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/7.1.0), 3 weeks ago) - 🌯 PHPStan rules wrapper
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Treat values sections as unstructured as they are](https://github.com/MammatusPHP/kubernetes-events/pull/3) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (today)
+- [Use tagged Kubernetes Contracts package](https://github.com/MammatusPHP/cron-attributes/pull/5) on [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (today)
 - [Initial package set up](https://github.com/MammatusPHP/kubernetes-events/pull/1) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (today)
 - [Documentation](https://github.com/MammatusPHP/kubernetes-attributes/pull/4) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (today)
 - [Introduce QA](https://github.com/MammatusPHP/kubernetes-attributes/pull/2) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (today)
@@ -75,8 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-f0ef821141c0585bc8759f53f482f086 from 1.1.4-c6249831ad99957f8d160f21b8d426dd](https://github.com/php-api-clients/github-root/pull/1313) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 - [Move container PSR to prod require where it should have been from the start](https://github.com/WyriHaximus/php-broadcast/pull/286) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (6 days ago)
 - [Switch to generator composer plugin tooling](https://github.com/WyriHaximus/php-broadcast/pull/285) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
-- [Update require checker config to ignore composer classes](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/16) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 week ago)
-- [Fix Makefile](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/15) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 week ago)
 
 ---
 
