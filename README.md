@@ -46,11 +46,11 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([graylog-0.8.9](https://github.com/groundhog2k/helm-charts/releases/tag/graylog-0.8.9), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([1.0.1](https://github.com/MammatusPHP/kubernetes-events/releases/tag/1.0.1), today) - 
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) ([2.0.1](https://github.com/MammatusPHP/cron-attributes/releases/tag/2.0.1), 1 day ago) - Cron manager attributes
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) ([1.0.0](https://github.com/MammatusPHP/kubernetes-attributes/releases/tag/1.0.0), 1 day ago) - 
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) ([1.0.0](https://github.com/MammatusPHP/kubernetes-contracts/releases/tag/1.0.0), 2 days ago) - Contracts for Kubernetes related attributes
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([graylog-0.8.8](https://github.com/groundhog2k/helm-charts/releases/tag/graylog-0.8.8), 3 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) ([2.2.1](https://github.com/WyriHaximus/php-simple-twig/releases/tag/2.2.1), 5 days ago) - Wrapper around Twig making rendering a string template trivial.
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) ([2.4.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.4.0), 1 week ago) - PSR-14 Event Processing and Notification package
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.0.1](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.0.1), 1 week ago) - Tooling for creating generative Composer Plugins
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-a1c9c39b2a222079693be062d009b766 from 1.1.4-3d6ad7276957d3dd8952df409fac0650](https://github.com/php-api-clients/github-root/pull/1315) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Treat values sections as unstructured as they are](https://github.com/MammatusPHP/kubernetes-events/pull/3) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
 - [Use tagged Kubernetes Contracts package](https://github.com/MammatusPHP/cron-attributes/pull/5) on [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (1 day ago)
 - [Initial package set up](https://github.com/MammatusPHP/kubernetes-events/pull/1) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-3d6ad7276957d3dd8952df409fac0650 from 1.1.4-b756a9c2ae79f483113462f9d47c6cbf](https://github.com/php-api-clients/github-root/pull/1314) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHub] Update to 1.1.4-f0ef821141c0585bc8759f53f482f086 from 1.1.4-c6249831ad99957f8d160f21b8d426dd](https://github.com/php-api-clients/github-root/pull/1313) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [Move container PSR to prod require where it should have been from the start](https://github.com/WyriHaximus/php-broadcast/pull/286) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
-- [Switch to generator composer plugin tooling](https://github.com/WyriHaximus/php-broadcast/pull/285) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
 
 ---
 
