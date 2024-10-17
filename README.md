@@ -82,6 +82,8 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (today)
+- [twigstan/twigstan](https://github.com/twigstan/twigstan) - TwigStan is a static analyzer for Twig templates powered by PHPStan (today)
 - [shish/safe](https://github.com/shish/safe) - All PHP functions, rewritten to throw exceptions instead of returning false (1 week ago)
 - [peter-evans/dockerhub-description](https://github.com/peter-evans/dockerhub-description) - A GitHub action to update a Docker Hub repository description from README.md (2 weeks ago)
 - [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data (3 weeks ago)
@@ -93,8 +95,6 @@ All new major package releases will be in PHP 8.2
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - Composer plugin for automatic installation of PHPStan extensions. (3 weeks ago)
 - [rodyherrera/Quantum](https://github.com/rodyherrera/Quantum) - 🚀 Hackable &amp; Self-hosted Open-Source alternative to Vercel, Heroku, Netlify, etc. All your applications, just in one place. Develop and deploy with your favorite tools, and enjoy continuous deployment with GitHub.  (4 weeks ago)
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of sites that contain AI generated content for uBlock Origin &amp; uBlacklist. (4 weeks ago)
-- [luizm/action-sh-checker](https://github.com/luizm/action-sh-checker) - A GitHub action that performs static analysis for shell scripts using shellcheck, shfmt and checkbashisms. (1 month ago)
-- [alekc/terraform-provider-kubectl](https://github.com/alekc/terraform-provider-kubectl) -  (1 month ago)
 
 ---
 
