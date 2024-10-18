@@ -10,7 +10,7 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (2 days ago)
@@ -64,6 +64,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-1d5396b083551b250099a9fc47ba0344 from 1.1.4-a1c9c39b2a222079693be062d009b766](https://github.com/php-api-clients/github-root/pull/1317) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [[GitHub] Update to 1.1.4-a359c50c42a91cee9b6aa2cfcf93605d from 1.1.4-f0ef821141c0585bc8759f53f482f086](https://github.com/php-api-clients/github-root/pull/1316) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Correct composer description](https://github.com/MammatusPHP/kubernetes-events/pull/4) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-a1c9c39b2a222079693be062d009b766 from 1.1.4-3d6ad7276957d3dd8952df409fac0650](https://github.com/php-api-clients/github-root/pull/1315) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [Treat values sections as unstructured as they are](https://github.com/MammatusPHP/kubernetes-events/pull/3) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (2 days ago)
@@ -75,8 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Can&#39;t use constant from functions file in no functions mode](https://github.com/WyriHaximus/php-simple-twig/pull/73) on [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (6 days ago)
 - [Introduce class based API](https://github.com/WyriHaximus/php-simple-twig/pull/72) on [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (6 days ago)
 - [Bump to PHP8.2&#43;](https://github.com/WyriHaximus/php-simple-twig/pull/71) on [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (6 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-3d6ad7276957d3dd8952df409fac0650 from 1.1.4-b756a9c2ae79f483113462f9d47c6cbf](https://github.com/php-api-clients/github-root/pull/1314) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [[GitHub] Update to 1.1.4-f0ef821141c0585bc8759f53f482f086 from 1.1.4-c6249831ad99957f8d160f21b8d426dd](https://github.com/php-api-clients/github-root/pull/1313) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
