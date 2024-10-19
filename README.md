@@ -46,7 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([nextcloud-0.18.0](https://github.com/groundhog2k/helm-charts/releases/tag/nextcloud-0.18.0), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([nextcloud-0.18.1](https://github.com/groundhog2k/helm-charts/releases/tag/nextcloud-0.18.1), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([1.0.1](https://github.com/MammatusPHP/kubernetes-events/releases/tag/1.0.1), 2 days ago) - 
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) ([2.0.1](https://github.com/MammatusPHP/cron-attributes/releases/tag/2.0.1), 3 days ago) - Cron manager attributes
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) ([1.0.0](https://github.com/MammatusPHP/kubernetes-attributes/releases/tag/1.0.0), 3 days ago) - 
