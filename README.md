@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (2 days ago)
-- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (3 days ago)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (3 days ago)
+- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (3 days ago)
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (4 days ago)
 - [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (1 week ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 week ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 week ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (2 weeks ago)
 
 ---
 
@@ -46,7 +46,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([nextcloud-0.18.1](https://github.com/groundhog2k/helm-charts/releases/tag/nextcloud-0.18.1), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([graylog-0.9.0](https://github.com/groundhog2k/helm-charts/releases/tag/graylog-0.9.0), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([8.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/8.0.0), today) - 🌯 PHPStan rules wrapper
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([1.0.1](https://github.com/MammatusPHP/kubernetes-events/releases/tag/1.0.1), 2 days ago) - 
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) ([2.0.1](https://github.com/MammatusPHP/cron-attributes/releases/tag/2.0.1), 3 days ago) - Cron manager attributes
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) ([1.0.0](https://github.com/MammatusPHP/kubernetes-attributes/releases/tag/1.0.0), 3 days ago) - 
@@ -58,12 +59,12 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r53](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r53), 2 weeks ago) - 
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.29.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.29.0), 2 weeks ago) - 
 - [reactphp-inspector/http-middleware](https://github.com/reactphp-inspector/http-middleware) ([3.1.0](https://github.com/reactphp-inspector/http-middleware/releases/tag/3.1.0), 3 weeks ago) - 
-- [reactphp-inspector/memory-usage](https://github.com/reactphp-inspector/memory-usage) ([2.0.0](https://github.com/reactphp-inspector/memory-usage/releases/tag/2.0.0), 3 weeks ago) - 
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Drop no longer maintained thecodingmachine packages](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/134) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-1d5396b083551b250099a9fc47ba0344 from 1.1.4-a1c9c39b2a222079693be062d009b766](https://github.com/php-api-clients/github-root/pull/1317) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-a359c50c42a91cee9b6aa2cfcf93605d from 1.1.4-f0ef821141c0585bc8759f53f482f086](https://github.com/php-api-clients/github-root/pull/1316) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [Correct composer description](https://github.com/MammatusPHP/kubernetes-events/pull/4) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Readme minimalistic documentation a.k.a. none for now](https://github.com/MammatusPHP/kubernetes-contracts/pull/2) on [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (4 days ago)
 - [Can&#39;t use constant from functions file in no functions mode](https://github.com/WyriHaximus/php-simple-twig/pull/73) on [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (1 week ago)
 - [Introduce class based API](https://github.com/WyriHaximus/php-simple-twig/pull/72) on [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (1 week ago)
-- [Bump to PHP8.2&#43;](https://github.com/WyriHaximus/php-simple-twig/pull/71) on [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (1 week ago)
 
 ---
 
