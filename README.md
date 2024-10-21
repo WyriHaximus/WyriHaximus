@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Add QA](https://github.com/MammatusPHP/kubernetes-keda/pull/1) on [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (today)
 - [Drop no longer maintained thecodingmachine packages](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/134) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-1d5396b083551b250099a9fc47ba0344 from 1.1.4-a1c9c39b2a222079693be062d009b766](https://github.com/php-api-clients/github-root/pull/1317) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [[GitHub] Update to 1.1.4-a359c50c42a91cee9b6aa2cfcf93605d from 1.1.4-f0ef821141c0585bc8759f53f482f086](https://github.com/php-api-clients/github-root/pull/1316) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Introduce QA](https://github.com/MammatusPHP/kubernetes-attributes/pull/2) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (5 days ago)
 - [Readme minimalistic documentation a.k.a. none for now](https://github.com/MammatusPHP/kubernetes-contracts/pull/2) on [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (6 days ago)
 - [Can&#39;t use constant from functions file in no functions mode](https://github.com/WyriHaximus/php-simple-twig/pull/73) on [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (1 week ago)
-- [Introduce class based API](https://github.com/WyriHaximus/php-simple-twig/pull/72) on [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (1 week ago)
 
 ---
 
