@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (today)
 - [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (today)
 - [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 day ago)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 day ago)
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 day ago)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (5 days ago)
-- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (6 days ago)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (6 days ago)
+- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (6 days ago)
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (1 week ago)
-- [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (1 week ago)
 
 ---
 
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Add missing destination property to package interface](https://github.com/php-openapi-tools/contract/pull/2) on [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (today)
 - [Update mammatus/kubernetes-contracts to stable](https://github.com/MammatusPHP/queue-attributes/pull/6) on [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 day ago)
 - [Add QA](https://github.com/MammatusPHP/kubernetes-keda/pull/1) on [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 day ago)
 - [Drop no longer maintained thecodingmachine packages](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/134) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Initial package set up](https://github.com/MammatusPHP/kubernetes-events/pull/1) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (6 days ago)
 - [Documentation](https://github.com/MammatusPHP/kubernetes-attributes/pull/4) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (6 days ago)
 - [Introduce QA](https://github.com/MammatusPHP/kubernetes-attributes/pull/2) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (6 days ago)
-- [Readme minimalistic documentation a.k.a. none for now](https://github.com/MammatusPHP/kubernetes-contracts/pull/2) on [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (1 week ago)
 
 ---
 
