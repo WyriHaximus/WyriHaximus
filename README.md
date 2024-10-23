@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-be512ecb1c6b444be7d7f1c231d0a921 from 1.1.4-8ce8ea6ebca9a21ed76d7617756ee9f1](https://github.com/php-api-clients/github-root/pull/1320) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[New Version] Update versions file to PHP 8.3.13](https://github.com/WyriHaximus/php-fake-php-version/pull/133) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-7b130dc72f276d11e8d24ce6fce0f407 from 1.1.4-1d5396b083551b250099a9fc47ba0344](https://github.com/php-api-clients/github-root/pull/1319) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-8ce8ea6ebca9a21ed76d7617756ee9f1 from 1.1.4-a359c50c42a91cee9b6aa2cfcf93605d](https://github.com/php-api-clients/github-root/pull/1318) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Correct composer description](https://github.com/MammatusPHP/kubernetes-events/pull/4) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (6 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-a1c9c39b2a222079693be062d009b766 from 1.1.4-3d6ad7276957d3dd8952df409fac0650](https://github.com/php-api-clients/github-root/pull/1315) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 - [Treat values sections as unstructured as they are](https://github.com/MammatusPHP/kubernetes-events/pull/3) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 week ago)
-- [Use tagged Kubernetes Contracts package](https://github.com/MammatusPHP/cron-attributes/pull/5) on [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (1 week ago)
 
 ---
 
