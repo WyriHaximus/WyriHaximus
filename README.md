@@ -10,7 +10,7 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (2 days ago)
 - [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (2 days ago)
@@ -64,6 +64,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-197765ae314cd6366887510a47df29dc from 1.1.4-454299d93067cd461297e15605df4d94](https://github.com/php-api-clients/github-root/pull/1323) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [[GitHub] Update to 1.1.4-1c10fe67a44f2937ca5a0fff4ccffbbd from 1.1.4-be512ecb1c6b444be7d7f1c231d0a921](https://github.com/php-api-clients/github-root/pull/1322) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Assert node20 works](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/18) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-454299d93067cd461297e15605df4d94 from 1.1.4-7b130dc72f276d11e8d24ce6fce0f407](https://github.com/php-api-clients/github-root/pull/1321) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-be512ecb1c6b444be7d7f1c231d0a921 from 1.1.4-8ce8ea6ebca9a21ed76d7617756ee9f1](https://github.com/php-api-clients/github-root/pull/1320) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -75,8 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Add QA](https://github.com/MammatusPHP/kubernetes-keda/pull/1) on [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (3 days ago)
 - [Drop no longer maintained thecodingmachine packages](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/134) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (5 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-1d5396b083551b250099a9fc47ba0344 from 1.1.4-a1c9c39b2a222079693be062d009b766](https://github.com/php-api-clients/github-root/pull/1317) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
-- [[GitHub] Update to 1.1.4-a359c50c42a91cee9b6aa2cfcf93605d from 1.1.4-f0ef821141c0585bc8759f53f482f086](https://github.com/php-api-clients/github-root/pull/1316) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
-- [Correct composer description](https://github.com/MammatusPHP/kubernetes-events/pull/4) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 week ago)
 
 ---
 
