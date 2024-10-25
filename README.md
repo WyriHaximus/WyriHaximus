@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Initial set up](https://github.com/php-openapi-tools/generator-schema/pull/1) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-197765ae314cd6366887510a47df29dc from 1.1.4-454299d93067cd461297e15605df4d94](https://github.com/php-api-clients/github-root/pull/1323) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-1c10fe67a44f2937ca5a0fff4ccffbbd from 1.1.4-be512ecb1c6b444be7d7f1c231d0a921](https://github.com/php-api-clients/github-root/pull/1322) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [Assert node20 works](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/18) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Update mammatus/kubernetes-contracts to stable](https://github.com/MammatusPHP/queue-attributes/pull/6) on [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (4 days ago)
 - [Add QA](https://github.com/MammatusPHP/kubernetes-keda/pull/1) on [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (4 days ago)
 - [Drop no longer maintained thecodingmachine packages](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/134) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (6 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-1d5396b083551b250099a9fc47ba0344 from 1.1.4-a1c9c39b2a222079693be062d009b766](https://github.com/php-api-clients/github-root/pull/1317) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
