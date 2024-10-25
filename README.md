@@ -13,12 +13,12 @@ All new major package releases will be in PHP 8.2
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
-- [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (3 days ago)
 - [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (3 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
+- [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (3 days ago)
+- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (4 days ago)
 - [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (4 days ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (4 days ago)
-- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (4 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (6 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 week ago)
@@ -82,7 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - 💀 PHP unused code detection via PHPStan extension. (1 day ago)
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - 💀 PHP unused code detection via PHPStan extension. Detects dead cycles, supports libs like Symfony, Doctrine, PHPUnit etc. Can automatically remove dead PHP code. (1 day ago)
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (1 week ago)
 - [twigstan/twigstan](https://github.com/twigstan/twigstan) - TwigStan is a static analyzer for Twig templates powered by PHPStan (1 week ago)
 - [shish/safe](https://github.com/shish/safe) - All PHP functions, rewritten to throw exceptions instead of returning false (2 weeks ago)
