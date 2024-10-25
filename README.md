@@ -11,8 +11,8 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (3 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
 - [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (3 days ago)
@@ -46,7 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([graylog-0.9.1](https://github.com/groundhog2k/helm-charts/releases/tag/graylog-0.9.1), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.137.2](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.137.2), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.5](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.5), 3 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([8.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/8.0.0), 6 days ago) - 🌯 PHPStan rules wrapper
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([1.0.1](https://github.com/MammatusPHP/kubernetes-events/releases/tag/1.0.1), 1 week ago) - 
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-25c84342b0a57e02594127b0dd21daae from 1.1.4-197765ae314cd6366887510a47df29dc](https://github.com/php-api-clients/github-root/pull/1325) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-df0040fe321f9d8e0f0fb0a6e8e300a9 from 1.1.4-1c10fe67a44f2937ca5a0fff4ccffbbd](https://github.com/php-api-clients/github-root/pull/1324) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Initial set up](https://github.com/php-openapi-tools/generator-schema/pull/1) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-197765ae314cd6366887510a47df29dc from 1.1.4-454299d93067cd461297e15605df4d94](https://github.com/php-api-clients/github-root/pull/1323) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-8ce8ea6ebca9a21ed76d7617756ee9f1 from 1.1.4-a359c50c42a91cee9b6aa2cfcf93605d](https://github.com/php-api-clients/github-root/pull/1318) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [Add missing destination property to package interface](https://github.com/php-openapi-tools/contract/pull/2) on [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (3 days ago)
 - [Update mammatus/kubernetes-contracts to stable](https://github.com/MammatusPHP/queue-attributes/pull/6) on [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (4 days ago)
-- [Add QA](https://github.com/MammatusPHP/kubernetes-keda/pull/1) on [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (4 days ago)
 
 ---
 
