@@ -10,17 +10,17 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
-- [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (2 days ago)
-- [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (2 days ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
-- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (3 days ago)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (3 days ago)
-- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (3 days ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (5 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
+- [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (3 days ago)
+- [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (3 days ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
+- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (4 days ago)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (4 days ago)
+- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (4 days ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (6 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 week ago)
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (1 week ago)
 
@@ -46,9 +46,9 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([graylog-0.9.1](https://github.com/groundhog2k/helm-charts/releases/tag/graylog-0.9.1), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.5](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.5), 2 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([8.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/8.0.0), 5 days ago) - 🌯 PHPStan rules wrapper
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([graylog-0.9.1](https://github.com/groundhog2k/helm-charts/releases/tag/graylog-0.9.1), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.5](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.5), 3 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([8.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/8.0.0), 6 days ago) - 🌯 PHPStan rules wrapper
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([1.0.1](https://github.com/MammatusPHP/kubernetes-events/releases/tag/1.0.1), 1 week ago) - 
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) ([2.0.1](https://github.com/MammatusPHP/cron-attributes/releases/tag/2.0.1), 1 week ago) - Cron manager attributes
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) ([1.0.0](https://github.com/MammatusPHP/kubernetes-attributes/releases/tag/1.0.0), 1 week ago) - 
@@ -64,30 +64,30 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
-- [[GitHubEnterpriseCloud] Update to 1.1.4-197765ae314cd6366887510a47df29dc from 1.1.4-454299d93067cd461297e15605df4d94](https://github.com/php-api-clients/github-root/pull/1323) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [[GitHub] Update to 1.1.4-1c10fe67a44f2937ca5a0fff4ccffbbd from 1.1.4-be512ecb1c6b444be7d7f1c231d0a921](https://github.com/php-api-clients/github-root/pull/1322) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [Assert node20 works](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/18) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-454299d93067cd461297e15605df4d94 from 1.1.4-7b130dc72f276d11e8d24ce6fce0f407](https://github.com/php-api-clients/github-root/pull/1321) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[GitHub] Update to 1.1.4-be512ecb1c6b444be7d7f1c231d0a921 from 1.1.4-8ce8ea6ebca9a21ed76d7617756ee9f1](https://github.com/php-api-clients/github-root/pull/1320) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[New Version] Update versions file to PHP 8.3.13](https://github.com/WyriHaximus/php-fake-php-version/pull/133) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-7b130dc72f276d11e8d24ce6fce0f407 from 1.1.4-1d5396b083551b250099a9fc47ba0344](https://github.com/php-api-clients/github-root/pull/1319) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [[GitHub] Update to 1.1.4-8ce8ea6ebca9a21ed76d7617756ee9f1 from 1.1.4-a359c50c42a91cee9b6aa2cfcf93605d](https://github.com/php-api-clients/github-root/pull/1318) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [Add missing destination property to package interface](https://github.com/php-openapi-tools/contract/pull/2) on [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (2 days ago)
-- [Update mammatus/kubernetes-contracts to stable](https://github.com/MammatusPHP/queue-attributes/pull/6) on [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (3 days ago)
-- [Add QA](https://github.com/MammatusPHP/kubernetes-keda/pull/1) on [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (3 days ago)
-- [Drop no longer maintained thecodingmachine packages](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/134) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (5 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-1d5396b083551b250099a9fc47ba0344 from 1.1.4-a1c9c39b2a222079693be062d009b766](https://github.com/php-api-clients/github-root/pull/1317) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-197765ae314cd6366887510a47df29dc from 1.1.4-454299d93067cd461297e15605df4d94](https://github.com/php-api-clients/github-root/pull/1323) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [[GitHub] Update to 1.1.4-1c10fe67a44f2937ca5a0fff4ccffbbd from 1.1.4-be512ecb1c6b444be7d7f1c231d0a921](https://github.com/php-api-clients/github-root/pull/1322) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [Assert node20 works](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/18) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-454299d93067cd461297e15605df4d94 from 1.1.4-7b130dc72f276d11e8d24ce6fce0f407](https://github.com/php-api-clients/github-root/pull/1321) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [[GitHub] Update to 1.1.4-be512ecb1c6b444be7d7f1c231d0a921 from 1.1.4-8ce8ea6ebca9a21ed76d7617756ee9f1](https://github.com/php-api-clients/github-root/pull/1320) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [[New Version] Update versions file to PHP 8.3.13](https://github.com/WyriHaximus/php-fake-php-version/pull/133) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-7b130dc72f276d11e8d24ce6fce0f407 from 1.1.4-1d5396b083551b250099a9fc47ba0344](https://github.com/php-api-clients/github-root/pull/1319) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
+- [[GitHub] Update to 1.1.4-8ce8ea6ebca9a21ed76d7617756ee9f1 from 1.1.4-a359c50c42a91cee9b6aa2cfcf93605d](https://github.com/php-api-clients/github-root/pull/1318) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
+- [Add missing destination property to package interface](https://github.com/php-openapi-tools/contract/pull/2) on [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (3 days ago)
+- [Update mammatus/kubernetes-contracts to stable](https://github.com/MammatusPHP/queue-attributes/pull/6) on [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (4 days ago)
+- [Add QA](https://github.com/MammatusPHP/kubernetes-keda/pull/1) on [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (4 days ago)
+- [Drop no longer maintained thecodingmachine packages](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/134) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (6 days ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-1d5396b083551b250099a9fc47ba0344 from 1.1.4-a1c9c39b2a222079693be062d009b766](https://github.com/php-api-clients/github-root/pull/1317) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - 💀 PHP unused code detection via PHPStan extension. (today)
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - 💀 PHP unused code detection via PHPStan extension. (1 day ago)
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (1 week ago)
 - [twigstan/twigstan](https://github.com/twigstan/twigstan) - TwigStan is a static analyzer for Twig templates powered by PHPStan (1 week ago)
 - [shish/safe](https://github.com/shish/safe) - All PHP functions, rewritten to throw exceptions instead of returning false (2 weeks ago)
 - [peter-evans/dockerhub-description](https://github.com/peter-evans/dockerhub-description) - A GitHub action to update a Docker Hub repository description from README.md (3 weeks ago)
-- [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data (4 weeks ago)
+- [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data (1 month ago)
 - [yamadashy/phpstan-friendly-formatter](https://github.com/yamadashy/phpstan-friendly-formatter) - 🤝 A friendly error formatter extension for PHPStan that provides more readable and informative output, including code snippets and color highlighting. (1 month ago)
 - [0xdea/tactical-exploitation](https://github.com/0xdea/tactical-exploitation) - Modern tactical exploitation toolkit. (1 month ago)
 - [extism/php-sdk](https://github.com/extism/php-sdk) - Extism PHP Host SDK - easily run WebAssembly modules / plugins from PHP applications (1 month ago)
