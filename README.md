@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 days ago)
 - [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (4 days ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (4 days ago)
 - [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (4 days ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (4 days ago)
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (5 days ago)
 - [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (5 days ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (5 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 week ago)
-- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (1 week ago)
+- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 week ago)
 
 ---
 
@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [carthage-software/fennec](https://github.com/carthage-software/fennec) - The Oxidized PHP Toolchain (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - 💀 PHP unused code detection via PHPStan extension. Detects dead cycles, supports libs like Symfony, Doctrine, PHPUnit etc. Can automatically remove dead PHP code. (2 days ago)
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (1 week ago)
 - [twigstan/twigstan](https://github.com/twigstan/twigstan) - TwigStan is a static analyzer for Twig templates powered by PHPStan (1 week ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [nanzm/get-time-action](https://github.com/nanzm/get-time-action) - Get the time in the specified time zone (1 month ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (1 month ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - Composer plugin for automatic installation of PHPStan extensions. (1 month ago)
-- [rodyherrera/Quantum](https://github.com/rodyherrera/Quantum) - 🚀 Hackable &amp; Self-hosted Open-Source alternative to Vercel, Heroku, Netlify, etc. All your applications, just in one place. Develop and deploy with your favorite tools, and enjoy continuous deployment with GitHub.  (1 month ago)
 
 ---
 
