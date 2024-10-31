@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.3] Update to 1.1.4-1e26e0dd1e96061fd9e8934a7a019705 from 1.1.4-1e26e0dd1e96061fd9e8934a7a019705](https://github.com/php-api-clients/github-root/pull/1331) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.2] Update to 1.1.4-cc0f6d8c98886b66f1e16372f632e7d8 from 1.1.4-cc0f6d8c98886b66f1e16372f632e7d8](https://github.com/php-api-clients/github-root/pull/1329) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Initial set up](https://github.com/php-openapi-tools/generator-templates/pull/1) on [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-fedf0d71c08f1b559e2c2e12a07bcb84 from 1.1.4-25c84342b0a57e02594127b0dd21daae](https://github.com/php-api-clients/github-root/pull/1328) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-197765ae314cd6366887510a47df29dc from 1.1.4-454299d93067cd461297e15605df4d94](https://github.com/php-api-clients/github-root/pull/1323) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHub] Update to 1.1.4-1c10fe67a44f2937ca5a0fff4ccffbbd from 1.1.4-be512ecb1c6b444be7d7f1c231d0a921](https://github.com/php-api-clients/github-root/pull/1322) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [Assert node20 works](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/18) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 week ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-454299d93067cd461297e15605df4d94 from 1.1.4-7b130dc72f276d11e8d24ce6fce0f407](https://github.com/php-api-clients/github-root/pull/1321) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
