@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.6] Update to 1.1.4-34d12e9c9f557d2d2977464d5cd49398 from 1.1.4-34d12e9c9f557d2d2977464d5cd49398](https://github.com/php-api-clients/github-root/pull/1334) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.5] Update to 1.1.4-a21d39699884865a10804a02a66c5b60 from 1.1.4-a21d39699884865a10804a02a66c5b60](https://github.com/php-api-clients/github-root/pull/1333) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.4] Update to 1.1.4-8491d07e4903341efa2424ac8af7c5ec from 1.1.4-8491d07e4903341efa2424ac8af7c5ec](https://github.com/php-api-clients/github-root/pull/1332) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.3] Update to 1.1.4-1e26e0dd1e96061fd9e8934a7a019705 from 1.1.4-1e26e0dd1e96061fd9e8934a7a019705](https://github.com/php-api-clients/github-root/pull/1331) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-25c84342b0a57e02594127b0dd21daae from 1.1.4-197765ae314cd6366887510a47df29dc](https://github.com/php-api-clients/github-root/pull/1325) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 - [[GitHub] Update to 1.1.4-df0040fe321f9d8e0f0fb0a6e8e300a9 from 1.1.4-1c10fe67a44f2937ca5a0fff4ccffbbd](https://github.com/php-api-clients/github-root/pull/1324) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 - [Initial set up](https://github.com/php-openapi-tools/generator-schema/pull/1) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (6 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-197765ae314cd6366887510a47df29dc from 1.1.4-454299d93067cd461297e15605df4d94](https://github.com/php-api-clients/github-root/pull/1323) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
