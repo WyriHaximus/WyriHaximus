@@ -11,7 +11,7 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
 - [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (6 days ago)
@@ -82,6 +82,8 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [cerbero90/lazy-json](https://github.com/cerbero90/lazy-json) - 🐼 Framework-agnostic package to load JSON of any dimension and from any source into Laravel lazy collections recursively. (today)
+- [cerbero90/enum](https://github.com/cerbero90/enum) - 🎲 Zero-dependencies PHP library to supercharge enum functionalities. (today)
 - [a-agmon/LocalLRU](https://github.com/a-agmon/LocalLRU) - A simple, fast, thread-safe and lock-free implementation of LRU (Least Recently Used) caching in Rust (4 days ago)
 - [carthage-software/fennec](https://github.com/carthage-software/fennec) - The Oxidized PHP Toolchain (6 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - 💀 PHP unused code detection via PHPStan extension. Detects dead cycles, supports libs like Symfony, Doctrine, PHPUnit etc. Can automatically remove dead PHP code. (1 week ago)
@@ -93,8 +95,6 @@ All new major package releases will be in PHP 8.2
 - [yamadashy/phpstan-friendly-formatter](https://github.com/yamadashy/phpstan-friendly-formatter) - 🤝 A friendly error formatter extension for PHPStan that provides more readable and informative output, including code snippets and color highlighting. (1 month ago)
 - [0xdea/tactical-exploitation](https://github.com/0xdea/tactical-exploitation) - Modern tactical exploitation toolkit. (1 month ago)
 - [extism/php-sdk](https://github.com/extism/php-sdk) - Extism PHP Host SDK - easily run WebAssembly modules / plugins from PHP applications (1 month ago)
-- [nanzm/get-time-action](https://github.com/nanzm/get-time-action) - Get the time in the specified time zone (1 month ago)
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (1 month ago)
 
 ---
 
