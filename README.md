@@ -46,7 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.138.1](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.138.1), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([mysql-3.0.1](https://github.com/groundhog2k/helm-charts/releases/tag/mysql-3.0.1), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.5](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.5), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([8.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/8.0.0), 2 weeks ago) - 🌯 PHPStan rules wrapper
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([1.0.1](https://github.com/MammatusPHP/kubernetes-events/releases/tag/1.0.1), 2 weeks ago) - 
