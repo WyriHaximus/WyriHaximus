@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (2 days ago)
+- [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (2 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (1 week ago)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 week ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (1 week ago)
 - [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (1 week ago)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 week ago)
-- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 week ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 week ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 weeks ago)
+- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 week ago)
 
 ---
 
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Bump mammatus/kubernetes-events to stable version](https://github.com/MammatusPHP/kubernetes/pull/4) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-ce89601d3b185e31dcb10fd63f1ad656 from 1.1.4-09be262377cbbbe8917c66c1d01da07c](https://github.com/php-api-clients/github-root/pull/1345) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-f1a89aa5fb6ef3d7a6d77044c06b8756 from 1.1.4-5758ce6a93c789209abf3a01ab532091](https://github.com/php-api-clients/github-root/pull/1344) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHubEnterprise-3.4] Update to 1.1.4-8491d07e4903341efa2424ac8af7c5ec from 1.1.4-8491d07e4903341efa2424ac8af7c5ec](https://github.com/php-api-clients/github-root/pull/1343) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-5758ce6a93c789209abf3a01ab532091 from 1.1.4-4befd63c20b175c975d8d0d17534c658](https://github.com/php-api-clients/github-root/pull/1336) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHubEnterprise-3.7] Update to 1.1.4-71bbe883e48c685b3b1ee41db4eee800 from 1.1.4-71bbe883e48c685b3b1ee41db4eee800](https://github.com/php-api-clients/github-root/pull/1335) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHubEnterprise-3.6] Update to 1.1.4-34d12e9c9f557d2d2977464d5cd49398 from 1.1.4-34d12e9c9f557d2d2977464d5cd49398](https://github.com/php-api-clients/github-root/pull/1334) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [[GitHubEnterprise-3.5] Update to 1.1.4-a21d39699884865a10804a02a66c5b60 from 1.1.4-a21d39699884865a10804a02a66c5b60](https://github.com/php-api-clients/github-root/pull/1333) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 
 ---
 
