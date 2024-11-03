@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Add basic onboard autoloader](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/19) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [Switch to repository-situations/same-day-git-tag for get-previous-tag-with-working-directory test](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/57) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (today)
 - [Use getRealPath for getting the correct composer.json](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/18) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
 - [Bump mammatus/kubernetes-events to stable version](https://github.com/MammatusPHP/kubernetes/pull/4) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.0] Update to 1.1.4-3e0a7810d254da4d26f0002e587eb763 from 1.1.4-3e0a7810d254da4d26f0002e587eb763](https://github.com/php-api-clients/github-root/pull/1339) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHubAE] Update to 1.1.4-be889f4ae6e8593844d922a840dd93b1 from 1.1.4-be889f4ae6e8593844d922a840dd93b1](https://github.com/php-api-clients/github-root/pull/1338) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-09be262377cbbbe8917c66c1d01da07c from 1.1.4-fedf0d71c08f1b559e2c2e12a07bcb84](https://github.com/php-api-clients/github-root/pull/1337) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [[GitHub] Update to 1.1.4-5758ce6a93c789209abf3a01ab532091 from 1.1.4-4befd63c20b175c975d8d0d17534c658](https://github.com/php-api-clients/github-root/pull/1336) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 
 ---
 
