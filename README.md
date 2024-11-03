@@ -10,12 +10,12 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (today)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (2 days ago)
-- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (2 days ago)
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 day ago)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (3 days ago)
+- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (3 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (1 week ago)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 week ago)
@@ -46,8 +46,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.0.2](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.0.2), today) - Tooling for creating generative Composer Plugins
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([mysql-3.0.1](https://github.com/groundhog2k/helm-charts/releases/tag/mysql-3.0.1), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.0.2](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.0.2), 1 day ago) - Tooling for creating generative Composer Plugins
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([mysql-3.0.1](https://github.com/groundhog2k/helm-charts/releases/tag/mysql-3.0.1), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.5](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.5), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([8.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/8.0.0), 2 weeks ago) - 🌯 PHPStan rules wrapper
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([1.0.1](https://github.com/MammatusPHP/kubernetes-events/releases/tag/1.0.1), 2 weeks ago) - 
@@ -64,32 +64,32 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
-- [Use getRealPath for getting the correct composer.json](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/18) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
-- [Bump mammatus/kubernetes-events to stable version](https://github.com/MammatusPHP/kubernetes/pull/4) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (today)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-ce89601d3b185e31dcb10fd63f1ad656 from 1.1.4-09be262377cbbbe8917c66c1d01da07c](https://github.com/php-api-clients/github-root/pull/1345) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[GitHub] Update to 1.1.4-f1a89aa5fb6ef3d7a6d77044c06b8756 from 1.1.4-5758ce6a93c789209abf3a01ab532091](https://github.com/php-api-clients/github-root/pull/1344) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[GitHubEnterprise-3.4] Update to 1.1.4-8491d07e4903341efa2424ac8af7c5ec from 1.1.4-8491d07e4903341efa2424ac8af7c5ec](https://github.com/php-api-clients/github-root/pull/1343) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[GitHubEnterprise-3.3] Update to 1.1.4-1e26e0dd1e96061fd9e8934a7a019705 from 1.1.4-1e26e0dd1e96061fd9e8934a7a019705](https://github.com/php-api-clients/github-root/pull/1342) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[GitHubEnterprise-3.2] Update to 1.1.4-cc0f6d8c98886b66f1e16372f632e7d8 from 1.1.4-cc0f6d8c98886b66f1e16372f632e7d8](https://github.com/php-api-clients/github-root/pull/1341) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[GitHubEnterprise-3.1] Update to 1.1.4-defb420907f5c36a22e1584342e0e531 from 1.1.4-defb420907f5c36a22e1584342e0e531](https://github.com/php-api-clients/github-root/pull/1340) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[GitHubEnterprise-3.0] Update to 1.1.4-3e0a7810d254da4d26f0002e587eb763 from 1.1.4-3e0a7810d254da4d26f0002e587eb763](https://github.com/php-api-clients/github-root/pull/1339) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[GitHubAE] Update to 1.1.4-be889f4ae6e8593844d922a840dd93b1 from 1.1.4-be889f4ae6e8593844d922a840dd93b1](https://github.com/php-api-clients/github-root/pull/1338) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-09be262377cbbbe8917c66c1d01da07c from 1.1.4-fedf0d71c08f1b559e2c2e12a07bcb84](https://github.com/php-api-clients/github-root/pull/1337) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [[GitHub] Update to 1.1.4-5758ce6a93c789209abf3a01ab532091 from 1.1.4-4befd63c20b175c975d8d0d17534c658](https://github.com/php-api-clients/github-root/pull/1336) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [[GitHubEnterprise-3.7] Update to 1.1.4-71bbe883e48c685b3b1ee41db4eee800 from 1.1.4-71bbe883e48c685b3b1ee41db4eee800](https://github.com/php-api-clients/github-root/pull/1335) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [Use getRealPath for getting the correct composer.json](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/18) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
+- [Bump mammatus/kubernetes-events to stable version](https://github.com/MammatusPHP/kubernetes/pull/4) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 day ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-ce89601d3b185e31dcb10fd63f1ad656 from 1.1.4-09be262377cbbbe8917c66c1d01da07c](https://github.com/php-api-clients/github-root/pull/1345) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [[GitHub] Update to 1.1.4-f1a89aa5fb6ef3d7a6d77044c06b8756 from 1.1.4-5758ce6a93c789209abf3a01ab532091](https://github.com/php-api-clients/github-root/pull/1344) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [[GitHubEnterprise-3.4] Update to 1.1.4-8491d07e4903341efa2424ac8af7c5ec from 1.1.4-8491d07e4903341efa2424ac8af7c5ec](https://github.com/php-api-clients/github-root/pull/1343) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [[GitHubEnterprise-3.3] Update to 1.1.4-1e26e0dd1e96061fd9e8934a7a019705 from 1.1.4-1e26e0dd1e96061fd9e8934a7a019705](https://github.com/php-api-clients/github-root/pull/1342) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [[GitHubEnterprise-3.2] Update to 1.1.4-cc0f6d8c98886b66f1e16372f632e7d8 from 1.1.4-cc0f6d8c98886b66f1e16372f632e7d8](https://github.com/php-api-clients/github-root/pull/1341) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [[GitHubEnterprise-3.1] Update to 1.1.4-defb420907f5c36a22e1584342e0e531 from 1.1.4-defb420907f5c36a22e1584342e0e531](https://github.com/php-api-clients/github-root/pull/1340) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [[GitHubEnterprise-3.0] Update to 1.1.4-3e0a7810d254da4d26f0002e587eb763 from 1.1.4-3e0a7810d254da4d26f0002e587eb763](https://github.com/php-api-clients/github-root/pull/1339) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [[GitHubAE] Update to 1.1.4-be889f4ae6e8593844d922a840dd93b1 from 1.1.4-be889f4ae6e8593844d922a840dd93b1](https://github.com/php-api-clients/github-root/pull/1338) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-09be262377cbbbe8917c66c1d01da07c from 1.1.4-fedf0d71c08f1b559e2c2e12a07bcb84](https://github.com/php-api-clients/github-root/pull/1337) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
+- [[GitHub] Update to 1.1.4-5758ce6a93c789209abf3a01ab532091 from 1.1.4-4befd63c20b175c975d8d0d17534c658](https://github.com/php-api-clients/github-root/pull/1336) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
+- [[GitHubEnterprise-3.7] Update to 1.1.4-71bbe883e48c685b3b1ee41db4eee800 from 1.1.4-71bbe883e48c685b3b1ee41db4eee800](https://github.com/php-api-clients/github-root/pull/1335) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [cerbero90/lazy-json](https://github.com/cerbero90/lazy-json) - 🐼 Framework-agnostic package to load JSON of any dimension and from any source into Laravel lazy collections recursively. (1 day ago)
-- [cerbero90/enum](https://github.com/cerbero90/enum) - 🎲 Zero-dependencies PHP library to supercharge enum functionalities. (1 day ago)
-- [a-agmon/LocalLRU](https://github.com/a-agmon/LocalLRU) - A simple, fast, thread-safe and lock-free implementation of LRU (Least Recently Used) caching in Rust (5 days ago)
+- [cerbero90/lazy-json](https://github.com/cerbero90/lazy-json) - 🐼 Framework-agnostic package to load JSON of any dimension and from any source into Laravel lazy collections recursively. (2 days ago)
+- [cerbero90/enum](https://github.com/cerbero90/enum) - 🎲 Zero-dependencies PHP library to supercharge enum functionalities. (2 days ago)
+- [a-agmon/LocalLRU](https://github.com/a-agmon/LocalLRU) - A simple, fast, thread-safe and lock-free implementation of LRU (Least Recently Used) caching in Rust (6 days ago)
 - [carthage-software/fennec](https://github.com/carthage-software/fennec) - The Oxidized PHP Toolchain (1 week ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - 💀 PHP unused code detection via PHPStan extension. Detects dead cycles, supports libs like Symfony, Doctrine, PHPUnit etc. Can automatically remove dead PHP code. (1 week ago)
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (2 weeks ago)
 - [twigstan/twigstan](https://github.com/twigstan/twigstan) - TwigStan is a static analyzer for Twig templates powered by PHPStan (2 weeks ago)
-- [shish/safe](https://github.com/shish/safe) - All PHP functions, rewritten to throw exceptions instead of returning false (3 weeks ago)
+- [shish/safe](https://github.com/shish/safe) - All PHP functions, rewritten to throw exceptions instead of returning false (4 weeks ago)
 - [peter-evans/dockerhub-description](https://github.com/peter-evans/dockerhub-description) - A GitHub action to update a Docker Hub repository description from README.md (1 month ago)
 - [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data (1 month ago)
 - [yamadashy/phpstan-friendly-formatter](https://github.com/yamadashy/phpstan-friendly-formatter) - 🤝 A friendly error formatter extension for PHPStan that provides more readable and informative output, including code snippets and color highlighting. (1 month ago)
