@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-2b790a7412799c3a2996ba936824dd7d from 1.1.4-f1a89aa5fb6ef3d7a6d77044c06b8756](https://github.com/php-api-clients/github-root/pull/1346) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Add basic onboard autoloader](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/19) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
 - [Switch to repository-situations/same-day-git-tag for get-previous-tag-with-working-directory test](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/57) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (1 day ago)
 - [Use getRealPath for getting the correct composer.json](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/18) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.1] Update to 1.1.4-defb420907f5c36a22e1584342e0e531 from 1.1.4-defb420907f5c36a22e1584342e0e531](https://github.com/php-api-clients/github-root/pull/1340) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [[GitHubEnterprise-3.0] Update to 1.1.4-3e0a7810d254da4d26f0002e587eb763 from 1.1.4-3e0a7810d254da4d26f0002e587eb763](https://github.com/php-api-clients/github-root/pull/1339) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [[GitHubAE] Update to 1.1.4-be889f4ae6e8593844d922a840dd93b1 from 1.1.4-be889f4ae6e8593844d922a840dd93b1](https://github.com/php-api-clients/github-root/pull/1338) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-09be262377cbbbe8917c66c1d01da07c from 1.1.4-fedf0d71c08f1b559e2c2e12a07bcb84](https://github.com/php-api-clients/github-root/pull/1337) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 
 ---
 
