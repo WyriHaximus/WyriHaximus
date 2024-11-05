@@ -10,7 +10,7 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
@@ -64,6 +64,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-839d5f0f58bc2153b682361fcde32827 from 1.1.4-5f54bfdb58787ab413cf25bfacf31354](https://github.com/php-api-clients/github-root/pull/1349) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [[GitHub] Update to 1.1.4-b8769452718d6d7793dc313b1b4aae02 from 1.1.4-2b790a7412799c3a2996ba936824dd7d](https://github.com/php-api-clients/github-root/pull/1348) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Switch to OpenAPI Tools for generation](https://github.com/php-api-clients/openapi-client-generator/pull/218) on [php-api-clients/openapi-client-generator](https://github.com/php-api-clients/openapi-client-generator) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-5f54bfdb58787ab413cf25bfacf31354 from 1.1.4-ce89601d3b185e31dcb10fd63f1ad656](https://github.com/php-api-clients/github-root/pull/1347) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-2b790a7412799c3a2996ba936824dd7d from 1.1.4-f1a89aa5fb6ef3d7a6d77044c06b8756](https://github.com/php-api-clients/github-root/pull/1346) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -75,8 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-f1a89aa5fb6ef3d7a6d77044c06b8756 from 1.1.4-5758ce6a93c789209abf3a01ab532091](https://github.com/php-api-clients/github-root/pull/1344) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHubEnterprise-3.4] Update to 1.1.4-8491d07e4903341efa2424ac8af7c5ec from 1.1.4-8491d07e4903341efa2424ac8af7c5ec](https://github.com/php-api-clients/github-root/pull/1343) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHubEnterprise-3.3] Update to 1.1.4-1e26e0dd1e96061fd9e8934a7a019705 from 1.1.4-1e26e0dd1e96061fd9e8934a7a019705](https://github.com/php-api-clients/github-root/pull/1342) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[GitHubEnterprise-3.2] Update to 1.1.4-cc0f6d8c98886b66f1e16372f632e7d8 from 1.1.4-cc0f6d8c98886b66f1e16372f632e7d8](https://github.com/php-api-clients/github-root/pull/1341) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[GitHubEnterprise-3.1] Update to 1.1.4-defb420907f5c36a22e1584342e0e531 from 1.1.4-defb420907f5c36a22e1584342e0e531](https://github.com/php-api-clients/github-root/pull/1340) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 
 ---
 
