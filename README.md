@@ -10,8 +10,8 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (today)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-3bee8f8a9cc37e411844e8fe2563c09d from 1.1.4-839d5f0f58bc2153b682361fcde32827](https://github.com/php-api-clients/github-root/pull/1351) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-0060b499a5d39e935a73965cb74e1cd7 from 1.1.4-b8769452718d6d7793dc313b1b4aae02](https://github.com/php-api-clients/github-root/pull/1350) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-839d5f0f58bc2153b682361fcde32827 from 1.1.4-5f54bfdb58787ab413cf25bfacf31354](https://github.com/php-api-clients/github-root/pull/1349) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-b8769452718d6d7793dc313b1b4aae02 from 1.1.4-2b790a7412799c3a2996ba936824dd7d](https://github.com/php-api-clients/github-root/pull/1348) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Bump mammatus/kubernetes-events to stable version](https://github.com/MammatusPHP/kubernetes/pull/4) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (4 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-ce89601d3b185e31dcb10fd63f1ad656 from 1.1.4-09be262377cbbbe8917c66c1d01da07c](https://github.com/php-api-clients/github-root/pull/1345) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [[GitHub] Update to 1.1.4-f1a89aa5fb6ef3d7a6d77044c06b8756 from 1.1.4-5758ce6a93c789209abf3a01ab532091](https://github.com/php-api-clients/github-root/pull/1344) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
-- [[GitHubEnterprise-3.4] Update to 1.1.4-8491d07e4903341efa2424ac8af7c5ec from 1.1.4-8491d07e4903341efa2424ac8af7c5ec](https://github.com/php-api-clients/github-root/pull/1343) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 
 ---
 
