@@ -13,6 +13,7 @@ All new major package releases will be in PHP 8.2
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
 - [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (today)
+- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (today)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
@@ -22,7 +23,6 @@ All new major package releases will be in PHP 8.2
 - [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (1 week ago)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 week ago)
 - [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (2 weeks ago)
-- [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (2 weeks ago)
 
 ---
 
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Allow CVE&#39;s until we address everything](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/36) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (today)
 - [Introduce improve CI with multi arch builds](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/32) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (today)
 - [Test against RabbitMQ 4](https://github.com/jakubkulhan/bunny/pull/160) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-3bee8f8a9cc37e411844e8fe2563c09d from 1.1.4-839d5f0f58bc2153b682361fcde32827](https://github.com/php-api-clients/github-root/pull/1351) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Add basic onboard autoloader](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/19) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
 - [Switch to repository-situations/same-day-git-tag for get-previous-tag-with-working-directory test](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/57) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (3 days ago)
 - [Use getRealPath for getting the correct composer.json](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/18) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (4 days ago)
-- [Bump mammatus/kubernetes-events to stable version](https://github.com/MammatusPHP/kubernetes/pull/4) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (4 days ago)
 
 ---
 
