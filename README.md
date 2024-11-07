@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
-- [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (1 day ago)
-- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 day ago)
+- [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (today)
+- [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (today)
+- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (today)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
+- [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (1 day ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (4 days ago)
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (5 days ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (1 week ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (1 week ago)
-- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 weeks ago)
-- [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (2 weeks ago)
 
 ---
 
@@ -64,6 +64,11 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Correct default branch and drop scheduled building](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/37) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (today)
+- [Use explicit load or not to load file flag](https://github.com/php-openapi-tools/generator/pull/1) on [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (today)
+- [Switch to explicitly marking files to load them](https://github.com/php-openapi-tools/generator-hydrator/pull/2) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (today)
+- [Switch to explicitly marking files to load them](https://github.com/php-openapi-tools/generator-schema/pull/3) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (today)
+- [Switch to explicitly marking files not to load them](https://github.com/php-openapi-tools/generator-templates/pull/2) on [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (today)
 - [Allow CVE&#39;s until we address everything](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/36) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 day ago)
 - [Introduce improve CI with multi arch builds](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/32) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 day ago)
 - [Test against RabbitMQ 4](https://github.com/jakubkulhan/bunny/pull/160) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
@@ -72,11 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-839d5f0f58bc2153b682361fcde32827 from 1.1.4-5f54bfdb58787ab413cf25bfacf31354](https://github.com/php-api-clients/github-root/pull/1349) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHub] Update to 1.1.4-b8769452718d6d7793dc313b1b4aae02 from 1.1.4-2b790a7412799c3a2996ba936824dd7d](https://github.com/php-api-clients/github-root/pull/1348) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [Switch to OpenAPI Tools for generation](https://github.com/php-api-clients/openapi-client-generator/pull/218) on [php-api-clients/openapi-client-generator](https://github.com/php-api-clients/openapi-client-generator) (2 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-5f54bfdb58787ab413cf25bfacf31354 from 1.1.4-ce89601d3b185e31dcb10fd63f1ad656](https://github.com/php-api-clients/github-root/pull/1347) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [[GitHub] Update to 1.1.4-2b790a7412799c3a2996ba936824dd7d from 1.1.4-f1a89aa5fb6ef3d7a6d77044c06b8756](https://github.com/php-api-clients/github-root/pull/1346) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [Add basic onboard autoloader](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/19) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (4 days ago)
-- [Switch to repository-situations/same-day-git-tag for get-previous-tag-with-working-directory test](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/57) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (4 days ago)
-- [Use getRealPath for getting the correct composer.json](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/18) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (5 days ago)
 
 ---
 
