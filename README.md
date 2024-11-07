@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-736baa369515112b9bfb0e87033d2fcb from 1.1.4-0060b499a5d39e935a73965cb74e1cd7](https://github.com/php-api-clients/github-root/pull/1352) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Correct default branch and drop scheduled building](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/37) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (today)
 - [Use explicit load or not to load file flag](https://github.com/php-openapi-tools/generator/pull/1) on [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (today)
 - [Switch to explicitly marking files to load them](https://github.com/php-openapi-tools/generator-hydrator/pull/2) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (today)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-0060b499a5d39e935a73965cb74e1cd7 from 1.1.4-b8769452718d6d7793dc313b1b4aae02](https://github.com/php-api-clients/github-root/pull/1350) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-839d5f0f58bc2153b682361fcde32827 from 1.1.4-5f54bfdb58787ab413cf25bfacf31354](https://github.com/php-api-clients/github-root/pull/1349) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHub] Update to 1.1.4-b8769452718d6d7793dc313b1b4aae02 from 1.1.4-2b790a7412799c3a2996ba936824dd7d](https://github.com/php-api-clients/github-root/pull/1348) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [Switch to OpenAPI Tools for generation](https://github.com/php-api-clients/openapi-client-generator/pull/218) on [php-api-clients/openapi-client-generator](https://github.com/php-api-clients/openapi-client-generator) (2 days ago)
 
 ---
 
