@@ -10,13 +10,13 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (today)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (today)
 - [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (today)
-- [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (today)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
+- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (today)
 - [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (today)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (today)
+- [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (today)
 - [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (1 day ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
@@ -64,6 +64,9 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [8.4.0RC1 =&gt; 8.4.0RC3](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/59) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
+- [Update redis to 7.4.1](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/40) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (today)
+- [Update all installed packages](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/39) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-09a2c0e8c9ee8840c63e9f1e2f55d269 from 1.1.4-3bee8f8a9cc37e411844e8fe2563c09d](https://github.com/php-api-clients/github-root/pull/1353) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-736baa369515112b9bfb0e87033d2fcb from 1.1.4-0060b499a5d39e935a73965cb74e1cd7](https://github.com/php-api-clients/github-root/pull/1352) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Correct default branch and drop scheduled building](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/37) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (today)
@@ -74,9 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Allow CVE&#39;s until we address everything](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/36) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 day ago)
 - [Introduce improve CI with multi arch builds](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/32) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 day ago)
 - [Test against RabbitMQ 4](https://github.com/jakubkulhan/bunny/pull/160) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-3bee8f8a9cc37e411844e8fe2563c09d from 1.1.4-839d5f0f58bc2153b682361fcde32827](https://github.com/php-api-clients/github-root/pull/1351) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[GitHub] Update to 1.1.4-0060b499a5d39e935a73965cb74e1cd7 from 1.1.4-b8769452718d6d7793dc313b1b4aae02](https://github.com/php-api-clients/github-root/pull/1350) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-839d5f0f58bc2153b682361fcde32827 from 1.1.4-5f54bfdb58787ab413cf25bfacf31354](https://github.com/php-api-clients/github-root/pull/1349) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 
 ---
 
