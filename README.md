@@ -11,15 +11,15 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
-- [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (1 day ago)
+- [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (1 day ago)
-- [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (1 day ago)
 - [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (1 day ago)
 - [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 day ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
+- [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (1 day ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (1 day ago)
 - [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (2 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (5 days ago)
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (6 days ago)
@@ -64,6 +64,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [No leading slashes for namespaces](https://github.com/php-openapi-tools/generator-hydrator/pull/4) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (today)
+- [Always use fully qualified classnames in generated code](https://github.com/php-openapi-tools/generator-hydrator/pull/3) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (today)
 - [8.4.0RC1 =&gt; 8.4.0RC3](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/59) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
 - [Update redis to 7.4.1](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/40) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 day ago)
 - [Update all installed packages](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/39) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 day ago)
@@ -75,8 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Switch to explicitly marking files to load them](https://github.com/php-openapi-tools/generator-schema/pull/3) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (1 day ago)
 - [Switch to explicitly marking files not to load them](https://github.com/php-openapi-tools/generator-templates/pull/2) on [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (1 day ago)
 - [Allow CVE&#39;s until we address everything](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/36) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (2 days ago)
-- [Introduce improve CI with multi arch builds](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/32) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (2 days ago)
-- [Test against RabbitMQ 4](https://github.com/jakubkulhan/bunny/pull/160) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
 
 ---
 
