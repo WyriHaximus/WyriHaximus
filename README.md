@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [sdr-enthusiasts/docker-piaware](https://github.com/sdr-enthusiasts/docker-piaware) - Multi-arch PiAware docker container including support for bladeRF, RTLSDR, SoapySDR. Includes dump1090 &amp; dump978 (amd64, arm/v6, arm/v7, arm64v8) (today)
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) - Forked from https://github.com/k8s-at-home/charts (6 days ago)
 - [cerbero90/lazy-json](https://github.com/cerbero90/lazy-json) - 🐼 Framework-agnostic package to load JSON of any dimension and from any source into Laravel lazy collections recursively. (1 week ago)
 - [cerbero90/enum](https://github.com/cerbero90/enum) - 🎲 Zero-dependencies PHP library to supercharge enum functionalities. (1 week ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [peter-evans/dockerhub-description](https://github.com/peter-evans/dockerhub-description) - A GitHub action to update a Docker Hub repository description from README.md (1 month ago)
 - [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data (1 month ago)
 - [yamadashy/phpstan-friendly-formatter](https://github.com/yamadashy/phpstan-friendly-formatter) - 🤝 A friendly error formatter extension for PHPStan that provides more readable and informative output, including code snippets and color highlighting. (1 month ago)
-- [0xdea/tactical-exploitation](https://github.com/0xdea/tactical-exploitation) - Modern tactical exploitation toolkit. (1 month ago)
 
 ---
 
