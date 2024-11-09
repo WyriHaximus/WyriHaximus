@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [Springvar/home-assistant-flightradar24-card](https://github.com/Springvar/home-assistant-flightradar24-card) - Custom card to use with Flightradar24 integration for Home Assistant (today)
 - [sdr-enthusiasts/docker-piaware](https://github.com/sdr-enthusiasts/docker-piaware) - Multi-arch PiAware docker container including support for bladeRF, RTLSDR, SoapySDR. Includes dump1090 &amp; dump978 (amd64, arm/v6, arm/v7, arm64v8) (today)
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) - Forked from https://github.com/k8s-at-home/charts (6 days ago)
 - [cerbero90/lazy-json](https://github.com/cerbero90/lazy-json) - 🐼 Framework-agnostic package to load JSON of any dimension and from any source into Laravel lazy collections recursively. (1 week ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [shish/safe](https://github.com/shish/safe) - All PHP functions, rewritten to throw exceptions instead of returning false (1 month ago)
 - [peter-evans/dockerhub-description](https://github.com/peter-evans/dockerhub-description) - A GitHub action to update a Docker Hub repository description from README.md (1 month ago)
 - [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data (1 month ago)
-- [yamadashy/phpstan-friendly-formatter](https://github.com/yamadashy/phpstan-friendly-formatter) - 🤝 A friendly error formatter extension for PHPStan that provides more readable and informative output, including code snippets and color highlighting. (1 month ago)
 
 ---
 
