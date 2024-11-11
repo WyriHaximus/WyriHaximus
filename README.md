@@ -13,12 +13,12 @@ All new major package releases will be in PHP 8.2
 - [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (2 days ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (3 days ago)
 - [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (3 days ago)
-- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (4 days ago)
-- [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (4 days ago)
-- [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (4 days ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
+- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (4 days ago)
 - [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (4 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
+- [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (4 days ago)
+- [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (4 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
 - [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (5 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Drop verbose flag from runner scale set init-dind-externals copy](https://github.com/actions/actions-runner-controller/pull/3805) on [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) (today)
 - [Only disconnect if we are actually connected](https://github.com/BBQueue/php-bunny/pull/5) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (2 days ago)
 - [No leading slashes for namespaces](https://github.com/php-openapi-tools/generator-hydrator/pull/4) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (3 days ago)
 - [Always use fully qualified classnames in generated code](https://github.com/php-openapi-tools/generator-hydrator/pull/3) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (3 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Use explicit load or not to load file flag](https://github.com/php-openapi-tools/generator/pull/1) on [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (4 days ago)
 - [Switch to explicitly marking files to load them](https://github.com/php-openapi-tools/generator-hydrator/pull/2) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (4 days ago)
 - [Switch to explicitly marking files to load them](https://github.com/php-openapi-tools/generator-schema/pull/3) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (4 days ago)
-- [Switch to explicitly marking files not to load them](https://github.com/php-openapi-tools/generator-templates/pull/2) on [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (4 days ago)
 
 ---
 
