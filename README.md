@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
 - [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (2 days ago)
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (3 days ago)
 - [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (3 days ago)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (3 days ago)
+- [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (4 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (4 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
-- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (4 days ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (4 days ago)
 - [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (4 days ago)
-- [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (5 days ago)
+- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (4 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
+- [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (5 days ago)
 
 ---
 
@@ -64,6 +64,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Raise minimum PHP version to 8.2](https://github.com/WyriHaximus/php-coding-standard/pull/54) on [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
+- [Use centralized Renovate configuration](https://github.com/WyriHaximus/php-coding-standard/pull/53) on [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
 - [Drop verbose flag from runner scale set init-dind-externals copy](https://github.com/actions/actions-runner-controller/pull/3805) on [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) (today)
 - [Only disconnect if we are actually connected](https://github.com/BBQueue/php-bunny/pull/5) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (2 days ago)
 - [No leading slashes for namespaces](https://github.com/php-openapi-tools/generator-hydrator/pull/4) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (3 days ago)
@@ -75,13 +77,12 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-736baa369515112b9bfb0e87033d2fcb from 1.1.4-0060b499a5d39e935a73965cb74e1cd7](https://github.com/php-api-clients/github-root/pull/1352) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [Correct default branch and drop scheduled building](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/37) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (4 days ago)
 - [Use explicit load or not to load file flag](https://github.com/php-openapi-tools/generator/pull/1) on [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (4 days ago)
-- [Switch to explicitly marking files to load them](https://github.com/php-openapi-tools/generator-hydrator/pull/2) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (4 days ago)
-- [Switch to explicitly marking files to load them](https://github.com/php-openapi-tools/generator-schema/pull/3) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (4 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. (today)
 - [Springvar/home-assistant-flightradar24-card](https://github.com/Springvar/home-assistant-flightradar24-card) - Custom card to use with Flightradar24 integration for Home Assistant (2 days ago)
 - [sdr-enthusiasts/docker-piaware](https://github.com/sdr-enthusiasts/docker-piaware) - Multi-arch PiAware docker container including support for bladeRF, RTLSDR, SoapySDR. Includes dump1090 &amp; dump978 (amd64, arm/v6, arm/v7, arm64v8) (2 days ago)
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) - Forked from https://github.com/k8s-at-home/charts (1 week ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [twigstan/twigstan](https://github.com/twigstan/twigstan) - TwigStan is a static analyzer for Twig templates powered by PHPStan (3 weeks ago)
 - [shish/safe](https://github.com/shish/safe) - All PHP functions, rewritten to throw exceptions instead of returning false (1 month ago)
 - [peter-evans/dockerhub-description](https://github.com/peter-evans/dockerhub-description) - A GitHub action to update a Docker Hub repository description from README.md (1 month ago)
-- [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data (1 month ago)
 
 ---
 
