@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
-- [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (2 days ago)
-- [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (3 days ago)
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (3 days ago)
-- [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (4 days ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (4 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
-- [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (4 days ago)
-- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (4 days ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
-- [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (5 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 day ago)
+- [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (3 days ago)
+- [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (4 days ago)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (4 days ago)
+- [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (5 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
+- [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (5 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (5 days ago)
+- [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (5 days ago)
+- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (5 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (6 days ago)
+- [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (6 days ago)
 
 ---
 
@@ -46,16 +46,16 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.140.1](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.140.1), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.30.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.30.0), 3 days ago) - 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.140.1](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.140.1), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.30.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.30.0), 4 days ago) - 
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.0.3](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.0.3), 1 week ago) - Tooling for creating generative Composer Plugins
 - [repository-situations/same-day-git-tag](https://github.com/repository-situations/same-day-git-tag) ([v1.0.1](https://github.com/repository-situations/same-day-git-tag/releases/tag/v1.0.1), 1 week ago) - A repository with a two git tags on the same day
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.5](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.5), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.5](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.5), 3 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([8.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/8.0.0), 3 weeks ago) - 🌯 PHPStan rules wrapper
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([1.0.1](https://github.com/MammatusPHP/kubernetes-events/releases/tag/1.0.1), 3 weeks ago) - 
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) ([2.0.1](https://github.com/MammatusPHP/cron-attributes/releases/tag/2.0.1), 3 weeks ago) - Cron manager attributes
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) ([1.0.0](https://github.com/MammatusPHP/kubernetes-attributes/releases/tag/1.0.0), 3 weeks ago) - 
-- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) ([1.0.0](https://github.com/MammatusPHP/kubernetes-contracts/releases/tag/1.0.0), 3 weeks ago) - Contracts for Kubernetes related attributes
+- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) ([1.0.0](https://github.com/MammatusPHP/kubernetes-contracts/releases/tag/1.0.0), 4 weeks ago) - Contracts for Kubernetes related attributes
 - [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) ([2.2.1](https://github.com/WyriHaximus/php-simple-twig/releases/tag/2.2.1), 1 month ago) - Wrapper around Twig making rendering a string template trivial.
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) ([2.4.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.4.0), 1 month ago) - PSR-14 Event Processing and Notification package
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) ([1.0.0](https://github.com/WyriHaximus/php-tile-stitcher/releases/tag/1.0.0), 1 month ago) - 
@@ -64,27 +64,27 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
-- [Raise minimum PHP version to 8.2](https://github.com/WyriHaximus/php-coding-standard/pull/54) on [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
-- [Use centralized Renovate configuration](https://github.com/WyriHaximus/php-coding-standard/pull/53) on [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
-- [Drop verbose flag from runner scale set init-dind-externals copy](https://github.com/actions/actions-runner-controller/pull/3805) on [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) (today)
-- [Only disconnect if we are actually connected](https://github.com/BBQueue/php-bunny/pull/5) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (2 days ago)
-- [No leading slashes for namespaces](https://github.com/php-openapi-tools/generator-hydrator/pull/4) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (3 days ago)
-- [Always use fully qualified classnames in generated code](https://github.com/php-openapi-tools/generator-hydrator/pull/3) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (3 days ago)
-- [8.4.0RC1 =&gt; 8.4.0RC3](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/59) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (4 days ago)
-- [Update redis to 7.4.1](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/40) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (4 days ago)
-- [Update all installed packages](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/39) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (4 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-09a2c0e8c9ee8840c63e9f1e2f55d269 from 1.1.4-3bee8f8a9cc37e411844e8fe2563c09d](https://github.com/php-api-clients/github-root/pull/1353) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[GitHub] Update to 1.1.4-736baa369515112b9bfb0e87033d2fcb from 1.1.4-0060b499a5d39e935a73965cb74e1cd7](https://github.com/php-api-clients/github-root/pull/1352) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [Correct default branch and drop scheduled building](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/37) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (4 days ago)
-- [Use explicit load or not to load file flag](https://github.com/php-openapi-tools/generator/pull/1) on [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (4 days ago)
+- [Raise minimum PHP version to 8.2](https://github.com/WyriHaximus/php-coding-standard/pull/54) on [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 day ago)
+- [Use centralized Renovate configuration](https://github.com/WyriHaximus/php-coding-standard/pull/53) on [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 day ago)
+- [Drop verbose flag from runner scale set init-dind-externals copy](https://github.com/actions/actions-runner-controller/pull/3805) on [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) (1 day ago)
+- [Only disconnect if we are actually connected](https://github.com/BBQueue/php-bunny/pull/5) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (3 days ago)
+- [No leading slashes for namespaces](https://github.com/php-openapi-tools/generator-hydrator/pull/4) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (4 days ago)
+- [Always use fully qualified classnames in generated code](https://github.com/php-openapi-tools/generator-hydrator/pull/3) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (4 days ago)
+- [8.4.0RC1 =&gt; 8.4.0RC3](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/59) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (5 days ago)
+- [Update redis to 7.4.1](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/40) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (5 days ago)
+- [Update all installed packages](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/39) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (5 days ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-09a2c0e8c9ee8840c63e9f1e2f55d269 from 1.1.4-3bee8f8a9cc37e411844e8fe2563c09d](https://github.com/php-api-clients/github-root/pull/1353) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
+- [[GitHub] Update to 1.1.4-736baa369515112b9bfb0e87033d2fcb from 1.1.4-0060b499a5d39e935a73965cb74e1cd7](https://github.com/php-api-clients/github-root/pull/1352) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
+- [Correct default branch and drop scheduled building](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/37) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (5 days ago)
+- [Use explicit load or not to load file flag](https://github.com/php-openapi-tools/generator/pull/1) on [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (5 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. (today)
-- [Springvar/home-assistant-flightradar24-card](https://github.com/Springvar/home-assistant-flightradar24-card) - Custom card to use with Flightradar24 integration for Home Assistant (2 days ago)
-- [sdr-enthusiasts/docker-piaware](https://github.com/sdr-enthusiasts/docker-piaware) - Multi-arch PiAware docker container including support for bladeRF, RTLSDR, SoapySDR. Includes dump1090 &amp; dump978 (amd64, arm/v6, arm/v7, arm64v8) (2 days ago)
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. (1 day ago)
+- [Springvar/home-assistant-flightradar24-card](https://github.com/Springvar/home-assistant-flightradar24-card) - Custom card to use with Flightradar24 integration for Home Assistant (3 days ago)
+- [sdr-enthusiasts/docker-piaware](https://github.com/sdr-enthusiasts/docker-piaware) - Multi-arch PiAware docker container including support for bladeRF, RTLSDR, SoapySDR. Includes dump1090 &amp; dump978 (amd64, arm/v6, arm/v7, arm64v8) (3 days ago)
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) - Forked from https://github.com/k8s-at-home/charts (1 week ago)
 - [cerbero90/lazy-json](https://github.com/cerbero90/lazy-json) - 🐼 Framework-agnostic package to load JSON of any dimension and from any source into Laravel lazy collections recursively. (1 week ago)
 - [cerbero90/enum](https://github.com/cerbero90/enum) - 🎲 Zero-dependencies PHP library to supercharge enum functionalities. (1 week ago)
