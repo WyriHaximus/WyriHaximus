@@ -46,6 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.15.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.15.0), today) - PHP Coding Standard
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([9.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/9.0.0), today) - 🌯 PHPStan rules wrapper
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.140.1](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.140.1), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.30.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.30.0), 4 days ago) - 
@@ -58,7 +59,6 @@ All new major package releases will be in PHP 8.2
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) ([1.0.0](https://github.com/MammatusPHP/kubernetes-contracts/releases/tag/1.0.0), 4 weeks ago) - Contracts for Kubernetes related attributes
 - [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) ([2.2.1](https://github.com/WyriHaximus/php-simple-twig/releases/tag/2.2.1), 1 month ago) - Wrapper around Twig making rendering a string template trivial.
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) ([2.4.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.4.0), 1 month ago) - PSR-14 Event Processing and Notification package
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) ([1.0.0](https://github.com/WyriHaximus/php-tile-stitcher/releases/tag/1.0.0), 1 month ago) - 
 
 ---
 
