@@ -15,14 +15,14 @@ All new major package releases will be in PHP 8.2
 - [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (3 days ago)
 - [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (4 days ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (4 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (5 days ago)
-- [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (5 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
+- [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (5 days ago)
+- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (5 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (5 days ago)
 - [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (5 days ago)
 - [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (5 days ago)
-- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (5 days ago)
-- [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (6 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (6 days ago)
+- [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (6 days ago)
 
 ---
 
