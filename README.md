@@ -10,6 +10,7 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 day ago)
@@ -17,12 +18,11 @@ All new major package releases will be in PHP 8.2
 - [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (4 days ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (5 days ago)
 - [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (5 days ago)
-- [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (6 days ago)
-- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (6 days ago)
-- [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (6 days ago)
 - [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (6 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (6 days ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
+- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (6 days ago)
+- [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (6 days ago)
+- [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (6 days ago)
+- [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (1 week ago)
 
 ---
 
