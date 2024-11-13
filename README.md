@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-7714c88ff6c09a4c649c225f5b2ccf5c from 1.1.4-736baa369515112b9bfb0e87033d2fcb](https://github.com/php-api-clients/github-root/pull/1354) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Add shipmonk/dead-code-detector](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/139) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
 - [Add shipmonk/phpstan-rules](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/138) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
 - [Use renovate config for require-dev packages](https://github.com/WyriHaximus/php-coding-standard/pull/55) on [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [8.4.0RC1 =&gt; 8.4.0RC3](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/59) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (6 days ago)
 - [Update redis to 7.4.1](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/40) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (6 days ago)
 - [Update all installed packages](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/39) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (6 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-09a2c0e8c9ee8840c63e9f1e2f55d269 from 1.1.4-3bee8f8a9cc37e411844e8fe2563c09d](https://github.com/php-api-clients/github-root/pull/1353) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 
 ---
 
