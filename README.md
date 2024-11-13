@@ -10,6 +10,7 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
@@ -20,7 +21,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (6 days ago)
 - [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (6 days ago)
 - [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (6 days ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (6 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
 
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-a1982b6682052852c1dfe87d8de1f4ed from 1.1.4-09a2c0e8c9ee8840c63e9f1e2f55d269](https://github.com/php-api-clients/github-root/pull/1355) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-7714c88ff6c09a4c649c225f5b2ccf5c from 1.1.4-736baa369515112b9bfb0e87033d2fcb](https://github.com/php-api-clients/github-root/pull/1354) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Add shipmonk/dead-code-detector](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/139) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
 - [Add shipmonk/phpstan-rules](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/138) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Always use fully qualified classnames in generated code](https://github.com/php-openapi-tools/generator-hydrator/pull/3) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (5 days ago)
 - [8.4.0RC1 =&gt; 8.4.0RC3](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/59) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (6 days ago)
 - [Update redis to 7.4.1](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/40) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (6 days ago)
-- [Update all installed packages](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/39) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (6 days ago)
 
 ---
 
