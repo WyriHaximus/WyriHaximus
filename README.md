@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Add QEMU, buildx and Docker](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/19) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-a1982b6682052852c1dfe87d8de1f4ed from 1.1.4-09a2c0e8c9ee8840c63e9f1e2f55d269](https://github.com/php-api-clients/github-root/pull/1355) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-7714c88ff6c09a4c649c225f5b2ccf5c from 1.1.4-736baa369515112b9bfb0e87033d2fcb](https://github.com/php-api-clients/github-root/pull/1354) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [Add shipmonk/dead-code-detector](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/139) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [No leading slashes for namespaces](https://github.com/php-openapi-tools/generator-hydrator/pull/4) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (6 days ago)
 - [Always use fully qualified classnames in generated code](https://github.com/php-openapi-tools/generator-hydrator/pull/3) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (6 days ago)
 - [8.4.0RC1 =&gt; 8.4.0RC3](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/59) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
-- [Update redis to 7.4.1](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/40) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 week ago)
 
 ---
 
