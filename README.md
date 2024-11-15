@@ -19,10 +19,10 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (3 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
 - [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (6 days ago)
-- [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (1 week ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
+- [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (1 week ago)
 - [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 week ago)
-- [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (1 week ago)
+- [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (1 week ago)
 
 ---
 
