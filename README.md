@@ -10,6 +10,7 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (1 day ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
@@ -17,11 +18,10 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (3 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
 - [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (6 days ago)
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
 - [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (1 week ago)
-- [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (1 week ago)
-- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 week ago)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
 - [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (1 week ago)
+- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 week ago)
 - [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (1 week ago)
 
 ---
@@ -64,6 +64,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Sparse checkout ALL THE THINGS](https://github.com/WyriHaximus/github-workflows/pull/47) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [Sparse checkout for markdown files](https://github.com/WyriHaximus/github-workflows/pull/46) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Switch to Trivy action for image scanning](https://github.com/WyriHaximusNet/docker-php/pull/254) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Preload Trivy DB](https://github.com/WyriHaximusNet/docker-php/pull/253) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Add QEMU, buildx and Docker](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/19) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
@@ -75,8 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Raise minimum PHP version to 8.2](https://github.com/WyriHaximus/php-coding-standard/pull/54) on [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (4 days ago)
 - [Use centralized Renovate configuration](https://github.com/WyriHaximus/php-coding-standard/pull/53) on [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (4 days ago)
 - [Drop verbose flag from runner scale set init-dind-externals copy](https://github.com/actions/actions-runner-controller/pull/3805) on [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) (4 days ago)
-- [Only disconnect if we are actually connected](https://github.com/BBQueue/php-bunny/pull/5) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (6 days ago)
-- [No leading slashes for namespaces](https://github.com/php-openapi-tools/generator-hydrator/pull/4) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (1 week ago)
 
 ---
 
