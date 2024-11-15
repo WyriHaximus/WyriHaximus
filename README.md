@@ -64,6 +64,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Composer plugin check interfaces before instantiability](https://github.com/WyriHaximus/php-broadcast/pull/288) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
+- [Add RunOnStartUpAction](https://github.com/WyriHaximus/reactphp-cron/pull/85) on [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (today)
 - [Sparse checkout ALL THE THINGS](https://github.com/WyriHaximus/github-workflows/pull/47) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Sparse checkout for markdown files](https://github.com/WyriHaximus/github-workflows/pull/46) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Switch to Trivy action for image scanning](https://github.com/WyriHaximusNet/docker-php/pull/254) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
@@ -75,8 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Add shipmonk/phpstan-rules](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/138) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
 - [Use renovate config for require-dev packages](https://github.com/WyriHaximus/php-coding-standard/pull/55) on [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (3 days ago)
 - [Raise minimum PHP version to 8.2](https://github.com/WyriHaximus/php-coding-standard/pull/54) on [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (4 days ago)
-- [Use centralized Renovate configuration](https://github.com/WyriHaximus/php-coding-standard/pull/53) on [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (4 days ago)
-- [Drop verbose flag from runner scale set init-dind-externals copy](https://github.com/actions/actions-runner-controller/pull/3805) on [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) (4 days ago)
 
 ---
 
