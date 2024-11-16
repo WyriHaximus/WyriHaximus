@@ -46,9 +46,9 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.141.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.141.0), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.15.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.15.0), 4 days ago) - PHP Coding Standard
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([9.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/9.0.0), 4 days ago) - 🌯 PHPStan rules wrapper
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.140.1](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.140.1), 6 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.30.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.30.0), 1 week ago) - 
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.0.3](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.0.3), 1 week ago) - Tooling for creating generative Composer Plugins
 - [repository-situations/same-day-git-tag](https://github.com/repository-situations/same-day-git-tag) ([v1.0.1](https://github.com/repository-situations/same-day-git-tag/releases/tag/v1.0.1), 1 week ago) - A repository with a two git tags on the same day
