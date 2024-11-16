@@ -88,7 +88,7 @@ All new major package releases will be in PHP 8.2
 - [sdr-enthusiasts/docker-piaware](https://github.com/sdr-enthusiasts/docker-piaware) - Multi-arch PiAware docker container including support for bladeRF, RTLSDR, SoapySDR. Includes dump1090 &amp; dump978 (amd64, arm/v6, arm/v7, arm64v8) (1 week ago)
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) - Forked from https://github.com/k8s-at-home/charts (1 week ago)
 - [cerbero90/lazy-json](https://github.com/cerbero90/lazy-json) - 🐼 Framework-agnostic package to load JSON of any dimension and from any source into Laravel lazy collections recursively. (2 weeks ago)
-- [cerbero90/enum](https://github.com/cerbero90/enum) - 🎲 Zero-dependencies PHP library to supercharge enum functionalities. (2 weeks ago)
+- [cerbero90/enum](https://github.com/cerbero90/enum) - 🎲 Zero-dependencies package to supercharge enum functionalities. (2 weeks ago)
 - [a-agmon/LocalLRU](https://github.com/a-agmon/LocalLRU) - A simple, fast, thread-safe and lock-free implementation of LRU (Least Recently Used) caching in Rust (2 weeks ago)
 - [carthage-software/fennec](https://github.com/carthage-software/fennec) - The Oxidized PHP Toolchain (3 weeks ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - 💀 PHP unused code detection via PHPStan extension. Detects dead cycles, supports libs like Symfony, Doctrine, PHPUnit etc. Can automatically remove dead PHP code. (3 weeks ago)
