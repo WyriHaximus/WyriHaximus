@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Add priority class name support](https://github.com/mkilchhofer/unifi-chart/pull/75) on [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) (today)
 - [Composer plugin check interfaces before instantiability](https://github.com/WyriHaximus/php-broadcast/pull/288) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
 - [Add RunOnStartUpAction](https://github.com/WyriHaximus/reactphp-cron/pull/85) on [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 day ago)
 - [Sparse checkout ALL THE THINGS](https://github.com/WyriHaximus/github-workflows/pull/47) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Add shipmonk/dead-code-detector](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/139) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (4 days ago)
 - [Add shipmonk/phpstan-rules](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/138) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (4 days ago)
 - [Use renovate config for require-dev packages](https://github.com/WyriHaximus/php-coding-standard/pull/55) on [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (4 days ago)
-- [Raise minimum PHP version to 8.2](https://github.com/WyriHaximus/php-coding-standard/pull/54) on [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (5 days ago)
 
 ---
 
