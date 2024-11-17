@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [More realistic kind cluster with Region and Zones](https://github.com/WyriHaximusNet/helm-charts/pull/117) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
 - [Use helm action output for URL&#39;s](https://github.com/WyriHaximusNet/helm-charts/pull/116) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
 - [Add pi-hole to testing cluster](https://github.com/WyriHaximusNet/helm-charts/pull/115) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
 - [Ignore deprecated charts by Renovate](https://github.com/WyriHaximusNet/helm-charts/pull/113) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Sparse checkout for markdown files](https://github.com/WyriHaximus/github-workflows/pull/46) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [Switch to Trivy action for image scanning](https://github.com/WyriHaximusNet/docker-php/pull/254) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 - [Preload Trivy DB](https://github.com/WyriHaximusNet/docker-php/pull/253) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
-- [Add QEMU, buildx and Docker](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/19) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (3 days ago)
 
 ---
 
