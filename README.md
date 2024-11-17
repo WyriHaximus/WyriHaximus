@@ -64,6 +64,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Set PiHole password for testing](https://github.com/WyriHaximusNet/helm-charts/pull/119) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
+- [Set node names](https://github.com/WyriHaximusNet/helm-charts/pull/118) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
 - [More realistic kind cluster with Region and Zones](https://github.com/WyriHaximusNet/helm-charts/pull/117) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
 - [Use helm action output for URL&#39;s](https://github.com/WyriHaximusNet/helm-charts/pull/116) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
 - [Add pi-hole to testing cluster](https://github.com/WyriHaximusNet/helm-charts/pull/115) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
@@ -75,8 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Add RunOnStartUpAction](https://github.com/WyriHaximus/reactphp-cron/pull/85) on [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (2 days ago)
 - [Sparse checkout ALL THE THINGS](https://github.com/WyriHaximus/github-workflows/pull/47) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [Sparse checkout for markdown files](https://github.com/WyriHaximus/github-workflows/pull/46) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
-- [Switch to Trivy action for image scanning](https://github.com/WyriHaximusNet/docker-php/pull/254) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
-- [Preload Trivy DB](https://github.com/WyriHaximusNet/docker-php/pull/253) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 
 ---
 
