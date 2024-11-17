@@ -13,10 +13,10 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (1 day ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (3 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (5 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (5 days ago)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (5 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
 - [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (1 week ago)
 - [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (1 week ago)
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Add all current k8s versions to test against](https://github.com/WyriHaximusNet/helm-charts/pull/111) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
 - [feat: Add priority class name support](https://github.com/mkilchhofer/unifi-chart/pull/75) on [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) (1 day ago)
 - [Composer plugin check interfaces before instantiability](https://github.com/WyriHaximus/php-broadcast/pull/288) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
 - [Add RunOnStartUpAction](https://github.com/WyriHaximus/reactphp-cron/pull/85) on [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-7714c88ff6c09a4c649c225f5b2ccf5c from 1.1.4-736baa369515112b9bfb0e87033d2fcb](https://github.com/php-api-clients/github-root/pull/1354) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [Add shipmonk/dead-code-detector](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/139) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (5 days ago)
 - [Add shipmonk/phpstan-rules](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/138) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (5 days ago)
-- [Use renovate config for require-dev packages](https://github.com/WyriHaximus/php-coding-standard/pull/55) on [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (5 days ago)
 
 ---
 
