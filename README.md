@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Use helm action output for URL&#39;s](https://github.com/WyriHaximusNet/helm-charts/pull/116) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
 - [Add pi-hole to testing cluster](https://github.com/WyriHaximusNet/helm-charts/pull/115) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
 - [Ignore deprecated charts by Renovate](https://github.com/WyriHaximusNet/helm-charts/pull/113) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
 - [Mark commento&#43;&#43; as deprecated](https://github.com/WyriHaximusNet/helm-charts/pull/112) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Switch to Trivy action for image scanning](https://github.com/WyriHaximusNet/docker-php/pull/254) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 - [Preload Trivy DB](https://github.com/WyriHaximusNet/docker-php/pull/253) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 - [Add QEMU, buildx and Docker](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/19) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (3 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-a1982b6682052852c1dfe87d8de1f4ed from 1.1.4-09a2c0e8c9ee8840c63e9f1e2f55d269](https://github.com/php-api-clients/github-root/pull/1355) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 
 ---
 
