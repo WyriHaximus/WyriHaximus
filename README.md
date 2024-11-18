@@ -10,15 +10,15 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
-- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (1 day ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
-- [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (3 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (5 days ago)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (5 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
+- [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 day ago)
+- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (2 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
+- [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (4 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (5 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (6 days ago)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (6 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (1 week ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
 - [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (1 week ago)
@@ -46,9 +46,9 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.141.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.141.0), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.15.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.15.0), 5 days ago) - PHP Coding Standard
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([9.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/9.0.0), 5 days ago) - 🌯 PHPStan rules wrapper
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.141.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.141.0), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.15.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.15.0), 6 days ago) - PHP Coding Standard
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([9.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/9.0.0), 6 days ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.30.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.30.0), 1 week ago) - 
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.0.3](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.0.3), 2 weeks ago) - Tooling for creating generative Composer Plugins
 - [repository-situations/same-day-git-tag](https://github.com/repository-situations/same-day-git-tag) ([v1.0.1](https://github.com/repository-situations/same-day-git-tag/releases/tag/v1.0.1), 2 weeks ago) - A repository with a two git tags on the same day
@@ -64,32 +64,32 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
-- [Set PiHole password for testing](https://github.com/WyriHaximusNet/helm-charts/pull/119) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
-- [Set node names](https://github.com/WyriHaximusNet/helm-charts/pull/118) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
-- [More realistic kind cluster with Region and Zones](https://github.com/WyriHaximusNet/helm-charts/pull/117) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
-- [Use helm action output for URL&#39;s](https://github.com/WyriHaximusNet/helm-charts/pull/116) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
-- [Add pi-hole to testing cluster](https://github.com/WyriHaximusNet/helm-charts/pull/115) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
-- [Ignore deprecated charts by Renovate](https://github.com/WyriHaximusNet/helm-charts/pull/113) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
-- [Mark commento&#43;&#43; as deprecated](https://github.com/WyriHaximusNet/helm-charts/pull/112) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
-- [Add all current k8s versions to test against](https://github.com/WyriHaximusNet/helm-charts/pull/111) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
-- [feat: Add priority class name support](https://github.com/mkilchhofer/unifi-chart/pull/75) on [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) (1 day ago)
-- [Composer plugin check interfaces before instantiability](https://github.com/WyriHaximus/php-broadcast/pull/288) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
-- [Add RunOnStartUpAction](https://github.com/WyriHaximus/reactphp-cron/pull/85) on [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (2 days ago)
-- [Sparse checkout ALL THE THINGS](https://github.com/WyriHaximus/github-workflows/pull/47) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
-- [Sparse checkout for markdown files](https://github.com/WyriHaximus/github-workflows/pull/46) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
+- [Set PiHole password for testing](https://github.com/WyriHaximusNet/helm-charts/pull/119) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 day ago)
+- [Set node names](https://github.com/WyriHaximusNet/helm-charts/pull/118) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 day ago)
+- [More realistic kind cluster with Region and Zones](https://github.com/WyriHaximusNet/helm-charts/pull/117) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 day ago)
+- [Use helm action output for URL&#39;s](https://github.com/WyriHaximusNet/helm-charts/pull/116) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 day ago)
+- [Add pi-hole to testing cluster](https://github.com/WyriHaximusNet/helm-charts/pull/115) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 day ago)
+- [Ignore deprecated charts by Renovate](https://github.com/WyriHaximusNet/helm-charts/pull/113) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 day ago)
+- [Mark commento&#43;&#43; as deprecated](https://github.com/WyriHaximusNet/helm-charts/pull/112) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 day ago)
+- [Add all current k8s versions to test against](https://github.com/WyriHaximusNet/helm-charts/pull/111) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 day ago)
+- [feat: Add priority class name support](https://github.com/mkilchhofer/unifi-chart/pull/75) on [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) (2 days ago)
+- [Composer plugin check interfaces before instantiability](https://github.com/WyriHaximus/php-broadcast/pull/288) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (3 days ago)
+- [Add RunOnStartUpAction](https://github.com/WyriHaximus/reactphp-cron/pull/85) on [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (3 days ago)
+- [Sparse checkout ALL THE THINGS](https://github.com/WyriHaximus/github-workflows/pull/47) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
+- [Sparse checkout for markdown files](https://github.com/WyriHaximus/github-workflows/pull/46) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [shipmonk-rnd/name-collision-detector](https://github.com/shipmonk-rnd/name-collision-detector) - Fast &amp; simple tool to find class duplicates in your projects. (5 days ago)
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. (6 days ago)
+- [shipmonk-rnd/name-collision-detector](https://github.com/shipmonk-rnd/name-collision-detector) - Fast &amp; simple tool to find class duplicates in your projects. (6 days ago)
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. (1 week ago)
 - [Springvar/home-assistant-flightradar24-card](https://github.com/Springvar/home-assistant-flightradar24-card) - Custom card to use with Flightradar24 integration for Home Assistant (1 week ago)
 - [sdr-enthusiasts/docker-piaware](https://github.com/sdr-enthusiasts/docker-piaware) - Multi-arch PiAware docker container including support for bladeRF, RTLSDR, SoapySDR. Includes dump1090 &amp; dump978 (amd64, arm/v6, arm/v7, arm64v8) (1 week ago)
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) - Forked from https://github.com/k8s-at-home/charts (2 weeks ago)
 - [cerbero90/lazy-json](https://github.com/cerbero90/lazy-json) - 🐼 Framework-agnostic package to load JSON of any dimension and from any source into Laravel lazy collections recursively. (2 weeks ago)
 - [cerbero90/enum](https://github.com/cerbero90/enum) - 🎲 Zero-dependencies package to supercharge enum functionalities. (2 weeks ago)
-- [a-agmon/LocalLRU](https://github.com/a-agmon/LocalLRU) - A simple, fast, thread-safe and lock-free implementation of LRU (Least Recently Used) caching in Rust (2 weeks ago)
+- [a-agmon/LocalLRU](https://github.com/a-agmon/LocalLRU) - A simple, fast, thread-safe and lock-free implementation of LRU (Least Recently Used) caching in Rust (3 weeks ago)
 - [carthage-software/fennec](https://github.com/carthage-software/fennec) - The Oxidized PHP Toolchain (3 weeks ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - 💀 PHP unused code detection via PHPStan extension. Detects dead cycles, supports libs like Symfony, Doctrine, PHPUnit etc. Can automatically remove dead PHP code. (3 weeks ago)
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (1 month ago)
