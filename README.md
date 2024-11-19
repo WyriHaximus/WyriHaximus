@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [falcondev-oss/github-actions-cache-server](https://github.com/falcondev-oss/github-actions-cache-server) - Self-hosted GitHub Actions cache server implementation. Compatible with official &#39;actions/cache&#39; action (today)
 - [losisin/helm-values-schema-json](https://github.com/losisin/helm-values-schema-json) - Helm plugin for generating values.schema.json from multiple values files (1 day ago)
 - [losisin/helm-values-schema-json-action](https://github.com/losisin/helm-values-schema-json-action) - A GitHub action for generating json schema from multiple values files for Helm3 charts. Uses helm plugin https://github.com/losisin/helm-values-schema-json (1 day ago)
 - [shipmonk-rnd/name-collision-detector](https://github.com/shipmonk-rnd/name-collision-detector) - Fast &amp; simple tool to find class duplicates in your projects. (1 week ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [a-agmon/LocalLRU](https://github.com/a-agmon/LocalLRU) - A simple, fast, thread-safe and lock-free implementation of LRU (Least Recently Used) caching in Rust (3 weeks ago)
 - [carthage-software/fennec](https://github.com/carthage-software/fennec) - The Oxidized PHP Toolchain (3 weeks ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - 💀 PHP unused code detection via PHPStan extension. Detects dead cycles, supports libs like Symfony, Doctrine, PHPUnit etc. Can automatically remove dead PHP code. (3 weeks ago)
-- [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen (1 month ago)
 
 ---
 
