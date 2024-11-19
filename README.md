@@ -46,7 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.6](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.6), today) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.7](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.7), today) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.141.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.141.0), 3 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.15.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.15.0), 1 week ago) - PHP Coding Standard
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([9.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/9.0.0), 1 week ago) - 🌯 PHPStan rules wrapper
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[New Version] Update versions file to PHP 8.4.0](https://github.com/WyriHaximus/php-fake-php-version/pull/135) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [[New Version] Update versions file to PHP 8.3.14](https://github.com/WyriHaximus/php-fake-php-version/pull/134) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [Add schemas for all values files](https://github.com/WyriHaximusNet/helm-charts/pull/120) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 day ago)
 - [Set PiHole password for testing](https://github.com/WyriHaximusNet/helm-charts/pull/119) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Add all current k8s versions to test against](https://github.com/WyriHaximusNet/helm-charts/pull/111) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (2 days ago)
 - [feat: Add priority class name support](https://github.com/mkilchhofer/unifi-chart/pull/75) on [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) (3 days ago)
 - [Composer plugin check interfaces before instantiability](https://github.com/WyriHaximus/php-broadcast/pull/288) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (4 days ago)
-- [Add RunOnStartUpAction](https://github.com/WyriHaximus/reactphp-cron/pull/85) on [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (4 days ago)
 
 ---
 
