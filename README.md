@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-c03183a8896046a8cd867a6cab6116d9 from 1.1.4-7714c88ff6c09a4c649c225f5b2ccf5c](https://github.com/php-api-clients/github-root/pull/1358) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[New Version] Update versions file to PHP 8.4.1](https://github.com/WyriHaximus/php-fake-php-version/pull/136) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [[New Version] Update versions file to PHP 8.4.0](https://github.com/WyriHaximus/php-fake-php-version/pull/135) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
 - [[New Version] Update versions file to PHP 8.3.14](https://github.com/WyriHaximus/php-fake-php-version/pull/134) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Ignore deprecated charts by Renovate](https://github.com/WyriHaximusNet/helm-charts/pull/113) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (3 days ago)
 - [Mark commento&#43;&#43; as deprecated](https://github.com/WyriHaximusNet/helm-charts/pull/112) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (3 days ago)
 - [Add all current k8s versions to test against](https://github.com/WyriHaximusNet/helm-charts/pull/111) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (3 days ago)
-- [feat: Add priority class name support](https://github.com/mkilchhofer/unifi-chart/pull/75) on [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) (4 days ago)
 
 ---
 
