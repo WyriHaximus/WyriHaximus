@@ -46,6 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [reactphp/http](https://github.com/reactphp/http) ([v1.11.0](https://github.com/reactphp/http/releases/tag/v1.11.0), today) - Event-driven, streaming HTTP client and server implementation for ReactPHP.
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([mongodb-0.6.10](https://github.com/groundhog2k/helm-charts/releases/tag/mongodb-0.6.10), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.8](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.8), today) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.15.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.15.0), 1 week ago) - PHP Coding Standard
@@ -58,7 +59,6 @@ All new major package releases will be in PHP 8.2
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) ([1.0.0](https://github.com/MammatusPHP/kubernetes-attributes/releases/tag/1.0.0), 1 month ago) - 
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) ([1.0.0](https://github.com/MammatusPHP/kubernetes-contracts/releases/tag/1.0.0), 1 month ago) - Contracts for Kubernetes related attributes
 - [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) ([2.2.1](https://github.com/WyriHaximus/php-simple-twig/releases/tag/2.2.1), 1 month ago) - Wrapper around Twig making rendering a string template trivial.
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) ([2.4.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.4.0), 1 month ago) - PSR-14 Event Processing and Notification package
 
 ---
 
