@@ -10,13 +10,13 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (3 days ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (4 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
 - [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (6 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 week ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 week ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
@@ -46,8 +46,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.141.1](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.141.1), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [reactphp/http](https://github.com/reactphp/http) ([v1.11.0](https://github.com/reactphp/http/releases/tag/v1.11.0), today) - Event-driven, streaming HTTP client and server implementation for ReactPHP.
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([mongodb-0.6.10](https://github.com/groundhog2k/helm-charts/releases/tag/mongodb-0.6.10), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.8](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.8), today) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.15.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.15.0), 1 week ago) - PHP Coding Standard
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([9.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/9.0.0), 1 week ago) - 🌯 PHPStan rules wrapper
