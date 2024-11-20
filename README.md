@@ -10,11 +10,11 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (3 days ago)
-- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (4 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
 - [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (6 days ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 week ago)
