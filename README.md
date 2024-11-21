@@ -17,12 +17,12 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (4 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
 - [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (1 week ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 week ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (1 week ago)
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
 - [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (1 week ago)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
 
 ---
 
