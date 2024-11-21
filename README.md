@@ -11,11 +11,11 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (today)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (4 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
 - [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (1 week ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 week ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
@@ -46,6 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) ([v4.0.2](https://github.com/WyriHaximus/github-action-helm3/releases/tag/v4.0.2), today) - Slim wrapper around helm3
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.141.1](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.141.1), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [reactphp/http](https://github.com/reactphp/http) ([v1.11.0](https://github.com/reactphp/http/releases/tag/v1.11.0), 1 day ago) - Event-driven, streaming HTTP client and server implementation for ReactPHP.
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.8](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.8), 1 day ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
@@ -58,7 +59,6 @@ All new major package releases will be in PHP 8.2
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) ([2.0.1](https://github.com/MammatusPHP/cron-attributes/releases/tag/2.0.1), 1 month ago) - Cron manager attributes
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) ([1.0.0](https://github.com/MammatusPHP/kubernetes-attributes/releases/tag/1.0.0), 1 month ago) - 
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) ([1.0.0](https://github.com/MammatusPHP/kubernetes-contracts/releases/tag/1.0.0), 1 month ago) - Contracts for Kubernetes related attributes
-- [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) ([2.2.1](https://github.com/WyriHaximus/php-simple-twig/releases/tag/2.2.1), 1 month ago) - Wrapper around Twig making rendering a string template trivial.
 
 ---
 
