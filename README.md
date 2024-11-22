@@ -46,8 +46,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.141.2](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.141.2), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) ([v4.0.2](https://github.com/WyriHaximus/github-action-helm3/releases/tag/v4.0.2), 1 day ago) - Slim wrapper around helm3
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.141.1](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.141.1), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [reactphp/http](https://github.com/reactphp/http) ([v1.11.0](https://github.com/reactphp/http/releases/tag/v1.11.0), 2 days ago) - Event-driven, streaming HTTP client and server implementation for ReactPHP.
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.8](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.8), 2 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.15.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.15.0), 1 week ago) - PHP Coding Standard
