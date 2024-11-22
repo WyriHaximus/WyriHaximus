@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-c004de9f6ab1478f11c99a0269aa347a from 1.1.4-28f60a7c508878e338d4b3b75488656f](https://github.com/php-api-clients/github-root/pull/1360) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Comment out upcoming releases](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/60) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
 - [Drop postgres install](https://github.com/WyriHaximusNet/helm-charts/pull/121) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-28f60a7c508878e338d4b3b75488656f from 1.1.4-a1982b6682052852c1dfe87d8de1f4ed](https://github.com/php-api-clients/github-root/pull/1359) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Set node names](https://github.com/WyriHaximusNet/helm-charts/pull/118) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (5 days ago)
 - [More realistic kind cluster with Region and Zones](https://github.com/WyriHaximusNet/helm-charts/pull/117) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (5 days ago)
 - [Use helm action output for URL&#39;s](https://github.com/WyriHaximusNet/helm-charts/pull/116) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (5 days ago)
-- [Add pi-hole to testing cluster](https://github.com/WyriHaximusNet/helm-charts/pull/115) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (5 days ago)
 
 ---
 
