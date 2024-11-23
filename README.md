@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Documentation](https://github.com/WyriHaximus/github-workflows/pull/48) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-a17f4264c506565e251516e5c4217ed8 from 1.1.4-c004de9f6ab1478f11c99a0269aa347a](https://github.com/php-api-clients/github-root/pull/1362) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-9fb2901e192ade3e8ccc32f59e517598 from 1.1.4-c03183a8896046a8cd867a6cab6116d9](https://github.com/php-api-clients/github-root/pull/1361) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Enforce value files must match schema](https://github.com/WyriHaximusNet/helm-charts/pull/123) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[New Version] Update versions file to PHP 8.4.1](https://github.com/WyriHaximus/php-fake-php-version/pull/136) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
 - [[New Version] Update versions file to PHP 8.4.0](https://github.com/WyriHaximus/php-fake-php-version/pull/135) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (4 days ago)
 - [[New Version] Update versions file to PHP 8.3.14](https://github.com/WyriHaximus/php-fake-php-version/pull/134) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (4 days ago)
-- [Add schemas for all values files](https://github.com/WyriHaximusNet/helm-charts/pull/120) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (5 days ago)
 
 ---
 
