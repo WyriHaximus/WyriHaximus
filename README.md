@@ -10,17 +10,17 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (1 day ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
+- [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 day ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (2 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
 - [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (1 week ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 week ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
-- [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (1 week ago)
+- [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (2 weeks ago)
 - [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (2 weeks ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 weeks ago)
 
@@ -46,10 +46,10 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.141.2](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.141.2), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
-- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) ([v4.0.2](https://github.com/WyriHaximus/github-action-helm3/releases/tag/v4.0.2), 1 day ago) - Slim wrapper around helm3
-- [reactphp/http](https://github.com/reactphp/http) ([v1.11.0](https://github.com/reactphp/http/releases/tag/v1.11.0), 2 days ago) - Event-driven, streaming HTTP client and server implementation for ReactPHP.
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.8](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.8), 2 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.141.2](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.141.2), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) ([v4.0.2](https://github.com/WyriHaximus/github-action-helm3/releases/tag/v4.0.2), 2 days ago) - Slim wrapper around helm3
+- [reactphp/http](https://github.com/reactphp/http) ([v1.11.0](https://github.com/reactphp/http/releases/tag/v1.11.0), 3 days ago) - Event-driven, streaming HTTP client and server implementation for ReactPHP.
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.8](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.8), 3 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.15.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.15.0), 1 week ago) - PHP Coding Standard
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([9.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/9.0.0), 1 week ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.30.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.30.0), 2 weeks ago) - 
@@ -64,37 +64,37 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
-- [Deprecate HPA chart](https://github.com/WyriHaximusNet/helm-charts/pull/122) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-c004de9f6ab1478f11c99a0269aa347a from 1.1.4-28f60a7c508878e338d4b3b75488656f](https://github.com/php-api-clients/github-root/pull/1360) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [Comment out upcoming releases](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/60) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
-- [Drop postgres install](https://github.com/WyriHaximusNet/helm-charts/pull/121) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 day ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-28f60a7c508878e338d4b3b75488656f from 1.1.4-a1982b6682052852c1dfe87d8de1f4ed](https://github.com/php-api-clients/github-root/pull/1359) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [[GitHub] Update to 1.1.4-c03183a8896046a8cd867a6cab6116d9 from 1.1.4-7714c88ff6c09a4c649c225f5b2ccf5c](https://github.com/php-api-clients/github-root/pull/1358) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [[New Version] Update versions file to PHP 8.4.1](https://github.com/WyriHaximus/php-fake-php-version/pull/136) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
-- [[New Version] Update versions file to PHP 8.4.0](https://github.com/WyriHaximus/php-fake-php-version/pull/135) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
-- [[New Version] Update versions file to PHP 8.3.14](https://github.com/WyriHaximus/php-fake-php-version/pull/134) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
-- [Add schemas for all values files](https://github.com/WyriHaximusNet/helm-charts/pull/120) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (4 days ago)
-- [Set PiHole password for testing](https://github.com/WyriHaximusNet/helm-charts/pull/119) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (5 days ago)
-- [Set node names](https://github.com/WyriHaximusNet/helm-charts/pull/118) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (5 days ago)
-- [More realistic kind cluster with Region and Zones](https://github.com/WyriHaximusNet/helm-charts/pull/117) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (5 days ago)
+- [Deprecate HPA chart](https://github.com/WyriHaximusNet/helm-charts/pull/122) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 day ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-c004de9f6ab1478f11c99a0269aa347a from 1.1.4-28f60a7c508878e338d4b3b75488656f](https://github.com/php-api-clients/github-root/pull/1360) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [Comment out upcoming releases](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/60) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
+- [Drop postgres install](https://github.com/WyriHaximusNet/helm-charts/pull/121) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (2 days ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-28f60a7c508878e338d4b3b75488656f from 1.1.4-a1982b6682052852c1dfe87d8de1f4ed](https://github.com/php-api-clients/github-root/pull/1359) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
+- [[GitHub] Update to 1.1.4-c03183a8896046a8cd867a6cab6116d9 from 1.1.4-7714c88ff6c09a4c649c225f5b2ccf5c](https://github.com/php-api-clients/github-root/pull/1358) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
+- [[New Version] Update versions file to PHP 8.4.1](https://github.com/WyriHaximus/php-fake-php-version/pull/136) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
+- [[New Version] Update versions file to PHP 8.4.0](https://github.com/WyriHaximus/php-fake-php-version/pull/135) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (4 days ago)
+- [[New Version] Update versions file to PHP 8.3.14](https://github.com/WyriHaximus/php-fake-php-version/pull/134) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (4 days ago)
+- [Add schemas for all values files](https://github.com/WyriHaximusNet/helm-charts/pull/120) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (5 days ago)
+- [Set PiHole password for testing](https://github.com/WyriHaximusNet/helm-charts/pull/119) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (6 days ago)
+- [Set node names](https://github.com/WyriHaximusNet/helm-charts/pull/118) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (6 days ago)
+- [More realistic kind cluster with Region and Zones](https://github.com/WyriHaximusNet/helm-charts/pull/117) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (6 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [falcondev-oss/github-actions-cache-server](https://github.com/falcondev-oss/github-actions-cache-server) - Self-hosted GitHub Actions cache server implementation. Compatible with official &#39;actions/cache&#39; action (3 days ago)
-- [losisin/helm-values-schema-json](https://github.com/losisin/helm-values-schema-json) - Helm plugin for generating values.schema.json from multiple values files (4 days ago)
-- [losisin/helm-values-schema-json-action](https://github.com/losisin/helm-values-schema-json-action) - A GitHub action for generating json schema from multiple values files for Helm3 charts. Uses helm plugin https://github.com/losisin/helm-values-schema-json (4 days ago)
+- [falcondev-oss/github-actions-cache-server](https://github.com/falcondev-oss/github-actions-cache-server) - Self-hosted GitHub Actions cache server implementation. Compatible with official &#39;actions/cache&#39; action (4 days ago)
+- [losisin/helm-values-schema-json](https://github.com/losisin/helm-values-schema-json) - Helm plugin for generating values.schema.json from multiple values files (5 days ago)
+- [losisin/helm-values-schema-json-action](https://github.com/losisin/helm-values-schema-json-action) - A GitHub action for generating json schema from multiple values files for Helm3 charts. Uses helm plugin https://github.com/losisin/helm-values-schema-json (5 days ago)
 - [shipmonk-rnd/name-collision-detector](https://github.com/shipmonk-rnd/name-collision-detector) - Fast &amp; simple tool to find class duplicates in your projects. (1 week ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. (1 week ago)
-- [Springvar/home-assistant-flightradar24-card](https://github.com/Springvar/home-assistant-flightradar24-card) - Custom card to use with Flightradar24 integration for Home Assistant (1 week ago)
-- [sdr-enthusiasts/docker-piaware](https://github.com/sdr-enthusiasts/docker-piaware) - Multi-arch PiAware docker container including support for bladeRF, RTLSDR, SoapySDR. Includes dump1090 &amp; dump978 (amd64, arm/v6, arm/v7, arm64v8) (1 week ago)
+- [Springvar/home-assistant-flightradar24-card](https://github.com/Springvar/home-assistant-flightradar24-card) - Custom card to use with Flightradar24 integration for Home Assistant (2 weeks ago)
+- [sdr-enthusiasts/docker-piaware](https://github.com/sdr-enthusiasts/docker-piaware) - Multi-arch PiAware docker container including support for bladeRF, RTLSDR, SoapySDR. Includes dump1090 &amp; dump978 (amd64, arm/v6, arm/v7, arm64v8) (2 weeks ago)
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) - Forked from https://github.com/k8s-at-home/charts (2 weeks ago)
 - [cerbero90/lazy-json](https://github.com/cerbero90/lazy-json) - 🐼 Framework-agnostic package to load JSON of any dimension and from any source into Laravel lazy collections recursively. (3 weeks ago)
 - [cerbero90/enum](https://github.com/cerbero90/enum) - 🎲 Zero-dependencies package to supercharge enum functionalities. (3 weeks ago)
 - [a-agmon/LocalLRU](https://github.com/a-agmon/LocalLRU) - A simple, fast, thread-safe and lock-free implementation of LRU (Least Recently Used) caching in Rust (3 weeks ago)
-- [carthage-software/fennec](https://github.com/carthage-software/fennec) - The Oxidized PHP Toolchain (3 weeks ago)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - 💀 PHP unused code detection via PHPStan extension. Detects dead cycles, supports libs like Symfony, Doctrine, PHPUnit etc. Can automatically remove dead PHP code. (4 weeks ago)
+- [carthage-software/fennec](https://github.com/carthage-software/fennec) - The Oxidized PHP Toolchain (4 weeks ago)
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - 💀 PHP unused code detection via PHPStan extension. Detects dead cycles, supports libs like Symfony, Doctrine, PHPUnit etc. Can automatically remove dead PHP code. (1 month ago)
 
 ---
 
