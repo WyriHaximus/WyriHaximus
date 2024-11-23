@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 day ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 day ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (2 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
 - [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (1 week ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 week ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (2 weeks ago)
-- [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (2 weeks ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 weeks ago)
+- [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (2 weeks ago)
 
 ---
 
@@ -46,7 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.141.2](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.141.2), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([rabbitmq-2.0.2](https://github.com/groundhog2k/helm-charts/releases/tag/rabbitmq-2.0.2), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) ([v4.0.2](https://github.com/WyriHaximus/github-action-helm3/releases/tag/v4.0.2), 2 days ago) - Slim wrapper around helm3
 - [reactphp/http](https://github.com/reactphp/http) ([v1.11.0](https://github.com/reactphp/http/releases/tag/v1.11.0), 3 days ago) - Event-driven, streaming HTTP client and server implementation for ReactPHP.
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.8](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.8), 3 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [bakame-php/http-structured-fields](https://github.com/bakame-php/http-structured-fields) - Structured Field Values for HTTP manipulation in PHP (today)
 - [falcondev-oss/github-actions-cache-server](https://github.com/falcondev-oss/github-actions-cache-server) - Self-hosted GitHub Actions cache server implementation. Compatible with official &#39;actions/cache&#39; action (4 days ago)
 - [losisin/helm-values-schema-json](https://github.com/losisin/helm-values-schema-json) - Helm plugin for generating values.schema.json from multiple values files (5 days ago)
 - [losisin/helm-values-schema-json-action](https://github.com/losisin/helm-values-schema-json-action) - A GitHub action for generating json schema from multiple values files for Helm3 charts. Uses helm plugin https://github.com/losisin/helm-values-schema-json (5 days ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [cerbero90/enum](https://github.com/cerbero90/enum) - 🎲 Zero-dependencies package to supercharge enum functionalities. (3 weeks ago)
 - [a-agmon/LocalLRU](https://github.com/a-agmon/LocalLRU) - A simple, fast, thread-safe and lock-free implementation of LRU (Least Recently Used) caching in Rust (3 weeks ago)
 - [carthage-software/fennec](https://github.com/carthage-software/fennec) - The Oxidized PHP Toolchain (4 weeks ago)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - 💀 PHP unused code detection via PHPStan extension. Detects dead cycles, supports libs like Symfony, Doctrine, PHPUnit etc. Can automatically remove dead PHP code. (1 month ago)
 
 ---
 
