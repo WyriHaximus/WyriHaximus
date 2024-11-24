@@ -10,6 +10,7 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 day ago)
@@ -22,7 +23,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (2 weeks ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 weeks ago)
-- [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (2 weeks ago)
 
 ---
 
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Use sparse checkout to limit the amount of code pulled](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/170) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
 - [Documentation](https://github.com/WyriHaximus/github-workflows/pull/48) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-a17f4264c506565e251516e5c4217ed8 from 1.1.4-c004de9f6ab1478f11c99a0269aa347a](https://github.com/php-api-clients/github-root/pull/1362) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-9fb2901e192ade3e8ccc32f59e517598 from 1.1.4-c03183a8896046a8cd867a6cab6116d9](https://github.com/php-api-clients/github-root/pull/1361) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-c03183a8896046a8cd867a6cab6116d9 from 1.1.4-7714c88ff6c09a4c649c225f5b2ccf5c](https://github.com/php-api-clients/github-root/pull/1358) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[New Version] Update versions file to PHP 8.4.1](https://github.com/WyriHaximus/php-fake-php-version/pull/136) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (4 days ago)
 - [[New Version] Update versions file to PHP 8.4.0](https://github.com/WyriHaximus/php-fake-php-version/pull/135) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (5 days ago)
-- [[New Version] Update versions file to PHP 8.3.14](https://github.com/WyriHaximus/php-fake-php-version/pull/134) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (5 days ago)
 
 ---
 
