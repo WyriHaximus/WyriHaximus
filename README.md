@@ -46,8 +46,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.141.3](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.141.3), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.11.0](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.11.0), 2 days ago) - Forked from https://github.com/k8s-at-home/charts
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([gitea-0.11.4](https://github.com/groundhog2k/helm-charts/releases/tag/gitea-0.11.4), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) ([v4.0.2](https://github.com/WyriHaximus/github-action-helm3/releases/tag/v4.0.2), 1 week ago) - Slim wrapper around helm3
 - [reactphp/http](https://github.com/reactphp/http) ([v1.11.0](https://github.com/reactphp/http/releases/tag/v1.11.0), 1 week ago) - Event-driven, streaming HTTP client and server implementation for ReactPHP.
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.8](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.8), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
