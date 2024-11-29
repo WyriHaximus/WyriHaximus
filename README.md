@@ -10,13 +10,13 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
-- [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (4 days ago)
 - [reactphp/http](https://github.com/reactphp/http) (4 days ago)
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (5 days ago)
+- [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (4 days ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (1 week ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Remove checkout in example and in CI before diff](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/171) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-6031e990fa8be80fce1e724bbabe2ab5 from 1.1.4-bb37eb0db0849b2ff829f8eaf9b136f3](https://github.com/php-api-clients/github-root/pull/1366) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-315e5678f61e5340f76bae356b2788b6 from 1.1.4-9737a21f44d34768b2b336a00c312699](https://github.com/php-api-clients/github-root/pull/1365) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-bb37eb0db0849b2ff829f8eaf9b136f3 from 1.1.4-a17f4264c506565e251516e5c4217ed8](https://github.com/php-api-clients/github-root/pull/1364) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Deprecate HPA chart](https://github.com/WyriHaximusNet/helm-charts/pull/122) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 week ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-c004de9f6ab1478f11c99a0269aa347a from 1.1.4-28f60a7c508878e338d4b3b75488656f](https://github.com/php-api-clients/github-root/pull/1360) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [Comment out upcoming releases](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/60) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
-- [Drop postgres install](https://github.com/WyriHaximusNet/helm-charts/pull/121) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 week ago)
 
 ---
 
