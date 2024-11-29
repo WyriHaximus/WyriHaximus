@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - 🌿 Calm and clean dark theme for Home Assistant (today)
 - [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) - A tool for automatically generating markdown documentation for helm charts (3 days ago)
 - [Clever/microplane](https://github.com/Clever/microplane) - A CLI tool to make git changes across many repos, especially useful with Microservices. (3 days ago)
 - [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) - Transform PHP types to TypeScript (4 days ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [shipmonk-rnd/name-collision-detector](https://github.com/shipmonk-rnd/name-collision-detector) - Fast &amp; simple tool to find class duplicates in your projects. (2 weeks ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. (2 weeks ago)
 - [Springvar/home-assistant-flightradar24-card](https://github.com/Springvar/home-assistant-flightradar24-card) - Custom card to use with Flightradar24 integration for Home Assistant (2 weeks ago)
-- [sdr-enthusiasts/docker-piaware](https://github.com/sdr-enthusiasts/docker-piaware) - Multi-arch PiAware docker container including support for bladeRF, RTLSDR, SoapySDR. Includes dump1090 &amp; dump978 (amd64, arm/v6, arm/v7, arm64v8) (2 weeks ago)
 
 ---
 
