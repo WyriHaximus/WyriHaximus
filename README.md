@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [snyk/parlay](https://github.com/snyk/parlay) - Enrich SBOMs with data from third party services (today)
 - [LouisBrunner/diff-action](https://github.com/LouisBrunner/diff-action) - GitHub Action that compares two files, add tolerances, send notifications, etc (today)
 - [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - 🌿 Calm and clean dark theme for Home Assistant (1 day ago)
 - [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) - A tool for automatically generating markdown documentation for helm charts (4 days ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [losisin/helm-values-schema-json](https://github.com/losisin/helm-values-schema-json) - Helm plugin for generating values.schema.json from multiple values files (1 week ago)
 - [losisin/helm-values-schema-json-action](https://github.com/losisin/helm-values-schema-json-action) - A GitHub action for generating json schema from multiple values files for Helm3 charts. Uses helm plugin https://github.com/losisin/helm-values-schema-json (1 week ago)
 - [shipmonk-rnd/name-collision-detector](https://github.com/shipmonk-rnd/name-collision-detector) - Fast &amp; simple tool to find class duplicates in your projects. (2 weeks ago)
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. (2 weeks ago)
 
 ---
 
