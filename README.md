@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Automate ignoring deprecated charts](https://github.com/WyriHaximusNet/helm-charts/pull/124) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
 - [Remove checkout in example and in CI before diff](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/171) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-6031e990fa8be80fce1e724bbabe2ab5 from 1.1.4-bb37eb0db0849b2ff829f8eaf9b136f3](https://github.com/php-api-clients/github-root/pull/1366) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHub] Update to 1.1.4-315e5678f61e5340f76bae356b2788b6 from 1.1.4-9737a21f44d34768b2b336a00c312699](https://github.com/php-api-clients/github-root/pull/1365) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Enforce value files must match schema](https://github.com/WyriHaximusNet/helm-charts/pull/123) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 week ago)
 - [Deprecate HPA chart](https://github.com/WyriHaximusNet/helm-charts/pull/122) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 week ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-c004de9f6ab1478f11c99a0269aa347a from 1.1.4-28f60a7c508878e338d4b3b75488656f](https://github.com/php-api-clients/github-root/pull/1360) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [Comment out upcoming releases](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/60) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
 
 ---
 
