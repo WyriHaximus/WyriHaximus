@@ -10,6 +10,7 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
@@ -18,7 +19,6 @@ All new major package releases will be in PHP 8.2
 - [reactphp/http](https://github.com/reactphp/http) (5 days ago)
 - [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (5 days ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (1 week ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (2 weeks ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 weeks ago)
