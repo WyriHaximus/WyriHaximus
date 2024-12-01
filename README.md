@@ -10,14 +10,14 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (2 days ago)
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (3 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (3 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
 - [reactphp/http](https://github.com/reactphp/http) (6 days ago)
-- [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (6 days ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (2 weeks ago)
