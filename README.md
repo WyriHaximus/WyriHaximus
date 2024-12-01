@@ -84,7 +84,7 @@ All new major package releases will be in PHP 8.2
 
 - [snyk/parlay](https://github.com/snyk/parlay) - Enrich SBOMs with data from third party services (1 day ago)
 - [LouisBrunner/diff-action](https://github.com/LouisBrunner/diff-action) - GitHub Action that compares two files, add tolerances, send notifications, etc (1 day ago)
-- [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - 🌿 Calm and clean dark theme for Home Assistant (2 days ago)
+- [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - 🌿 Calm and clean theme for Home Assistant (2 days ago)
 - [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) - A tool for automatically generating markdown documentation for helm charts (5 days ago)
 - [Clever/microplane](https://github.com/Clever/microplane) - A CLI tool to make git changes across many repos, especially useful with Microservices. (5 days ago)
 - [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) - Transform PHP types to TypeScript (6 days ago)
