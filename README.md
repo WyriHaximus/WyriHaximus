@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-b119f75f25b0d5bbe0f8fa77c66a5d24 from 1.1.4-315e5678f61e5340f76bae356b2788b6](https://github.com/php-api-clients/github-root/pull/1367) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Generate documentation](https://github.com/WyriHaximusNet/helm-charts/pull/125) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 day ago)
 - [Automate ignoring deprecated charts](https://github.com/WyriHaximusNet/helm-charts/pull/124) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (2 days ago)
 - [Remove checkout in example and in CI before diff](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/171) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (3 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-a17f4264c506565e251516e5c4217ed8 from 1.1.4-c004de9f6ab1478f11c99a0269aa347a](https://github.com/php-api-clients/github-root/pull/1362) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHub] Update to 1.1.4-9fb2901e192ade3e8ccc32f59e517598 from 1.1.4-c03183a8896046a8cd867a6cab6116d9](https://github.com/php-api-clients/github-root/pull/1361) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [Enforce value files must match schema](https://github.com/WyriHaximusNet/helm-charts/pull/123) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 week ago)
-- [Deprecate HPA chart](https://github.com/WyriHaximusNet/helm-charts/pull/122) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 week ago)
 
 ---
 
