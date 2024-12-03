@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-c22e4288a9c6ed5c4a6a2c04770f2d22 from 1.1.4-b119f75f25b0d5bbe0f8fa77c66a5d24](https://github.com/php-api-clients/github-root/pull/1370) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Switch composer diff back to tagged release](https://github.com/WyriHaximus/github-workflows/pull/49) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-40f7495bbfb76a67ec180340807d94b8 from 1.1.4-6031e990fa8be80fce1e724bbabe2ab5](https://github.com/php-api-clients/github-root/pull/1368) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-b119f75f25b0d5bbe0f8fa77c66a5d24 from 1.1.4-315e5678f61e5340f76bae356b2788b6](https://github.com/php-api-clients/github-root/pull/1367) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-9737a21f44d34768b2b336a00c312699 from 1.1.4-9fb2901e192ade3e8ccc32f59e517598](https://github.com/php-api-clients/github-root/pull/1363) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 - [Use sparse checkout to limit the amount of code pulled](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/170) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 week ago)
 - [Documentation](https://github.com/WyriHaximus/github-workflows/pull/48) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-a17f4264c506565e251516e5c4217ed8 from 1.1.4-c004de9f6ab1478f11c99a0269aa347a](https://github.com/php-api-clients/github-root/pull/1362) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
