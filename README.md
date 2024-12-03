@@ -10,10 +10,10 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (2 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (4 days ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (5 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Switch composer diff back to tagged release](https://github.com/WyriHaximus/github-workflows/pull/49) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-40f7495bbfb76a67ec180340807d94b8 from 1.1.4-6031e990fa8be80fce1e724bbabe2ab5](https://github.com/php-api-clients/github-root/pull/1368) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-b119f75f25b0d5bbe0f8fa77c66a5d24 from 1.1.4-315e5678f61e5340f76bae356b2788b6](https://github.com/php-api-clients/github-root/pull/1367) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [Generate documentation](https://github.com/WyriHaximusNet/helm-charts/pull/125) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Use sparse checkout to limit the amount of code pulled](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/170) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 week ago)
 - [Documentation](https://github.com/WyriHaximus/github-workflows/pull/48) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-a17f4264c506565e251516e5c4217ed8 from 1.1.4-c004de9f6ab1478f11c99a0269aa347a](https://github.com/php-api-clients/github-root/pull/1362) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [[GitHub] Update to 1.1.4-9fb2901e192ade3e8ccc32f59e517598 from 1.1.4-c03183a8896046a8cd867a6cab6116d9](https://github.com/php-api-clients/github-root/pull/1361) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
