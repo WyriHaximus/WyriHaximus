@@ -10,6 +10,7 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
@@ -22,7 +23,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 weeks ago)
 - [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (2 weeks ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 weeks ago)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (3 weeks ago)
 
 ---
 
@@ -46,7 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.141.4](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.141.4), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.142.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.142.0), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/reactphp-child-process-messenger](https://github.com/WyriHaximus/reactphp-child-process-messenger) ([4.0.4](https://github.com/WyriHaximus/reactphp-child-process-messenger/releases/tag/4.0.4), 3 days ago) - 
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.31](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.31), 6 days ago) - 
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.11.0](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.11.0), 1 week ago) - Forked from https://github.com/k8s-at-home/charts
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubAE] Update to 1.1.4-be889f4ae6e8593844d922a840dd93b1 from 1.1.4-be889f4ae6e8593844d922a840dd93b1](https://github.com/php-api-clients/github-root/pull/1382) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-a247d04d83e33358686d7fa8ff2bbf1c from 1.1.4-a247d04d83e33358686d7fa8ff2bbf1c](https://github.com/php-api-clients/github-root/pull/1381) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-c22e4288a9c6ed5c4a6a2c04770f2d22 from 1.1.4-c22e4288a9c6ed5c4a6a2c04770f2d22](https://github.com/php-api-clients/github-root/pull/1380) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.7] Update to 1.1.4-71bbe883e48c685b3b1ee41db4eee800 from 1.1.4-71bbe883e48c685b3b1ee41db4eee800](https://github.com/php-api-clients/github-root/pull/1379) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.0] Update to 1.1.4-3e0a7810d254da4d26f0002e587eb763 from 1.1.4-3e0a7810d254da4d26f0002e587eb763](https://github.com/php-api-clients/github-root/pull/1372) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-a247d04d83e33358686d7fa8ff2bbf1c from 1.1.4-40f7495bbfb76a67ec180340807d94b8](https://github.com/php-api-clients/github-root/pull/1371) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-c22e4288a9c6ed5c4a6a2c04770f2d22 from 1.1.4-b119f75f25b0d5bbe0f8fa77c66a5d24](https://github.com/php-api-clients/github-root/pull/1370) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [Switch composer diff back to tagged release](https://github.com/WyriHaximus/github-workflows/pull/49) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 
 ---
 
