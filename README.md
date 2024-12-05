@@ -10,12 +10,12 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (1 day ago)
 - [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 day ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
-- [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (4 days ago)
+- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (1 day ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (6 days ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (today)
 - [snyk/parlay](https://github.com/snyk/parlay) - Enrich SBOMs with data from third party services (5 days ago)
 - [LouisBrunner/diff-action](https://github.com/LouisBrunner/diff-action) - GitHub Action that compares two files, add tolerances, send notifications, etc (5 days ago)
 - [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - Calm and clean theme for Home Assistant (6 days ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [falcondev-oss/github-actions-cache-server](https://github.com/falcondev-oss/github-actions-cache-server) - Self-hosted GitHub Actions cache server implementation. Compatible with official &#39;actions/cache&#39; action (2 weeks ago)
 - [losisin/helm-values-schema-json](https://github.com/losisin/helm-values-schema-json) - Helm plugin for generating values.schema.json from multiple values files (2 weeks ago)
 - [losisin/helm-values-schema-json-action](https://github.com/losisin/helm-values-schema-json-action) - A GitHub action for generating json schema from multiple values files for Helm3 charts. Uses helm plugin https://github.com/losisin/helm-values-schema-json (2 weeks ago)
-- [shipmonk-rnd/name-collision-detector](https://github.com/shipmonk-rnd/name-collision-detector) - Fast &amp; simple tool to find class duplicates in your projects. (3 weeks ago)
 
 ---
 
