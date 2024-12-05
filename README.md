@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Fix leading slash](https://github.com/php-openapi-tools/generator-hydrator/pull/5) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (today)
 - [[GitHubAE] Update to 1.1.4-be889f4ae6e8593844d922a840dd93b1 from 1.1.4-be889f4ae6e8593844d922a840dd93b1](https://github.com/php-api-clients/github-root/pull/1382) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-a247d04d83e33358686d7fa8ff2bbf1c from 1.1.4-a247d04d83e33358686d7fa8ff2bbf1c](https://github.com/php-api-clients/github-root/pull/1381) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-c22e4288a9c6ed5c4a6a2c04770f2d22 from 1.1.4-c22e4288a9c6ed5c4a6a2c04770f2d22](https://github.com/php-api-clients/github-root/pull/1380) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.1] Update to 1.1.4-defb420907f5c36a22e1584342e0e531 from 1.1.4-defb420907f5c36a22e1584342e0e531](https://github.com/php-api-clients/github-root/pull/1373) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHubEnterprise-3.0] Update to 1.1.4-3e0a7810d254da4d26f0002e587eb763 from 1.1.4-3e0a7810d254da4d26f0002e587eb763](https://github.com/php-api-clients/github-root/pull/1372) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-a247d04d83e33358686d7fa8ff2bbf1c from 1.1.4-40f7495bbfb76a67ec180340807d94b8](https://github.com/php-api-clients/github-root/pull/1371) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [[GitHub] Update to 1.1.4-c22e4288a9c6ed5c4a6a2c04770f2d22 from 1.1.4-b119f75f25b0d5bbe0f8fa77c66a5d24](https://github.com/php-api-clients/github-root/pull/1370) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 
 ---
 
