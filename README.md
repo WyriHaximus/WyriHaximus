@@ -10,13 +10,13 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 day ago)
-- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (1 day ago)
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (6 days ago)
+- [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 day ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (2 days ago)
+- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (2 days ago)
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 week ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [reactphp/http](https://github.com/reactphp/http) (1 week ago)
@@ -46,8 +46,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.142.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.142.0), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
-- [WyriHaximus/reactphp-child-process-messenger](https://github.com/WyriHaximus/reactphp-child-process-messenger) ([4.0.4](https://github.com/WyriHaximus/reactphp-child-process-messenger/releases/tag/4.0.4), 4 days ago) - 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.142.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.142.0), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [WyriHaximus/reactphp-child-process-messenger](https://github.com/WyriHaximus/reactphp-child-process-messenger) ([4.0.4](https://github.com/WyriHaximus/reactphp-child-process-messenger/releases/tag/4.0.4), 5 days ago) - 
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.31](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.31), 1 week ago) - 
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.11.0](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.11.0), 1 week ago) - Forked from https://github.com/k8s-at-home/charts
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) ([v4.0.2](https://github.com/WyriHaximus/github-action-helm3/releases/tag/v4.0.2), 2 weeks ago) - Slim wrapper around helm3
@@ -64,28 +64,28 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
-- [Use sticky comments for README Diff](https://github.com/WyriHaximusNet/helm-charts/pull/127) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (today)
-- [Use sticky comment for README Diff](https://github.com/WyriHaximus/github-workflows/pull/53) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-ffee00135b8cfe1bdeb443e21e172f6d from 1.1.4-a247d04d83e33358686d7fa8ff2bbf1c](https://github.com/php-api-clients/github-root/pull/1384) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [[GitHub] Update to 1.1.4-893e2fb0b8fad9258f8b3396ebcda9b9 from 1.1.4-c22e4288a9c6ed5c4a6a2c04770f2d22](https://github.com/php-api-clients/github-root/pull/1383) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [Fix leading slash](https://github.com/php-openapi-tools/generator-hydrator/pull/5) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (today)
-- [[GitHubAE] Update to 1.1.4-be889f4ae6e8593844d922a840dd93b1 from 1.1.4-be889f4ae6e8593844d922a840dd93b1](https://github.com/php-api-clients/github-root/pull/1382) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-a247d04d83e33358686d7fa8ff2bbf1c from 1.1.4-a247d04d83e33358686d7fa8ff2bbf1c](https://github.com/php-api-clients/github-root/pull/1381) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[GitHub] Update to 1.1.4-c22e4288a9c6ed5c4a6a2c04770f2d22 from 1.1.4-c22e4288a9c6ed5c4a6a2c04770f2d22](https://github.com/php-api-clients/github-root/pull/1380) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[GitHubEnterprise-3.7] Update to 1.1.4-71bbe883e48c685b3b1ee41db4eee800 from 1.1.4-71bbe883e48c685b3b1ee41db4eee800](https://github.com/php-api-clients/github-root/pull/1379) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[GitHubEnterprise-3.6] Update to 1.1.4-34d12e9c9f557d2d2977464d5cd49398 from 1.1.4-34d12e9c9f557d2d2977464d5cd49398](https://github.com/php-api-clients/github-root/pull/1378) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[GitHubEnterprise-3.5] Update to 1.1.4-a21d39699884865a10804a02a66c5b60 from 1.1.4-a21d39699884865a10804a02a66c5b60](https://github.com/php-api-clients/github-root/pull/1377) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[GitHubEnterprise-3.4] Update to 1.1.4-8491d07e4903341efa2424ac8af7c5ec from 1.1.4-8491d07e4903341efa2424ac8af7c5ec](https://github.com/php-api-clients/github-root/pull/1376) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[GitHubEnterprise-3.3] Update to 1.1.4-1e26e0dd1e96061fd9e8934a7a019705 from 1.1.4-1e26e0dd1e96061fd9e8934a7a019705](https://github.com/php-api-clients/github-root/pull/1375) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [Use sticky comments for README Diff](https://github.com/WyriHaximusNet/helm-charts/pull/127) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 day ago)
+- [Use sticky comment for README Diff](https://github.com/WyriHaximus/github-workflows/pull/53) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-ffee00135b8cfe1bdeb443e21e172f6d from 1.1.4-a247d04d83e33358686d7fa8ff2bbf1c](https://github.com/php-api-clients/github-root/pull/1384) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [[GitHub] Update to 1.1.4-893e2fb0b8fad9258f8b3396ebcda9b9 from 1.1.4-c22e4288a9c6ed5c4a6a2c04770f2d22](https://github.com/php-api-clients/github-root/pull/1383) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [Fix leading slash](https://github.com/php-openapi-tools/generator-hydrator/pull/5) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (1 day ago)
+- [[GitHubAE] Update to 1.1.4-be889f4ae6e8593844d922a840dd93b1 from 1.1.4-be889f4ae6e8593844d922a840dd93b1](https://github.com/php-api-clients/github-root/pull/1382) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-a247d04d83e33358686d7fa8ff2bbf1c from 1.1.4-a247d04d83e33358686d7fa8ff2bbf1c](https://github.com/php-api-clients/github-root/pull/1381) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [[GitHub] Update to 1.1.4-c22e4288a9c6ed5c4a6a2c04770f2d22 from 1.1.4-c22e4288a9c6ed5c4a6a2c04770f2d22](https://github.com/php-api-clients/github-root/pull/1380) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [[GitHubEnterprise-3.7] Update to 1.1.4-71bbe883e48c685b3b1ee41db4eee800 from 1.1.4-71bbe883e48c685b3b1ee41db4eee800](https://github.com/php-api-clients/github-root/pull/1379) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [[GitHubEnterprise-3.6] Update to 1.1.4-34d12e9c9f557d2d2977464d5cd49398 from 1.1.4-34d12e9c9f557d2d2977464d5cd49398](https://github.com/php-api-clients/github-root/pull/1378) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [[GitHubEnterprise-3.5] Update to 1.1.4-a21d39699884865a10804a02a66c5b60 from 1.1.4-a21d39699884865a10804a02a66c5b60](https://github.com/php-api-clients/github-root/pull/1377) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [[GitHubEnterprise-3.4] Update to 1.1.4-8491d07e4903341efa2424ac8af7c5ec from 1.1.4-8491d07e4903341efa2424ac8af7c5ec](https://github.com/php-api-clients/github-root/pull/1376) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [[GitHubEnterprise-3.3] Update to 1.1.4-1e26e0dd1e96061fd9e8934a7a019705 from 1.1.4-1e26e0dd1e96061fd9e8934a7a019705](https://github.com/php-api-clients/github-root/pull/1375) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (today)
-- [snyk/parlay](https://github.com/snyk/parlay) - Enrich SBOMs with data from third party services (5 days ago)
-- [LouisBrunner/diff-action](https://github.com/LouisBrunner/diff-action) - GitHub Action that compares two files, add tolerances, send notifications, etc (5 days ago)
-- [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - Calm and clean theme for Home Assistant (6 days ago)
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (1 day ago)
+- [snyk/parlay](https://github.com/snyk/parlay) - Enrich SBOMs with data from third party services (6 days ago)
+- [LouisBrunner/diff-action](https://github.com/LouisBrunner/diff-action) - GitHub Action that compares two files, add tolerances, send notifications, etc (6 days ago)
+- [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - Calm and clean theme for Home Assistant (1 week ago)
 - [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) - A tool for automatically generating markdown documentation for helm charts (1 week ago)
 - [Clever/microplane](https://github.com/Clever/microplane) - A CLI tool to make git changes across many repos, especially useful with Microservices. (1 week ago)
 - [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) - Transform PHP types to TypeScript (1 week ago)
