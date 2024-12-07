@@ -10,6 +10,7 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -22,7 +23,6 @@ All new major package releases will be in PHP 8.2
 - [reactphp/http](https://github.com/reactphp/http) (1 week ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (2 weeks ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 weeks ago)
-- [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (3 weeks ago)
 
 ---
 
@@ -46,6 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r54](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r54), today) - 
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([graylog-0.9.4](https://github.com/groundhog2k/helm-charts/releases/tag/graylog-0.9.4), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/reactphp-child-process-messenger](https://github.com/WyriHaximus/reactphp-child-process-messenger) ([4.0.4](https://github.com/WyriHaximus/reactphp-child-process-messenger/releases/tag/4.0.4), 6 days ago) - 
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.31](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.31), 1 week ago) - 
@@ -58,12 +59,12 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.0.3](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.0.3), 1 month ago) - Tooling for creating generative Composer Plugins
 - [repository-situations/same-day-git-tag](https://github.com/repository-situations/same-day-git-tag) ([v1.0.1](https://github.com/repository-situations/same-day-git-tag/releases/tag/v1.0.1), 1 month ago) - A repository with a two git tags on the same day
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([1.0.1](https://github.com/MammatusPHP/kubernetes-events/releases/tag/1.0.1), 1 month ago) - 
-- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) ([2.0.1](https://github.com/MammatusPHP/cron-attributes/releases/tag/2.0.1), 1 month ago) - Cron manager attributes
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Images: Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Enclosure](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/201) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-c9dfbdafb6c9c747b891f7b5912601ef from 1.1.4-ffee00135b8cfe1bdeb443e21e172f6d](https://github.com/php-api-clients/github-root/pull/1386) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-569ed36cc004e0f3ecba0e072fcfa984 from 1.1.4-893e2fb0b8fad9258f8b3396ebcda9b9](https://github.com/php-api-clients/github-root/pull/1385) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [Use sticky comments for README Diff](https://github.com/WyriHaximusNet/helm-charts/pull/127) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-c22e4288a9c6ed5c4a6a2c04770f2d22 from 1.1.4-c22e4288a9c6ed5c4a6a2c04770f2d22](https://github.com/php-api-clients/github-root/pull/1380) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [[GitHubEnterprise-3.7] Update to 1.1.4-71bbe883e48c685b3b1ee41db4eee800 from 1.1.4-71bbe883e48c685b3b1ee41db4eee800](https://github.com/php-api-clients/github-root/pull/1379) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [[GitHubEnterprise-3.6] Update to 1.1.4-34d12e9c9f557d2d2977464d5cd49398 from 1.1.4-34d12e9c9f557d2d2977464d5cd49398](https://github.com/php-api-clients/github-root/pull/1378) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [[GitHubEnterprise-3.5] Update to 1.1.4-a21d39699884865a10804a02a66c5b60 from 1.1.4-a21d39699884865a10804a02a66c5b60](https://github.com/php-api-clients/github-root/pull/1377) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 
 ---
 
