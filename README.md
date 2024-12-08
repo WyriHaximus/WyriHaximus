@@ -14,8 +14,8 @@ All new major package releases will be in PHP 8.2
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
 - [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (3 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
 - [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (4 days ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (4 days ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 week ago)
@@ -28,6 +28,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🌱 My latest projects
 
+- [WyriHaximus/github-action-oci-image-supported-archs](https://github.com/WyriHaximus/github-action-oci-image-supported-archs) - 
 - [WyriHaximus/hacs-prometheus-pushgateway](https://github.com/WyriHaximus/hacs-prometheus-pushgateway) - Home Assistant addon that pushes entity state changes to a Prometheus PushGateway
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) - Tooling for creating generative Composer Plugins
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) - Makefile building blocks
@@ -40,7 +41,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/promise-any-test](https://github.com/WyriHaximus/promise-any-test) - 
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) - Renovate shared config
 - [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) - 
-- [WyriHaximus/php-subsplit-tools](https://github.com/WyriHaximus/php-subsplit-tools) - Tools to aid with creating (dynamic) subsplit packages
 
 ---
 
