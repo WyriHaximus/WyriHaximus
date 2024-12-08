@@ -28,7 +28,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🌱 My latest projects
 
-- [WyriHaximus/github-action-oci-image-supported-archs](https://github.com/WyriHaximus/github-action-oci-image-supported-archs) - 
+- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) - 
 - [WyriHaximus/hacs-prometheus-pushgateway](https://github.com/WyriHaximus/hacs-prometheus-pushgateway) - Home Assistant addon that pushes entity state changes to a Prometheus PushGateway
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) - Tooling for creating generative Composer Plugins
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) - Makefile building blocks
@@ -64,6 +64,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Switch to action for supported platforms](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/42) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (today)
+- [Initial implementation](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/1) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
 - [Switch to centralized Makefiles](https://github.com/WyriHaximus/php-test-utilities/pull/968) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [PHP &#43; BaseLine Makefiles](https://github.com/WyriHaximus/Makefiles/pull/1) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Switch to OpenAPI Tools based client generator](https://github.com/php-api-clients/github-root/pull/1387) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -75,8 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-ffee00135b8cfe1bdeb443e21e172f6d from 1.1.4-a247d04d83e33358686d7fa8ff2bbf1c](https://github.com/php-api-clients/github-root/pull/1384) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [[GitHub] Update to 1.1.4-893e2fb0b8fad9258f8b3396ebcda9b9 from 1.1.4-c22e4288a9c6ed5c4a6a2c04770f2d22](https://github.com/php-api-clients/github-root/pull/1383) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [Fix leading slash](https://github.com/php-openapi-tools/generator-hydrator/pull/5) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (3 days ago)
-- [[GitHubAE] Update to 1.1.4-be889f4ae6e8593844d922a840dd93b1 from 1.1.4-be889f4ae6e8593844d922a840dd93b1](https://github.com/php-api-clients/github-root/pull/1382) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-a247d04d83e33358686d7fa8ff2bbf1c from 1.1.4-a247d04d83e33358686d7fa8ff2bbf1c](https://github.com/php-api-clients/github-root/pull/1381) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 
 ---
 
