@@ -101,6 +101,7 @@ All new major package releases will be in PHP 8.2
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [edorian](https://github.com/edorian) (10 months ago)
+- [codecov](https://github.com/codecov) (1 year ago)
 - [mangkepwing143](https://github.com/mangkepwing143) (2 years ago)
 - [jeromegamez](https://github.com/jeromegamez) (2 years ago)
 - [kristos80](https://github.com/kristos80) (2 years ago)
