@@ -10,13 +10,13 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (1 day ago)
+- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (4 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (5 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
 - [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (6 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
 - [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 week ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (1 week ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 week ago)
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Add unit tests](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/4) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
 - [Support skipping Dockerfile and use supplied image tag](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/3) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
 - [Switch to action for supported platforms](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/42) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (3 days ago)
 - [Initial implementation](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/1) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (3 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Use sticky comments for README Diff](https://github.com/WyriHaximusNet/helm-charts/pull/127) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (6 days ago)
 - [Use sticky comment for README Diff](https://github.com/WyriHaximus/github-workflows/pull/53) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-ffee00135b8cfe1bdeb443e21e172f6d from 1.1.4-a247d04d83e33358686d7fa8ff2bbf1c](https://github.com/php-api-clients/github-root/pull/1384) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
-- [[GitHub] Update to 1.1.4-893e2fb0b8fad9258f8b3396ebcda9b9 from 1.1.4-c22e4288a9c6ed5c4a6a2c04770f2d22](https://github.com/php-api-clients/github-root/pull/1383) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 
 ---
 
