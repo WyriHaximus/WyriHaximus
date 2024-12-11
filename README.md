@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Rework tests to be more expandable](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/5) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
 - [Add unit tests](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/4) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
 - [Support skipping Dockerfile and use supplied image tag](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/3) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
 - [Switch to action for supported platforms](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/42) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (3 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-569ed36cc004e0f3ecba0e072fcfa984 from 1.1.4-893e2fb0b8fad9258f8b3396ebcda9b9](https://github.com/php-api-clients/github-root/pull/1385) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [Use sticky comments for README Diff](https://github.com/WyriHaximusNet/helm-charts/pull/127) on [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (6 days ago)
 - [Use sticky comment for README Diff](https://github.com/WyriHaximus/github-workflows/pull/53) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-ffee00135b8cfe1bdeb443e21e172f6d from 1.1.4-a247d04d83e33358686d7fa8ff2bbf1c](https://github.com/php-api-clients/github-root/pull/1384) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 
 ---
 
