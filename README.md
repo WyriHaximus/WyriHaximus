@@ -46,6 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [bakame-php/http-structured-fields](https://github.com/bakame-php/http-structured-fields) ([2.0.0](https://github.com/bakame-php/http-structured-fields/releases/tag/2.0.0), today) - Structured Field Values for HTTP manipulation in PHP
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.143.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.143.0), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r54](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r54), 5 days ago) - 
 - [WyriHaximus/reactphp-child-process-messenger](https://github.com/WyriHaximus/reactphp-child-process-messenger) ([4.0.4](https://github.com/WyriHaximus/reactphp-child-process-messenger/releases/tag/4.0.4), 1 week ago) - 
@@ -58,7 +59,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([9.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/9.0.0), 1 month ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.0.3](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.0.3), 1 month ago) - Tooling for creating generative Composer Plugins
 - [repository-situations/same-day-git-tag](https://github.com/repository-situations/same-day-git-tag) ([v1.0.1](https://github.com/repository-situations/same-day-git-tag/releases/tag/v1.0.1), 1 month ago) - A repository with a two git tags on the same day
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([1.0.1](https://github.com/MammatusPHP/kubernetes-events/releases/tag/1.0.1), 1 month ago) - 
 
 ---
 
