@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [We&#39;ll handle the checkout inside the action for what we need](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/7) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
 - [Support multiple images](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/6) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-306d5b5d8ae10d84736da59c5abf628f from 1.1.4-c9dfbdafb6c9c747b891f7b5912601ef](https://github.com/php-api-clients/github-root/pull/1389) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-758801dbed7c532f009e5f428e0454a9 from 1.1.4-569ed36cc004e0f3ecba0e072fcfa984](https://github.com/php-api-clients/github-root/pull/1388) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [PHP &#43; BaseLine Makefiles](https://github.com/WyriHaximus/Makefiles/pull/1) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 - [Switch to OpenAPI Tools based client generator](https://github.com/php-api-clients/github-root/pull/1387) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [Images: Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Enclosure](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/201) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (5 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-c9dfbdafb6c9c747b891f7b5912601ef from 1.1.4-ffee00135b8cfe1bdeb443e21e172f6d](https://github.com/php-api-clients/github-root/pull/1386) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 
 ---
 
