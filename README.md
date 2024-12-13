@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (today)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (1 week ago)
 - [snyk/parlay](https://github.com/snyk/parlay) - Enrich SBOMs with data from third party services (1 week ago)
 - [LouisBrunner/diff-action](https://github.com/LouisBrunner/diff-action) - GitHub Action that compares two files, add tolerances, send notifications, etc (1 week ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [bakame-php/http-structured-fields](https://github.com/bakame-php/http-structured-fields) - Structured Field Values for HTTP manipulation in PHP (2 weeks ago)
 - [falcondev-oss/github-actions-cache-server](https://github.com/falcondev-oss/github-actions-cache-server) - Self-hosted GitHub Actions cache server implementation. Compatible with official &#39;actions/cache&#39; action (3 weeks ago)
 - [losisin/helm-values-schema-json](https://github.com/losisin/helm-values-schema-json) - Helm plugin for generating values.schema.json from multiple values files (3 weeks ago)
-- [losisin/helm-values-schema-json-action](https://github.com/losisin/helm-values-schema-json-action) - A GitHub action for generating json schema from multiple values files for Helm3 charts. Uses helm plugin https://github.com/losisin/helm-values-schema-json (3 weeks ago)
 
 ---
 
