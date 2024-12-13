@@ -46,7 +46,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([gitea-0.11.5](https://github.com/groundhog2k/helm-charts/releases/tag/gitea-0.11.5), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([nextcloud-0.18.4](https://github.com/groundhog2k/helm-charts/releases/tag/nextcloud-0.18.4), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [bakame-php/http-structured-fields](https://github.com/bakame-php/http-structured-fields) ([2.0.0](https://github.com/bakame-php/http-structured-fields/releases/tag/2.0.0), 1 day ago) - Structured Field Values for HTTP manipulation in PHP
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r54](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r54), 6 days ago) - 
 - [WyriHaximus/reactphp-child-process-messenger](https://github.com/WyriHaximus/reactphp-child-process-messenger) ([4.0.4](https://github.com/WyriHaximus/reactphp-child-process-messenger/releases/tag/4.0.4), 1 week ago) - 
