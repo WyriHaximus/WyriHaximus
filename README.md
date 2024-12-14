@@ -10,11 +10,11 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (2 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 week ago)
 - [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 week ago)
@@ -46,9 +46,9 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r56](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r56), today) - 
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([gitea-0.11.6](https://github.com/groundhog2k/helm-charts/releases/tag/gitea-0.11.6), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [bakame-php/http-structured-fields](https://github.com/bakame-php/http-structured-fields) ([2.0.0](https://github.com/bakame-php/http-structured-fields/releases/tag/2.0.0), 2 days ago) - Structured Field Values for HTTP manipulation in PHP
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r54](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r54), 1 week ago) - 
 - [WyriHaximus/reactphp-child-process-messenger](https://github.com/WyriHaximus/reactphp-child-process-messenger) ([4.0.4](https://github.com/WyriHaximus/reactphp-child-process-messenger/releases/tag/4.0.4), 1 week ago) - 
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.31](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.31), 2 weeks ago) - 
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.11.0](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.11.0), 2 weeks ago) - Forked from https://github.com/k8s-at-home/charts
@@ -64,6 +64,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Update cluster ToC forgot to add two in the past, added today&#39;s post, and also updated expected posts for the autoscaling](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/203) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
+- [New post: Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Enclosure](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/202) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-369141ccf82ff71f710ebff5458b7b5a from 1.1.4-306d5b5d8ae10d84736da59c5abf628f](https://github.com/php-api-clients/github-root/pull/1391) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-4443d2c21890f0b754f9e632d191bd85 from 1.1.4-758801dbed7c532f009e5f428e0454a9](https://github.com/php-api-clients/github-root/pull/1390) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [We&#39;ll handle the checkout inside the action for what we need](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/7) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (2 days ago)
@@ -75,8 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Support skipping Dockerfile and use supplied image tag](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/3) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (3 days ago)
 - [Switch to action for supported platforms](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator/pull/42) on [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (6 days ago)
 - [Initial implementation](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/1) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (6 days ago)
-- [Switch to centralized Makefiles](https://github.com/WyriHaximus/php-test-utilities/pull/968) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
-- [PHP &#43; BaseLine Makefiles](https://github.com/WyriHaximus/Makefiles/pull/1) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 
 ---
 
