@@ -10,6 +10,7 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (today)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
 - [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (today)
@@ -22,7 +23,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 week ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (2 weeks ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 weeks ago)
-- [reactphp/http](https://github.com/reactphp/http) (2 weeks ago)
 
 ---
 
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Pretty print state JSON](https://github.com/php-openapi-tools/utils/pull/1) on [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (today)
 - [[GitHubAE] Update to 1.1.4-be889f4ae6e8593844d922a840dd93b1 from 1.1.4-be889f4ae6e8593844d922a840dd93b1](https://github.com/php-api-clients/github-root/pull/1403) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-369141ccf82ff71f710ebff5458b7b5a from 1.1.4-369141ccf82ff71f710ebff5458b7b5a](https://github.com/php-api-clients/github-root/pull/1402) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-4443d2c21890f0b754f9e632d191bd85 from 1.1.4-4443d2c21890f0b754f9e632d191bd85](https://github.com/php-api-clients/github-root/pull/1401) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Skip unchanged files](https://github.com/php-openapi-tools/generator/pull/2) on [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (1 day ago)
 - [Update cluster ToC forgot to add two in the past, added today&#39;s post, and also updated expected posts for the autoscaling](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/203) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 day ago)
 - [New post: Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Enclosure](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/202) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 day ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-369141ccf82ff71f710ebff5458b7b5a from 1.1.4-306d5b5d8ae10d84736da59c5abf628f](https://github.com/php-api-clients/github-root/pull/1391) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 
 ---
 
