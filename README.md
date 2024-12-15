@@ -11,10 +11,11 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (today)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 day ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
-- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (3 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
+- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (3 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 week ago)
 - [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 week ago)
@@ -22,7 +23,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (2 weeks ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 weeks ago)
 - [reactphp/http](https://github.com/reactphp/http) (2 weeks ago)
-- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (3 weeks ago)
 
 ---
 
@@ -64,6 +64,9 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.15] Update to 1.1.4-f994914a014deb77ece836279f42b93e from 1.1.4-f994914a014deb77ece836279f42b93e](https://github.com/php-api-clients/github-root/pull/1399) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [Unit tests](https://github.com/php-openapi-tools/generator/pull/3) on [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (today)
+- [[GitHubEnterprise-3.14] Update to 1.1.4-15f794337a26277abf54b138881ec64f from 1.1.4-15f794337a26277abf54b138881ec64f](https://github.com/php-api-clients/github-root/pull/1394) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-f3dffe22057364fad31701a91b023bcb from 1.1.4-f3dffe22057364fad31701a91b023bcb](https://github.com/php-api-clients/github-root/pull/1393) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[SetUp] Updated clients base](https://github.com/php-api-clients/github-root/pull/1392) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Skip unchanged files](https://github.com/php-openapi-tools/generator/pull/2) on [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (1 day ago)
@@ -74,9 +77,6 @@ All new major package releases will be in PHP 8.2
 - [We&#39;ll handle the checkout inside the action for what we need](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/7) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (3 days ago)
 - [Support multiple images](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/6) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (3 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-306d5b5d8ae10d84736da59c5abf628f from 1.1.4-c9dfbdafb6c9c747b891f7b5912601ef](https://github.com/php-api-clients/github-root/pull/1389) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [[GitHub] Update to 1.1.4-758801dbed7c532f009e5f428e0454a9 from 1.1.4-569ed36cc004e0f3ecba0e072fcfa984](https://github.com/php-api-clients/github-root/pull/1388) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [Rework tests to be more expandable](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/5) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (4 days ago)
-- [Add unit tests](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/4) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (4 days ago)
 
 ---
 
