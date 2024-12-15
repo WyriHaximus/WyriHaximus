@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.7] Update to 1.1.4-71bbe883e48c685b3b1ee41db4eee800 from 1.1.4-71bbe883e48c685b3b1ee41db4eee800](https://github.com/php-api-clients/github-root/pull/1400) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-f994914a014deb77ece836279f42b93e from 1.1.4-f994914a014deb77ece836279f42b93e](https://github.com/php-api-clients/github-root/pull/1399) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Unit tests](https://github.com/php-openapi-tools/generator/pull/3) on [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (today)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-15f794337a26277abf54b138881ec64f from 1.1.4-15f794337a26277abf54b138881ec64f](https://github.com/php-api-clients/github-root/pull/1394) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-4443d2c21890f0b754f9e632d191bd85 from 1.1.4-758801dbed7c532f009e5f428e0454a9](https://github.com/php-api-clients/github-root/pull/1390) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [We&#39;ll handle the checkout inside the action for what we need](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/7) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (3 days ago)
 - [Support multiple images](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/6) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (3 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-306d5b5d8ae10d84736da59c5abf628f from 1.1.4-c9dfbdafb6c9c747b891f7b5912601ef](https://github.com/php-api-clients/github-root/pull/1389) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 
 ---
 
