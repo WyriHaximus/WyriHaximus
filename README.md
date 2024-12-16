@@ -82,6 +82,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping (today)
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (3 days ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (1 week ago)
 - [snyk/parlay](https://github.com/snyk/parlay) - Enrich SBOMs with data from third party services (2 weeks ago)
@@ -94,7 +95,6 @@ All new major package releases will be in PHP 8.2
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 300&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (3 weeks ago)
 - [bakame-php/http-structured-fields](https://github.com/bakame-php/http-structured-fields) - Structured Field Values for HTTP manipulation in PHP (3 weeks ago)
 - [falcondev-oss/github-actions-cache-server](https://github.com/falcondev-oss/github-actions-cache-server) - Self-hosted GitHub Actions cache server implementation. Compatible with official &#39;actions/cache&#39; action (3 weeks ago)
-- [losisin/helm-values-schema-json](https://github.com/losisin/helm-values-schema-json) - Helm plugin for generating values.schema.json from multiple values files (4 weeks ago)
 
 ---
 
