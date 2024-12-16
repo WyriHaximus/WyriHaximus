@@ -11,10 +11,10 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (today)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (1 day ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (1 day ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (2 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
 - [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (4 days ago)
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.0] Update to 1.1.4-3e0a7810d254da4d26f0002e587eb763 from 1.1.4-3e0a7810d254da4d26f0002e587eb763](https://github.com/php-api-clients/github-root/pull/1404) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Pretty print state JSON](https://github.com/php-openapi-tools/utils/pull/1) on [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (1 day ago)
 - [[GitHubAE] Update to 1.1.4-be889f4ae6e8593844d922a840dd93b1 from 1.1.4-be889f4ae6e8593844d922a840dd93b1](https://github.com/php-api-clients/github-root/pull/1403) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-369141ccf82ff71f710ebff5458b7b5a from 1.1.4-369141ccf82ff71f710ebff5458b7b5a](https://github.com/php-api-clients/github-root/pull/1402) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[SetUp] Updated clients base](https://github.com/php-api-clients/github-root/pull/1392) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [Skip unchanged files](https://github.com/php-openapi-tools/generator/pull/2) on [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (2 days ago)
 - [Update cluster ToC forgot to add two in the past, added today&#39;s post, and also updated expected posts for the autoscaling](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/203) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (2 days ago)
-- [New post: Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Enclosure](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/202) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (2 days ago)
 
 ---
 
