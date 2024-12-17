@@ -10,17 +10,17 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
+- [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
-- [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (1 day ago)
-- [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (2 days ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (2 days ago)
+- [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (2 days ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (3 days ago)
-- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (5 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
-- [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 week ago)
+- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (5 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
+- [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (1 week ago)
 - [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 week ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (2 weeks ago)
 
@@ -64,6 +64,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t build on README updates](https://github.com/WyriHaximusNet/docker-php/pull/255) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
+- [Bump to wyrihaximus/test-utilities v6](https://github.com/php-openapi-tools/utils/pull/2) on [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (today)
 - [[New Version] Update versions file to PHP 8.4.2](https://github.com/WyriHaximus/php-fake-php-version/pull/137) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-461f97fcd984db4523b5ea3d4c13bdc9 from 1.1.4-f994914a014deb77ece836279f42b93e](https://github.com/php-api-clients/github-root/pull/1418) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-e9e561609727200e583d8b0b8e5feeb1 from 1.1.4-15f794337a26277abf54b138881ec64f](https://github.com/php-api-clients/github-root/pull/1417) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -75,8 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.4] Update to 1.1.4-8491d07e4903341efa2424ac8af7c5ec from 1.1.4-8491d07e4903341efa2424ac8af7c5ec](https://github.com/php-api-clients/github-root/pull/1411) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHubEnterprise-3.3] Update to 1.1.4-1e26e0dd1e96061fd9e8934a7a019705 from 1.1.4-1e26e0dd1e96061fd9e8934a7a019705](https://github.com/php-api-clients/github-root/pull/1410) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHubEnterprise-3.2] Update to 1.1.4-cc0f6d8c98886b66f1e16372f632e7d8 from 1.1.4-cc0f6d8c98886b66f1e16372f632e7d8](https://github.com/php-api-clients/github-root/pull/1409) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[0.2] Improve PHP 8.4&#43; by updating CI matrix and required packages](https://github.com/reactphp/filesystem/pull/119) on [reactphp/filesystem](https://github.com/reactphp/filesystem) (1 day ago)
-- [[GitHubEnterprise-3.15] Update to 1.1.4-f994914a014deb77ece836279f42b93e from 1.1.4-f994914a014deb77ece836279f42b93e](https://github.com/php-api-clients/github-root/pull/1408) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 
 ---
 
