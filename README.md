@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Switch to action for OCI platforms](https://github.com/WyriHaximus/github-workflows/pull/54) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Don&#39;t build on README updates](https://github.com/WyriHaximusNet/docker-php/pull/255) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [Bump to wyrihaximus/test-utilities v6](https://github.com/php-openapi-tools/utils/pull/2) on [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (1 day ago)
 - [[New Version] Update versions file to PHP 8.4.2](https://github.com/WyriHaximus/php-fake-php-version/pull/137) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.5] Update to 1.1.4-a21d39699884865a10804a02a66c5b60 from 1.1.4-a21d39699884865a10804a02a66c5b60](https://github.com/php-api-clients/github-root/pull/1412) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHubEnterprise-3.4] Update to 1.1.4-8491d07e4903341efa2424ac8af7c5ec from 1.1.4-8491d07e4903341efa2424ac8af7c5ec](https://github.com/php-api-clients/github-root/pull/1411) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHubEnterprise-3.3] Update to 1.1.4-1e26e0dd1e96061fd9e8934a7a019705 from 1.1.4-1e26e0dd1e96061fd9e8934a7a019705](https://github.com/php-api-clients/github-root/pull/1410) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [[GitHubEnterprise-3.2] Update to 1.1.4-cc0f6d8c98886b66f1e16372f632e7d8 from 1.1.4-cc0f6d8c98886b66f1e16372f632e7d8](https://github.com/php-api-clients/github-root/pull/1409) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 
 ---
 
