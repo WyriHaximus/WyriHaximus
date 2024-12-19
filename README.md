@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-ffc57be6cdf0e66d7c933d6f52367abe from 1.1.4-ee410229436a838f44c982a4ed9c9572](https://github.com/php-api-clients/github-root/pull/1419) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Switch to action for OCI platforms](https://github.com/WyriHaximus/github-workflows/pull/54) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [Don&#39;t build on README updates](https://github.com/WyriHaximusNet/docker-php/pull/255) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 - [Bump to wyrihaximus/test-utilities v6](https://github.com/php-openapi-tools/utils/pull/2) on [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (2 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.6] Update to 1.1.4-34d12e9c9f557d2d2977464d5cd49398 from 1.1.4-34d12e9c9f557d2d2977464d5cd49398](https://github.com/php-api-clients/github-root/pull/1413) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [[GitHubEnterprise-3.5] Update to 1.1.4-a21d39699884865a10804a02a66c5b60 from 1.1.4-a21d39699884865a10804a02a66c5b60](https://github.com/php-api-clients/github-root/pull/1412) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [[GitHubEnterprise-3.4] Update to 1.1.4-8491d07e4903341efa2424ac8af7c5ec from 1.1.4-8491d07e4903341efa2424ac8af7c5ec](https://github.com/php-api-clients/github-root/pull/1411) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [[GitHubEnterprise-3.3] Update to 1.1.4-1e26e0dd1e96061fd9e8934a7a019705 from 1.1.4-1e26e0dd1e96061fd9e8934a7a019705](https://github.com/php-api-clients/github-root/pull/1410) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 
 ---
 
