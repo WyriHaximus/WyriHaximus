@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Add CSV output](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/10) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
 - [Add release related workflows](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/9) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-f49df43e53599bd6cc78c90ef4e8511d from 1.1.4-461f97fcd984db4523b5ea3d4c13bdc9](https://github.com/php-api-clients/github-root/pull/1423) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Support multiple Dockerfiles](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/8) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [Bump to wyrihaximus/test-utilities v6](https://github.com/php-openapi-tools/utils/pull/2) on [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (3 days ago)
 - [[New Version] Update versions file to PHP 8.4.2](https://github.com/WyriHaximus/php-fake-php-version/pull/137) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-461f97fcd984db4523b5ea3d4c13bdc9 from 1.1.4-f994914a014deb77ece836279f42b93e](https://github.com/php-api-clients/github-root/pull/1418) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [[GitHubEnterprise-3.14] Update to 1.1.4-e9e561609727200e583d8b0b8e5feeb1 from 1.1.4-15f794337a26277abf54b138881ec64f](https://github.com/php-api-clients/github-root/pull/1417) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 
 ---
 
