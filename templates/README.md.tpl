@@ -15,6 +15,13 @@ All new major package releases will be in PHP 8.2
 
 ---
 
+### 📜 My latest articles on [WyriHaximus.net](https://blog.wyrihaximus.net/)
+{{range rss "https://blog.wyrihaximus.net/atom.xml" 10}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
+---
+
 #### 🌱 My latest projects
 {{range recentRepos 13}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
