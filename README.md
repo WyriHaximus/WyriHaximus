@@ -10,6 +10,7 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (2 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
@@ -22,7 +23,6 @@ All new major package releases will be in PHP 8.2
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (1 week ago)
 - [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (1 week ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
-- [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (2 weeks ago)
 
 ---
 
@@ -64,6 +64,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Drop Psalm](https://github.com/WyriHaximus/php-test-utilities/pull/971) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [Enhance documentation](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/12) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (1 day ago)
 - [Add MrLoop event loop](https://github.com/WyriHaximusNet/docker-php/pull/256) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
 - [Enforce lower case](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/11) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (3 days ago)
@@ -76,7 +77,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-0a21287c3d06b0da0958bbe0996dae3e from 1.1.4-748267a07491cd1ebfa9c41b5a4c19d6](https://github.com/php-api-clients/github-root/pull/1420) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [[GitHub] Update to 1.1.4-ffc57be6cdf0e66d7c933d6f52367abe from 1.1.4-ee410229436a838f44c982a4ed9c9572](https://github.com/php-api-clients/github-root/pull/1419) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [Switch to action for OCI platforms](https://github.com/WyriHaximus/github-workflows/pull/54) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
-- [Don&#39;t build on README updates](https://github.com/WyriHaximusNet/docker-php/pull/255) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 
 ---
 
@@ -89,7 +89,7 @@ All new major package releases will be in PHP 8.2
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (2 weeks ago)
 - [snyk/parlay](https://github.com/snyk/parlay) - Enrich SBOMs with data from third party services (3 weeks ago)
 - [LouisBrunner/diff-action](https://github.com/LouisBrunner/diff-action) - GitHub Action that compares two files, add tolerances, send notifications, etc (3 weeks ago)
-- [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - Calm and clean theme for Home Assistant (3 weeks ago)
+- [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - 🌿 Calm and clean theme for Home Assistant (3 weeks ago)
 - [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) - A tool for automatically generating markdown documentation for helm charts (4 weeks ago)
 - [Clever/microplane](https://github.com/Clever/microplane) - A CLI tool to make git changes across many repos, especially useful with Microservices. (4 weeks ago)
 - [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) - Transform PHP types to TypeScript (4 weeks ago)
