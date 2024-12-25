@@ -10,11 +10,11 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
 - [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (3 days ago)
 - [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (4 days ago)
@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.0.0), today) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.9](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.9), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3), 1 week ago) - PHP runtime &amp; extensions header files for PhpStorm
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r56](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r56), 1 week ago) - 
@@ -72,13 +73,13 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) ([v4.0.2](https://github.com/WyriHaximus/github-action-helm3/releases/tag/v4.0.2), 1 month ago) - Slim wrapper around helm3
 - [reactphp/http](https://github.com/reactphp/http) ([v1.11.0](https://github.com/reactphp/http/releases/tag/v1.11.0), 1 month ago) - Event-driven, streaming HTTP client and server implementation for ReactPHP.
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.15.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.15.0), 1 month ago) - PHP Coding Standard
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([9.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/9.0.0), 1 month ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.0.3](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.0.3), 1 month ago) - Tooling for creating generative Composer Plugins
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Add PHPStan to balance updating out](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/148) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [Drop ergebnis/phpstan-rules until it supports PHPStan v2](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/145) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [Projects CI run against lowest PHP version](https://github.com/WyriHaximus/github-workflows/pull/55) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [[SetUp] Updated clients base](https://github.com/php-api-clients/github-root/pull/1424) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.15] Update to 1.1.4-f49df43e53599bd6cc78c90ef4e8511d from 1.1.4-461f97fcd984db4523b5ea3d4c13bdc9](https://github.com/php-api-clients/github-root/pull/1423) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [Support multiple Dockerfiles](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/8) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (5 days ago)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-bd6820e03c74d20458b48da696efedec from 1.1.4-e9e561609727200e583d8b0b8e5feeb1](https://github.com/php-api-clients/github-root/pull/1422) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
-- [[GitHubEnterprise-3.13] Update to 1.1.4-bb7bf23ece23a331cf9ec11f8b281329 from 1.1.4-8089ef8f95a445cc86353674bade2e6e](https://github.com/php-api-clients/github-root/pull/1421) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 
 ---
 
