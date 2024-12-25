@@ -79,6 +79,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Resolve new PHPStan errors](https://github.com/WyriHaximus/php-test-utilities/pull/973) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [Drop ergebis config](https://github.com/WyriHaximus/php-test-utilities/pull/972) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [Add PHPStan to balance updating out](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/148) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [Drop ergebnis/phpstan-rules until it supports PHPStan v2](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/145) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [Projects CI run against lowest PHP version](https://github.com/WyriHaximus/github-workflows/pull/55) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
@@ -90,8 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Add CSV output](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/10) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (5 days ago)
 - [Add release related workflows](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/9) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (5 days ago)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-f49df43e53599bd6cc78c90ef4e8511d from 1.1.4-461f97fcd984db4523b5ea3d4c13bdc9](https://github.com/php-api-clients/github-root/pull/1423) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
-- [Support multiple Dockerfiles](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/8) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (5 days ago)
-- [[GitHubEnterprise-3.14] Update to 1.1.4-bd6820e03c74d20458b48da696efedec from 1.1.4-e9e561609727200e583d8b0b8e5feeb1](https://github.com/php-api-clients/github-root/pull/1422) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 
 ---
 
