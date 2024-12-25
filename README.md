@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 day ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
 - [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (3 days ago)
 - [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (4 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (6 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (6 days ago)
-- [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
+- [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (1 week ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (1 week ago)
 
 ---
@@ -79,6 +79,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Drop ergebnis/phpstan-rules until it supports PHPStan v2](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/145) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
+- [Projects CI run against lowest PHP version](https://github.com/WyriHaximus/github-workflows/pull/55) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [[SetUp] Updated clients base](https://github.com/php-api-clients/github-root/pull/1424) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Drop Psalm](https://github.com/WyriHaximus/php-test-utilities/pull/971) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [Enhance documentation](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/12) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (2 days ago)
@@ -90,8 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Support multiple Dockerfiles](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/8) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (5 days ago)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-bd6820e03c74d20458b48da696efedec from 1.1.4-e9e561609727200e583d8b0b8e5feeb1](https://github.com/php-api-clients/github-root/pull/1422) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-bb7bf23ece23a331cf9ec11f8b281329 from 1.1.4-8089ef8f95a445cc86353674bade2e6e](https://github.com/php-api-clients/github-root/pull/1421) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-0a21287c3d06b0da0958bbe0996dae3e from 1.1.4-748267a07491cd1ebfa9c41b5a4c19d6](https://github.com/php-api-clients/github-root/pull/1420) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
-- [[GitHub] Update to 1.1.4-ffc57be6cdf0e66d7c933d6f52367abe from 1.1.4-ee410229436a838f44c982a4ed9c9572](https://github.com/php-api-clients/github-root/pull/1419) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 
 ---
 
