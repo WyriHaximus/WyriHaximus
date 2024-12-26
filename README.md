@@ -10,9 +10,9 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 day ago)
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (1 day ago)
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[SetUp] Updated clients base](https://github.com/php-api-clients/github-root/pull/1425) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[2.x] Drop PHP 8.1](https://github.com/reactphp-parallel/contracts/pull/14) on [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (1 day ago)
 - [[2.x] Prepare for v2 release](https://github.com/reactphp-parallel/contracts/pull/13) on [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (1 day ago)
 - [Drop maglnet/composer-require-checker](https://github.com/WyriHaximus/php-test-utilities/pull/974) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Drop Psalm](https://github.com/WyriHaximus/php-test-utilities/pull/971) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [Enhance documentation](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/12) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (3 days ago)
 - [Add MrLoop event loop](https://github.com/WyriHaximusNet/docker-php/pull/256) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
-- [Enforce lower case](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/11) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (5 days ago)
 
 ---
 
