@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-2fbd62855475472c85084c56b4a4c6c5 from 1.1.4-0a21287c3d06b0da0958bbe0996dae3e](https://github.com/php-api-clients/github-root/pull/1427) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-c1e4d4617fb30b28dd9ff95dbcd32f2e from 1.1.4-ffc57be6cdf0e66d7c933d6f52367abe](https://github.com/php-api-clients/github-root/pull/1426) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[2.x] Replace observables with iterables](https://github.com/reactphp-parallel/event-loop/pull/59) on [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (today)
 - [Use stubs from stubs package](https://github.com/reactphp-parallel/runtime/pull/67) on [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (today)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Resolve new PHPStan errors](https://github.com/WyriHaximus/php-test-utilities/pull/973) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [Drop ergebis config](https://github.com/WyriHaximus/php-test-utilities/pull/972) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [Add PHPStan to balance updating out](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/148) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
-- [Drop ergebnis/phpstan-rules until it supports PHPStan v2](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/145) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
 
 ---
 
