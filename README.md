@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[3.x] Add type testing](https://github.com/reactphp-parallel/runtime/pull/66) on [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (today)
 - [Initial set up](https://github.com/reactphp-parallel/stubs/pull/1) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (today)
 - [[SetUp] Updated clients base](https://github.com/php-api-clients/github-root/pull/1425) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[2.x] Drop PHP 8.1](https://github.com/reactphp-parallel/contracts/pull/14) on [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Projects CI run against lowest PHP version](https://github.com/WyriHaximus/github-workflows/pull/55) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [[SetUp] Updated clients base](https://github.com/php-api-clients/github-root/pull/1424) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [Drop Psalm](https://github.com/WyriHaximus/php-test-utilities/pull/971) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
-- [Enhance documentation](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/12) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (3 days ago)
 
 ---
 
