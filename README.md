@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[2.x] Replace observables with iterables](https://github.com/reactphp-parallel/event-loop/pull/59) on [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (today)
 - [Use stubs from stubs package](https://github.com/reactphp-parallel/runtime/pull/67) on [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (today)
 - [[3.x] Add type testing](https://github.com/reactphp-parallel/runtime/pull/66) on [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (today)
 - [Initial set up](https://github.com/reactphp-parallel/stubs/pull/1) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (today)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Add PHPStan to balance updating out](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/148) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
 - [Drop ergebnis/phpstan-rules until it supports PHPStan v2](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/145) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
 - [Projects CI run against lowest PHP version](https://github.com/WyriHaximus/github-workflows/pull/55) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
-- [[SetUp] Updated clients base](https://github.com/php-api-clients/github-root/pull/1424) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 
 ---
 
