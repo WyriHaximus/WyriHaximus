@@ -97,6 +97,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [ringPHP/php-picohttpparser](https://github.com/ringPHP/php-picohttpparser) - A PHP port of the fast HTTP parser used in the H2O project. (today)
 - [mintcreg/pantry_tracker](https://github.com/mintcreg/pantry_tracker) - A Home Assistant add-on to manage and track pantry items, with product categorization, real-time inventory updates, and intuitive controls.. (1 week ago)
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! (1 week ago)
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping (1 week ago)
@@ -109,7 +110,6 @@ All new major package releases will be in PHP 8.2
 - [Clever/microplane](https://github.com/Clever/microplane) - A CLI tool to make git changes across many repos, especially useful with Microservices. (1 month ago)
 - [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) - Transform PHP types to TypeScript (1 month ago)
 - [jenius-apps/beeskie](https://github.com/jenius-apps/beeskie) - A Windows app for Bluesky (1 month ago)
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 300&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (1 month ago)
 
 ---
 
