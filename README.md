@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
-- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (today)
-- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (today)
-- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (1 day ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 day ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
-- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (4 days ago)
-- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (5 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
+- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 day ago)
+- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 day ago)
+- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (2 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (2 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
+- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (5 days ago)
+- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (6 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 
 ---
@@ -34,7 +34,7 @@ All new major package releases will be in PHP 8.2
 - [Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Storage](https://blog.wyrihaximus.net/2024/08/building-a-kubernetes-homelab-with-raspberry-pies-and-lego-nodes-storage/) (4 months ago)
 - [Building a kubernetes homelab with Raspberry Pi and Lego: Network: Switch](https://blog.wyrihaximus.net/2024/07/building-a-kubernetes-homelab-with-raspberry-pies-and-lego-network-switch/) (5 months ago)
 - [Updating (PHP) packages to ReactPHP Promise v3, and test your types with PHPStan](https://blog.wyrihaximus.net/2024/06/updating-php-packages-to-reactphp-promise-v3--and-test-your-types-with-phpstan/) (6 months ago)
-- [Always recreating a TerraForm resource](https://blog.wyrihaximus.net/2024/04/always-recreating-a-terraform-resource/) (8 months ago)
+- [Always recreating a TerraForm resource](https://blog.wyrihaximus.net/2024/04/always-recreating-a-terraform-resource/) (9 months ago)
 - [Building fast Docker based GitHub Actions](https://blog.wyrihaximus.net/2023/03/building-fast-docker-based-github-actions/) (2 years ago)
 - [Testing GitHub Actions](https://blog.wyrihaximus.net/2023/03/testing-github-actions/) (2 years ago)
 - [Migrating from self-hosted in Kubernetes Databases to managed hosted at Digital Ocean or the story of how I started working on Opportunistic TLS in ReactPHP](https://blog.wyrihaximus.net/2023/01/migrating-from-self-hosted-in-k8s-databases-to-managed-hosted-at-digital-ocean/) (2 years ago)
@@ -61,8 +61,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) ([2.0.0](https://github.com/reactphp-parallel/contracts/releases/tag/2.0.0), 1 day ago) - 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.0.0), 1 day ago) - 🌯 PHPStan rules wrapper
+- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) ([2.0.0](https://github.com/reactphp-parallel/contracts/releases/tag/2.0.0), 2 days ago) - 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.0.0), 2 days ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.9](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.9), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3), 1 week ago) - PHP runtime &amp; extensions header files for PhpStorm
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r56](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r56), 1 week ago) - 
@@ -79,34 +79,34 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
-- [[GitHubEnterpriseCloud] Update to 1.1.4-2fbd62855475472c85084c56b4a4c6c5 from 1.1.4-0a21287c3d06b0da0958bbe0996dae3e](https://github.com/php-api-clients/github-root/pull/1427) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [[GitHub] Update to 1.1.4-c1e4d4617fb30b28dd9ff95dbcd32f2e from 1.1.4-ffc57be6cdf0e66d7c933d6f52367abe](https://github.com/php-api-clients/github-root/pull/1426) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [[2.x] Replace observables with iterables](https://github.com/reactphp-parallel/event-loop/pull/59) on [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (today)
-- [Use stubs from stubs package](https://github.com/reactphp-parallel/runtime/pull/67) on [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (today)
-- [[3.x] Add type testing](https://github.com/reactphp-parallel/runtime/pull/66) on [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (today)
-- [Initial set up](https://github.com/reactphp-parallel/stubs/pull/1) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (today)
-- [[SetUp] Updated clients base](https://github.com/php-api-clients/github-root/pull/1425) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [[2.x] Drop PHP 8.1](https://github.com/reactphp-parallel/contracts/pull/14) on [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (1 day ago)
-- [[2.x] Prepare for v2 release](https://github.com/reactphp-parallel/contracts/pull/13) on [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (1 day ago)
-- [Drop maglnet/composer-require-checker](https://github.com/WyriHaximus/php-test-utilities/pull/974) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [Resolve new PHPStan errors](https://github.com/WyriHaximus/php-test-utilities/pull/973) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [Drop ergebis config](https://github.com/WyriHaximus/php-test-utilities/pull/972) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [Add PHPStan to balance updating out](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/148) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-2fbd62855475472c85084c56b4a4c6c5 from 1.1.4-0a21287c3d06b0da0958bbe0996dae3e](https://github.com/php-api-clients/github-root/pull/1427) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [[GitHub] Update to 1.1.4-c1e4d4617fb30b28dd9ff95dbcd32f2e from 1.1.4-ffc57be6cdf0e66d7c933d6f52367abe](https://github.com/php-api-clients/github-root/pull/1426) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [[2.x] Replace observables with iterables](https://github.com/reactphp-parallel/event-loop/pull/59) on [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 day ago)
+- [Use stubs from stubs package](https://github.com/reactphp-parallel/runtime/pull/67) on [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 day ago)
+- [[3.x] Add type testing](https://github.com/reactphp-parallel/runtime/pull/66) on [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 day ago)
+- [Initial set up](https://github.com/reactphp-parallel/stubs/pull/1) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (1 day ago)
+- [[SetUp] Updated clients base](https://github.com/php-api-clients/github-root/pull/1425) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [[2.x] Drop PHP 8.1](https://github.com/reactphp-parallel/contracts/pull/14) on [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (2 days ago)
+- [[2.x] Prepare for v2 release](https://github.com/reactphp-parallel/contracts/pull/13) on [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (2 days ago)
+- [Drop maglnet/composer-require-checker](https://github.com/WyriHaximus/php-test-utilities/pull/974) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
+- [Resolve new PHPStan errors](https://github.com/WyriHaximus/php-test-utilities/pull/973) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
+- [Drop ergebis config](https://github.com/WyriHaximus/php-test-utilities/pull/972) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
+- [Add PHPStan to balance updating out](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/148) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. (today)
-- [ringPHP/php-picohttpparser](https://github.com/ringPHP/php-picohttpparser) - A PHP port of the fast HTTP parser used in the H2O project. (today)
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. (1 day ago)
+- [ringPHP/php-picohttpparser](https://github.com/ringPHP/php-picohttpparser) - A PHP port of the fast HTTP parser used in the H2O project. (1 day ago)
 - [mintcreg/pantry_tracker](https://github.com/mintcreg/pantry_tracker) - A Home Assistant add-on to manage and track pantry items, with product categorization, real-time inventory updates, and intuitive controls.. (1 week ago)
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! (1 week ago)
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping (1 week ago)
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (1 week ago)
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (2 weeks ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (3 weeks ago)
 - [snyk/parlay](https://github.com/snyk/parlay) - Enrich SBOMs with data from third party services (3 weeks ago)
 - [LouisBrunner/diff-action](https://github.com/LouisBrunner/diff-action) - GitHub Action that compares two files, add tolerances, send notifications, etc (3 weeks ago)
-- [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - 🌿 Calm and clean theme for Home Assistant (3 weeks ago)
+- [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - 🌿 Calm and clean theme for Home Assistant (4 weeks ago)
 - [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) - A tool for automatically generating markdown documentation for helm charts (1 month ago)
 - [Clever/microplane](https://github.com/Clever/microplane) - A CLI tool to make git changes across many repos, especially useful with Microservices. (1 month ago)
 - [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) - Transform PHP types to TypeScript (1 month ago)
