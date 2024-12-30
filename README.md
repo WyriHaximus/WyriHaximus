@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (1 day ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
-- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (4 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (4 days ago)
+- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (4 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
+- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (5 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (5 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
-- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (5 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (6 days ago)
 - [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (1 week ago)
-- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (1 week ago)
 
 ---
 
@@ -131,11 +131,11 @@ All new major package releases will be in PHP 8.2
 
 #### 👯 Check out some of my recent followers
 
+- [thegithubmenace](https://github.com/thegithubmenace)
 - [mowhn](https://github.com/mowhn)
 - [Turjo884](https://github.com/Turjo884)
 - [nholuongut](https://github.com/nholuongut)
 - [PaznerA](https://github.com/PaznerA)
-- [kool7](https://github.com/kool7)
 
 ---
 
