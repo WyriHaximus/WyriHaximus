@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Enforce DTOs for messaging](https://github.com/MammatusPHP/queue-contracts/pull/5) on [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (today)
 - [Turn into PHPStan extension](https://github.com/reactphp-parallel/stubs/pull/5) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (3 days ago)
 - [Add functions stub](https://github.com/reactphp-parallel/stubs/pull/4) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (3 days ago)
 - [Fix badges](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/151) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[SetUp] Updated clients base](https://github.com/php-api-clients/github-root/pull/1425) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [[2.x] Drop PHP 8.1](https://github.com/reactphp-parallel/contracts/pull/14) on [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (6 days ago)
 - [[2.x] Prepare for v2 release](https://github.com/reactphp-parallel/contracts/pull/13) on [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (6 days ago)
-- [Drop maglnet/composer-require-checker](https://github.com/WyriHaximus/php-test-utilities/pull/974) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
 
 ---
 
