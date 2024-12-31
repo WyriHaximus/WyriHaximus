@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [No CI runs directly on windows if PCNTL is a required extension](https://github.com/WyriHaximus/github-workflows/pull/56) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Enforce DTOs for messaging](https://github.com/MammatusPHP/queue/pull/7) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [Commit generated code](https://github.com/WyriHaximus/php-broadcast/pull/289) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
 - [Commit generated code](https://github.com/MammatusPHP/cron/pull/86) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-c1e4d4617fb30b28dd9ff95dbcd32f2e from 1.1.4-ffc57be6cdf0e66d7c933d6f52367abe](https://github.com/php-api-clients/github-root/pull/1426) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [[2.x] Replace observables with iterables](https://github.com/reactphp-parallel/event-loop/pull/59) on [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (5 days ago)
 - [Use stubs from stubs package](https://github.com/reactphp-parallel/runtime/pull/67) on [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (5 days ago)
-- [[3.x] Add type testing](https://github.com/reactphp-parallel/runtime/pull/66) on [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (5 days ago)
 
 ---
 
@@ -131,11 +131,11 @@ All new major package releases will be in PHP 8.2
 
 #### 👯 Check out some of my recent followers
 
+- [nhqo](https://github.com/nhqo)
 - [ehemon3059](https://github.com/ehemon3059)
 - [mowhn](https://github.com/mowhn)
 - [Turjo884](https://github.com/Turjo884)
 - [nholuongut](https://github.com/nholuongut)
-- [PaznerA](https://github.com/PaznerA)
 
 ---
 
