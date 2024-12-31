@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (2 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (5 days ago)
 - [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (5 days ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (5 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (5 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (6 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (6 days ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
-- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (1 week ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
 
 ---
 
@@ -79,6 +79,9 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Commit generated code](https://github.com/WyriHaximus/php-broadcast/pull/289) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
+- [Commit generated code](https://github.com/MammatusPHP/cron/pull/86) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
+- [Back to fiber basics](https://github.com/MammatusPHP/cron/pull/85) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [Enforce DTOs for messaging](https://github.com/MammatusPHP/queue-contracts/pull/5) on [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (today)
 - [Turn into PHPStan extension](https://github.com/reactphp-parallel/stubs/pull/5) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (3 days ago)
 - [Add functions stub](https://github.com/reactphp-parallel/stubs/pull/4) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (3 days ago)
@@ -89,9 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Use stubs from stubs package](https://github.com/reactphp-parallel/runtime/pull/67) on [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (5 days ago)
 - [[3.x] Add type testing](https://github.com/reactphp-parallel/runtime/pull/66) on [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (5 days ago)
 - [Initial set up](https://github.com/reactphp-parallel/stubs/pull/1) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (5 days ago)
-- [[SetUp] Updated clients base](https://github.com/php-api-clients/github-root/pull/1425) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
-- [[2.x] Drop PHP 8.1](https://github.com/reactphp-parallel/contracts/pull/14) on [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (6 days ago)
-- [[2.x] Prepare for v2 release](https://github.com/reactphp-parallel/contracts/pull/13) on [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (6 days ago)
 
 ---
 
