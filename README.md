@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
-- [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (2 days ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
-- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (5 days ago)
-- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (5 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (5 days ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (6 days ago)
-- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (6 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 day ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
+- [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (3 days ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (4 days ago)
+- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (6 days ago)
+- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (6 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (6 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 week ago)
+- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (1 week ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 
 ---
 
@@ -61,8 +61,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.0.1](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.0.1), 3 days ago) - 🌯 PHPStan rules wrapper
-- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) ([2.0.0](https://github.com/reactphp-parallel/contracts/releases/tag/2.0.0), 6 days ago) - 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.0.1](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.0.1), 4 days ago) - 🌯 PHPStan rules wrapper
+- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) ([2.0.0](https://github.com/reactphp-parallel/contracts/releases/tag/2.0.0), 1 week ago) - 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.9](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.9), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3), 2 weeks ago) - PHP runtime &amp; extensions header files for PhpStorm
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r56](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r56), 2 weeks ago) - 
@@ -79,27 +79,27 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
-- [No CI runs directly on windows if PCNTL is a required extension](https://github.com/WyriHaximus/github-workflows/pull/56) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [Enforce DTOs for messaging](https://github.com/MammatusPHP/queue/pull/7) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
-- [Commit generated code](https://github.com/WyriHaximus/php-broadcast/pull/289) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
-- [Commit generated code](https://github.com/MammatusPHP/cron/pull/86) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
-- [Back to fiber basics](https://github.com/MammatusPHP/cron/pull/85) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
-- [Enforce DTOs for messaging](https://github.com/MammatusPHP/queue-contracts/pull/5) on [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (today)
-- [Turn into PHPStan extension](https://github.com/reactphp-parallel/stubs/pull/5) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (3 days ago)
-- [Add functions stub](https://github.com/reactphp-parallel/stubs/pull/4) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (3 days ago)
-- [Fix badges](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/151) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-2fbd62855475472c85084c56b4a4c6c5 from 1.1.4-0a21287c3d06b0da0958bbe0996dae3e](https://github.com/php-api-clients/github-root/pull/1427) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
-- [[GitHub] Update to 1.1.4-c1e4d4617fb30b28dd9ff95dbcd32f2e from 1.1.4-ffc57be6cdf0e66d7c933d6f52367abe](https://github.com/php-api-clients/github-root/pull/1426) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
-- [[2.x] Replace observables with iterables](https://github.com/reactphp-parallel/event-loop/pull/59) on [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (5 days ago)
-- [Use stubs from stubs package](https://github.com/reactphp-parallel/runtime/pull/67) on [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (5 days ago)
+- [No CI runs directly on windows if PCNTL is a required extension](https://github.com/WyriHaximus/github-workflows/pull/56) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [Enforce DTOs for messaging](https://github.com/MammatusPHP/queue/pull/7) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
+- [Commit generated code](https://github.com/WyriHaximus/php-broadcast/pull/289) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
+- [Commit generated code](https://github.com/MammatusPHP/cron/pull/86) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 day ago)
+- [Back to fiber basics](https://github.com/MammatusPHP/cron/pull/85) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 day ago)
+- [Enforce DTOs for messaging](https://github.com/MammatusPHP/queue-contracts/pull/5) on [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (1 day ago)
+- [Turn into PHPStan extension](https://github.com/reactphp-parallel/stubs/pull/5) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (4 days ago)
+- [Add functions stub](https://github.com/reactphp-parallel/stubs/pull/4) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (4 days ago)
+- [Fix badges](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/151) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (4 days ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-2fbd62855475472c85084c56b4a4c6c5 from 1.1.4-0a21287c3d06b0da0958bbe0996dae3e](https://github.com/php-api-clients/github-root/pull/1427) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
+- [[GitHub] Update to 1.1.4-c1e4d4617fb30b28dd9ff95dbcd32f2e from 1.1.4-ffc57be6cdf0e66d7c933d6f52367abe](https://github.com/php-api-clients/github-root/pull/1426) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
+- [[2.x] Replace observables with iterables](https://github.com/reactphp-parallel/event-loop/pull/59) on [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (6 days ago)
+- [Use stubs from stubs package](https://github.com/reactphp-parallel/runtime/pull/67) on [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (6 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella:  (4 days ago)
-- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. (5 days ago)
-- [ringPHP/php-picohttpparser](https://github.com/ringPHP/php-picohttpparser) - A PHP port of the fast HTTP parser used in the H2O project. (5 days ago)
+- [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella:  (5 days ago)
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. (6 days ago)
+- [ringPHP/php-picohttpparser](https://github.com/ringPHP/php-picohttpparser) - A PHP port of the fast HTTP parser used in the H2O project. (6 days ago)
 - [mintcreg/pantry_tracker](https://github.com/mintcreg/pantry_tracker) - A Home Assistant add-on to manage and track pantry items, with product categorization, real-time inventory updates, and intuitive controls.. (2 weeks ago)
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! (2 weeks ago)
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping (2 weeks ago)
@@ -115,7 +115,7 @@ All new major package releases will be in PHP 8.2
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [edorian](https://github.com/edorian) (10 months ago)
+- [edorian](https://github.com/edorian) (11 months ago)
 - [codecov](https://github.com/codecov) (1 year ago)
 - [mangkepwing143](https://github.com/mangkepwing143) (2 years ago)
 - [jeromegamez](https://github.com/jeromegamez) (2 years ago)
