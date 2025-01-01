@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [reactphp/child-process](https://github.com/reactphp/child-process) ([v0.6.6](https://github.com/reactphp/child-process/releases/tag/v0.6.6), today) - Event-driven library for executing child processes with ReactPHP.
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.0.1](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.0.1), 4 days ago) - 🌯 PHPStan rules wrapper
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) ([2.0.0](https://github.com/reactphp-parallel/contracts/releases/tag/2.0.0), 1 week ago) - 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.9](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.9), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
@@ -73,7 +74,6 @@ All new major package releases will be in PHP 8.2
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.11.0](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.11.0), 1 month ago) - Forked from https://github.com/k8s-at-home/charts
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) ([v4.0.2](https://github.com/WyriHaximus/github-action-helm3/releases/tag/v4.0.2), 1 month ago) - Slim wrapper around helm3
 - [reactphp/http](https://github.com/reactphp/http) ([v1.11.0](https://github.com/reactphp/http/releases/tag/v1.11.0), 1 month ago) - Event-driven, streaming HTTP client and server implementation for ReactPHP.
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.15.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.15.0), 1 month ago) - PHP Coding Standard
 
 ---
 
