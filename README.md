@@ -11,17 +11,17 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [reactphp/cache](https://github.com/reactphp/cache) (today)
+- [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (today)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (3 days ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (3 days ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (5 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (6 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 week ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 week ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 week ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 week ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 
 ---
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Enforce DTOs for messaging](https://github.com/MammatusPHP/queue-attributes/pull/7) on [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (today)
 - [No CI runs directly on windows if PCNTL is a required extension](https://github.com/WyriHaximus/github-workflows/pull/56) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
 - [Enforce DTOs for messaging](https://github.com/MammatusPHP/queue/pull/7) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
 - [Commit generated code](https://github.com/WyriHaximus/php-broadcast/pull/289) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (3 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-2fbd62855475472c85084c56b4a4c6c5 from 1.1.4-0a21287c3d06b0da0958bbe0996dae3e](https://github.com/php-api-clients/github-root/pull/1427) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHub] Update to 1.1.4-c1e4d4617fb30b28dd9ff95dbcd32f2e from 1.1.4-ffc57be6cdf0e66d7c933d6f52367abe](https://github.com/php-api-clients/github-root/pull/1426) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[2.x] Replace observables with iterables](https://github.com/reactphp-parallel/event-loop/pull/59) on [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 week ago)
-- [Use stubs from stubs package](https://github.com/reactphp-parallel/runtime/pull/67) on [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 week ago)
 
 ---
 
