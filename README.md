@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Add --allow-unreleased to helm Diff for new projects](https://github.com/WyriHaximus/github-workflows/pull/57) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [General Fixes](https://github.com/MammatusPHP/queue/pull/8) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
 - [Enforce DTOs for messaging](https://github.com/MammatusPHP/queue-attributes/pull/7) on [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 day ago)
 - [No CI runs directly on windows if PCNTL is a required extension](https://github.com/WyriHaximus/github-workflows/pull/56) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Add functions stub](https://github.com/reactphp-parallel/stubs/pull/4) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (1 week ago)
 - [Fix badges](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/151) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-2fbd62855475472c85084c56b4a4c6c5 from 1.1.4-0a21287c3d06b0da0958bbe0996dae3e](https://github.com/php-api-clients/github-root/pull/1427) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [[GitHub] Update to 1.1.4-c1e4d4617fb30b28dd9ff95dbcd32f2e from 1.1.4-ffc57be6cdf0e66d7c933d6f52367abe](https://github.com/php-api-clients/github-root/pull/1426) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
