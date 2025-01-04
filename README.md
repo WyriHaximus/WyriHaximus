@@ -10,9 +10,9 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 day ago)
+- [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (today)
+- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (today)
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 day ago)
 - [reactphp/cache](https://github.com/reactphp/cache) (1 day ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
@@ -20,9 +20,9 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (4 days ago)
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (6 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
-- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 week ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 week ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
+- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 week ago)
 
 ---
 
