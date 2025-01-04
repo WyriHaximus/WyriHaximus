@@ -10,12 +10,12 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [reactphp/cache](https://github.com/reactphp/cache) (1 day ago)
-- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 day ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
-- [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (1 day ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 day ago)
+- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 day ago)
+- [reactphp/cache](https://github.com/reactphp/cache) (1 day ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (4 days ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (4 days ago)
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (6 days ago)
@@ -79,6 +79,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Revert &#34;Mark work as JSON serializable&#34;](https://github.com/MammatusPHP/queue-contracts/pull/7) on [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (today)
+- [Mark work as JSON serializable](https://github.com/MammatusPHP/queue-contracts/pull/6) on [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (today)
 - [Add --allow-unreleased to helm Diff for new projects](https://github.com/WyriHaximus/github-workflows/pull/57) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [General Fixes](https://github.com/MammatusPHP/queue/pull/8) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
 - [Enforce DTOs for messaging](https://github.com/MammatusPHP/queue-attributes/pull/7) on [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 day ago)
@@ -90,13 +92,12 @@ All new major package releases will be in PHP 8.2
 - [Enforce DTOs for messaging](https://github.com/MammatusPHP/queue-contracts/pull/5) on [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (4 days ago)
 - [Turn into PHPStan extension](https://github.com/reactphp-parallel/stubs/pull/5) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (1 week ago)
 - [Add functions stub](https://github.com/reactphp-parallel/stubs/pull/4) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (1 week ago)
-- [Fix badges](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/151) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-2fbd62855475472c85084c56b4a4c6c5 from 1.1.4-0a21287c3d06b0da0958bbe0996dae3e](https://github.com/php-api-clients/github-root/pull/1427) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
 #### ⭐ Recent Stars
 
+- [dnhkng/GlaDOS](https://github.com/dnhkng/GlaDOS) - This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve. (today)
 - [project-akri/akri](https://github.com/project-akri/akri) - A Kubernetes Resource Interface for the Edge (1 day ago)
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility (3 days ago)
 - [lumapps/github-actions-validator](https://github.com/lumapps/github-actions-validator) - Enforce github actions revision to prevent security issues with tag. (3 days ago)
@@ -109,7 +110,6 @@ All new major package releases will be in PHP 8.2
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (3 weeks ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (1 month ago)
 - [snyk/parlay](https://github.com/snyk/parlay) - Enrich SBOMs with data from third party services (1 month ago)
-- [LouisBrunner/diff-action](https://github.com/LouisBrunner/diff-action) - GitHub Action that compares two files, add tolerances, send notifications, etc (1 month ago)
 
 ---
 
