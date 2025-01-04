@@ -10,12 +10,12 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [reactphp/cache](https://github.com/reactphp/cache) (1 day ago)
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 day ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
 - [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (1 day ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 day ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (4 days ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (4 days ago)
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (6 days ago)
@@ -131,11 +131,11 @@ All new major package releases will be in PHP 8.2
 
 #### 👯 Check out some of my recent followers
 
+- [bludnic](https://github.com/bludnic)
 - [devnax](https://github.com/devnax)
 - [ehemon3059](https://github.com/ehemon3059)
 - [mowhn](https://github.com/mowhn)
 - [Turjo884](https://github.com/Turjo884)
-- [nholuongut](https://github.com/nholuongut)
 
 ---
 
