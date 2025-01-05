@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [No need to double tap context close](https://github.com/MammatusPHP/queue/pull/10) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [No await in main fiber](https://github.com/MammatusPHP/queue/pull/9) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [Add Runtime stub](https://github.com/reactphp-parallel/stubs/pull/7) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (1 day ago)
 - [Documentation](https://github.com/reactphp-parallel/stubs/pull/6) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [No CI runs directly on windows if PCNTL is a required extension](https://github.com/WyriHaximus/github-workflows/pull/56) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
 - [Enforce DTOs for messaging](https://github.com/MammatusPHP/queue/pull/7) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (5 days ago)
 - [Commit generated code](https://github.com/WyriHaximus/php-broadcast/pull/289) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (5 days ago)
-- [Commit generated code](https://github.com/MammatusPHP/cron/pull/86) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (5 days ago)
 
 ---
 
