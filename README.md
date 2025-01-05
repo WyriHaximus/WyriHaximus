@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [No await in main fiber](https://github.com/MammatusPHP/queue/pull/9) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [Add Runtime stub](https://github.com/reactphp-parallel/stubs/pull/7) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (1 day ago)
 - [Documentation](https://github.com/reactphp-parallel/stubs/pull/6) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (1 day ago)
 - [[2.x] Switch to stubs package](https://github.com/reactphp-parallel/event-loop/pull/62) on [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Enforce DTOs for messaging](https://github.com/MammatusPHP/queue/pull/7) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (5 days ago)
 - [Commit generated code](https://github.com/WyriHaximus/php-broadcast/pull/289) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (5 days ago)
 - [Commit generated code](https://github.com/MammatusPHP/cron/pull/86) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (5 days ago)
-- [Back to fiber basics](https://github.com/MammatusPHP/cron/pull/85) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (5 days ago)
 
 ---
 
