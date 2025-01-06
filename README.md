@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([redis-1.0.3](https://github.com/groundhog2k/helm-charts/releases/tag/redis-1.0.3), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) ([1.1.0](https://github.com/reactphp-parallel/stubs/releases/tag/1.1.0), 2 days ago) - Stubs (for PHPstan)
 - [reactphp/child-process](https://github.com/reactphp/child-process) ([v0.6.6](https://github.com/reactphp/child-process/releases/tag/v0.6.6), 5 days ago) - Event-driven library for executing child processes with ReactPHP.
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.0.1](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.0.1), 1 week ago) - 🌯 PHPStan rules wrapper
@@ -68,7 +69,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.9](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.9), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3), 2 weeks ago) - PHP runtime &amp; extensions header files for PhpStorm
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r56](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r56), 3 weeks ago) - 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([gitea-0.11.6](https://github.com/groundhog2k/helm-charts/releases/tag/gitea-0.11.6), 3 weeks ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [bakame-php/http-structured-fields](https://github.com/bakame-php/http-structured-fields) ([2.0.0](https://github.com/bakame-php/http-structured-fields/releases/tag/2.0.0), 3 weeks ago) - Structured Field Values for HTTP manipulation in PHP
 - [WyriHaximus/reactphp-child-process-messenger](https://github.com/WyriHaximus/reactphp-child-process-messenger) ([4.0.4](https://github.com/WyriHaximus/reactphp-child-process-messenger/releases/tag/4.0.4), 1 month ago) - 
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.31](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.31), 1 month ago) - 
