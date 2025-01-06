@@ -11,10 +11,10 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (2 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (2 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (2 days ago)
 - [reactphp/cache](https://github.com/reactphp/cache) (3 days ago)
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (3 days ago)
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Fix Poser badge images](https://github.com/WyriHaximus/php-broadcast/pull/291) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
 - [No need to double tap context close](https://github.com/MammatusPHP/queue/pull/10) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
 - [No await in main fiber](https://github.com/MammatusPHP/queue/pull/9) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
 - [Add Runtime stub](https://github.com/reactphp-parallel/stubs/pull/7) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (2 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Enforce DTOs for messaging](https://github.com/MammatusPHP/queue-attributes/pull/7) on [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (3 days ago)
 - [No CI runs directly on windows if PCNTL is a required extension](https://github.com/WyriHaximus/github-workflows/pull/56) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
 - [Enforce DTOs for messaging](https://github.com/MammatusPHP/queue/pull/7) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (6 days ago)
-- [Commit generated code](https://github.com/WyriHaximus/php-broadcast/pull/289) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (6 days ago)
 
 ---
 
