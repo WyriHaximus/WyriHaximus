@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.15] Update to 1.1.4-19b385e40922afa73fdfab311c757a77 from 1.1.4-f49df43e53599bd6cc78c90ef4e8511d](https://github.com/php-api-clients/github-root/pull/1430) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-c10ed80a47d40b416972a24869108d6e from 1.1.4-bd6820e03c74d20458b48da696efedec](https://github.com/php-api-clients/github-root/pull/1429) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-9d192b343647623dd34826e26c46a914 from 1.1.4-bb7bf23ece23a331cf9ec11f8b281329](https://github.com/php-api-clients/github-root/pull/1428) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Fix Poser badge images](https://github.com/WyriHaximus/php-broadcast/pull/291) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Mark work as JSON serializable](https://github.com/MammatusPHP/queue-contracts/pull/6) on [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (3 days ago)
 - [Add --allow-unreleased to helm Diff for new projects](https://github.com/WyriHaximus/github-workflows/pull/57) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
 - [General Fixes](https://github.com/MammatusPHP/queue/pull/8) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
-- [Enforce DTOs for messaging](https://github.com/MammatusPHP/queue-attributes/pull/7) on [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (4 days ago)
 
 ---
 
