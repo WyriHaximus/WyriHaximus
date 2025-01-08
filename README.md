@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-9e7ab390ae84353f100b5db1dbcb3339 from 1.1.4-96301d732a1a9fa2ec272adc08c795bd](https://github.com/php-api-clients/github-root/pull/1437) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-8a2dc25e1302b824ed48fe860969ca91 from 1.1.4-d543c2cfa43a2dcdc9526a6061319dd0](https://github.com/php-api-clients/github-root/pull/1436) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Add ergebnis/phpstan-rules again](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/153) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-0bd7f782eea440db3ac9e73f9be16daf from 1.1.4-19b385e40922afa73fdfab311c757a77](https://github.com/php-api-clients/github-root/pull/1435) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.13] Update to 1.1.4-9d192b343647623dd34826e26c46a914 from 1.1.4-bb7bf23ece23a331cf9ec11f8b281329](https://github.com/php-api-clients/github-root/pull/1428) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [Fix Poser badge images](https://github.com/WyriHaximus/php-broadcast/pull/291) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
 - [No need to double tap context close](https://github.com/MammatusPHP/queue/pull/10) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
-- [No await in main fiber](https://github.com/MammatusPHP/queue/pull/9) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
 
 ---
 
