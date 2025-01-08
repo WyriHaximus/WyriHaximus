@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (2 days ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
-- [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (4 days ago)
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (4 days ago)
+- [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (4 days ago)
 - [reactphp/cache](https://github.com/reactphp/cache) (5 days ago)
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (5 days ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 week ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 week ago)
 
 ---
@@ -61,10 +61,10 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.1.0), today) - 🌯 PHPStan rules wrapper
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([redis-1.0.3](https://github.com/groundhog2k/helm-charts/releases/tag/redis-1.0.3), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) ([1.1.0](https://github.com/reactphp-parallel/stubs/releases/tag/1.1.0), 4 days ago) - Stubs (for PHPstan)
 - [reactphp/child-process](https://github.com/reactphp/child-process) ([v0.6.6](https://github.com/reactphp/child-process/releases/tag/v0.6.6), 1 week ago) - Event-driven library for executing child processes with ReactPHP.
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.0.1](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.0.1), 1 week ago) - 🌯 PHPStan rules wrapper
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) ([2.0.0](https://github.com/reactphp-parallel/contracts/releases/tag/2.0.0), 2 weeks ago) - 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.9](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.9), 3 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3), 3 weeks ago) - PHP runtime &amp; extensions header files for PhpStorm
@@ -79,6 +79,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-8a2dc25e1302b824ed48fe860969ca91 from 1.1.4-d543c2cfa43a2dcdc9526a6061319dd0](https://github.com/php-api-clients/github-root/pull/1436) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [Add ergebnis/phpstan-rules again](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/153) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-0bd7f782eea440db3ac9e73f9be16daf from 1.1.4-19b385e40922afa73fdfab311c757a77](https://github.com/php-api-clients/github-root/pull/1435) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-109a5e9522a69e9785bd51d75ef29949 from 1.1.4-c10ed80a47d40b416972a24869108d6e](https://github.com/php-api-clients/github-root/pull/1434) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-df8d2275089e5998c1eae139bcf661ce from 1.1.4-9d192b343647623dd34826e26c46a914](https://github.com/php-api-clients/github-root/pull/1433) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -90,8 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Fix Poser badge images](https://github.com/WyriHaximus/php-broadcast/pull/291) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
 - [No need to double tap context close](https://github.com/MammatusPHP/queue/pull/10) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
 - [No await in main fiber](https://github.com/MammatusPHP/queue/pull/9) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
-- [Add Runtime stub](https://github.com/reactphp-parallel/stubs/pull/7) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (4 days ago)
-- [Documentation](https://github.com/reactphp-parallel/stubs/pull/6) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (4 days ago)
 
 ---
 
