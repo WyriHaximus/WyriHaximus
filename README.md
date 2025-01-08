@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.13] Update to 1.1.4-df8d2275089e5998c1eae139bcf661ce from 1.1.4-9d192b343647623dd34826e26c46a914](https://github.com/php-api-clients/github-root/pull/1433) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-96301d732a1a9fa2ec272adc08c795bd from 1.1.4-2fbd62855475472c85084c56b4a4c6c5](https://github.com/php-api-clients/github-root/pull/1432) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-d543c2cfa43a2dcdc9526a6061319dd0 from 1.1.4-c1e4d4617fb30b28dd9ff95dbcd32f2e](https://github.com/php-api-clients/github-root/pull/1431) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-19b385e40922afa73fdfab311c757a77 from 1.1.4-f49df43e53599bd6cc78c90ef4e8511d](https://github.com/php-api-clients/github-root/pull/1430) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Documentation](https://github.com/reactphp-parallel/stubs/pull/6) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (4 days ago)
 - [[2.x] Switch to stubs package](https://github.com/reactphp-parallel/event-loop/pull/62) on [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (4 days ago)
 - [Revert &#34;Mark work as JSON serializable&#34;](https://github.com/MammatusPHP/queue-contracts/pull/7) on [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (4 days ago)
-- [Mark work as JSON serializable](https://github.com/MammatusPHP/queue-contracts/pull/6) on [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (4 days ago)
 
 ---
 
@@ -131,11 +131,11 @@ All new major package releases will be in PHP 8.2
 
 #### 👯 Check out some of my recent followers
 
+- [fabrazzak](https://github.com/fabrazzak)
 - [bludnic](https://github.com/bludnic)
 - [devnax](https://github.com/devnax)
 - [ehemon3059](https://github.com/ehemon3059)
 - [Turjo884](https://github.com/Turjo884)
-- [nholuongut](https://github.com/nholuongut)
 
 ---
 
