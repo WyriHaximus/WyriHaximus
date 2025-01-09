@@ -61,8 +61,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([graylog-0.9.5](https://github.com/groundhog2k/helm-charts/releases/tag/graylog-0.9.5), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.1.0), 1 day ago) - 🌯 PHPStan rules wrapper
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([redis-1.0.3](https://github.com/groundhog2k/helm-charts/releases/tag/redis-1.0.3), 3 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) ([1.1.0](https://github.com/reactphp-parallel/stubs/releases/tag/1.1.0), 5 days ago) - Stubs (for PHPstan)
 - [reactphp/child-process](https://github.com/reactphp/child-process) ([v0.6.6](https://github.com/reactphp/child-process/releases/tag/v0.6.6), 1 week ago) - Event-driven library for executing child processes with ReactPHP.
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) ([2.0.0](https://github.com/reactphp-parallel/contracts/releases/tag/2.0.0), 2 weeks ago) - 
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Add multi argument support to run stub](https://github.com/reactphp-parallel/stubs/pull/8) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-9e7ab390ae84353f100b5db1dbcb3339 from 1.1.4-96301d732a1a9fa2ec272adc08c795bd](https://github.com/php-api-clients/github-root/pull/1437) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-8a2dc25e1302b824ed48fe860969ca91 from 1.1.4-d543c2cfa43a2dcdc9526a6061319dd0](https://github.com/php-api-clients/github-root/pull/1436) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [Add ergebnis/phpstan-rules again](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/153) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.14] Update to 1.1.4-c10ed80a47d40b416972a24869108d6e from 1.1.4-bd6820e03c74d20458b48da696efedec](https://github.com/php-api-clients/github-root/pull/1429) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-9d192b343647623dd34826e26c46a914 from 1.1.4-bb7bf23ece23a331cf9ec11f8b281329](https://github.com/php-api-clients/github-root/pull/1428) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [Fix Poser badge images](https://github.com/WyriHaximus/php-broadcast/pull/291) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (3 days ago)
-- [No need to double tap context close](https://github.com/MammatusPHP/queue/pull/10) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
 
 ---
 
