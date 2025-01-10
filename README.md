@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.15] Update to 1.1.4-de31bad8d7652bbd8cfe52f62d4572c6 from 1.1.4-0bd7f782eea440db3ac9e73f9be16daf](https://github.com/php-api-clients/github-root/pull/1440) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-367f32bf494235e374bb29152728db12 from 1.1.4-109a5e9522a69e9785bd51d75ef29949](https://github.com/php-api-clients/github-root/pull/1439) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-497f4757745d55b121a2ab0c966f454f from 1.1.4-df8d2275089e5998c1eae139bcf661ce](https://github.com/php-api-clients/github-root/pull/1438) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[3.x] Add template types](https://github.com/reactphp-parallel/infinite-pool/pull/60) on [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (today)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Add ergebnis/phpstan-rules again](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/153) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-0bd7f782eea440db3ac9e73f9be16daf from 1.1.4-19b385e40922afa73fdfab311c757a77](https://github.com/php-api-clients/github-root/pull/1435) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-109a5e9522a69e9785bd51d75ef29949 from 1.1.4-c10ed80a47d40b416972a24869108d6e](https://github.com/php-api-clients/github-root/pull/1434) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [[GitHubEnterprise-3.13] Update to 1.1.4-df8d2275089e5998c1eae139bcf661ce from 1.1.4-9d192b343647623dd34826e26c46a914](https://github.com/php-api-clients/github-root/pull/1433) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 
 ---
 
