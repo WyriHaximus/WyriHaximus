@@ -14,11 +14,11 @@ All new major package releases will be in PHP 8.2
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (1 day ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (4 days ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (4 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (4 days ago)
 - [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (6 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
 - [reactphp/cache](https://github.com/reactphp/cache) (1 week ago)
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 week ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 week ago)
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-79449ce7df3e3a8b4c97032f07cbaae3 from 1.1.4-9e7ab390ae84353f100b5db1dbcb3339](https://github.com/php-api-clients/github-root/pull/1442) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-4298b69a1afaf61496dd8894c7a47c3a from 1.1.4-8a2dc25e1302b824ed48fe860969ca91](https://github.com/php-api-clients/github-root/pull/1441) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-de31bad8d7652bbd8cfe52f62d4572c6 from 1.1.4-0bd7f782eea440db3ac9e73f9be16daf](https://github.com/php-api-clients/github-root/pull/1440) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-367f32bf494235e374bb29152728db12 from 1.1.4-109a5e9522a69e9785bd51d75ef29949](https://github.com/php-api-clients/github-root/pull/1439) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-9e7ab390ae84353f100b5db1dbcb3339 from 1.1.4-96301d732a1a9fa2ec272adc08c795bd](https://github.com/php-api-clients/github-root/pull/1437) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHub] Update to 1.1.4-8a2dc25e1302b824ed48fe860969ca91 from 1.1.4-d543c2cfa43a2dcdc9526a6061319dd0](https://github.com/php-api-clients/github-root/pull/1436) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [Add ergebnis/phpstan-rules again](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/153) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
-- [[GitHubEnterprise-3.15] Update to 1.1.4-0bd7f782eea440db3ac9e73f9be16daf from 1.1.4-19b385e40922afa73fdfab311c757a77](https://github.com/php-api-clients/github-root/pull/1435) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 
 ---
 
