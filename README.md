@@ -61,8 +61,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([gitea-0.12.1](https://github.com/groundhog2k/helm-charts/releases/tag/gitea-0.12.1), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) ([1.2.0](https://github.com/reactphp-parallel/stubs/releases/tag/1.2.0), 2 days ago) - Stubs (for PHPstan)
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([graylog-0.9.5](https://github.com/groundhog2k/helm-charts/releases/tag/graylog-0.9.5), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.1.0), 3 days ago) - 🌯 PHPStan rules wrapper
 - [reactphp/child-process](https://github.com/reactphp/child-process) ([v0.6.6](https://github.com/reactphp/child-process/releases/tag/v0.6.6), 1 week ago) - Event-driven library for executing child processes with ReactPHP.
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) ([2.0.0](https://github.com/reactphp-parallel/contracts/releases/tag/2.0.0), 2 weeks ago) - 
