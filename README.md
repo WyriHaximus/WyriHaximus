@@ -11,13 +11,13 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (4 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (5 days ago)
+- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 week ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 week ago)
-- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 week ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (1 week ago)
 - [reactphp/cache](https://github.com/reactphp/cache) (1 week ago)
@@ -79,6 +79,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Use plaintext for connectivity test](https://github.com/TechEmpower/FrameworkBenchmarks/pull/9528) on [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) (today)
+- [[ReactPHP] Show any errors while handling requests](https://github.com/TechEmpower/FrameworkBenchmarks/pull/9527) on [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) (today)
 - [Pass labels from image to manifest](https://github.com/WyriHaximusNet/docker-php/pull/259) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Drop --no-cache flag](https://github.com/WyriHaximusNet/docker-php/pull/258) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Expand image labels](https://github.com/WyriHaximusNet/docker-php/pull/257) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
@@ -90,8 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[3.x] Add template types](https://github.com/reactphp-parallel/infinite-pool/pull/60) on [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (3 days ago)
 - [[2.x] Ensure void return type translates to null](https://github.com/reactphp-parallel/event-loop/pull/63) on [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (3 days ago)
 - [[2.x] Ensure void return type translates to null](https://github.com/reactphp-parallel/contracts/pull/15) on [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (3 days ago)
-- [Add multi argument support to Runtime stub](https://github.com/reactphp-parallel/stubs/pull/9) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (4 days ago)
-- [Add multi argument support to run stub](https://github.com/reactphp-parallel/stubs/pull/8) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (4 days ago)
 
 ---
 
