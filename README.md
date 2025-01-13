@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Pass labels from image to manifest](https://github.com/WyriHaximusNet/docker-php/pull/259) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Drop --no-cache flag](https://github.com/WyriHaximusNet/docker-php/pull/258) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Expand image labels](https://github.com/WyriHaximusNet/docker-php/pull/257) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-79449ce7df3e3a8b4c97032f07cbaae3 from 1.1.4-9e7ab390ae84353f100b5db1dbcb3339](https://github.com/php-api-clients/github-root/pull/1442) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[2.x] Ensure void return type translates to null](https://github.com/reactphp-parallel/contracts/pull/15) on [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (3 days ago)
 - [Add multi argument support to Runtime stub](https://github.com/reactphp-parallel/stubs/pull/9) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (4 days ago)
 - [Add multi argument support to run stub](https://github.com/reactphp-parallel/stubs/pull/8) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (4 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-9e7ab390ae84353f100b5db1dbcb3339 from 1.1.4-96301d732a1a9fa2ec272adc08c795bd](https://github.com/php-api-clients/github-root/pull/1437) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 
 ---
 
