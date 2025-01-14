@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-40e0c75c69db478191660393ee65bbd6 from 1.1.4-79449ce7df3e3a8b4c97032f07cbaae3](https://github.com/php-api-clients/github-root/pull/1445) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-529209138ca3f128f373739100dbd53c from 1.1.4-4298b69a1afaf61496dd8894c7a47c3a](https://github.com/php-api-clients/github-root/pull/1444) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Stop building Debian images](https://github.com/WyriHaximusNet/docker-php/pull/260) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Use plaintext for connectivity test](https://github.com/TechEmpower/FrameworkBenchmarks/pull/9528) on [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.15] Update to 1.1.4-de31bad8d7652bbd8cfe52f62d4572c6 from 1.1.4-0bd7f782eea440db3ac9e73f9be16daf](https://github.com/php-api-clients/github-root/pull/1440) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-367f32bf494235e374bb29152728db12 from 1.1.4-109a5e9522a69e9785bd51d75ef29949](https://github.com/php-api-clients/github-root/pull/1439) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-497f4757745d55b121a2ab0c966f454f from 1.1.4-df8d2275089e5998c1eae139bcf661ce](https://github.com/php-api-clients/github-root/pull/1438) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[3.x] Add template types](https://github.com/reactphp-parallel/infinite-pool/pull/60) on [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (4 days ago)
 
 ---
 
