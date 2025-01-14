@@ -10,9 +10,10 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (today)
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (5 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (6 days ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
@@ -22,7 +23,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 week ago)
 - [reactphp/cache](https://github.com/reactphp/cache) (1 week ago)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 weeks ago)
 
 ---
 
@@ -79,6 +79,9 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[ReactPHP] Disable database related tests until MySQL auth is fixed](https://github.com/TechEmpower/FrameworkBenchmarks/pull/9534) on [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) (today)
+- [[ReactPHP] Add WyriHaximus as maintainer](https://github.com/TechEmpower/FrameworkBenchmarks/pull/9533) on [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) (today)
+- [[GitHubAE] Update to 1.1.4-be889f4ae6e8593844d922a840dd93b1 from 1.1.4-be889f4ae6e8593844d922a840dd93b1](https://github.com/php-api-clients/github-root/pull/1446) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-40e0c75c69db478191660393ee65bbd6 from 1.1.4-79449ce7df3e3a8b4c97032f07cbaae3](https://github.com/php-api-clients/github-root/pull/1445) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-529209138ca3f128f373739100dbd53c from 1.1.4-4298b69a1afaf61496dd8894c7a47c3a](https://github.com/php-api-clients/github-root/pull/1444) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Stop building Debian images](https://github.com/WyriHaximusNet/docker-php/pull/260) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
@@ -89,9 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Expand image labels](https://github.com/WyriHaximusNet/docker-php/pull/257) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-79449ce7df3e3a8b4c97032f07cbaae3 from 1.1.4-9e7ab390ae84353f100b5db1dbcb3339](https://github.com/php-api-clients/github-root/pull/1442) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHub] Update to 1.1.4-4298b69a1afaf61496dd8894c7a47c3a from 1.1.4-8a2dc25e1302b824ed48fe860969ca91](https://github.com/php-api-clients/github-root/pull/1441) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[GitHubEnterprise-3.15] Update to 1.1.4-de31bad8d7652bbd8cfe52f62d4572c6 from 1.1.4-0bd7f782eea440db3ac9e73f9be16daf](https://github.com/php-api-clients/github-root/pull/1440) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[GitHubEnterprise-3.14] Update to 1.1.4-367f32bf494235e374bb29152728db12 from 1.1.4-109a5e9522a69e9785bd51d75ef29949](https://github.com/php-api-clients/github-root/pull/1439) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[GitHubEnterprise-3.13] Update to 1.1.4-497f4757745d55b121a2ab0c966f454f from 1.1.4-df8d2275089e5998c1eae139bcf661ce](https://github.com/php-api-clients/github-root/pull/1438) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 
 ---
 
