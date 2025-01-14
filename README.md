@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Stop building Debian images](https://github.com/WyriHaximusNet/docker-php/pull/260) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Use plaintext for connectivity test](https://github.com/TechEmpower/FrameworkBenchmarks/pull/9528) on [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) (1 day ago)
 - [[ReactPHP] Show any errors while handling requests](https://github.com/TechEmpower/FrameworkBenchmarks/pull/9527) on [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) (1 day ago)
 - [Pass labels from image to manifest](https://github.com/WyriHaximusNet/docker-php/pull/259) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.13] Update to 1.1.4-497f4757745d55b121a2ab0c966f454f from 1.1.4-df8d2275089e5998c1eae139bcf661ce](https://github.com/php-api-clients/github-root/pull/1438) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[3.x] Add template types](https://github.com/reactphp-parallel/infinite-pool/pull/60) on [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (4 days ago)
 - [[2.x] Ensure void return type translates to null](https://github.com/reactphp-parallel/event-loop/pull/63) on [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (4 days ago)
-- [[2.x] Ensure void return type translates to null](https://github.com/reactphp-parallel/contracts/pull/15) on [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (4 days ago)
 
 ---
 
