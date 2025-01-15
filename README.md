@@ -11,10 +11,10 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (1 day ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (6 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 week ago)
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.0] Update to 1.1.4-3e0a7810d254da4d26f0002e587eb763 from 1.1.4-3e0a7810d254da4d26f0002e587eb763](https://github.com/php-api-clients/github-root/pull/1447) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[New Version] Update versions file to PHP 8.4.3](https://github.com/WyriHaximus/php-fake-php-version/pull/138) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [[ReactPHP] Disable database related tests until MySQL auth is fixed](https://github.com/TechEmpower/FrameworkBenchmarks/pull/9534) on [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) (1 day ago)
 - [[ReactPHP] Add WyriHaximus as maintainer](https://github.com/TechEmpower/FrameworkBenchmarks/pull/9533) on [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Pass labels from image to manifest](https://github.com/WyriHaximusNet/docker-php/pull/259) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 - [Drop --no-cache flag](https://github.com/WyriHaximusNet/docker-php/pull/258) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 - [Expand image labels](https://github.com/WyriHaximusNet/docker-php/pull/257) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-79449ce7df3e3a8b4c97032f07cbaae3 from 1.1.4-9e7ab390ae84353f100b5db1dbcb3339](https://github.com/php-api-clients/github-root/pull/1442) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 
 ---
 
