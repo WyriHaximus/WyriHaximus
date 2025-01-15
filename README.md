@@ -10,15 +10,15 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
-- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (1 day ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
+- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (1 day ago)
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (6 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 week ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 week ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (1 week ago)
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[ReactPHP] Handle uncaught errors by sending their error message as response back](https://github.com/TechEmpower/FrameworkBenchmarks/pull/9538) on [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) (today)
 - [[GitHubEnterprise-3.7] Update to 1.1.4-71bbe883e48c685b3b1ee41db4eee800 from 1.1.4-71bbe883e48c685b3b1ee41db4eee800](https://github.com/php-api-clients/github-root/pull/1457) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.6] Update to 1.1.4-34d12e9c9f557d2d2977464d5cd49398 from 1.1.4-34d12e9c9f557d2d2977464d5cd49398](https://github.com/php-api-clients/github-root/pull/1456) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.5] Update to 1.1.4-a21d39699884865a10804a02a66c5b60 from 1.1.4-a21d39699884865a10804a02a66c5b60](https://github.com/php-api-clients/github-root/pull/1455) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.13] Update to 1.1.4-137676a6235fb7b69c005e84a24e1466 from 1.1.4-497f4757745d55b121a2ab0c966f454f](https://github.com/php-api-clients/github-root/pull/1449) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Introduce Run tooling](https://github.com/MammatusPHP/app/pull/24) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
 - [Introduce Producer](https://github.com/MammatusPHP/queue/pull/11) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
-- [[GitHubEnterprise-3.1] Update to 1.1.4-defb420907f5c36a22e1584342e0e531 from 1.1.4-defb420907f5c36a22e1584342e0e531](https://github.com/php-api-clients/github-root/pull/1448) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 
 ---
 
