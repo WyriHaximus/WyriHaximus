@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.2] Update to 1.1.4-cc0f6d8c98886b66f1e16372f632e7d8 from 1.1.4-cc0f6d8c98886b66f1e16372f632e7d8](https://github.com/php-api-clients/github-root/pull/1452) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-2a1d0ccfe930b8ed692c2e9d0749415f from 1.1.4-de31bad8d7652bbd8cfe52f62d4572c6](https://github.com/php-api-clients/github-root/pull/1451) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-9e7e4db41342903bf3c77344139c3a4e from 1.1.4-367f32bf494235e374bb29152728db12](https://github.com/php-api-clients/github-root/pull/1450) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-137676a6235fb7b69c005e84a24e1466 from 1.1.4-497f4757745d55b121a2ab0c966f454f](https://github.com/php-api-clients/github-root/pull/1449) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[ReactPHP] Add WyriHaximus as maintainer](https://github.com/TechEmpower/FrameworkBenchmarks/pull/9533) on [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) (1 day ago)
 - [[GitHubAE] Update to 1.1.4-be889f4ae6e8593844d922a840dd93b1 from 1.1.4-be889f4ae6e8593844d922a840dd93b1](https://github.com/php-api-clients/github-root/pull/1446) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-40e0c75c69db478191660393ee65bbd6 from 1.1.4-79449ce7df3e3a8b4c97032f07cbaae3](https://github.com/php-api-clients/github-root/pull/1445) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[GitHub] Update to 1.1.4-529209138ca3f128f373739100dbd53c from 1.1.4-4298b69a1afaf61496dd8894c7a47c3a](https://github.com/php-api-clients/github-root/pull/1444) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 
 ---
 
