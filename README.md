@@ -10,12 +10,12 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
-- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (1 day ago)
-- [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (6 days ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
+- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (2 days ago)
+- [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (1 week ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 week ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
@@ -61,13 +61,13 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.10](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.10), today) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([gitea-0.12.1](https://github.com/groundhog2k/helm-charts/releases/tag/gitea-0.12.1), 4 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
-- [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) ([1.2.0](https://github.com/reactphp-parallel/stubs/releases/tag/1.2.0), 6 days ago) - Stubs (for PHPstan)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.10](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.10), 1 day ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([gitea-0.12.1](https://github.com/groundhog2k/helm-charts/releases/tag/gitea-0.12.1), 5 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) ([1.2.0](https://github.com/reactphp-parallel/stubs/releases/tag/1.2.0), 1 week ago) - Stubs (for PHPstan)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.1.0), 1 week ago) - 🌯 PHPStan rules wrapper
 - [reactphp/child-process](https://github.com/reactphp/child-process) ([v0.6.6](https://github.com/reactphp/child-process/releases/tag/v0.6.6), 2 weeks ago) - Event-driven library for executing child processes with ReactPHP.
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) ([2.0.0](https://github.com/reactphp-parallel/contracts/releases/tag/2.0.0), 3 weeks ago) - 
-- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3), 4 weeks ago) - PHP runtime &amp; extensions header files for PhpStorm
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3), 1 month ago) - PHP runtime &amp; extensions header files for PhpStorm
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r56](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r56), 1 month ago) - 
 - [bakame-php/http-structured-fields](https://github.com/bakame-php/http-structured-fields) ([2.0.0](https://github.com/bakame-php/http-structured-fields/releases/tag/2.0.0), 1 month ago) - Structured Field Values for HTTP manipulation in PHP
 - [WyriHaximus/reactphp-child-process-messenger](https://github.com/WyriHaximus/reactphp-child-process-messenger) ([4.0.4](https://github.com/WyriHaximus/reactphp-child-process-messenger/releases/tag/4.0.4), 1 month ago) - 
@@ -79,19 +79,19 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
-- [[ReactPHP] Handle uncaught errors by sending their error message as response back](https://github.com/TechEmpower/FrameworkBenchmarks/pull/9538) on [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) (today)
-- [[GitHubEnterprise-3.7] Update to 1.1.4-71bbe883e48c685b3b1ee41db4eee800 from 1.1.4-71bbe883e48c685b3b1ee41db4eee800](https://github.com/php-api-clients/github-root/pull/1457) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [[GitHubEnterprise-3.6] Update to 1.1.4-34d12e9c9f557d2d2977464d5cd49398 from 1.1.4-34d12e9c9f557d2d2977464d5cd49398](https://github.com/php-api-clients/github-root/pull/1456) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [[GitHubEnterprise-3.5] Update to 1.1.4-a21d39699884865a10804a02a66c5b60 from 1.1.4-a21d39699884865a10804a02a66c5b60](https://github.com/php-api-clients/github-root/pull/1455) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [[GitHubEnterprise-3.4] Update to 1.1.4-8491d07e4903341efa2424ac8af7c5ec from 1.1.4-8491d07e4903341efa2424ac8af7c5ec](https://github.com/php-api-clients/github-root/pull/1454) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [Add maintainer label](https://github.com/WyriHaximusNet/docker-php/pull/261) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
-- [[GitHubEnterprise-3.3] Update to 1.1.4-1e26e0dd1e96061fd9e8934a7a019705 from 1.1.4-1e26e0dd1e96061fd9e8934a7a019705](https://github.com/php-api-clients/github-root/pull/1453) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [[GitHubEnterprise-3.2] Update to 1.1.4-cc0f6d8c98886b66f1e16372f632e7d8 from 1.1.4-cc0f6d8c98886b66f1e16372f632e7d8](https://github.com/php-api-clients/github-root/pull/1452) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [[GitHubEnterprise-3.15] Update to 1.1.4-2a1d0ccfe930b8ed692c2e9d0749415f from 1.1.4-de31bad8d7652bbd8cfe52f62d4572c6](https://github.com/php-api-clients/github-root/pull/1451) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [[GitHubEnterprise-3.14] Update to 1.1.4-9e7e4db41342903bf3c77344139c3a4e from 1.1.4-367f32bf494235e374bb29152728db12](https://github.com/php-api-clients/github-root/pull/1450) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [[GitHubEnterprise-3.13] Update to 1.1.4-137676a6235fb7b69c005e84a24e1466 from 1.1.4-497f4757745d55b121a2ab0c966f454f](https://github.com/php-api-clients/github-root/pull/1449) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [Introduce Run tooling](https://github.com/MammatusPHP/app/pull/24) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
-- [Introduce Producer](https://github.com/MammatusPHP/queue/pull/11) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
+- [[ReactPHP] Handle uncaught errors by sending their error message as response back](https://github.com/TechEmpower/FrameworkBenchmarks/pull/9538) on [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) (1 day ago)
+- [[GitHubEnterprise-3.7] Update to 1.1.4-71bbe883e48c685b3b1ee41db4eee800 from 1.1.4-71bbe883e48c685b3b1ee41db4eee800](https://github.com/php-api-clients/github-root/pull/1457) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [[GitHubEnterprise-3.6] Update to 1.1.4-34d12e9c9f557d2d2977464d5cd49398 from 1.1.4-34d12e9c9f557d2d2977464d5cd49398](https://github.com/php-api-clients/github-root/pull/1456) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [[GitHubEnterprise-3.5] Update to 1.1.4-a21d39699884865a10804a02a66c5b60 from 1.1.4-a21d39699884865a10804a02a66c5b60](https://github.com/php-api-clients/github-root/pull/1455) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [[GitHubEnterprise-3.4] Update to 1.1.4-8491d07e4903341efa2424ac8af7c5ec from 1.1.4-8491d07e4903341efa2424ac8af7c5ec](https://github.com/php-api-clients/github-root/pull/1454) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [Add maintainer label](https://github.com/WyriHaximusNet/docker-php/pull/261) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
+- [[GitHubEnterprise-3.3] Update to 1.1.4-1e26e0dd1e96061fd9e8934a7a019705 from 1.1.4-1e26e0dd1e96061fd9e8934a7a019705](https://github.com/php-api-clients/github-root/pull/1453) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [[GitHubEnterprise-3.2] Update to 1.1.4-cc0f6d8c98886b66f1e16372f632e7d8 from 1.1.4-cc0f6d8c98886b66f1e16372f632e7d8](https://github.com/php-api-clients/github-root/pull/1452) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [[GitHubEnterprise-3.15] Update to 1.1.4-2a1d0ccfe930b8ed692c2e9d0749415f from 1.1.4-de31bad8d7652bbd8cfe52f62d4572c6](https://github.com/php-api-clients/github-root/pull/1451) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [[GitHubEnterprise-3.14] Update to 1.1.4-9e7e4db41342903bf3c77344139c3a4e from 1.1.4-367f32bf494235e374bb29152728db12](https://github.com/php-api-clients/github-root/pull/1450) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [[GitHubEnterprise-3.13] Update to 1.1.4-137676a6235fb7b69c005e84a24e1466 from 1.1.4-497f4757745d55b121a2ab0c966f454f](https://github.com/php-api-clients/github-root/pull/1449) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [Introduce Run tooling](https://github.com/MammatusPHP/app/pull/24) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 day ago)
+- [Introduce Producer](https://github.com/MammatusPHP/queue/pull/11) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
 
 ---
 
@@ -103,9 +103,9 @@ All new major package releases will be in PHP 8.2
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility (2 weeks ago)
 - [lumapps/github-actions-validator](https://github.com/lumapps/github-actions-validator) - Enforce github actions revision to prevent security issues with tag. (2 weeks ago)
 - [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella:  (2 weeks ago)
-- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. (2 weeks ago)
-- [ringPHP/php-picohttpparser](https://github.com/ringPHP/php-picohttpparser) - A PHP port of the fast HTTP parser used in the H2O project. (2 weeks ago)
-- [mintcreg/pantry_tracker](https://github.com/mintcreg/pantry_tracker) - A Home Assistant add-on to manage and track pantry items, with product categorization, real-time inventory updates, and intuitive controls.. (4 weeks ago)
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. (3 weeks ago)
+- [ringPHP/php-picohttpparser](https://github.com/ringPHP/php-picohttpparser) - A PHP port of the fast HTTP parser used in the H2O project. (3 weeks ago)
+- [mintcreg/pantry_tracker](https://github.com/mintcreg/pantry_tracker) - A Home Assistant add-on to manage and track pantry items, with product categorization, real-time inventory updates, and intuitive controls.. (1 month ago)
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! (1 month ago)
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping (1 month ago)
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (1 month ago)
