@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
+- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (today)
 - [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (today)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
-- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (2 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (1 week ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 week ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 week ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 week ago)
 
 ---
 
@@ -79,6 +79,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Add tests](https://github.com/WyriHaximusNet/docker-testinfra/pull/5) on [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (today)
+- [[GitHubAE] Update to 1.1.4-be889f4ae6e8593844d922a840dd93b1 from 1.1.4-be889f4ae6e8593844d922a840dd93b1](https://github.com/php-api-clients/github-root/pull/1464) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-072d2f6c7487ad40fc77b21845ea28e8 from 1.1.4-40e0c75c69db478191660393ee65bbd6](https://github.com/php-api-clients/github-root/pull/1463) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-2fa68ef1401ab1f8ecec407bb7c5d77b from 1.1.4-529209138ca3f128f373739100dbd53c](https://github.com/php-api-clients/github-root/pull/1462) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-65326b80112b8870ab78f284d1043862 from 1.1.4-2a1d0ccfe930b8ed692c2e9d0749415f](https://github.com/php-api-clients/github-root/pull/1460) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -90,8 +92,6 @@ All new major package releases will be in PHP 8.2
 - [arch =&gt; platform in readme example](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/13) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
 - [[ReactPHP] Handle uncaught errors by sending their error message as response back](https://github.com/TechEmpower/FrameworkBenchmarks/pull/9538) on [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) (1 day ago)
 - [[GitHubEnterprise-3.7] Update to 1.1.4-71bbe883e48c685b3b1ee41db4eee800 from 1.1.4-71bbe883e48c685b3b1ee41db4eee800](https://github.com/php-api-clients/github-root/pull/1457) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[GitHubEnterprise-3.6] Update to 1.1.4-34d12e9c9f557d2d2977464d5cd49398 from 1.1.4-34d12e9c9f557d2d2977464d5cd49398](https://github.com/php-api-clients/github-root/pull/1456) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[GitHubEnterprise-3.5] Update to 1.1.4-a21d39699884865a10804a02a66c5b60 from 1.1.4-a21d39699884865a10804a02a66c5b60](https://github.com/php-api-clients/github-root/pull/1455) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 
 ---
 
