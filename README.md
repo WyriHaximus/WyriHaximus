@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.1] Update to 1.1.4-defb420907f5c36a22e1584342e0e531 from 1.1.4-defb420907f5c36a22e1584342e0e531](https://github.com/php-api-clients/github-root/pull/1466) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.0] Update to 1.1.4-3e0a7810d254da4d26f0002e587eb763 from 1.1.4-3e0a7810d254da4d26f0002e587eb763](https://github.com/php-api-clients/github-root/pull/1465) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Add tests](https://github.com/WyriHaximusNet/docker-testinfra/pull/5) on [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (1 day ago)
 - [[GitHubAE] Update to 1.1.4-be889f4ae6e8593844d922a840dd93b1 from 1.1.4-be889f4ae6e8593844d922a840dd93b1](https://github.com/php-api-clients/github-root/pull/1464) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Fix Dockerfile input](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/14) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (1 day ago)
 - [Initial barebones set up](https://github.com/WyriHaximusNet/docker-testinfra/pull/2) on [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (1 day ago)
 - [arch =&gt; platform in readme example](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/13) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (1 day ago)
-- [[ReactPHP] Handle uncaught errors by sending their error message as response back](https://github.com/TechEmpower/FrameworkBenchmarks/pull/9538) on [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) (2 days ago)
 
 ---
 
