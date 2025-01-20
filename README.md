@@ -50,12 +50,12 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) - Makefile building blocks
 - [WyriHaximus/playground-github-action-mixed-js-docker](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker) - Playground to work on shared workflows
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) - 
-- [WyriHaximus/wyrimaps.net-maptile-uploader](https://github.com/WyriHaximus/wyrimaps.net-maptile-uploader) - wyrimaps.net-maptile-uploader
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) - Trait to run all tests in a fiber
 - [WyriHaximus/php-metrics-prometheus-push-gateway](https://github.com/WyriHaximus/php-metrics-prometheus-push-gateway) - Prom Push Gateway package for wyrihaximus/metrics
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) - ReactPHP extension for PHPStan
 - [WyriHaximus/reactphp-throw-unhandled-rejected-promises](https://github.com/WyriHaximus/reactphp-throw-unhandled-rejected-promises) - 
 - [WyriHaximus/promise-any-test](https://github.com/WyriHaximus/promise-any-test) - 
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) - Renovate shared config
 
 ---
 
