@@ -10,6 +10,7 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (5 days ago)
@@ -18,7 +19,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (6 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (6 days ago)
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (1 week ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 weeks ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 weeks ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (2 weeks ago)
@@ -61,10 +61,10 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.2.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.2.0), today) - 🌯 PHPStan rules wrapper
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([nextcloud-0.18.5](https://github.com/groundhog2k/helm-charts/releases/tag/nextcloud-0.18.5), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.10](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.10), 6 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) ([1.2.0](https://github.com/reactphp-parallel/stubs/releases/tag/1.2.0), 1 week ago) - Stubs (for PHPstan)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.1.0), 1 week ago) - 🌯 PHPStan rules wrapper
 - [reactphp/child-process](https://github.com/reactphp/child-process) ([v0.6.6](https://github.com/reactphp/child-process/releases/tag/v0.6.6), 2 weeks ago) - Event-driven library for executing child processes with ReactPHP.
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) ([2.0.0](https://github.com/reactphp-parallel/contracts/releases/tag/2.0.0), 3 weeks ago) - 
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3), 1 month ago) - PHP runtime &amp; extensions header files for PhpStorm
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[3.0] Strip FQDN period from the end of the domain](https://github.com/reactphp/dns/pull/230) on [reactphp/dns](https://github.com/reactphp/dns) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-43923ad35cb20bfc459c3dc3c0c3487f from 1.1.4-13776516632b8263e4016cfcc797d2c2](https://github.com/php-api-clients/github-root/pull/1479) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-b1df7aeeba72bb96f2ca61a7edd34136 from 1.1.4-46eadb305342d3e08e981c8d774b0cb1](https://github.com/php-api-clients/github-root/pull/1478) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [Build all upstream supported platforms](https://github.com/WyriHaximusNet/docker-php/pull/262) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.3] Update to 1.1.4-1e26e0dd1e96061fd9e8934a7a019705 from 1.1.4-1e26e0dd1e96061fd9e8934a7a019705](https://github.com/php-api-clients/github-root/pull/1471) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHubEnterprise-3.2] Update to 1.1.4-cc0f6d8c98886b66f1e16372f632e7d8 from 1.1.4-cc0f6d8c98886b66f1e16372f632e7d8](https://github.com/php-api-clients/github-root/pull/1470) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-304084ef72c17bb8078ef873b8a1f8e0 from 1.1.4-65326b80112b8870ab78f284d1043862](https://github.com/php-api-clients/github-root/pull/1469) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[GitHubEnterprise-3.14] Update to 1.1.4-401e653a83ab83c1b17a4df959fec270 from 1.1.4-92f924d1a2fb4647ad6d28e98d13ef05](https://github.com/php-api-clients/github-root/pull/1468) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 
 ---
 
