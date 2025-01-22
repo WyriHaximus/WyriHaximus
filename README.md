@@ -10,14 +10,14 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
-- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (5 days ago)
-- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (5 days ago)
-- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (5 days ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (6 days ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (6 days ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
+- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (6 days ago)
+- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (6 days ago)
+- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (6 days ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (1 week ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 weeks ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 weeks ago)
@@ -61,12 +61,12 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.2.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.2.0), today) - 🌯 PHPStan rules wrapper
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([nextcloud-0.18.5](https://github.com/groundhog2k/helm-charts/releases/tag/nextcloud-0.18.5), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.10](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.10), 6 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.2.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.2.0), 1 day ago) - 🌯 PHPStan rules wrapper
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([nextcloud-0.18.5](https://github.com/groundhog2k/helm-charts/releases/tag/nextcloud-0.18.5), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.10](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.10), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) ([1.2.0](https://github.com/reactphp-parallel/stubs/releases/tag/1.2.0), 1 week ago) - Stubs (for PHPstan)
-- [reactphp/child-process](https://github.com/reactphp/child-process) ([v0.6.6](https://github.com/reactphp/child-process/releases/tag/v0.6.6), 2 weeks ago) - Event-driven library for executing child processes with ReactPHP.
-- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) ([2.0.0](https://github.com/reactphp-parallel/contracts/releases/tag/2.0.0), 3 weeks ago) - 
+- [reactphp/child-process](https://github.com/reactphp/child-process) ([v0.6.6](https://github.com/reactphp/child-process/releases/tag/v0.6.6), 3 weeks ago) - Event-driven library for executing child processes with ReactPHP.
+- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) ([2.0.0](https://github.com/reactphp-parallel/contracts/releases/tag/2.0.0), 4 weeks ago) - 
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3), 1 month ago) - PHP runtime &amp; extensions header files for PhpStorm
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r56](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r56), 1 month ago) - 
 - [bakame-php/http-structured-fields](https://github.com/bakame-php/http-structured-fields) ([2.0.0](https://github.com/bakame-php/http-structured-fields/releases/tag/2.0.0), 1 month ago) - Structured Field Values for HTTP manipulation in PHP
@@ -79,19 +79,19 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
-- [[GitHubEnterprise-3.15] Update to 1.1.4-64f3614e3a2420f2e1d792c6db1487f6 from 1.1.4-304084ef72c17bb8078ef873b8a1f8e0](https://github.com/php-api-clients/github-root/pull/1482) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [[GitHubEnterprise-3.14] Update to 1.1.4-560f263b37d18da211a6122a0343d80c from 1.1.4-401e653a83ab83c1b17a4df959fec270](https://github.com/php-api-clients/github-root/pull/1481) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [[GitHubEnterprise-3.13] Update to 1.1.4-8985016ac4b27cc23057fb31dee10264 from 1.1.4-446a3cd1fdbd8dda94d848b89bd8f6e2](https://github.com/php-api-clients/github-root/pull/1480) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [[3.0] Strip FQDN period from the end of the domain](https://github.com/reactphp/dns/pull/230) on [reactphp/dns](https://github.com/reactphp/dns) (today)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-43923ad35cb20bfc459c3dc3c0c3487f from 1.1.4-13776516632b8263e4016cfcc797d2c2](https://github.com/php-api-clients/github-root/pull/1479) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[GitHub] Update to 1.1.4-b1df7aeeba72bb96f2ca61a7edd34136 from 1.1.4-46eadb305342d3e08e981c8d774b0cb1](https://github.com/php-api-clients/github-root/pull/1478) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [Build all upstream supported platforms](https://github.com/WyriHaximusNet/docker-php/pull/262) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-13776516632b8263e4016cfcc797d2c2 from 1.1.4-072d2f6c7487ad40fc77b21845ea28e8](https://github.com/php-api-clients/github-root/pull/1477) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[GitHub] Update to 1.1.4-46eadb305342d3e08e981c8d774b0cb1 from 1.1.4-2fa68ef1401ab1f8ecec407bb7c5d77b](https://github.com/php-api-clients/github-root/pull/1476) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[GitHubEnterprise-3.7] Update to 1.1.4-71bbe883e48c685b3b1ee41db4eee800 from 1.1.4-71bbe883e48c685b3b1ee41db4eee800](https://github.com/php-api-clients/github-root/pull/1475) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[GitHubEnterprise-3.6] Update to 1.1.4-34d12e9c9f557d2d2977464d5cd49398 from 1.1.4-34d12e9c9f557d2d2977464d5cd49398](https://github.com/php-api-clients/github-root/pull/1474) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[GitHubEnterprise-3.5] Update to 1.1.4-a21d39699884865a10804a02a66c5b60 from 1.1.4-a21d39699884865a10804a02a66c5b60](https://github.com/php-api-clients/github-root/pull/1473) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[GitHubEnterprise-3.4] Update to 1.1.4-8491d07e4903341efa2424ac8af7c5ec from 1.1.4-8491d07e4903341efa2424ac8af7c5ec](https://github.com/php-api-clients/github-root/pull/1472) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
+- [[GitHubEnterprise-3.15] Update to 1.1.4-64f3614e3a2420f2e1d792c6db1487f6 from 1.1.4-304084ef72c17bb8078ef873b8a1f8e0](https://github.com/php-api-clients/github-root/pull/1482) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [[GitHubEnterprise-3.14] Update to 1.1.4-560f263b37d18da211a6122a0343d80c from 1.1.4-401e653a83ab83c1b17a4df959fec270](https://github.com/php-api-clients/github-root/pull/1481) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [[GitHubEnterprise-3.13] Update to 1.1.4-8985016ac4b27cc23057fb31dee10264 from 1.1.4-446a3cd1fdbd8dda94d848b89bd8f6e2](https://github.com/php-api-clients/github-root/pull/1480) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [[3.0] Strip FQDN period from the end of the domain](https://github.com/reactphp/dns/pull/230) on [reactphp/dns](https://github.com/reactphp/dns) (1 day ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-43923ad35cb20bfc459c3dc3c0c3487f from 1.1.4-13776516632b8263e4016cfcc797d2c2](https://github.com/php-api-clients/github-root/pull/1479) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [[GitHub] Update to 1.1.4-b1df7aeeba72bb96f2ca61a7edd34136 from 1.1.4-46eadb305342d3e08e981c8d774b0cb1](https://github.com/php-api-clients/github-root/pull/1478) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [Build all upstream supported platforms](https://github.com/WyriHaximusNet/docker-php/pull/262) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-13776516632b8263e4016cfcc797d2c2 from 1.1.4-072d2f6c7487ad40fc77b21845ea28e8](https://github.com/php-api-clients/github-root/pull/1477) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
+- [[GitHub] Update to 1.1.4-46eadb305342d3e08e981c8d774b0cb1 from 1.1.4-2fa68ef1401ab1f8ecec407bb7c5d77b](https://github.com/php-api-clients/github-root/pull/1476) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
+- [[GitHubEnterprise-3.7] Update to 1.1.4-71bbe883e48c685b3b1ee41db4eee800 from 1.1.4-71bbe883e48c685b3b1ee41db4eee800](https://github.com/php-api-clients/github-root/pull/1475) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
+- [[GitHubEnterprise-3.6] Update to 1.1.4-34d12e9c9f557d2d2977464d5cd49398 from 1.1.4-34d12e9c9f557d2d2977464d5cd49398](https://github.com/php-api-clients/github-root/pull/1474) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
+- [[GitHubEnterprise-3.5] Update to 1.1.4-a21d39699884865a10804a02a66c5b60 from 1.1.4-a21d39699884865a10804a02a66c5b60](https://github.com/php-api-clients/github-root/pull/1473) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
+- [[GitHubEnterprise-3.4] Update to 1.1.4-8491d07e4903341efa2424ac8af7c5ec from 1.1.4-8491d07e4903341efa2424ac8af7c5ec](https://github.com/php-api-clients/github-root/pull/1472) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 
 ---
 
@@ -100,8 +100,8 @@ All new major package releases will be in PHP 8.2
 - [flix-tech/avro-serde-php](https://github.com/flix-tech/avro-serde-php) - Avro Serialisation/Deserialisation (SerDe) library for PHP 8.1&#43; with a Symfony Serializer integration (2 weeks ago)
 - [dnhkng/GLaDOS](https://github.com/dnhkng/GLaDOS) - This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve. (2 weeks ago)
 - [project-akri/akri](https://github.com/project-akri/akri) - A Kubernetes Resource Interface for the Edge (2 weeks ago)
-- [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility (2 weeks ago)
-- [lumapps/github-actions-validator](https://github.com/lumapps/github-actions-validator) - Enforce github actions revision to prevent security issues with tag. (2 weeks ago)
+- [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility (3 weeks ago)
+- [lumapps/github-actions-validator](https://github.com/lumapps/github-actions-validator) - Enforce github actions revision to prevent security issues with tag. (3 weeks ago)
 - [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella:  (3 weeks ago)
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. (3 weeks ago)
 - [ringPHP/php-picohttpparser](https://github.com/ringPHP/php-picohttpparser) - A PHP port of the fast HTTP parser used in the H2O project. (3 weeks ago)
