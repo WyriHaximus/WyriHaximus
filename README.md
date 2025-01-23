@@ -131,11 +131,11 @@ All new major package releases will be in PHP 8.2
 
 #### 👯 Check out some of my recent followers
 
+- [LGHTNNG](https://github.com/LGHTNNG)
 - [mh396](https://github.com/mh396)
 - [YFonline24](https://github.com/YFonline24)
 - [xxspell](https://github.com/xxspell)
 - [XiaomingX](https://github.com/XiaomingX)
-- [Hacker-Sam-is-here](https://github.com/Hacker-Sam-is-here)
 
 ---
 
