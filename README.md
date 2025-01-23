@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
-- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (1 week ago)
 - [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 week ago)
+- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (1 week ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (1 week ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (2 weeks ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 weeks ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 weeks ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (2 weeks ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 weeks ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 weeks ago)
 - [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (2 weeks ago)
 
 ---
