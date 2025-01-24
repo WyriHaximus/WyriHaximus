@@ -97,6 +97,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go (today)
 - [flix-tech/avro-serde-php](https://github.com/flix-tech/avro-serde-php) - Avro Serialisation/Deserialisation (SerDe) library for PHP 8.1&#43; with a Symfony Serializer integration (2 weeks ago)
 - [dnhkng/GLaDOS](https://github.com/dnhkng/GLaDOS) - This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve. (2 weeks ago)
 - [project-akri/akri](https://github.com/project-akri/akri) - A Kubernetes Resource Interface for the Edge (3 weeks ago)
@@ -109,7 +110,6 @@ All new major package releases will be in PHP 8.2
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! (1 month ago)
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping (1 month ago)
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (1 month ago)
-- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (1 month ago)
 
 ---
 
