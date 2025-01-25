@@ -13,15 +13,15 @@ All new major package releases will be in PHP 8.2
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (4 days ago)
-- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 week ago)
-- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (1 week ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (1 week ago)
+- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (1 week ago)
+- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 week ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (2 weeks ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 weeks ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (2 weeks ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 weeks ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 weeks ago)
 - [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (3 weeks ago)
 
 ---
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.15] Update to 1.1.4-2766a6279db0f2ed943b5c4abdd093c7 from 1.1.4-64f3614e3a2420f2e1d792c6db1487f6](https://github.com/php-api-clients/github-root/pull/1486) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-4d3a9ded7363917824fb2d5fa79ad2ce from 1.1.4-560f263b37d18da211a6122a0343d80c](https://github.com/php-api-clients/github-root/pull/1485) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-71747b16e45e0f2a54b8e1ca561b75d5 from 1.1.4-8985016ac4b27cc23057fb31dee10264](https://github.com/php-api-clients/github-root/pull/1484) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-6e57e5a946cc639968a53e5f4602f4f7 from 1.1.4-43923ad35cb20bfc459c3dc3c0c3487f](https://github.com/php-api-clients/github-root/pull/1483) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Build all upstream supported platforms](https://github.com/WyriHaximusNet/docker-php/pull/262) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-13776516632b8263e4016cfcc797d2c2 from 1.1.4-072d2f6c7487ad40fc77b21845ea28e8](https://github.com/php-api-clients/github-root/pull/1477) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHub] Update to 1.1.4-46eadb305342d3e08e981c8d774b0cb1 from 1.1.4-2fa68ef1401ab1f8ecec407bb7c5d77b](https://github.com/php-api-clients/github-root/pull/1476) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [[GitHubEnterprise-3.7] Update to 1.1.4-71bbe883e48c685b3b1ee41db4eee800 from 1.1.4-71bbe883e48c685b3b1ee41db4eee800](https://github.com/php-api-clients/github-root/pull/1475) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
