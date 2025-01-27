@@ -10,7 +10,7 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (6 days ago)
 - [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 week ago)
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-ba2ca3d90a48285fabb706f923b03b78 from 1.1.4-7fb0426f383ed9712cce3fdba9572d5a](https://github.com/php-api-clients/github-root/pull/1488) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[2.x] Template types](https://github.com/reactphp-parallel/streams/pull/41) on [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (2 days ago)
 - [[GitHub] Update to 1.1.4-7fb0426f383ed9712cce3fdba9572d5a from 1.1.4-b1df7aeeba72bb96f2ca61a7edd34136](https://github.com/php-api-clients/github-root/pull/1487) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-2766a6279db0f2ed943b5c4abdd093c7 from 1.1.4-64f3614e3a2420f2e1d792c6db1487f6](https://github.com/php-api-clients/github-root/pull/1486) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[3.0] Strip FQDN period from the end of the domain](https://github.com/reactphp/dns/pull/230) on [reactphp/dns](https://github.com/reactphp/dns) (6 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-43923ad35cb20bfc459c3dc3c0c3487f from 1.1.4-13776516632b8263e4016cfcc797d2c2](https://github.com/php-api-clients/github-root/pull/1479) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHub] Update to 1.1.4-b1df7aeeba72bb96f2ca61a7edd34136 from 1.1.4-46eadb305342d3e08e981c8d774b0cb1](https://github.com/php-api-clients/github-root/pull/1478) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [Build all upstream supported platforms](https://github.com/WyriHaximusNet/docker-php/pull/262) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 
 ---
 
