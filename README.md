@@ -61,7 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.12.0](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.12.0), 1 day ago) - Forked from https://github.com/k8s-at-home/charts
+- [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.12.1](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.12.1), today) - Forked from https://github.com/k8s-at-home/charts
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.146.1](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.146.1), 6 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.2.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.2.0), 1 week ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.10](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.10), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
