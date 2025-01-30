@@ -97,6 +97,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [TheFes/HA-configuration](https://github.com/TheFes/HA-configuration) - My Home Assistant config (today)
 - [yashmulgaonkar/halo](https://github.com/yashmulgaonkar/halo) -  (6 days ago)
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go (6 days ago)
 - [flix-tech/avro-serde-php](https://github.com/flix-tech/avro-serde-php) - Avro Serialisation/Deserialisation (SerDe) library for PHP 8.1&#43; with a Symfony Serializer integration (3 weeks ago)
@@ -109,7 +110,6 @@ All new major package releases will be in PHP 8.2
 - [ringPHP/php-picohttpparser](https://github.com/ringPHP/php-picohttpparser) - A PHP port of the fast HTTP parser used in the H2O project. (1 month ago)
 - [mintcreg/pantry_tracker](https://github.com/mintcreg/pantry_tracker) - A Home Assistant add-on to manage and track pantry items, with product categorization, real-time inventory updates, and intuitive controls.. (1 month ago)
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! (1 month ago)
-- [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping (1 month ago)
 
 ---
 
