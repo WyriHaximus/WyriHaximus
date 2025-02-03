@@ -12,17 +12,17 @@ All new major package releases will be in PHP 8.2
 
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (2 days ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (2 weeks ago)
-- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (2 weeks ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (2 weeks ago)
+- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (2 weeks ago)
+- [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (2 weeks ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 weeks ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 weeks ago)
+- [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) (2 weeks ago)
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (3 weeks ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (4 weeks ago)
-- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (4 weeks ago)
 
 ---
 
