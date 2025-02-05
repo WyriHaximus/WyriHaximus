@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-f7468d269476e7c0c11c8b67322a69a1 from 1.1.4-5111760c5ff914fc4c83cde28d085440](https://github.com/php-api-clients/github-root/pull/1497) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[2.x] Improve template types](https://github.com/reactphp-parallel/limited-pool/pull/56) on [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (4 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-6310f3f2eedbd73069379065089ad197 from 1.1.4-9d96349c2889ab814e17092fa3c3cd46](https://github.com/php-api-clients/github-root/pull/1496) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [[GitHub] Update to 1.1.4-5111760c5ff914fc4c83cde28d085440 from 1.1.4-7147a5168a72455e5f4fcbbf004aee1b](https://github.com/php-api-clients/github-root/pull/1495) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-a6db3e8c17ce7749767e24fcd8e8540a from 1.1.4-6e57e5a946cc639968a53e5f4602f4f7](https://github.com/php-api-clients/github-root/pull/1489) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHub] Update to 1.1.4-ba2ca3d90a48285fabb706f923b03b78 from 1.1.4-7fb0426f383ed9712cce3fdba9572d5a](https://github.com/php-api-clients/github-root/pull/1488) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[2.x] Template types](https://github.com/reactphp-parallel/streams/pull/41) on [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (1 week ago)
-- [[GitHub] Update to 1.1.4-7fb0426f383ed9712cce3fdba9572d5a from 1.1.4-b1df7aeeba72bb96f2ca61a7edd34136](https://github.com/php-api-clients/github-root/pull/1487) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
