@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.13] Update to 1.1.4-3d4394c11aa41626a6e266db909dd9d7 from 1.1.4-1e4171c4fa0a2799e195f6bc1881cf84](https://github.com/php-api-clients/github-root/pull/1499) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Use action to handle testing](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/20) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
 - [Initial set up](https://github.com/WyriHaximus/github-action-testinfra/pull/1) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-32b56e406f1dadb0fc98a659a70af16f from 1.1.4-6310f3f2eedbd73069379065089ad197](https://github.com/php-api-clients/github-root/pull/1498) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.13] Update to 1.1.4-1e4171c4fa0a2799e195f6bc1881cf84 from 1.1.4-71747b16e45e0f2a54b8e1ca561b75d5](https://github.com/php-api-clients/github-root/pull/1492) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-9d96349c2889ab814e17092fa3c3cd46 from 1.1.4-a6db3e8c17ce7749767e24fcd8e8540a](https://github.com/php-api-clients/github-root/pull/1491) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHub] Update to 1.1.4-7147a5168a72455e5f4fcbbf004aee1b from 1.1.4-ba2ca3d90a48285fabb706f923b03b78](https://github.com/php-api-clients/github-root/pull/1490) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [Ensure void return type translates to null](https://github.com/reactphp-parallel/pool-tests/pull/57) on [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (1 week ago)
 
 ---
 
