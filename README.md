@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (5 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 weeks ago)
-- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (3 weeks ago)
-- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (3 weeks ago)
 - [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (3 weeks ago)
+- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (3 weeks ago)
+- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (3 weeks ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 weeks ago)
-- [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) (3 weeks ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 weeks ago)
+- [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) (3 weeks ago)
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (4 weeks ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 month ago)
 
 ---
 
@@ -79,6 +79,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Use action to handle testing](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/20) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
+- [Initial set up](https://github.com/WyriHaximus/github-action-testinfra/pull/1) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-32b56e406f1dadb0fc98a659a70af16f from 1.1.4-6310f3f2eedbd73069379065089ad197](https://github.com/php-api-clients/github-root/pull/1498) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-f7468d269476e7c0c11c8b67322a69a1 from 1.1.4-5111760c5ff914fc4c83cde28d085440](https://github.com/php-api-clients/github-root/pull/1497) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[2.x] Improve template types](https://github.com/reactphp-parallel/limited-pool/pull/56) on [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (5 days ago)
@@ -90,8 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-9d96349c2889ab814e17092fa3c3cd46 from 1.1.4-a6db3e8c17ce7749767e24fcd8e8540a](https://github.com/php-api-clients/github-root/pull/1491) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHub] Update to 1.1.4-7147a5168a72455e5f4fcbbf004aee1b from 1.1.4-ba2ca3d90a48285fabb706f923b03b78](https://github.com/php-api-clients/github-root/pull/1490) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [Ensure void return type translates to null](https://github.com/reactphp-parallel/pool-tests/pull/57) on [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (1 week ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-a6db3e8c17ce7749767e24fcd8e8540a from 1.1.4-6e57e5a946cc639968a53e5f4602f4f7](https://github.com/php-api-clients/github-root/pull/1489) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [[GitHub] Update to 1.1.4-ba2ca3d90a48285fabb706f923b03b78 from 1.1.4-7fb0426f383ed9712cce3fdba9572d5a](https://github.com/php-api-clients/github-root/pull/1488) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
