@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
+- [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (5 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 weeks ago)
-- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (3 weeks ago)
 - [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (3 weeks ago)
+- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (3 weeks ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (3 weeks ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 weeks ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 weeks ago)
 - [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) (3 weeks ago)
-- [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (4 weeks ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 weeks ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 weeks ago)
 
 ---
 
@@ -61,7 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([gitea-0.12.3](https://github.com/groundhog2k/helm-charts/releases/tag/gitea-0.12.3), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([etcd-1.0.4](https://github.com/groundhog2k/helm-charts/releases/tag/etcd-1.0.4), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.12.3](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.12.3), 1 day ago) - Forked from https://github.com/k8s-at-home/charts
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) ([2.1.0](https://github.com/reactphp-parallel/contracts/releases/tag/2.1.0), 5 days ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.2.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.2.0), 2 weeks ago) - 🌯 PHPStan rules wrapper
@@ -79,6 +79,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Run CVE Scanning and Infra Testing in parallel](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/22) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
+- [Use action to get image platforms](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/21) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-882141f1b59adcc27a5ddb1aac77be7c from 1.1.4-83e5b632882630eb5ec8d27318fd0346](https://github.com/php-api-clients/github-root/pull/1501) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-aeaedf4d332292bd7f909991602bd632 from 1.1.4-e6b97d7e63c1ce77438434e9c1074e81](https://github.com/php-api-clients/github-root/pull/1500) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-3d4394c11aa41626a6e266db909dd9d7 from 1.1.4-1e4171c4fa0a2799e195f6bc1881cf84](https://github.com/php-api-clients/github-root/pull/1499) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -90,8 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-6310f3f2eedbd73069379065089ad197 from 1.1.4-9d96349c2889ab814e17092fa3c3cd46](https://github.com/php-api-clients/github-root/pull/1496) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 - [[GitHub] Update to 1.1.4-5111760c5ff914fc4c83cde28d085440 from 1.1.4-7147a5168a72455e5f4fcbbf004aee1b](https://github.com/php-api-clients/github-root/pull/1495) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-83e5b632882630eb5ec8d27318fd0346 from 1.1.4-2766a6279db0f2ed943b5c4abdd093c7](https://github.com/php-api-clients/github-root/pull/1494) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
-- [[GitHubEnterprise-3.14] Update to 1.1.4-e6b97d7e63c1ce77438434e9c1074e81 from 1.1.4-4d3a9ded7363917824fb2d5fa79ad2ce](https://github.com/php-api-clients/github-root/pull/1493) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
-- [[GitHubEnterprise-3.13] Update to 1.1.4-1e4171c4fa0a2799e195f6bc1881cf84 from 1.1.4-71747b16e45e0f2a54b8e1ca561b75d5](https://github.com/php-api-clients/github-root/pull/1492) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 
 ---
 
