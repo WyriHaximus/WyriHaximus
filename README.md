@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-b1232502b094b2cf854385b7323bd958 from 1.1.4-f7468d269476e7c0c11c8b67322a69a1](https://github.com/php-api-clients/github-root/pull/1502) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Run CVE Scanning and Infra Testing in parallel](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/22) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
 - [Use action to get image platforms](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/21) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-882141f1b59adcc27a5ddb1aac77be7c from 1.1.4-83e5b632882630eb5ec8d27318fd0346](https://github.com/php-api-clients/github-root/pull/1501) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -91,12 +92,12 @@ All new major package releases will be in PHP 8.2
 - [[2.x] Improve template types](https://github.com/reactphp-parallel/limited-pool/pull/56) on [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (5 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-6310f3f2eedbd73069379065089ad197 from 1.1.4-9d96349c2889ab814e17092fa3c3cd46](https://github.com/php-api-clients/github-root/pull/1496) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 - [[GitHub] Update to 1.1.4-5111760c5ff914fc4c83cde28d085440 from 1.1.4-7147a5168a72455e5f4fcbbf004aee1b](https://github.com/php-api-clients/github-root/pull/1495) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
-- [[GitHubEnterprise-3.15] Update to 1.1.4-83e5b632882630eb5ec8d27318fd0346 from 1.1.4-2766a6279db0f2ed943b5c4abdd093c7](https://github.com/php-api-clients/github-root/pull/1494) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
+- [open-telemetry/opentelemetry-collector-releases](https://github.com/open-telemetry/opentelemetry-collector-releases) - OpenTelemetry Collector Official Releases (today)
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (6 days ago)
 - [TheFes/HA-configuration](https://github.com/TheFes/HA-configuration) - My Home Assistant config (1 week ago)
 - [yashmulgaonkar/halo](https://github.com/yashmulgaonkar/halo) -  (1 week ago)
@@ -109,7 +110,6 @@ All new major package releases will be in PHP 8.2
 - [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella:  (1 month ago)
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. (1 month ago)
 - [ringPHP/php-picohttpparser](https://github.com/ringPHP/php-picohttpparser) - A PHP port of the fast HTTP parser used in the H2O project. (1 month ago)
-- [mintcreg/pantry_tracker](https://github.com/mintcreg/pantry_tracker) - A Home Assistant add-on to manage and track pantry items, with product categorization, real-time inventory updates, and intuitive controls.. (1 month ago)
 
 ---
 
