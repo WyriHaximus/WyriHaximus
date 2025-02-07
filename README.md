@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.13] Update to 1.1.4-8aaac40408fe90412b505511aa617071 from 1.1.4-3d4394c11aa41626a6e266db909dd9d7](https://github.com/php-api-clients/github-root/pull/1504) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Template types](https://github.com/reactphp-parallel/reactphp-parallel/pull/56) on [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-930e319d8aad19927a15abe0093eeda1 from 1.1.4-32b56e406f1dadb0fc98a659a70af16f](https://github.com/php-api-clients/github-root/pull/1503) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-b1232502b094b2cf854385b7323bd958 from 1.1.4-f7468d269476e7c0c11c8b67322a69a1](https://github.com/php-api-clients/github-root/pull/1502) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Initial set up](https://github.com/WyriHaximus/github-action-testinfra/pull/1) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-32b56e406f1dadb0fc98a659a70af16f from 1.1.4-6310f3f2eedbd73069379065089ad197](https://github.com/php-api-clients/github-root/pull/1498) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHub] Update to 1.1.4-f7468d269476e7c0c11c8b67322a69a1 from 1.1.4-5111760c5ff914fc4c83cde28d085440](https://github.com/php-api-clients/github-root/pull/1497) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [[2.x] Improve template types](https://github.com/reactphp-parallel/limited-pool/pull/56) on [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (6 days ago)
 
 ---
 
