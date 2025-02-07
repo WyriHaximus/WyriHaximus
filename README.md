@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.15] Update to 1.1.4-8e70edec105746983b03daa8864a8df8 from 1.1.4-882141f1b59adcc27a5ddb1aac77be7c](https://github.com/php-api-clients/github-root/pull/1506) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-82c0b03ba48cc7845ffb459ce00859eb from 1.1.4-aeaedf4d332292bd7f909991602bd632](https://github.com/php-api-clients/github-root/pull/1505) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-8aaac40408fe90412b505511aa617071 from 1.1.4-3d4394c11aa41626a6e266db909dd9d7](https://github.com/php-api-clients/github-root/pull/1504) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Template types](https://github.com/reactphp-parallel/reactphp-parallel/pull/56) on [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.13] Update to 1.1.4-3d4394c11aa41626a6e266db909dd9d7 from 1.1.4-1e4171c4fa0a2799e195f6bc1881cf84](https://github.com/php-api-clients/github-root/pull/1499) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [Use action to handle testing](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/20) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
 - [Initial set up](https://github.com/WyriHaximus/github-action-testinfra/pull/1) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (1 day ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-32b56e406f1dadb0fc98a659a70af16f from 1.1.4-6310f3f2eedbd73069379065089ad197](https://github.com/php-api-clients/github-root/pull/1498) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 
 ---
 
