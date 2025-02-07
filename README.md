@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (1 day ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
-- [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (1 day ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (6 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 weeks ago)
+- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (3 weeks ago)
 - [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (3 weeks ago)
 - [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (3 weeks ago)
-- [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (3 weeks ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 weeks ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 weeks ago)
 - [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) (3 weeks ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 weeks ago)
 
 ---
 
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-d8074bd9e0c6a1faac9d78d77016fd5e from 1.1.4-b1232502b094b2cf854385b7323bd958](https://github.com/php-api-clients/github-root/pull/1507) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-8e70edec105746983b03daa8864a8df8 from 1.1.4-882141f1b59adcc27a5ddb1aac77be7c](https://github.com/php-api-clients/github-root/pull/1506) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-82c0b03ba48cc7845ffb459ce00859eb from 1.1.4-aeaedf4d332292bd7f909991602bd632](https://github.com/php-api-clients/github-root/pull/1505) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-8aaac40408fe90412b505511aa617071 from 1.1.4-3d4394c11aa41626a6e266db909dd9d7](https://github.com/php-api-clients/github-root/pull/1504) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.14] Update to 1.1.4-aeaedf4d332292bd7f909991602bd632 from 1.1.4-e6b97d7e63c1ce77438434e9c1074e81](https://github.com/php-api-clients/github-root/pull/1500) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-3d4394c11aa41626a6e266db909dd9d7 from 1.1.4-1e4171c4fa0a2799e195f6bc1881cf84](https://github.com/php-api-clients/github-root/pull/1499) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [Use action to handle testing](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/20) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
-- [Initial set up](https://github.com/WyriHaximus/github-action-testinfra/pull/1) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (1 day ago)
 
 ---
 
