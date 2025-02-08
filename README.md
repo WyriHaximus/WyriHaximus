@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.15] Update to 1.1.4-b323588c4cb3168432ec55824c9b764c from 1.1.4-8e70edec105746983b03daa8864a8df8](https://github.com/php-api-clients/github-root/pull/1511) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-dc977c8003154234e7a787ec7b8ad5db from 1.1.4-82c0b03ba48cc7845ffb459ce00859eb](https://github.com/php-api-clients/github-root/pull/1510) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-5345cfceb2528e8e91c8d7a675d048be from 1.1.4-8aaac40408fe90412b505511aa617071](https://github.com/php-api-clients/github-root/pull/1509) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-63ef624570accd0f3e37ef56d23bb40a from 1.1.4-930e319d8aad19927a15abe0093eeda1](https://github.com/php-api-clients/github-root/pull/1508) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -91,12 +92,12 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-b1232502b094b2cf854385b7323bd958 from 1.1.4-f7468d269476e7c0c11c8b67322a69a1](https://github.com/php-api-clients/github-root/pull/1502) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [Run CVE Scanning and Infra Testing in parallel](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/22) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 days ago)
 - [Use action to get image platforms](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/21) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 days ago)
-- [[GitHubEnterprise-3.15] Update to 1.1.4-882141f1b59adcc27a5ddb1aac77be7c from 1.1.4-83e5b632882630eb5ec8d27318fd0346](https://github.com/php-api-clients/github-root/pull/1501) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
+- [hass-agent/HASS.Agent](https://github.com/hass-agent/HASS.Agent) - Unofficial development project for the HASS.Agent platform. (today)
 - [open-telemetry/opentelemetry-collector-releases](https://github.com/open-telemetry/opentelemetry-collector-releases) - OpenTelemetry Collector Official Releases (2 days ago)
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (1 week ago)
 - [TheFes/HA-configuration](https://github.com/TheFes/HA-configuration) - My Home Assistant config (1 week ago)
@@ -109,7 +110,6 @@ All new major package releases will be in PHP 8.2
 - [lumapps/github-actions-validator](https://github.com/lumapps/github-actions-validator) - Enforce github actions revision to prevent security issues with tag. (1 month ago)
 - [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella:  (1 month ago)
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. (1 month ago)
-- [ringPHP/php-picohttpparser](https://github.com/ringPHP/php-picohttpparser) - A PHP port of the fast HTTP parser used in the H2O project. (1 month ago)
 
 ---
 
