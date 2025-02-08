@@ -10,12 +10,12 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (1 day ago)
-- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
-- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (6 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (2 days ago)
+- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
+- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (1 week ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 weeks ago)
 - [php-api-clients/github-ae](https://github.com/php-api-clients/github-ae) (3 weeks ago)
 - [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (3 weeks ago)
@@ -61,12 +61,12 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([mongodb-0.7.1](https://github.com/groundhog2k/helm-charts/releases/tag/mongodb-0.7.1), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
-- [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.12.3](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.12.3), 2 days ago) - Forked from https://github.com/k8s-at-home/charts
-- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) ([2.1.0](https://github.com/reactphp-parallel/contracts/releases/tag/2.1.0), 6 days ago) - 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([mongodb-0.7.1](https://github.com/groundhog2k/helm-charts/releases/tag/mongodb-0.7.1), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.12.3](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.12.3), 3 days ago) - Forked from https://github.com/k8s-at-home/charts
+- [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) ([2.1.0](https://github.com/reactphp-parallel/contracts/releases/tag/2.1.0), 1 week ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.2.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.2.0), 2 weeks ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.10](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.10), 3 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
-- [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) ([1.2.0](https://github.com/reactphp-parallel/stubs/releases/tag/1.2.0), 4 weeks ago) - Stubs (for PHPstan)
+- [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) ([1.2.0](https://github.com/reactphp-parallel/stubs/releases/tag/1.2.0), 1 month ago) - Stubs (for PHPstan)
 - [reactphp/child-process](https://github.com/reactphp/child-process) ([v0.6.6](https://github.com/reactphp/child-process/releases/tag/v0.6.6), 1 month ago) - Event-driven library for executing child processes with ReactPHP.
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3), 1 month ago) - PHP runtime &amp; extensions header files for PhpStorm
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r56](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r56), 1 month ago) - 
@@ -79,25 +79,25 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
-- [[GitHubEnterpriseCloud] Update to 1.1.4-63ef624570accd0f3e37ef56d23bb40a from 1.1.4-930e319d8aad19927a15abe0093eeda1](https://github.com/php-api-clients/github-root/pull/1508) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [[GitHub] Update to 1.1.4-d8074bd9e0c6a1faac9d78d77016fd5e from 1.1.4-b1232502b094b2cf854385b7323bd958](https://github.com/php-api-clients/github-root/pull/1507) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [[GitHubEnterprise-3.15] Update to 1.1.4-8e70edec105746983b03daa8864a8df8 from 1.1.4-882141f1b59adcc27a5ddb1aac77be7c](https://github.com/php-api-clients/github-root/pull/1506) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [[GitHubEnterprise-3.14] Update to 1.1.4-82c0b03ba48cc7845ffb459ce00859eb from 1.1.4-aeaedf4d332292bd7f909991602bd632](https://github.com/php-api-clients/github-root/pull/1505) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [[GitHubEnterprise-3.13] Update to 1.1.4-8aaac40408fe90412b505511aa617071 from 1.1.4-3d4394c11aa41626a6e266db909dd9d7](https://github.com/php-api-clients/github-root/pull/1504) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [Template types](https://github.com/reactphp-parallel/reactphp-parallel/pull/56) on [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (1 day ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-930e319d8aad19927a15abe0093eeda1 from 1.1.4-32b56e406f1dadb0fc98a659a70af16f](https://github.com/php-api-clients/github-root/pull/1503) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[GitHub] Update to 1.1.4-b1232502b094b2cf854385b7323bd958 from 1.1.4-f7468d269476e7c0c11c8b67322a69a1](https://github.com/php-api-clients/github-root/pull/1502) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [Run CVE Scanning and Infra Testing in parallel](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/22) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
-- [Use action to get image platforms](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/21) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
-- [[GitHubEnterprise-3.15] Update to 1.1.4-882141f1b59adcc27a5ddb1aac77be7c from 1.1.4-83e5b632882630eb5ec8d27318fd0346](https://github.com/php-api-clients/github-root/pull/1501) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[GitHubEnterprise-3.14] Update to 1.1.4-aeaedf4d332292bd7f909991602bd632 from 1.1.4-e6b97d7e63c1ce77438434e9c1074e81](https://github.com/php-api-clients/github-root/pull/1500) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [[GitHubEnterprise-3.13] Update to 1.1.4-3d4394c11aa41626a6e266db909dd9d7 from 1.1.4-1e4171c4fa0a2799e195f6bc1881cf84](https://github.com/php-api-clients/github-root/pull/1499) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-63ef624570accd0f3e37ef56d23bb40a from 1.1.4-930e319d8aad19927a15abe0093eeda1](https://github.com/php-api-clients/github-root/pull/1508) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [[GitHub] Update to 1.1.4-d8074bd9e0c6a1faac9d78d77016fd5e from 1.1.4-b1232502b094b2cf854385b7323bd958](https://github.com/php-api-clients/github-root/pull/1507) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [[GitHubEnterprise-3.15] Update to 1.1.4-8e70edec105746983b03daa8864a8df8 from 1.1.4-882141f1b59adcc27a5ddb1aac77be7c](https://github.com/php-api-clients/github-root/pull/1506) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [[GitHubEnterprise-3.14] Update to 1.1.4-82c0b03ba48cc7845ffb459ce00859eb from 1.1.4-aeaedf4d332292bd7f909991602bd632](https://github.com/php-api-clients/github-root/pull/1505) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [[GitHubEnterprise-3.13] Update to 1.1.4-8aaac40408fe90412b505511aa617071 from 1.1.4-3d4394c11aa41626a6e266db909dd9d7](https://github.com/php-api-clients/github-root/pull/1504) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [Template types](https://github.com/reactphp-parallel/reactphp-parallel/pull/56) on [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (2 days ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-930e319d8aad19927a15abe0093eeda1 from 1.1.4-32b56e406f1dadb0fc98a659a70af16f](https://github.com/php-api-clients/github-root/pull/1503) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [[GitHub] Update to 1.1.4-b1232502b094b2cf854385b7323bd958 from 1.1.4-f7468d269476e7c0c11c8b67322a69a1](https://github.com/php-api-clients/github-root/pull/1502) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [Run CVE Scanning and Infra Testing in parallel](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/22) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 days ago)
+- [Use action to get image platforms](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/21) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 days ago)
+- [[GitHubEnterprise-3.15] Update to 1.1.4-882141f1b59adcc27a5ddb1aac77be7c from 1.1.4-83e5b632882630eb5ec8d27318fd0346](https://github.com/php-api-clients/github-root/pull/1501) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [[GitHubEnterprise-3.14] Update to 1.1.4-aeaedf4d332292bd7f909991602bd632 from 1.1.4-e6b97d7e63c1ce77438434e9c1074e81](https://github.com/php-api-clients/github-root/pull/1500) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [[GitHubEnterprise-3.13] Update to 1.1.4-3d4394c11aa41626a6e266db909dd9d7 from 1.1.4-1e4171c4fa0a2799e195f6bc1881cf84](https://github.com/php-api-clients/github-root/pull/1499) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [open-telemetry/opentelemetry-collector-releases](https://github.com/open-telemetry/opentelemetry-collector-releases) - OpenTelemetry Collector Official Releases (1 day ago)
+- [open-telemetry/opentelemetry-collector-releases](https://github.com/open-telemetry/opentelemetry-collector-releases) - OpenTelemetry Collector Official Releases (2 days ago)
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (1 week ago)
 - [TheFes/HA-configuration](https://github.com/TheFes/HA-configuration) - My Home Assistant config (1 week ago)
 - [yashmulgaonkar/halo](https://github.com/yashmulgaonkar/halo) -  (2 weeks ago)
