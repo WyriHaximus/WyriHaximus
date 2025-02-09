@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) ([2.0.0](https://github.com/reactphp-parallel/event-loop/releases/tag/2.0.0), today) - Event Loop bridge to ext-parallel Events
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([mongodb-0.7.1](https://github.com/groundhog2k/helm-charts/releases/tag/mongodb-0.7.1), 3 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.12.3](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.12.3), 4 days ago) - Forked from https://github.com/k8s-at-home/charts
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) ([2.1.0](https://github.com/reactphp-parallel/contracts/releases/tag/2.1.0), 1 week ago) - 
@@ -73,7 +74,6 @@ All new major package releases will be in PHP 8.2
 - [bakame-php/http-structured-fields](https://github.com/bakame-php/http-structured-fields) ([2.0.0](https://github.com/bakame-php/http-structured-fields/releases/tag/2.0.0), 1 month ago) - Structured Field Values for HTTP manipulation in PHP
 - [WyriHaximus/reactphp-child-process-messenger](https://github.com/WyriHaximus/reactphp-child-process-messenger) ([4.0.4](https://github.com/WyriHaximus/reactphp-child-process-messenger/releases/tag/4.0.4), 2 months ago) - 
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.31](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.31), 2 months ago) - 
-- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) ([v4.0.2](https://github.com/WyriHaximus/github-action-helm3/releases/tag/v4.0.2), 2 months ago) - Slim wrapper around helm3
 
 ---
 
