@@ -79,7 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
-- [[2.x] Add Examples](https://github.com/reactphp-parallel/event-loop/pull/64) on [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 day ago)
+- [[2.x] Add Examples &#43; ensure docs are up to date and examples in it are working](https://github.com/reactphp-parallel/event-loop/pull/64) on [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 day ago)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-b323588c4cb3168432ec55824c9b764c from 1.1.4-8e70edec105746983b03daa8864a8df8](https://github.com/php-api-clients/github-root/pull/1511) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-dc977c8003154234e7a787ec7b8ad5db from 1.1.4-82c0b03ba48cc7845ffb459ce00859eb](https://github.com/php-api-clients/github-root/pull/1510) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-5345cfceb2528e8e91c8d7a675d048be from 1.1.4-8aaac40408fe90412b505511aa617071](https://github.com/php-api-clients/github-root/pull/1509) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
