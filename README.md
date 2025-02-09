@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) ([3.0.0](https://github.com/reactphp-parallel/runtime/releases/tag/3.0.0), today) - 💨 Convinence wrapper around the ext-parallel Runtime and ReactPHP
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) ([2.0.0](https://github.com/reactphp-parallel/event-loop/releases/tag/2.0.0), today) - Event Loop bridge to ext-parallel Events
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([mongodb-0.7.1](https://github.com/groundhog2k/helm-charts/releases/tag/mongodb-0.7.1), 3 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.12.3](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.12.3), 4 days ago) - Forked from https://github.com/k8s-at-home/charts
@@ -73,7 +74,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r56](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r56), 1 month ago) - 
 - [bakame-php/http-structured-fields](https://github.com/bakame-php/http-structured-fields) ([2.0.0](https://github.com/bakame-php/http-structured-fields/releases/tag/2.0.0), 1 month ago) - Structured Field Values for HTTP manipulation in PHP
 - [WyriHaximus/reactphp-child-process-messenger](https://github.com/WyriHaximus/reactphp-child-process-messenger) ([4.0.4](https://github.com/WyriHaximus/reactphp-child-process-messenger/releases/tag/4.0.4), 2 months ago) - 
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.31](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.31), 2 months ago) - 
 
 ---
 
