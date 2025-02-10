@@ -12,17 +12,17 @@ All new major package releases will be in PHP 8.2
 
 - [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (today)
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (today)
-- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 day ago)
+- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (today)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 day ago)
+- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 day ago)
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (1 day ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
-- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (4 days ago)
 - [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (4 days ago)
+- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (4 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) (1 week ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 weeks ago)
-- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (3 weeks ago)
 
 ---
 
@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) ([2.0.0](https://github.com/reactphp-parallel/streams/releases/tag/2.0.0), today) - Interthread communication using channels
 - [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) ([2.0.0](https://github.com/reactphp-parallel/limited-pool/releases/tag/2.0.0), today) - 🏔️ Limited pool for ext-parallel
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) ([3.0.0](https://github.com/reactphp-parallel/infinite-pool/releases/tag/3.0.0), today) - ♾️ Infinite pool for bridging ext-parallel and ReactPHP
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([4.0.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/4.0.0), 1 day ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
@@ -73,12 +74,13 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.10](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.10), 3 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) ([1.2.0](https://github.com/reactphp-parallel/stubs/releases/tag/1.2.0), 1 month ago) - Stubs (for PHPstan)
 - [reactphp/child-process](https://github.com/reactphp/child-process) ([v0.6.6](https://github.com/reactphp/child-process/releases/tag/v0.6.6), 1 month ago) - Event-driven library for executing child processes with ReactPHP.
-- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) ([v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3), 1 month ago) - PHP runtime &amp; extensions header files for PhpStorm
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Handle messages in a fiber](https://github.com/janlanger/rmq-test/pull/2) on [janlanger/rmq-test](https://github.com/janlanger/rmq-test) (today)
+- [Wrap all operations into a fiber](https://github.com/janlanger/rmq-test/pull/1) on [janlanger/rmq-test](https://github.com/janlanger/rmq-test) (today)
 - [[2.x] Ensure all examples are working as expected are run everything in a fiber - Part II - The quest for the missing readme update](https://github.com/reactphp-parallel/limited-pool/pull/58) on [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (today)
 - [[2.x] Ensure all examples are working as expected are run everything …](https://github.com/reactphp-parallel/limited-pool/pull/57) on [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (today)
 - [[3.x] Ensure examples run in a fiber](https://github.com/reactphp-parallel/infinite-pool/pull/61) on [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (today)
@@ -90,8 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.14] Update to 1.1.4-dc977c8003154234e7a787ec7b8ad5db from 1.1.4-82c0b03ba48cc7845ffb459ce00859eb](https://github.com/php-api-clients/github-root/pull/1510) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-5345cfceb2528e8e91c8d7a675d048be from 1.1.4-8aaac40408fe90412b505511aa617071](https://github.com/php-api-clients/github-root/pull/1509) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-63ef624570accd0f3e37ef56d23bb40a from 1.1.4-930e319d8aad19927a15abe0093eeda1](https://github.com/php-api-clients/github-root/pull/1508) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [[GitHub] Update to 1.1.4-d8074bd9e0c6a1faac9d78d77016fd5e from 1.1.4-b1232502b094b2cf854385b7323bd958](https://github.com/php-api-clients/github-root/pull/1507) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [[GitHubEnterprise-3.15] Update to 1.1.4-8e70edec105746983b03daa8864a8df8 from 1.1.4-882141f1b59adcc27a5ddb1aac77be7c](https://github.com/php-api-clients/github-root/pull/1506) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 
 ---
 
