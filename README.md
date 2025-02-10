@@ -10,11 +10,11 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (today)
 - [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (today)
+- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (today)
 - [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 day ago)
-- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (1 day ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 day ago)
+- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (1 day ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (4 days ago)
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[2.x] Ensure all examples are working as expected are run everything …](https://github.com/reactphp-parallel/limited-pool/pull/57) on [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (today)
 - [[3.x] Ensure examples run in a fiber](https://github.com/reactphp-parallel/infinite-pool/pull/61) on [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (today)
 - [Ensure ext-random is enabled](https://github.com/WyriHaximusNet/docker-php/pull/263) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [Add example](https://github.com/reactphp-parallel/runtime/pull/68) on [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-d8074bd9e0c6a1faac9d78d77016fd5e from 1.1.4-b1232502b094b2cf854385b7323bd958](https://github.com/php-api-clients/github-root/pull/1507) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-8e70edec105746983b03daa8864a8df8 from 1.1.4-882141f1b59adcc27a5ddb1aac77be7c](https://github.com/php-api-clients/github-root/pull/1506) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-82c0b03ba48cc7845ffb459ce00859eb from 1.1.4-aeaedf4d332292bd7f909991602bd632](https://github.com/php-api-clients/github-root/pull/1505) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [[GitHubEnterprise-3.13] Update to 1.1.4-8aaac40408fe90412b505511aa617071 from 1.1.4-3d4394c11aa41626a6e266db909dd9d7](https://github.com/php-api-clients/github-root/pull/1504) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 
 ---
 
