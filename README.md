@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.0.0](https://github.com/thecodingmachine/safe/releases/tag/v3.0.0), today) - All PHP functions, rewritten to throw exceptions instead of returning false
 - [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) ([2.0.0](https://github.com/reactphp-parallel/streams/releases/tag/2.0.0), 1 day ago) - Interthread communication using channels
 - [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) ([2.0.0](https://github.com/reactphp-parallel/limited-pool/releases/tag/2.0.0), 1 day ago) - 🏔️ Limited pool for ext-parallel
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) ([3.0.0](https://github.com/reactphp-parallel/infinite-pool/releases/tag/3.0.0), 1 day ago) - ♾️ Infinite pool for bridging ext-parallel and ReactPHP
@@ -73,7 +74,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.2.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.2.0), 3 weeks ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.10](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.10), 3 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) ([1.2.0](https://github.com/reactphp-parallel/stubs/releases/tag/1.2.0), 1 month ago) - Stubs (for PHPstan)
-- [reactphp/child-process](https://github.com/reactphp/child-process) ([v0.6.6](https://github.com/reactphp/child-process/releases/tag/v0.6.6), 1 month ago) - Event-driven library for executing child processes with ReactPHP.
 
 ---
 
