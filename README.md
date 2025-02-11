@@ -11,16 +11,16 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (today)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (today)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (1 day ago)
 - [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (1 day ago)
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (1 day ago)
-- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (2 days ago)
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (2 days ago)
+- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (2 days ago)
 - [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (2 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
 - [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (4 days ago)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (5 days ago)
 
