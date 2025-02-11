@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Update Metrics example](https://github.com/reactphp-parallel/reactphp-parallel/pull/58) on [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (today)
 - [[New Version] Update versions file to PHP 8.4.4](https://github.com/WyriHaximus/php-fake-php-version/pull/139) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [[2.x] Ensure all examples are up to date and working](https://github.com/reactphp-parallel/reactphp-parallel/pull/57) on [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (today)
 - [Handle messages in a fiber](https://github.com/janlanger/rmq-test/pull/2) on [janlanger/rmq-test](https://github.com/janlanger/rmq-test) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Support multiple images](https://github.com/WyriHaximus/github-action-testinfra/pull/3) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (2 days ago)
 - [[2.x] Add Examples &#43; ensure docs are up to date and examples in it are working](https://github.com/reactphp-parallel/event-loop/pull/64) on [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (3 days ago)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-b323588c4cb3168432ec55824c9b764c from 1.1.4-8e70edec105746983b03daa8864a8df8](https://github.com/php-api-clients/github-root/pull/1511) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [[GitHubEnterprise-3.14] Update to 1.1.4-dc977c8003154234e7a787ec7b8ad5db from 1.1.4-82c0b03ba48cc7845ffb459ce00859eb](https://github.com/php-api-clients/github-root/pull/1510) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 
 ---
 
