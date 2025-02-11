@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[2.x] Ensure all examples are up to date and working](https://github.com/reactphp-parallel/reactphp-parallel/pull/57) on [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (today)
 - [Handle messages in a fiber](https://github.com/janlanger/rmq-test/pull/2) on [janlanger/rmq-test](https://github.com/janlanger/rmq-test) (1 day ago)
 - [Wrap all operations into a fiber](https://github.com/janlanger/rmq-test/pull/1) on [janlanger/rmq-test](https://github.com/janlanger/rmq-test) (1 day ago)
 - [[2.x] Ensure all examples are working as expected are run everything in a fiber - Part II - The quest for the missing readme update](https://github.com/reactphp-parallel/limited-pool/pull/58) on [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.15] Update to 1.1.4-b323588c4cb3168432ec55824c9b764c from 1.1.4-8e70edec105746983b03daa8864a8df8](https://github.com/php-api-clients/github-root/pull/1511) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-dc977c8003154234e7a787ec7b8ad5db from 1.1.4-82c0b03ba48cc7845ffb459ce00859eb](https://github.com/php-api-clients/github-root/pull/1510) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-5345cfceb2528e8e91c8d7a675d048be from 1.1.4-8aaac40408fe90412b505511aa617071](https://github.com/php-api-clients/github-root/pull/1509) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-63ef624570accd0f3e37ef56d23bb40a from 1.1.4-930e319d8aad19927a15abe0093eeda1](https://github.com/php-api-clients/github-root/pull/1508) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 
 ---
 
