@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.13] Update to 1.1.4-21328c477fcf59892ec22f32ff4cf8b7 from 1.1.4-5345cfceb2528e8e91c8d7a675d048be](https://github.com/php-api-clients/github-root/pull/1514) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Run everything on ubuntu-22.04](https://github.com/WyriHaximusNet/docker-php/pull/264) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-aa7cf03b76111c81133ffd958eecbe23 from 1.1.4-63ef624570accd0f3e37ef56d23bb40a](https://github.com/php-api-clients/github-root/pull/1513) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [Upgrade to stable v2 packages](https://github.com/reactphp-parallel/test-pool/pull/5) on [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[2.x] Ensure all examples are working as expected are run everything in a fiber - Part II - The quest for the missing readme update](https://github.com/reactphp-parallel/limited-pool/pull/58) on [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (2 days ago)
 - [[2.x] Ensure all examples are working as expected are run everything …](https://github.com/reactphp-parallel/limited-pool/pull/57) on [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (2 days ago)
 - [[3.x] Ensure examples run in a fiber](https://github.com/reactphp-parallel/infinite-pool/pull/61) on [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (2 days ago)
-- [Ensure ext-random is enabled](https://github.com/WyriHaximusNet/docker-php/pull/263) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
 
 ---
 
