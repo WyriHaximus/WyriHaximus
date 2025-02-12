@@ -11,9 +11,9 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (today)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (1 day ago)
 - [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (1 day ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-aa1162e8505efc555be8f6dd8c43e5bd from 1.1.4-aa7cf03b76111c81133ffd958eecbe23](https://github.com/php-api-clients/github-root/pull/1518) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-975ed3e1d762d10ff749fca3c2105b5a from 1.1.4-9cd6c8e7bead01c0c83af26875ff027b](https://github.com/php-api-clients/github-root/pull/1517) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Add test suite input](https://github.com/WyriHaximus/github-action-testinfra/pull/4) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (today)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-6ea130cb5afd29dda26a543a1de89424 from 1.1.4-b323588c4cb3168432ec55824c9b764c](https://github.com/php-api-clients/github-root/pull/1516) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Update Metrics example](https://github.com/reactphp-parallel/reactphp-parallel/pull/58) on [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (1 day ago)
 - [[New Version] Update versions file to PHP 8.4.4](https://github.com/WyriHaximus/php-fake-php-version/pull/139) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
 - [[2.x] Ensure all examples are up to date and working](https://github.com/reactphp-parallel/reactphp-parallel/pull/57) on [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (1 day ago)
-- [Handle messages in a fiber](https://github.com/janlanger/rmq-test/pull/2) on [janlanger/rmq-test](https://github.com/janlanger/rmq-test) (2 days ago)
 
 ---
 
