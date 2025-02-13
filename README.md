@@ -79,6 +79,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.15] Update to 1.1.4-13765a979ded08b549109e71b65bcfcf from 1.1.4-6ea130cb5afd29dda26a543a1de89424](https://github.com/php-api-clients/github-root/pull/1521) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [[2.x] Drop PHP 8.1 support](https://github.com/reactphp-parallel/event-loop/pull/65) on [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (today)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-4b8ff7792783a0592e25008fb6c20f98 from 1.1.4-f5ae341048327f8fa2b6a1ba017066cc](https://github.com/php-api-clients/github-root/pull/1520) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-50b5f868629d9d1260dbd8cc8a0f7a02 from 1.1.4-21328c477fcf59892ec22f32ff4cf8b7](https://github.com/php-api-clients/github-root/pull/1519) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Use action for image testing](https://github.com/WyriHaximusNet/docker-php/pull/266) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
@@ -90,8 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.13] Update to 1.1.4-21328c477fcf59892ec22f32ff4cf8b7 from 1.1.4-5345cfceb2528e8e91c8d7a675d048be](https://github.com/php-api-clients/github-root/pull/1514) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [Run everything on ubuntu-22.04](https://github.com/WyriHaximusNet/docker-php/pull/264) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-aa7cf03b76111c81133ffd958eecbe23 from 1.1.4-63ef624570accd0f3e37ef56d23bb40a](https://github.com/php-api-clients/github-root/pull/1513) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [Upgrade to stable v2 packages](https://github.com/reactphp-parallel/test-pool/pull/5) on [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (2 days ago)
-- [[GitHub] Update to 1.1.4-9cd6c8e7bead01c0c83af26875ff027b from 1.1.4-d8074bd9e0c6a1faac9d78d77016fd5e](https://github.com/php-api-clients/github-root/pull/1512) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 
 ---
 
