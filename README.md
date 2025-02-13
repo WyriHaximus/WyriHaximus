@@ -61,7 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.148.2](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.148.2), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([rabbitmq-2.0.4](https://github.com/groundhog2k/helm-charts/releases/tag/rabbitmq-2.0.4), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) ([2.0.0](https://github.com/reactphp-parallel/reactphp-parallel/releases/tag/2.0.0), 2 days ago) - 🌉 Bridging ext-parallel and ReactPHP
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.11](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.11), 2 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.0.0](https://github.com/thecodingmachine/safe/releases/tag/v3.0.0), 2 days ago) - All PHP functions, rewritten to throw exceptions instead of returning false
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.13] Update to 1.1.4-50b5f868629d9d1260dbd8cc8a0f7a02 from 1.1.4-21328c477fcf59892ec22f32ff4cf8b7](https://github.com/php-api-clients/github-root/pull/1519) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Use action for image testing](https://github.com/WyriHaximusNet/docker-php/pull/266) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-aa1162e8505efc555be8f6dd8c43e5bd from 1.1.4-aa7cf03b76111c81133ffd958eecbe23](https://github.com/php-api-clients/github-root/pull/1518) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-975ed3e1d762d10ff749fca3c2105b5a from 1.1.4-9cd6c8e7bead01c0c83af26875ff027b](https://github.com/php-api-clients/github-root/pull/1517) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Upgrade to stable v2 packages](https://github.com/reactphp-parallel/test-pool/pull/5) on [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (2 days ago)
 - [[GitHub] Update to 1.1.4-9cd6c8e7bead01c0c83af26875ff027b from 1.1.4-d8074bd9e0c6a1faac9d78d77016fd5e](https://github.com/php-api-clients/github-root/pull/1512) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [Update Metrics example](https://github.com/reactphp-parallel/reactphp-parallel/pull/58) on [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (2 days ago)
-- [[New Version] Update versions file to PHP 8.4.4](https://github.com/WyriHaximus/php-fake-php-version/pull/139) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
 
 ---
 
