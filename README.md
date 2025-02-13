@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-db98add04ce623b04585203c6ced5d4b from 1.1.4-975ed3e1d762d10ff749fca3c2105b5a](https://github.com/php-api-clients/github-root/pull/1522) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-13765a979ded08b549109e71b65bcfcf from 1.1.4-6ea130cb5afd29dda26a543a1de89424](https://github.com/php-api-clients/github-root/pull/1521) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[2.x] Drop PHP 8.1 support](https://github.com/reactphp-parallel/event-loop/pull/65) on [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (today)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-4b8ff7792783a0592e25008fb6c20f98 from 1.1.4-f5ae341048327f8fa2b6a1ba017066cc](https://github.com/php-api-clients/github-root/pull/1520) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.14] Update to 1.1.4-f5ae341048327f8fa2b6a1ba017066cc from 1.1.4-dc977c8003154234e7a787ec7b8ad5db](https://github.com/php-api-clients/github-root/pull/1515) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-21328c477fcf59892ec22f32ff4cf8b7 from 1.1.4-5345cfceb2528e8e91c8d7a675d048be](https://github.com/php-api-clients/github-root/pull/1514) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [Run everything on ubuntu-22.04](https://github.com/WyriHaximusNet/docker-php/pull/264) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-aa7cf03b76111c81133ffd958eecbe23 from 1.1.4-63ef624570accd0f3e37ef56d23bb40a](https://github.com/php-api-clients/github-root/pull/1513) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 
 ---
 
@@ -131,11 +131,11 @@ All new major package releases will be in PHP 8.2
 
 #### 👯 Check out some of my recent followers
 
+- [mgouguasse](https://github.com/mgouguasse)
 - [aleff90](https://github.com/aleff90)
 - [LGHTNNG](https://github.com/LGHTNNG)
 - [mh396](https://github.com/mh396)
 - [YFonline24](https://github.com/YFonline24)
-- [xxspell](https://github.com/xxspell)
 
 ---
 
