@@ -61,7 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([rabbitmq-2.0.4](https://github.com/groundhog2k/helm-charts/releases/tag/rabbitmq-2.0.4), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([graylog-0.9.7](https://github.com/groundhog2k/helm-charts/releases/tag/graylog-0.9.7), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) ([2.0.0](https://github.com/reactphp-parallel/reactphp-parallel/releases/tag/2.0.0), 4 days ago) - 🌉 Bridging ext-parallel and ReactPHP
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.11](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.11), 4 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.0.0](https://github.com/thecodingmachine/safe/releases/tag/v3.0.0), 4 days ago) - All PHP functions, rewritten to throw exceptions instead of returning false
