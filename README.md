@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Consume should only process one message at a time](https://github.com/jakubkulhan/bunny/pull/164) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-1a921a530f820efa033dc420e6e40c95 from 1.1.4-e8e191683d6dfdf9b336e7b70932841c](https://github.com/php-api-clients/github-root/pull/1525) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-ce11a30340deb9560fca3f8049e3f57b from 1.1.4-db98add04ce623b04585203c6ced5d4b](https://github.com/php-api-clients/github-root/pull/1524) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-e8e191683d6dfdf9b336e7b70932841c from 1.1.4-aa1162e8505efc555be8f6dd8c43e5bd](https://github.com/php-api-clients/github-root/pull/1523) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-aa1162e8505efc555be8f6dd8c43e5bd from 1.1.4-aa7cf03b76111c81133ffd958eecbe23](https://github.com/php-api-clients/github-root/pull/1518) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [[GitHub] Update to 1.1.4-975ed3e1d762d10ff749fca3c2105b5a from 1.1.4-9cd6c8e7bead01c0c83af26875ff027b](https://github.com/php-api-clients/github-root/pull/1517) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [Add test suite input](https://github.com/WyriHaximus/github-action-testinfra/pull/4) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (3 days ago)
-- [[GitHubEnterprise-3.15] Update to 1.1.4-6ea130cb5afd29dda26a543a1de89424 from 1.1.4-b323588c4cb3168432ec55824c9b764c](https://github.com/php-api-clients/github-root/pull/1516) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 
 ---
 
