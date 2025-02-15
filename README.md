@@ -133,9 +133,9 @@ All new major package releases will be in PHP 8.2
 
 - [meliksahyorulmazlar](https://github.com/meliksahyorulmazlar)
 - [mgouguasse](https://github.com/mgouguasse)
-- [aleff90](https://github.com/aleff90)
 - [LGHTNNG](https://github.com/LGHTNNG)
 - [mh396](https://github.com/mh396)
+- [YFonline24](https://github.com/YFonline24)
 
 ---
 
