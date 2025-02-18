@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[3.x] Only close existing runtimes](https://github.com/reactphp-parallel/infinite-pool/pull/63) on [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (today)
 - [Use new run tooling](https://github.com/MammatusPHP/cron/pull/87) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 days ago)
 - [Consume should only process one message at a time](https://github.com/jakubkulhan/bunny/pull/164) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-1a921a530f820efa033dc420e6e40c95 from 1.1.4-e8e191683d6dfdf9b336e7b70932841c](https://github.com/php-api-clients/github-root/pull/1525) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.13] Update to 1.1.4-50b5f868629d9d1260dbd8cc8a0f7a02 from 1.1.4-21328c477fcf59892ec22f32ff4cf8b7](https://github.com/php-api-clients/github-root/pull/1519) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [Use action for image testing](https://github.com/WyriHaximusNet/docker-php/pull/266) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-aa1162e8505efc555be8f6dd8c43e5bd from 1.1.4-aa7cf03b76111c81133ffd958eecbe23](https://github.com/php-api-clients/github-root/pull/1518) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
-- [[GitHub] Update to 1.1.4-975ed3e1d762d10ff749fca3c2105b5a from 1.1.4-9cd6c8e7bead01c0c83af26875ff027b](https://github.com/php-api-clients/github-root/pull/1517) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 
 ---
 
