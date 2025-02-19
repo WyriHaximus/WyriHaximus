@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[2.x] Add missing license file](https://github.com/reactphp-parallel/event-loop/pull/66) on [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (today)
 - [[3.x] Only close existing runtimes](https://github.com/reactphp-parallel/infinite-pool/pull/63) on [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (1 day ago)
 - [Use new run tooling](https://github.com/MammatusPHP/cron/pull/87) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (3 days ago)
 - [Consume should only process one message at a time](https://github.com/jakubkulhan/bunny/pull/164) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (4 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.14] Update to 1.1.4-4b8ff7792783a0592e25008fb6c20f98 from 1.1.4-f5ae341048327f8fa2b6a1ba017066cc](https://github.com/php-api-clients/github-root/pull/1520) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-50b5f868629d9d1260dbd8cc8a0f7a02 from 1.1.4-21328c477fcf59892ec22f32ff4cf8b7](https://github.com/php-api-clients/github-root/pull/1519) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 - [Use action for image testing](https://github.com/WyriHaximusNet/docker-php/pull/266) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (6 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-aa1162e8505efc555be8f6dd8c43e5bd from 1.1.4-aa7cf03b76111c81133ffd958eecbe23](https://github.com/php-api-clients/github-root/pull/1518) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
