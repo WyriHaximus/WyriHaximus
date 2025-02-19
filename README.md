@@ -61,9 +61,9 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([wordpress-0.13.1](https://github.com/groundhog2k/helm-charts/releases/tag/wordpress-0.13.1), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) ([3.0.1](https://github.com/reactphp-parallel/infinite-pool/releases/tag/3.0.1), 1 day ago) - ♾️ Infinite pool for bridging ext-parallel and ReactPHP
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.0.1](https://github.com/thecodingmachine/safe/releases/tag/v3.0.1), 1 day ago) - All PHP functions, rewritten to throw exceptions instead of returning false
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([graylog-0.9.8](https://github.com/groundhog2k/helm-charts/releases/tag/graylog-0.9.8), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) ([2.0.0](https://github.com/reactphp-parallel/reactphp-parallel/releases/tag/2.0.0), 1 week ago) - 🌉 Bridging ext-parallel and ReactPHP
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.11](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.11), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) ([2.0.0](https://github.com/reactphp-parallel/streams/releases/tag/2.0.0), 1 week ago) - Interthread communication using channels
