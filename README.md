@@ -97,6 +97,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [anthonyharrison/sbomaudit](https://github.com/anthonyharrison/sbomaudit) - Report on quality of SBOM contents (today)
 - [radiofrance/image-registry-metrics-exporter](https://github.com/radiofrance/image-registry-metrics-exporter) - Image Registry Metrics Exporter provides metrics about creation and uploading time of images on OCI registry. (2 days ago)
 - [kenchan0130/actions-system-info](https://github.com/kenchan0130/actions-system-info) - This action provides GitHub Actions runner OS information. (1 week ago)
 - [hass-agent/HASS.Agent](https://github.com/hass-agent/HASS.Agent) - Unofficial development project for the HASS.Agent platform. (1 week ago)
@@ -109,7 +110,6 @@ All new major package releases will be in PHP 8.2
 - [dnhkng/GLaDOS](https://github.com/dnhkng/GLaDOS) - This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve. (1 month ago)
 - [project-akri/akri](https://github.com/project-akri/akri) - A Kubernetes Resource Interface for the Edge (1 month ago)
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility (1 month ago)
-- [lumapps/github-actions-validator](https://github.com/lumapps/github-actions-validator) - Enforce github actions revision to prevent security issues with tag. (1 month ago)
 
 ---
 
