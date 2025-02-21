@@ -10,12 +10,12 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
-- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 day ago)
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (2 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (6 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
+- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (2 days ago)
+- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (3 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 week ago)
 - [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (1 week ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (1 week ago)
@@ -61,9 +61,9 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.0.2](https://github.com/thecodingmachine/safe/releases/tag/v3.0.2), 1 day ago) - All PHP functions, rewritten to throw exceptions instead of returning false
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([wordpress-0.13.1](https://github.com/groundhog2k/helm-charts/releases/tag/wordpress-0.13.1), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) ([3.0.1](https://github.com/reactphp-parallel/infinite-pool/releases/tag/3.0.1), 2 days ago) - ♾️ Infinite pool for bridging ext-parallel and ReactPHP
+- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.0.2](https://github.com/thecodingmachine/safe/releases/tag/v3.0.2), 2 days ago) - All PHP functions, rewritten to throw exceptions instead of returning false
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([wordpress-0.13.1](https://github.com/groundhog2k/helm-charts/releases/tag/wordpress-0.13.1), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) ([3.0.1](https://github.com/reactphp-parallel/infinite-pool/releases/tag/3.0.1), 3 days ago) - ♾️ Infinite pool for bridging ext-parallel and ReactPHP
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) ([2.0.0](https://github.com/reactphp-parallel/reactphp-parallel/releases/tag/2.0.0), 1 week ago) - 🌉 Bridging ext-parallel and ReactPHP
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.11](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.11), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) ([2.0.0](https://github.com/reactphp-parallel/streams/releases/tag/2.0.0), 1 week ago) - Interthread communication using channels
@@ -79,12 +79,12 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
-- [[2.x] Add missing license file](https://github.com/reactphp-parallel/event-loop/pull/66) on [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 day ago)
-- [[3.x] Only close existing runtimes](https://github.com/reactphp-parallel/infinite-pool/pull/63) on [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (2 days ago)
-- [Use new run tooling](https://github.com/MammatusPHP/cron/pull/87) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (4 days ago)
-- [Consume should only process one message at a time](https://github.com/jakubkulhan/bunny/pull/164) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-1a921a530f820efa033dc420e6e40c95 from 1.1.4-e8e191683d6dfdf9b336e7b70932841c](https://github.com/php-api-clients/github-root/pull/1525) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
-- [[GitHub] Update to 1.1.4-ce11a30340deb9560fca3f8049e3f57b from 1.1.4-db98add04ce623b04585203c6ced5d4b](https://github.com/php-api-clients/github-root/pull/1524) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
+- [[2.x] Add missing license file](https://github.com/reactphp-parallel/event-loop/pull/66) on [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (2 days ago)
+- [[3.x] Only close existing runtimes](https://github.com/reactphp-parallel/infinite-pool/pull/63) on [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (3 days ago)
+- [Use new run tooling](https://github.com/MammatusPHP/cron/pull/87) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (5 days ago)
+- [Consume should only process one message at a time](https://github.com/jakubkulhan/bunny/pull/164) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (6 days ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-1a921a530f820efa033dc420e6e40c95 from 1.1.4-e8e191683d6dfdf9b336e7b70932841c](https://github.com/php-api-clients/github-root/pull/1525) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
+- [[GitHub] Update to 1.1.4-ce11a30340deb9560fca3f8049e3f57b from 1.1.4-db98add04ce623b04585203c6ced5d4b](https://github.com/php-api-clients/github-root/pull/1524) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-e8e191683d6dfdf9b336e7b70932841c from 1.1.4-aa1162e8505efc555be8f6dd8c43e5bd](https://github.com/php-api-clients/github-root/pull/1523) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHub] Update to 1.1.4-db98add04ce623b04585203c6ced5d4b from 1.1.4-975ed3e1d762d10ff749fca3c2105b5a](https://github.com/php-api-clients/github-root/pull/1522) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-13765a979ded08b549109e71b65bcfcf from 1.1.4-6ea130cb5afd29dda26a543a1de89424](https://github.com/php-api-clients/github-root/pull/1521) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
@@ -97,15 +97,15 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
-- [anthonyharrison/sbomaudit](https://github.com/anthonyharrison/sbomaudit) - Report on quality of SBOM contents (today)
-- [radiofrance/image-registry-metrics-exporter](https://github.com/radiofrance/image-registry-metrics-exporter) - Image Registry Metrics Exporter provides metrics about creation and uploading time of images on OCI registry. (2 days ago)
+- [anthonyharrison/sbomaudit](https://github.com/anthonyharrison/sbomaudit) - Report on quality of SBOM contents (1 day ago)
+- [radiofrance/image-registry-metrics-exporter](https://github.com/radiofrance/image-registry-metrics-exporter) - Image Registry Metrics Exporter provides metrics about creation and uploading time of images on OCI registry. (3 days ago)
 - [kenchan0130/actions-system-info](https://github.com/kenchan0130/actions-system-info) - This action provides GitHub Actions runner OS information. (1 week ago)
 - [hass-agent/HASS.Agent](https://github.com/hass-agent/HASS.Agent) - Unofficial development project for the HASS.Agent platform. (1 week ago)
 - [open-telemetry/opentelemetry-collector-releases](https://github.com/open-telemetry/opentelemetry-collector-releases) - OpenTelemetry Collector Official Releases (2 weeks ago)
-- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (2 weeks ago)
+- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (3 weeks ago)
 - [TheFes/HA-configuration](https://github.com/TheFes/HA-configuration) - My Home Assistant config (3 weeks ago)
-- [yashmulgaonkar/halo](https://github.com/yashmulgaonkar/halo) -  (3 weeks ago)
-- [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go (3 weeks ago)
+- [yashmulgaonkar/halo](https://github.com/yashmulgaonkar/halo) -  (4 weeks ago)
+- [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go (4 weeks ago)
 - [flix-tech/avro-serde-php](https://github.com/flix-tech/avro-serde-php) - Avro Serialisation/Deserialisation (SerDe) library for PHP 8.1&#43; with a Symfony Serializer integration (1 month ago)
 - [dnhkng/GLaDOS](https://github.com/dnhkng/GLaDOS) - This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve. (1 month ago)
 - [project-akri/akri](https://github.com/project-akri/akri) - A Kubernetes Resource Interface for the Edge (1 month ago)
