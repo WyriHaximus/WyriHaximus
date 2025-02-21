@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) ([2.5.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.5.0), today) - PSR-14 Event Processing and Notification package
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.0.2](https://github.com/thecodingmachine/safe/releases/tag/v3.0.2), 2 days ago) - All PHP functions, rewritten to throw exceptions instead of returning false
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([wordpress-0.13.1](https://github.com/groundhog2k/helm-charts/releases/tag/wordpress-0.13.1), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) ([3.0.1](https://github.com/reactphp-parallel/infinite-pool/releases/tag/3.0.1), 3 days ago) - ♾️ Infinite pool for bridging ext-parallel and ReactPHP
@@ -73,7 +74,6 @@ All new major package releases will be in PHP 8.2
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) ([2.0.0](https://github.com/reactphp-parallel/event-loop/releases/tag/2.0.0), 1 week ago) - Event Loop bridge to ext-parallel Events
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.12.3](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.12.3), 2 weeks ago) - Forked from https://github.com/k8s-at-home/charts
 - [reactphp-parallel/contracts](https://github.com/reactphp-parallel/contracts) ([2.1.0](https://github.com/reactphp-parallel/contracts/releases/tag/2.1.0), 2 weeks ago) - 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.2.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.2.0), 1 month ago) - 🌯 PHPStan rules wrapper
 
 ---
 
