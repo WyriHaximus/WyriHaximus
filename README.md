@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-16de2a81f1c35833bd49594dda36d269 from 1.1.4-1a921a530f820efa033dc420e6e40c95](https://github.com/php-api-clients/github-root/pull/1527) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-95c17fdaedbd73d404bbf04c1d953250 from 1.1.4-ce11a30340deb9560fca3f8049e3f57b](https://github.com/php-api-clients/github-root/pull/1526) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[2.x] Add missing license file](https://github.com/reactphp-parallel/event-loop/pull/66) on [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (2 days ago)
 - [[3.x] Only close existing runtimes](https://github.com/reactphp-parallel/infinite-pool/pull/63) on [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (3 days ago)
@@ -91,12 +92,12 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.15] Update to 1.1.4-13765a979ded08b549109e71b65bcfcf from 1.1.4-6ea130cb5afd29dda26a543a1de89424](https://github.com/php-api-clients/github-root/pull/1521) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[2.x] Drop PHP 8.1 support](https://github.com/reactphp-parallel/event-loop/pull/65) on [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 week ago)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-4b8ff7792783a0592e25008fb6c20f98 from 1.1.4-f5ae341048327f8fa2b6a1ba017066cc](https://github.com/php-api-clients/github-root/pull/1520) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [[GitHubEnterprise-3.13] Update to 1.1.4-50b5f868629d9d1260dbd8cc8a0f7a02 from 1.1.4-21328c477fcf59892ec22f32ff4cf8b7](https://github.com/php-api-clients/github-root/pull/1519) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
 #### ⭐ Recent Stars
 
+- [DeclanChidlow/BritCSS](https://github.com/DeclanChidlow/BritCSS) - Fixes CSS to use non-bastardised spellings. (today)
 - [anthonyharrison/sbomaudit](https://github.com/anthonyharrison/sbomaudit) - Report on quality of SBOM contents (1 day ago)
 - [radiofrance/image-registry-metrics-exporter](https://github.com/radiofrance/image-registry-metrics-exporter) - Image Registry Metrics Exporter provides metrics about creation and uploading time of images on OCI registry. (3 days ago)
 - [kenchan0130/actions-system-info](https://github.com/kenchan0130/actions-system-info) - This action provides GitHub Actions runner OS information. (1 week ago)
@@ -109,7 +110,6 @@ All new major package releases will be in PHP 8.2
 - [flix-tech/avro-serde-php](https://github.com/flix-tech/avro-serde-php) - Avro Serialisation/Deserialisation (SerDe) library for PHP 8.1&#43; with a Symfony Serializer integration (1 month ago)
 - [dnhkng/GLaDOS](https://github.com/dnhkng/GLaDOS) - This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve. (1 month ago)
 - [project-akri/akri](https://github.com/project-akri/akri) - A Kubernetes Resource Interface for the Edge (1 month ago)
-- [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility (1 month ago)
 
 ---
 
