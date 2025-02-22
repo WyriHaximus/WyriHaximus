@@ -132,10 +132,10 @@ All new major package releases will be in PHP 8.2
 #### 👯 Check out some of my recent followers
 
 - [amrmrp](https://github.com/amrmrp)
-- [meliksahyorulmazlar](https://github.com/meliksahyorulmazlar)
 - [mgouguasse](https://github.com/mgouguasse)
 - [LGHTNNG](https://github.com/LGHTNNG)
 - [mh396](https://github.com/mh396)
+- [YFonline24](https://github.com/YFonline24)
 
 ---
 
