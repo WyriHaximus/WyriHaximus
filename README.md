@@ -21,8 +21,8 @@ All new major package releases will be in PHP 8.2
 - [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (1 week ago)
-- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (2 weeks ago)
 - [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (2 weeks ago)
+- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (2 weeks ago)
 
 ---
 
@@ -131,11 +131,11 @@ All new major package releases will be in PHP 8.2
 
 #### 👯 Check out some of my recent followers
 
+- [LinuxJS](https://github.com/LinuxJS)
 - [eTarikhi](https://github.com/eTarikhi)
 - [amrmrp](https://github.com/amrmrp)
 - [mgouguasse](https://github.com/mgouguasse)
 - [LGHTNNG](https://github.com/LGHTNNG)
-- [mh396](https://github.com/mh396)
 
 ---
 
