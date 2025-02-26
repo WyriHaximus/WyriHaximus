@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-1af67ef4f45d37f00bce6c1060039205 from 1.1.4-16de2a81f1c35833bd49594dda36d269](https://github.com/php-api-clients/github-root/pull/1529) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-2c0c305301b4db15047c06c5d15a3675 from 1.1.4-95c17fdaedbd73d404bbf04c1d953250](https://github.com/php-api-clients/github-root/pull/1528) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[3.0] Support resolv.conf search directive](https://github.com/reactphp/dns/pull/232) on [reactphp/dns](https://github.com/reactphp/dns) (4 days ago)
 - [[3.0] Respect attempts and timeout from resolv.conf](https://github.com/reactphp/dns/pull/231) on [reactphp/dns](https://github.com/reactphp/dns) (4 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-1a921a530f820efa033dc420e6e40c95 from 1.1.4-e8e191683d6dfdf9b336e7b70932841c](https://github.com/php-api-clients/github-root/pull/1525) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHub] Update to 1.1.4-ce11a30340deb9560fca3f8049e3f57b from 1.1.4-db98add04ce623b04585203c6ced5d4b](https://github.com/php-api-clients/github-root/pull/1524) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-e8e191683d6dfdf9b336e7b70932841c from 1.1.4-aa1162e8505efc555be8f6dd8c43e5bd](https://github.com/php-api-clients/github-root/pull/1523) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [[GitHub] Update to 1.1.4-db98add04ce623b04585203c6ced5d4b from 1.1.4-975ed3e1d762d10ff749fca3c2105b5a](https://github.com/php-api-clients/github-root/pull/1522) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
