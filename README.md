@@ -10,7 +10,7 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (5 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (6 days ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 week ago)
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-2c0c305301b4db15047c06c5d15a3675 from 1.1.4-95c17fdaedbd73d404bbf04c1d953250](https://github.com/php-api-clients/github-root/pull/1528) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[3.0] Support resolv.conf search directive](https://github.com/reactphp/dns/pull/232) on [reactphp/dns](https://github.com/reactphp/dns) (4 days ago)
 - [[3.0] Respect attempts and timeout from resolv.conf](https://github.com/reactphp/dns/pull/231) on [reactphp/dns](https://github.com/reactphp/dns) (4 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-16de2a81f1c35833bd49594dda36d269 from 1.1.4-1a921a530f820efa033dc420e6e40c95](https://github.com/php-api-clients/github-root/pull/1527) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-ce11a30340deb9560fca3f8049e3f57b from 1.1.4-db98add04ce623b04585203c6ced5d4b](https://github.com/php-api-clients/github-root/pull/1524) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-e8e191683d6dfdf9b336e7b70932841c from 1.1.4-aa1162e8505efc555be8f6dd8c43e5bd](https://github.com/php-api-clients/github-root/pull/1523) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [[GitHub] Update to 1.1.4-db98add04ce623b04585203c6ced5d4b from 1.1.4-975ed3e1d762d10ff749fca3c2105b5a](https://github.com/php-api-clients/github-root/pull/1522) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [[GitHubEnterprise-3.15] Update to 1.1.4-13765a979ded08b549109e71b65bcfcf from 1.1.4-6ea130cb5afd29dda26a543a1de89424](https://github.com/php-api-clients/github-root/pull/1521) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
