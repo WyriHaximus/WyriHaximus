@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.13] Update to 1.1.4-65c7d90809c912f318fd98e5a759353c from 1.1.4-c3eeb28f55a8ddf476a0103d39889bfa](https://github.com/php-api-clients/github-root/pull/1538) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Drop thecodingmachine/safe](https://github.com/WyriHaximus/reactphp-cache-redis/pull/70) on [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (today)
 - [Move PHPUnit cache directory to /var/](https://github.com/WyriHaximus/php-test-utilities/pull/983) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-aa6e867dcdb64b9db1fac624925d5631 from 1.1.4-1af67ef4f45d37f00bce6c1060039205](https://github.com/php-api-clients/github-root/pull/1537) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.13] Update to 1.1.4-06fa59f66a2537626b799fec04db81b5 from 1.1.4-50b5f868629d9d1260dbd8cc8a0f7a02](https://github.com/php-api-clients/github-root/pull/1530) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-1af67ef4f45d37f00bce6c1060039205 from 1.1.4-16de2a81f1c35833bd49594dda36d269](https://github.com/php-api-clients/github-root/pull/1529) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [[GitHub] Update to 1.1.4-2c0c305301b4db15047c06c5d15a3675 from 1.1.4-95c17fdaedbd73d404bbf04c1d953250](https://github.com/php-api-clients/github-root/pull/1528) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [[3.0] Support resolv.conf search directive](https://github.com/reactphp/dns/pull/232) on [reactphp/dns](https://github.com/reactphp/dns) (1 week ago)
 
 ---
 
