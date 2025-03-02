@@ -11,6 +11,7 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
@@ -20,9 +21,8 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (2 weeks ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 weeks ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 weeks ago)
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (2 weeks ago)
-- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (2 weeks ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 weeks ago)
 
 ---
 
@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.3.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.3.0), today) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.16.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.16.0), today) - PHP Coding Standard
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([rabbitmq-2.0.5](https://github.com/groundhog2k/helm-charts/releases/tag/rabbitmq-2.0.5), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) ([2.5.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.5.0), 1 week ago) - PSR-14 Event Processing and Notification package
@@ -73,12 +74,12 @@ All new major package releases will be in PHP 8.2
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([4.0.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/4.0.0), 3 weeks ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
 - [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) ([3.0.0](https://github.com/reactphp-parallel/runtime/releases/tag/3.0.0), 3 weeks ago) - 💨 Convinence wrapper around the ext-parallel Runtime and ReactPHP
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) ([2.0.0](https://github.com/reactphp-parallel/event-loop/releases/tag/2.0.0), 3 weeks ago) - Event Loop bridge to ext-parallel Events
-- [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.12.3](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.12.3), 3 weeks ago) - Forked from https://github.com/k8s-at-home/charts
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Remove composer unused until new release](https://github.com/WyriHaximus/php-test-utilities/pull/984) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [[GitHub] Update to 1.1.4-a073e1a053477690d506f42cadb2ee51 from 1.1.4-dbba2c62a8f04380c590a1aa0d1194e8](https://github.com/php-api-clients/github-root/pull/1541) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-a52c4c09b475fc1c0194c7e656ee966d from 1.1.4-9c88bf9f401b8678777d4212dacc4985](https://github.com/php-api-clients/github-root/pull/1540) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-1716058b6fa04c91e7ec9ca76a7996d2 from 1.1.4-0db954ca7aa760e1c9ee3a6575105048](https://github.com/php-api-clients/github-root/pull/1539) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.14] Update to 1.1.4-0db954ca7aa760e1c9ee3a6575105048 from 1.1.4-1ea96b0756988647879c8bead15393bf](https://github.com/php-api-clients/github-root/pull/1534) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-c3eeb28f55a8ddf476a0103d39889bfa from 1.1.4-06fa59f66a2537626b799fec04db81b5](https://github.com/php-api-clients/github-root/pull/1533) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-3d1d0aa20a5ebee462aa16b1bf828099 from 1.1.4-13765a979ded08b549109e71b65bcfcf](https://github.com/php-api-clients/github-root/pull/1532) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [[GitHubEnterprise-3.14] Update to 1.1.4-1ea96b0756988647879c8bead15393bf from 1.1.4-4b8ff7792783a0592e25008fb6c20f98](https://github.com/php-api-clients/github-root/pull/1531) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 
 ---
 
