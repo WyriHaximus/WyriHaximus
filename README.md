@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) ([R23](https://github.com/TechEmpower/FrameworkBenchmarks/releases/tag/R23), today) - Source for the TechEmpower Framework Benchmarks project
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.3.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.3.0), 1 day ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.16.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.16.0), 1 day ago) - PHP Coding Standard
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([rabbitmq-2.0.5](https://github.com/groundhog2k/helm-charts/releases/tag/rabbitmq-2.0.5), 3 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
@@ -73,7 +74,6 @@ All new major package releases will be in PHP 8.2
 - [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) ([2.0.0](https://github.com/reactphp-parallel/limited-pool/releases/tag/2.0.0), 3 weeks ago) - 🏔️ Limited pool for ext-parallel
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([4.0.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/4.0.0), 3 weeks ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
 - [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) ([3.0.0](https://github.com/reactphp-parallel/runtime/releases/tag/3.0.0), 3 weeks ago) - 💨 Convinence wrapper around the ext-parallel Runtime and ReactPHP
-- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) ([2.0.0](https://github.com/reactphp-parallel/event-loop/releases/tag/2.0.0), 3 weeks ago) - Event Loop bridge to ext-parallel Events
 
 ---
 
