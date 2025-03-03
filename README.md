@@ -79,6 +79,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [PHP Parser v5](https://github.com/WyriHaximus/php-test-utilities/pull/988) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [Revert &#34;Remove composer unused until new release&#34;](https://github.com/WyriHaximus/php-test-utilities/pull/987) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [Drop thecodingmachine/safe](https://github.com/WyriHaximus/php-test-utilities/pull/986) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [Remove composer unused until new release](https://github.com/WyriHaximus/php-test-utilities/pull/984) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [[GitHub] Update to 1.1.4-a073e1a053477690d506f42cadb2ee51 from 1.1.4-dbba2c62a8f04380c590a1aa0d1194e8](https://github.com/php-api-clients/github-root/pull/1541) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
@@ -90,8 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterpriseCloud] Update to 1.1.4-aa6e867dcdb64b9db1fac624925d5631 from 1.1.4-1af67ef4f45d37f00bce6c1060039205](https://github.com/php-api-clients/github-root/pull/1537) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [[GitHub] Update to 1.1.4-dbba2c62a8f04380c590a1aa0d1194e8 from 1.1.4-2c0c305301b4db15047c06c5d15a3675](https://github.com/php-api-clients/github-root/pull/1536) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-9c88bf9f401b8678777d4212dacc4985 from 1.1.4-3d1d0aa20a5ebee462aa16b1bf828099](https://github.com/php-api-clients/github-root/pull/1535) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [[GitHubEnterprise-3.14] Update to 1.1.4-0db954ca7aa760e1c9ee3a6575105048 from 1.1.4-1ea96b0756988647879c8bead15393bf](https://github.com/php-api-clients/github-root/pull/1534) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [[GitHubEnterprise-3.13] Update to 1.1.4-c3eeb28f55a8ddf476a0103d39889bfa from 1.1.4-06fa59f66a2537626b799fec04db81b5](https://github.com/php-api-clients/github-root/pull/1533) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 
 ---
 
