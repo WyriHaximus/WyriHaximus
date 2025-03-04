@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (2 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 week ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 weeks ago)
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (2 weeks ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 weeks ago)
 
 ---
 
@@ -79,6 +79,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Turn all QA checks green](https://github.com/WyriHaximus/php-test-utilities/pull/990) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [Turn into PHPStan Extension](https://github.com/WyriHaximus/php-test-utilities/pull/989) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-dafc4bb4ca8269335f6c4492394f88df from 1.1.4-a52c4c09b475fc1c0194c7e656ee966d](https://github.com/php-api-clients/github-root/pull/1544) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-d5ac2a68d76d323d5182cd11d4daf614 from 1.1.4-1716058b6fa04c91e7ec9ca76a7996d2](https://github.com/php-api-clients/github-root/pull/1543) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-802a0cd5a04204e42ef5ea0492e36a70 from 1.1.4-65c7d90809c912f318fd98e5a759353c](https://github.com/php-api-clients/github-root/pull/1542) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -90,8 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-a073e1a053477690d506f42cadb2ee51 from 1.1.4-dbba2c62a8f04380c590a1aa0d1194e8](https://github.com/php-api-clients/github-root/pull/1541) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-a52c4c09b475fc1c0194c7e656ee966d from 1.1.4-9c88bf9f401b8678777d4212dacc4985](https://github.com/php-api-clients/github-root/pull/1540) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-1716058b6fa04c91e7ec9ca76a7996d2 from 1.1.4-0db954ca7aa760e1c9ee3a6575105048](https://github.com/php-api-clients/github-root/pull/1539) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [[GitHubEnterprise-3.13] Update to 1.1.4-65c7d90809c912f318fd98e5a759353c from 1.1.4-c3eeb28f55a8ddf476a0103d39889bfa](https://github.com/php-api-clients/github-root/pull/1538) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [Drop thecodingmachine/safe](https://github.com/WyriHaximus/reactphp-cache-redis/pull/70) on [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (3 days ago)
 
 ---
 
