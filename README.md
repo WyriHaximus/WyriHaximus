@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 day ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
+- [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
+- [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (2 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 week ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (1 week ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 weeks ago)
+- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (2 weeks ago)
 - [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (2 weeks ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 weeks ago)
-- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (2 weeks ago)
-- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (2 weeks ago)
 
 ---
 
@@ -61,15 +61,15 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) ([R23](https://github.com/TechEmpower/FrameworkBenchmarks/releases/tag/R23), today) - Source for the TechEmpower Framework Benchmarks project
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.3.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.3.0), 1 day ago) - 🌯 PHPStan rules wrapper
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.16.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.16.0), 1 day ago) - PHP Coding Standard
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([rabbitmq-2.0.5](https://github.com/groundhog2k/helm-charts/releases/tag/rabbitmq-2.0.5), 3 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) ([R23](https://github.com/TechEmpower/FrameworkBenchmarks/releases/tag/R23), 1 day ago) - Source for the TechEmpower Framework Benchmarks project
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.3.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.3.0), 2 days ago) - 🌯 PHPStan rules wrapper
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.16.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.16.0), 2 days ago) - PHP Coding Standard
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([rabbitmq-2.0.5](https://github.com/groundhog2k/helm-charts/releases/tag/rabbitmq-2.0.5), 4 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) ([2.5.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.5.0), 1 week ago) - PSR-14 Event Processing and Notification package
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.0.2](https://github.com/thecodingmachine/safe/releases/tag/v3.0.2), 1 week ago) - All PHP functions, rewritten to throw exceptions instead of returning false
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) ([3.0.1](https://github.com/reactphp-parallel/infinite-pool/releases/tag/3.0.1), 1 week ago) - ♾️ Infinite pool for bridging ext-parallel and ReactPHP
-- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) ([2.0.0](https://github.com/reactphp-parallel/reactphp-parallel/releases/tag/2.0.0), 2 weeks ago) - 🌉 Bridging ext-parallel and ReactPHP
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.11](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.11), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
+- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) ([3.0.1](https://github.com/reactphp-parallel/infinite-pool/releases/tag/3.0.1), 2 weeks ago) - ♾️ Infinite pool for bridging ext-parallel and ReactPHP
+- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) ([2.0.0](https://github.com/reactphp-parallel/reactphp-parallel/releases/tag/2.0.0), 3 weeks ago) - 🌉 Bridging ext-parallel and ReactPHP
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.11](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.11), 3 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) ([2.0.0](https://github.com/reactphp-parallel/streams/releases/tag/2.0.0), 3 weeks ago) - Interthread communication using channels
 - [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) ([2.0.0](https://github.com/reactphp-parallel/limited-pool/releases/tag/2.0.0), 3 weeks ago) - 🏔️ Limited pool for ext-parallel
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([4.0.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/4.0.0), 3 weeks ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
@@ -79,28 +79,28 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
-- [PHP Parser v5](https://github.com/WyriHaximus/php-test-utilities/pull/988) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [Revert &#34;Remove composer unused until new release&#34;](https://github.com/WyriHaximus/php-test-utilities/pull/987) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [Drop thecodingmachine/safe](https://github.com/WyriHaximus/php-test-utilities/pull/986) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [Remove composer unused until new release](https://github.com/WyriHaximus/php-test-utilities/pull/984) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [[GitHub] Update to 1.1.4-a073e1a053477690d506f42cadb2ee51 from 1.1.4-dbba2c62a8f04380c590a1aa0d1194e8](https://github.com/php-api-clients/github-root/pull/1541) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [[GitHubEnterprise-3.15] Update to 1.1.4-a52c4c09b475fc1c0194c7e656ee966d from 1.1.4-9c88bf9f401b8678777d4212dacc4985](https://github.com/php-api-clients/github-root/pull/1540) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [[GitHubEnterprise-3.14] Update to 1.1.4-1716058b6fa04c91e7ec9ca76a7996d2 from 1.1.4-0db954ca7aa760e1c9ee3a6575105048](https://github.com/php-api-clients/github-root/pull/1539) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [[GitHubEnterprise-3.13] Update to 1.1.4-65c7d90809c912f318fd98e5a759353c from 1.1.4-c3eeb28f55a8ddf476a0103d39889bfa](https://github.com/php-api-clients/github-root/pull/1538) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [Drop thecodingmachine/safe](https://github.com/WyriHaximus/reactphp-cache-redis/pull/70) on [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (2 days ago)
-- [Move PHPUnit cache directory to /var/](https://github.com/WyriHaximus/php-test-utilities/pull/983) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-aa6e867dcdb64b9db1fac624925d5631 from 1.1.4-1af67ef4f45d37f00bce6c1060039205](https://github.com/php-api-clients/github-root/pull/1537) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [[GitHub] Update to 1.1.4-dbba2c62a8f04380c590a1aa0d1194e8 from 1.1.4-2c0c305301b4db15047c06c5d15a3675](https://github.com/php-api-clients/github-root/pull/1536) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [[GitHubEnterprise-3.15] Update to 1.1.4-9c88bf9f401b8678777d4212dacc4985 from 1.1.4-3d1d0aa20a5ebee462aa16b1bf828099](https://github.com/php-api-clients/github-root/pull/1535) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
+- [Introduce Producer](https://github.com/MammatusPHP/queue-contracts/pull/8) on [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (1 day ago)
+- [PHP Parser v5](https://github.com/WyriHaximus/php-test-utilities/pull/988) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [Revert &#34;Remove composer unused until new release&#34;](https://github.com/WyriHaximus/php-test-utilities/pull/987) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [Drop thecodingmachine/safe](https://github.com/WyriHaximus/php-test-utilities/pull/986) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [Remove composer unused until new release](https://github.com/WyriHaximus/php-test-utilities/pull/984) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
+- [[GitHub] Update to 1.1.4-a073e1a053477690d506f42cadb2ee51 from 1.1.4-dbba2c62a8f04380c590a1aa0d1194e8](https://github.com/php-api-clients/github-root/pull/1541) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
+- [[GitHubEnterprise-3.15] Update to 1.1.4-a52c4c09b475fc1c0194c7e656ee966d from 1.1.4-9c88bf9f401b8678777d4212dacc4985](https://github.com/php-api-clients/github-root/pull/1540) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
+- [[GitHubEnterprise-3.14] Update to 1.1.4-1716058b6fa04c91e7ec9ca76a7996d2 from 1.1.4-0db954ca7aa760e1c9ee3a6575105048](https://github.com/php-api-clients/github-root/pull/1539) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
+- [[GitHubEnterprise-3.13] Update to 1.1.4-65c7d90809c912f318fd98e5a759353c from 1.1.4-c3eeb28f55a8ddf476a0103d39889bfa](https://github.com/php-api-clients/github-root/pull/1538) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
+- [Drop thecodingmachine/safe](https://github.com/WyriHaximus/reactphp-cache-redis/pull/70) on [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (3 days ago)
+- [Move PHPUnit cache directory to /var/](https://github.com/WyriHaximus/php-test-utilities/pull/983) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-aa6e867dcdb64b9db1fac624925d5631 from 1.1.4-1af67ef4f45d37f00bce6c1060039205](https://github.com/php-api-clients/github-root/pull/1537) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
+- [[GitHub] Update to 1.1.4-dbba2c62a8f04380c590a1aa0d1194e8 from 1.1.4-2c0c305301b4db15047c06c5d15a3675](https://github.com/php-api-clients/github-root/pull/1536) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [bbbenji/synthwave-hass](https://github.com/bbbenji/synthwave-hass) - Synthwave inspired theme for Home Assistant (1 day ago)
+- [bbbenji/synthwave-hass](https://github.com/bbbenji/synthwave-hass) - Synthwave inspired theme for Home Assistant (2 days ago)
 - [DeclanChidlow/BritCSS](https://github.com/DeclanChidlow/BritCSS) - Fixes CSS to use non-bastardised spellings. (1 week ago)
 - [anthonyharrison/sbomaudit](https://github.com/anthonyharrison/sbomaudit) - Report on quality of SBOM contents (1 week ago)
-- [radiofrance/image-registry-metrics-exporter](https://github.com/radiofrance/image-registry-metrics-exporter) - Image Registry Metrics Exporter provides metrics about creation and uploading time of images on OCI registry. (1 week ago)
+- [radiofrance/image-registry-metrics-exporter](https://github.com/radiofrance/image-registry-metrics-exporter) - Image Registry Metrics Exporter provides metrics about creation and uploading time of images on OCI registry. (2 weeks ago)
 - [kenchan0130/actions-system-info](https://github.com/kenchan0130/actions-system-info) - This action provides GitHub Actions runner OS information. (2 weeks ago)
 - [hass-agent/HASS.Agent](https://github.com/hass-agent/HASS.Agent) - Unofficial development project for the HASS.Agent platform. (3 weeks ago)
 - [open-telemetry/opentelemetry-collector-releases](https://github.com/open-telemetry/opentelemetry-collector-releases) - OpenTelemetry Collector Official Releases (3 weeks ago)
