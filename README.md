@@ -61,10 +61,10 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.149.2](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.149.2), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.4.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.4.0), today) - 🌯 PHPStan rules wrapper
 - [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) ([R23](https://github.com/TechEmpower/FrameworkBenchmarks/releases/tag/R23), 1 day ago) - Source for the TechEmpower Framework Benchmarks project
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.16.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.16.0), 2 days ago) - PHP Coding Standard
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([rabbitmq-2.0.5](https://github.com/groundhog2k/helm-charts/releases/tag/rabbitmq-2.0.5), 4 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) ([2.5.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.5.0), 1 week ago) - PSR-14 Event Processing and Notification package
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.0.2](https://github.com/thecodingmachine/safe/releases/tag/v3.0.2), 1 week ago) - All PHP functions, rewritten to throw exceptions instead of returning false
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) ([3.0.1](https://github.com/reactphp-parallel/infinite-pool/releases/tag/3.0.1), 2 weeks ago) - ♾️ Infinite pool for bridging ext-parallel and ReactPHP
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-ae847df328a461c8fd1824d1414a9038 from 1.1.4-aa6e867dcdb64b9db1fac624925d5631](https://github.com/php-api-clients/github-root/pull/1546) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-28a997033a88fffc4459106785ce7992 from 1.1.4-a073e1a053477690d506f42cadb2ee51](https://github.com/php-api-clients/github-root/pull/1545) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Report members only used in tests as dead](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/159) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [Turn all QA checks green](https://github.com/WyriHaximus/php-test-utilities/pull/990) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Revert &#34;Remove composer unused until new release&#34;](https://github.com/WyriHaximus/php-test-utilities/pull/987) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [Drop thecodingmachine/safe](https://github.com/WyriHaximus/php-test-utilities/pull/986) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [Remove composer unused until new release](https://github.com/WyriHaximus/php-test-utilities/pull/984) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
-- [[GitHub] Update to 1.1.4-a073e1a053477690d506f42cadb2ee51 from 1.1.4-dbba2c62a8f04380c590a1aa0d1194e8](https://github.com/php-api-clients/github-root/pull/1541) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 
 ---
 
