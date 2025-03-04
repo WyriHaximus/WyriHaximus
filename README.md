@@ -10,9 +10,11 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
 - [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (today)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
+- [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (2 days ago)
@@ -21,8 +23,6 @@ All new major package releases will be in PHP 8.2
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 week ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 weeks ago)
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (2 weeks ago)
-- [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (2 weeks ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 weeks ago)
 
 ---
 
@@ -97,6 +97,8 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [llaville/phpunit-LoggerTestListener](https://github.com/llaville/phpunit-LoggerTestListener) - PHPUnit Test Suite listener for compatible PSR-3 logger (today)
+- [sirbrillig/spies](https://github.com/sirbrillig/spies) - Easier spies, stubs, and mocks for PHP testing (today)
 - [martin-helmich/phpunit-psr7-assert](https://github.com/martin-helmich/phpunit-psr7-assert) - PHPUnit assertions for PSR-7 messages (today)
 - [bbbenji/synthwave-hass](https://github.com/bbbenji/synthwave-hass) - Synthwave inspired theme for Home Assistant (2 days ago)
 - [DeclanChidlow/BritCSS](https://github.com/DeclanChidlow/BritCSS) - Fixes CSS to use non-bastardised spellings. (1 week ago)
@@ -108,8 +110,6 @@ All new major package releases will be in PHP 8.2
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (1 month ago)
 - [TheFes/HA-configuration](https://github.com/TheFes/HA-configuration) - My Home Assistant config (1 month ago)
 - [yashmulgaonkar/halo](https://github.com/yashmulgaonkar/halo) -  (1 month ago)
-- [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go (1 month ago)
-- [flix-tech/avro-serde-php](https://github.com/flix-tech/avro-serde-php) - Avro Serialisation/Deserialisation (SerDe) library for PHP 8.1&#43; with a Symfony Serializer integration (1 month ago)
 
 ---
 
