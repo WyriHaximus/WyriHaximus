@@ -97,6 +97,8 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [klaudiosinani/hyper-pokemon](https://github.com/klaudiosinani/hyper-pokemon) - Tailor-made Pokémon themes for your Hyper terminal (today)
+- [LazoCoder/Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes. (today)
 - [llaville/phpunit-LoggerTestListener](https://github.com/llaville/phpunit-LoggerTestListener) - PHPUnit Test Suite listener for compatible PSR-3 logger (today)
 - [sirbrillig/spies](https://github.com/sirbrillig/spies) - Easier spies, stubs, and mocks for PHP testing (today)
 - [martin-helmich/phpunit-psr7-assert](https://github.com/martin-helmich/phpunit-psr7-assert) - PHPUnit assertions for PSR-7 messages (today)
@@ -108,8 +110,6 @@ All new major package releases will be in PHP 8.2
 - [hass-agent/HASS.Agent](https://github.com/hass-agent/HASS.Agent) - Unofficial development project for the HASS.Agent platform. (3 weeks ago)
 - [open-telemetry/opentelemetry-collector-releases](https://github.com/open-telemetry/opentelemetry-collector-releases) - OpenTelemetry Collector Official Releases (3 weeks ago)
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (1 month ago)
-- [TheFes/HA-configuration](https://github.com/TheFes/HA-configuration) - My Home Assistant config (1 month ago)
-- [yashmulgaonkar/halo](https://github.com/yashmulgaonkar/halo) -  (1 month ago)
 
 ---
 
