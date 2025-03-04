@@ -98,7 +98,7 @@ All new major package releases will be in PHP 8.2
 #### ⭐ Recent Stars
 
 - [klaudiosinani/hyper-pokemon](https://github.com/klaudiosinani/hyper-pokemon) - Tailor-made Pokémon themes for your Hyper terminal (today)
-- [LazoCoder/Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes. (today)
+- [LazoVelko/Pokemon-Terminal](https://github.com/LazoVelko/Pokemon-Terminal) - Pokemon terminal themes. (today)
 - [llaville/phpunit-LoggerTestListener](https://github.com/llaville/phpunit-LoggerTestListener) - PHPUnit Test Suite listener for compatible PSR-3 logger (today)
 - [sirbrillig/spies](https://github.com/sirbrillig/spies) - Easier spies, stubs, and mocks for PHP testing (today)
 - [martin-helmich/phpunit-psr7-assert](https://github.com/martin-helmich/phpunit-psr7-assert) - PHPUnit assertions for PSR-7 messages (today)
