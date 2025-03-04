@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-28a997033a88fffc4459106785ce7992 from 1.1.4-a073e1a053477690d506f42cadb2ee51](https://github.com/php-api-clients/github-root/pull/1545) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Report members only used in tests as dead](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/159) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [Turn all QA checks green](https://github.com/WyriHaximus/php-test-utilities/pull/990) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [Turn into PHPStan Extension](https://github.com/WyriHaximus/php-test-utilities/pull/989) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Drop thecodingmachine/safe](https://github.com/WyriHaximus/php-test-utilities/pull/986) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [Remove composer unused until new release](https://github.com/WyriHaximus/php-test-utilities/pull/984) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [[GitHub] Update to 1.1.4-a073e1a053477690d506f42cadb2ee51 from 1.1.4-dbba2c62a8f04380c590a1aa0d1194e8](https://github.com/php-api-clients/github-root/pull/1541) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [[GitHubEnterprise-3.15] Update to 1.1.4-a52c4c09b475fc1c0194c7e656ee966d from 1.1.4-9c88bf9f401b8678777d4212dacc4985](https://github.com/php-api-clients/github-root/pull/1540) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 
 ---
 
