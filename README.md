@@ -11,10 +11,10 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
 - [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (1 day ago)
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 day ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
@@ -61,8 +61,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.5.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.5.0), today) - 🌯 PHPStan rules wrapper
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([graylog-0.9.9](https://github.com/groundhog2k/helm-charts/releases/tag/graylog-0.9.9), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.4.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.4.0), 1 day ago) - 🌯 PHPStan rules wrapper
 - [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) ([R23](https://github.com/TechEmpower/FrameworkBenchmarks/releases/tag/R23), 2 days ago) - Source for the TechEmpower Framework Benchmarks project
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.16.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.16.0), 3 days ago) - PHP Coding Standard
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) ([2.5.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.5.0), 1 week ago) - PSR-14 Event Processing and Notification package
