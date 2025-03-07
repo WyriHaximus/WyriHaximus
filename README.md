@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-7adb0053077410f1b1c872d9cf17b27d from 1.1.4-6eb9e9cef1b918146f63de575281583f](https://github.com/php-api-clients/github-root/pull/1552) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-864f215bcb7fda8ed79c1295fb5a81d2 from 1.1.4-7d381dcec5cc31f738fdd8a803bade45](https://github.com/php-api-clients/github-root/pull/1551) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-6eb9e9cef1b918146f63de575281583f from 1.1.4-deaa86f358a396abef8aff5fbc91b653](https://github.com/php-api-clients/github-root/pull/1550) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-7d381dcec5cc31f738fdd8a803bade45 from 1.1.4-28a997033a88fffc4459106785ce7992](https://github.com/php-api-clients/github-root/pull/1549) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Turn all QA checks green](https://github.com/WyriHaximus/php-test-utilities/pull/990) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
 - [Turn into PHPStan Extension](https://github.com/WyriHaximus/php-test-utilities/pull/989) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-dafc4bb4ca8269335f6c4492394f88df from 1.1.4-a52c4c09b475fc1c0194c7e656ee966d](https://github.com/php-api-clients/github-root/pull/1544) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [[GitHubEnterprise-3.14] Update to 1.1.4-d5ac2a68d76d323d5182cd11d4daf614 from 1.1.4-1716058b6fa04c91e7ec9ca76a7996d2](https://github.com/php-api-clients/github-root/pull/1543) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 
 ---
 
