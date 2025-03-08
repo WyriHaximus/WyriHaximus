@@ -61,7 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.149.3](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.149.3), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.150.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.150.0), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.5.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.5.0), 3 days ago) - 🌯 PHPStan rules wrapper
 - [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) ([R23](https://github.com/TechEmpower/FrameworkBenchmarks/releases/tag/R23), 5 days ago) - Source for the TechEmpower Framework Benchmarks project
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.16.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.16.0), 6 days ago) - PHP Coding Standard
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.13] Update to 1.1.4-ffac604ed0c1f24261dd953b32c2fba3 from 1.1.4-802a0cd5a04204e42ef5ea0492e36a70](https://github.com/php-api-clients/github-root/pull/1553) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Run ARM image build &#43; CVE Scan &#43; Test on ARM machines](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/23) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-7adb0053077410f1b1c872d9cf17b27d from 1.1.4-6eb9e9cef1b918146f63de575281583f](https://github.com/php-api-clients/github-root/pull/1552) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-864f215bcb7fda8ed79c1295fb5a81d2 from 1.1.4-7d381dcec5cc31f738fdd8a803bade45](https://github.com/php-api-clients/github-root/pull/1551) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-28a997033a88fffc4459106785ce7992 from 1.1.4-a073e1a053477690d506f42cadb2ee51](https://github.com/php-api-clients/github-root/pull/1545) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [Report members only used in tests as dead](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/159) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (4 days ago)
 - [Turn all QA checks green](https://github.com/WyriHaximus/php-test-utilities/pull/990) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
-- [Turn into PHPStan Extension](https://github.com/WyriHaximus/php-test-utilities/pull/989) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
 
 ---
 
