@@ -11,14 +11,14 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (5 days ago)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (5 days ago)
 - [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (5 days ago)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (5 days ago)
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) (5 days ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 week ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 weeks ago)
