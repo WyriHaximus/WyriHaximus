@@ -79,6 +79,9 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Add support for phpstan/phpdoc-parser v2](https://github.com/composer-unused/symbol-parser/pull/181) on [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) (today)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-f4435e8f9fc01b5ac4711efd22f2b783 from 1.1.4-7adb0053077410f1b1c872d9cf17b27d](https://github.com/php-api-clients/github-root/pull/1561) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [Run unit tests on PHP 8.3 and PHP 8.4 as well](https://github.com/composer-unused/symbol-parser/pull/180) on [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) (today)
 - [[GitHub] Update to 1.1.4-7d805bd34cdea7b6c0229ab2be120a36 from 1.1.4-70c15d3e8826de45231fa16fc40897e0](https://github.com/php-api-clients/github-root/pull/1560) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-8ccdb4a501a9f3713872e86b010424b2 from 1.1.4-0e6a4a1bd0678c8ca272e91b4354bf3a](https://github.com/php-api-clients/github-root/pull/1559) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-bfa60ec3e74b1fce4fd15feaad5f7d6c from 1.1.4-c6bac21f127e4771c961c4af72e21fc4](https://github.com/php-api-clients/github-root/pull/1558) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -89,9 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Add Start event](https://github.com/MammatusPHP/life-cycle-events/pull/47) on [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (1 day ago)
 - [Switch to non-event-loop backed logger when event loop stops](https://github.com/MammatusPHP/app/pull/25) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 day ago)
 - [Switch to centralized Makefiles](https://github.com/WyriHaximus/php-async-test-utilities/pull/276) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (4 days ago)
-- [[GitHub] Update to 1.1.4-70c15d3e8826de45231fa16fc40897e0 from 1.1.4-864f215bcb7fda8ed79c1295fb5a81d2](https://github.com/php-api-clients/github-root/pull/1556) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[GitHubEnterprise-3.15] Update to 1.1.4-0e6a4a1bd0678c8ca272e91b4354bf3a from 1.1.4-531e13661f965ac04f0ddfe589e8a768](https://github.com/php-api-clients/github-root/pull/1555) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[GitHubEnterprise-3.14] Update to 1.1.4-c6bac21f127e4771c961c4af72e21fc4 from 1.1.4-d5ac2a68d76d323d5182cd11d4daf614](https://github.com/php-api-clients/github-root/pull/1554) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 
 ---
 
