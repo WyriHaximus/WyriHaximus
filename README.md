@@ -10,17 +10,17 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
 - [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (1 day ago)
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 day ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (3 days ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (4 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 week ago)
 - [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (1 week ago)
 
@@ -61,9 +61,9 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.7.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.7.0), today) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.12](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.12), today) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) ([2.1.0](https://github.com/MammatusPHP/life-cycle-events/releases/tag/2.1.0), 1 day ago) - 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.6.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.6.0), 4 days ago) - 🌯 PHPStan rules wrapper
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.150.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.150.0), 4 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) ([R23](https://github.com/TechEmpower/FrameworkBenchmarks/releases/tag/R23), 1 week ago) - Source for the TechEmpower Framework Benchmarks project
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.16.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.16.0), 1 week ago) - PHP Coding Standard
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Add maglnet/composer-require-checker back again](https://github.com/WyriHaximus/php-test-utilities/pull/991) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [Add support for phpstan/phpdoc-parser v2](https://github.com/composer-unused/composer-unused/pull/670) on [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) (today)
 - [Add support for phpstan/phpdoc-parser v2](https://github.com/composer-unused/symbol-parser/pull/181) on [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-f4435e8f9fc01b5ac4711efd22f2b783 from 1.1.4-7adb0053077410f1b1c872d9cf17b27d](https://github.com/php-api-clients/github-root/pull/1561) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Cancel all promises when shutting down](https://github.com/MammatusPHP/queue/pull/12) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
 - [Use new start event](https://github.com/MammatusPHP/app/pull/26) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 day ago)
 - [Add Start event](https://github.com/MammatusPHP/life-cycle-events/pull/47) on [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (1 day ago)
-- [Switch to non-event-loop backed logger when event loop stops](https://github.com/MammatusPHP/app/pull/25) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 day ago)
 
 ---
 
