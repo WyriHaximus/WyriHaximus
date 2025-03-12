@@ -10,16 +10,16 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
-- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (today)
-- [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
-- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 days ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (1 day ago)
+- [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 day ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
+- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (3 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (4 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (5 days ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 week ago)
 - [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (1 week ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 week ago)
@@ -61,43 +61,43 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) ([2.1.0](https://github.com/MammatusPHP/life-cycle-events/releases/tag/2.1.0), today) - 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.6.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.6.0), 3 days ago) - 🌯 PHPStan rules wrapper
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.150.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.150.0), 3 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) ([2.1.0](https://github.com/MammatusPHP/life-cycle-events/releases/tag/2.1.0), 1 day ago) - 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.6.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.6.0), 4 days ago) - 🌯 PHPStan rules wrapper
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.150.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.150.0), 4 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) ([R23](https://github.com/TechEmpower/FrameworkBenchmarks/releases/tag/R23), 1 week ago) - Source for the TechEmpower Framework Benchmarks project
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.16.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.16.0), 1 week ago) - PHP Coding Standard
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) ([2.5.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.5.0), 2 weeks ago) - PSR-14 Event Processing and Notification package
-- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.0.2](https://github.com/thecodingmachine/safe/releases/tag/v3.0.2), 2 weeks ago) - All PHP functions, rewritten to throw exceptions instead of returning false
+- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.0.2](https://github.com/thecodingmachine/safe/releases/tag/v3.0.2), 3 weeks ago) - All PHP functions, rewritten to throw exceptions instead of returning false
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) ([3.0.1](https://github.com/reactphp-parallel/infinite-pool/releases/tag/3.0.1), 3 weeks ago) - ♾️ Infinite pool for bridging ext-parallel and ReactPHP
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) ([2.0.0](https://github.com/reactphp-parallel/reactphp-parallel/releases/tag/2.0.0), 4 weeks ago) - 🌉 Bridging ext-parallel and ReactPHP
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.11](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.11), 4 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
-- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) ([2.0.0](https://github.com/reactphp-parallel/streams/releases/tag/2.0.0), 4 weeks ago) - Interthread communication using channels
-- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) ([2.0.0](https://github.com/reactphp-parallel/limited-pool/releases/tag/2.0.0), 4 weeks ago) - 🏔️ Limited pool for ext-parallel
+- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) ([2.0.0](https://github.com/reactphp-parallel/streams/releases/tag/2.0.0), 1 month ago) - Interthread communication using channels
+- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) ([2.0.0](https://github.com/reactphp-parallel/limited-pool/releases/tag/2.0.0), 1 month ago) - 🏔️ Limited pool for ext-parallel
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([4.0.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/4.0.0), 1 month ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
 
 ---
 
 #### 🔨 My recent Pull Requests
 
-- [Cancel all promises when shutting down](https://github.com/MammatusPHP/queue/pull/12) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
-- [Use new start event](https://github.com/MammatusPHP/app/pull/26) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
-- [Add Start event](https://github.com/MammatusPHP/life-cycle-events/pull/47) on [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (today)
-- [Switch to non-event-loop backed logger when event loop stops](https://github.com/MammatusPHP/app/pull/25) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
-- [Switch to centralized Makefiles](https://github.com/WyriHaximus/php-async-test-utilities/pull/276) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (3 days ago)
-- [[GitHub] Update to 1.1.4-70c15d3e8826de45231fa16fc40897e0 from 1.1.4-864f215bcb7fda8ed79c1295fb5a81d2](https://github.com/php-api-clients/github-root/pull/1556) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [[GitHubEnterprise-3.15] Update to 1.1.4-0e6a4a1bd0678c8ca272e91b4354bf3a from 1.1.4-531e13661f965ac04f0ddfe589e8a768](https://github.com/php-api-clients/github-root/pull/1555) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [[GitHubEnterprise-3.14] Update to 1.1.4-c6bac21f127e4771c961c4af72e21fc4 from 1.1.4-d5ac2a68d76d323d5182cd11d4daf614](https://github.com/php-api-clients/github-root/pull/1554) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [[GitHubEnterprise-3.13] Update to 1.1.4-ffac604ed0c1f24261dd953b32c2fba3 from 1.1.4-802a0cd5a04204e42ef5ea0492e36a70](https://github.com/php-api-clients/github-root/pull/1553) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [Run ARM image build &#43; CVE Scan &#43; Test on ARM machines](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/23) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (4 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-7adb0053077410f1b1c872d9cf17b27d from 1.1.4-6eb9e9cef1b918146f63de575281583f](https://github.com/php-api-clients/github-root/pull/1552) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[GitHub] Update to 1.1.4-864f215bcb7fda8ed79c1295fb5a81d2 from 1.1.4-7d381dcec5cc31f738fdd8a803bade45](https://github.com/php-api-clients/github-root/pull/1551) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-6eb9e9cef1b918146f63de575281583f from 1.1.4-deaa86f358a396abef8aff5fbc91b653](https://github.com/php-api-clients/github-root/pull/1550) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
+- [Cancel all promises when shutting down](https://github.com/MammatusPHP/queue/pull/12) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
+- [Use new start event](https://github.com/MammatusPHP/app/pull/26) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 day ago)
+- [Add Start event](https://github.com/MammatusPHP/life-cycle-events/pull/47) on [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (1 day ago)
+- [Switch to non-event-loop backed logger when event loop stops](https://github.com/MammatusPHP/app/pull/25) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 day ago)
+- [Switch to centralized Makefiles](https://github.com/WyriHaximus/php-async-test-utilities/pull/276) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (4 days ago)
+- [[GitHub] Update to 1.1.4-70c15d3e8826de45231fa16fc40897e0 from 1.1.4-864f215bcb7fda8ed79c1295fb5a81d2](https://github.com/php-api-clients/github-root/pull/1556) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
+- [[GitHubEnterprise-3.15] Update to 1.1.4-0e6a4a1bd0678c8ca272e91b4354bf3a from 1.1.4-531e13661f965ac04f0ddfe589e8a768](https://github.com/php-api-clients/github-root/pull/1555) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
+- [[GitHubEnterprise-3.14] Update to 1.1.4-c6bac21f127e4771c961c4af72e21fc4 from 1.1.4-d5ac2a68d76d323d5182cd11d4daf614](https://github.com/php-api-clients/github-root/pull/1554) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
+- [[GitHubEnterprise-3.13] Update to 1.1.4-ffac604ed0c1f24261dd953b32c2fba3 from 1.1.4-802a0cd5a04204e42ef5ea0492e36a70](https://github.com/php-api-clients/github-root/pull/1553) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
+- [Run ARM image build &#43; CVE Scan &#43; Test on ARM machines](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/23) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (5 days ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-7adb0053077410f1b1c872d9cf17b27d from 1.1.4-6eb9e9cef1b918146f63de575281583f](https://github.com/php-api-clients/github-root/pull/1552) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
+- [[GitHub] Update to 1.1.4-864f215bcb7fda8ed79c1295fb5a81d2 from 1.1.4-7d381dcec5cc31f738fdd8a803bade45](https://github.com/php-api-clients/github-root/pull/1551) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-6eb9e9cef1b918146f63de575281583f from 1.1.4-deaa86f358a396abef8aff5fbc91b653](https://github.com/php-api-clients/github-root/pull/1550) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [thgs/functional](https://github.com/thgs/functional) - (experimental) Trying to express some functional concepts in PHP (4 days ago)
+- [thgs/functional](https://github.com/thgs/functional) - (experimental) Trying to express some functional concepts in PHP (5 days ago)
 - [klaudiosinani/hyper-pokemon](https://github.com/klaudiosinani/hyper-pokemon) - Tailor-made Pokémon themes for your Hyper terminal (1 week ago)
 - [LazoVelko/Pokemon-Terminal](https://github.com/LazoVelko/Pokemon-Terminal) - Pokemon terminal themes. (1 week ago)
 - [llaville/phpunit-LoggerTestListener](https://github.com/llaville/phpunit-LoggerTestListener) - PHPUnit Test Suite listener for compatible PSR-3 logger (1 week ago)
@@ -107,7 +107,7 @@ All new major package releases will be in PHP 8.2
 - [DeclanChidlow/BritCSS](https://github.com/DeclanChidlow/BritCSS) - Fixes CSS to use non-bastardised spellings. (2 weeks ago)
 - [anthonyharrison/sbomaudit](https://github.com/anthonyharrison/sbomaudit) - Report on quality of SBOM contents (2 weeks ago)
 - [radiofrance/image-registry-metrics-exporter](https://github.com/radiofrance/image-registry-metrics-exporter) - Image Registry Metrics Exporter provides metrics about creation and uploading time of images on OCI registry. (3 weeks ago)
-- [kenchan0130/actions-system-info](https://github.com/kenchan0130/actions-system-info) - This action provides GitHub Actions runner OS information. (3 weeks ago)
+- [kenchan0130/actions-system-info](https://github.com/kenchan0130/actions-system-info) - This action provides GitHub Actions runner OS information. (4 weeks ago)
 - [hass-agent/HASS.Agent](https://github.com/hass-agent/HASS.Agent) - Unofficial development project for the HASS.Agent platform. (1 month ago)
 - [open-telemetry/opentelemetry-collector-releases](https://github.com/open-telemetry/opentelemetry-collector-releases) - OpenTelemetry Collector Official Releases (1 month ago)
 
