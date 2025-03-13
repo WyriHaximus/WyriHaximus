@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.14] Update to 1.1.4-b1c711111d09784b5c8eea125320b49b from 1.1.4-bfa60ec3e74b1fce4fd15feaad5f7d6c](https://github.com/php-api-clients/github-root/pull/1562) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Add maglnet/composer-require-checker back again](https://github.com/WyriHaximus/php-test-utilities/pull/991) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [Add support for phpstan/phpdoc-parser v2](https://github.com/composer-unused/composer-unused/pull/670) on [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) (1 day ago)
 - [Add support for phpstan/phpdoc-parser v2](https://github.com/composer-unused/symbol-parser/pull/181) on [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[New Version] Update versions file to PHP 8.4.5](https://github.com/WyriHaximus/php-fake-php-version/pull/140) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
 - [Cancel all promises when shutting down](https://github.com/MammatusPHP/queue/pull/12) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
 - [Use new start event](https://github.com/MammatusPHP/app/pull/26) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (2 days ago)
-- [Add Start event](https://github.com/MammatusPHP/life-cycle-events/pull/47) on [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (2 days ago)
 
 ---
 
