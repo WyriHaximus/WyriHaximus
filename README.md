@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.13] Update to 1.1.4-5c10b4ce18a4a421bdfbf1462d9c7578 from 1.1.4-5d741a8b0df125cb7b16317ae5a0ff16](https://github.com/php-api-clients/github-root/pull/1564) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-677a17027c4f55b2f25358b32f865398 from 1.1.4-8ccdb4a501a9f3713872e86b010424b2](https://github.com/php-api-clients/github-root/pull/1563) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-b1c711111d09784b5c8eea125320b49b from 1.1.4-bfa60ec3e74b1fce4fd15feaad5f7d6c](https://github.com/php-api-clients/github-root/pull/1562) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [Add maglnet/composer-require-checker back again](https://github.com/WyriHaximus/php-test-utilities/pull/991) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.14] Update to 1.1.4-bfa60ec3e74b1fce4fd15feaad5f7d6c from 1.1.4-c6bac21f127e4771c961c4af72e21fc4](https://github.com/php-api-clients/github-root/pull/1558) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-5d741a8b0df125cb7b16317ae5a0ff16 from 1.1.4-ffac604ed0c1f24261dd953b32c2fba3](https://github.com/php-api-clients/github-root/pull/1557) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[New Version] Update versions file to PHP 8.4.5](https://github.com/WyriHaximus/php-fake-php-version/pull/140) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
-- [Cancel all promises when shutting down](https://github.com/MammatusPHP/queue/pull/12) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
 
 ---
 
