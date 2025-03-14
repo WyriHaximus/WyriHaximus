@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.15] Update to 1.1.4-e316db5b358f9d3f79c9ccc4f90f9cb6 from 1.1.4-677a17027c4f55b2f25358b32f865398](https://github.com/php-api-clients/github-root/pull/1566) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-d38aae92477e79392ec7b388fbc01e51 from 1.1.4-b1c711111d09784b5c8eea125320b49b](https://github.com/php-api-clients/github-root/pull/1565) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-5c10b4ce18a4a421bdfbf1462d9c7578 from 1.1.4-5d741a8b0df125cb7b16317ae5a0ff16](https://github.com/php-api-clients/github-root/pull/1564) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-677a17027c4f55b2f25358b32f865398 from 1.1.4-8ccdb4a501a9f3713872e86b010424b2](https://github.com/php-api-clients/github-root/pull/1563) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-7d805bd34cdea7b6c0229ab2be120a36 from 1.1.4-70c15d3e8826de45231fa16fc40897e0](https://github.com/php-api-clients/github-root/pull/1560) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-8ccdb4a501a9f3713872e86b010424b2 from 1.1.4-0e6a4a1bd0678c8ca272e91b4354bf3a](https://github.com/php-api-clients/github-root/pull/1559) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-bfa60ec3e74b1fce4fd15feaad5f7d6c from 1.1.4-c6bac21f127e4771c961c4af72e21fc4](https://github.com/php-api-clients/github-root/pull/1558) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [[GitHubEnterprise-3.13] Update to 1.1.4-5d741a8b0df125cb7b16317ae5a0ff16 from 1.1.4-ffac604ed0c1f24261dd953b32c2fba3](https://github.com/php-api-clients/github-root/pull/1557) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 
 ---
 
