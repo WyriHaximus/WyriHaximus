@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Fix task finders](https://github.com/WyriHaximus/Makefiles/pull/2) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-ad7ffa61f67e4015ad76b20ec07feda6 from 1.1.4-f4435e8f9fc01b5ac4711efd22f2b783](https://github.com/php-api-clients/github-root/pull/1568) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHub] Update to 1.1.4-6b88df041143c890905098eb26e5a9a4 from 1.1.4-7d805bd34cdea7b6c0229ab2be120a36](https://github.com/php-api-clients/github-root/pull/1567) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-e316db5b358f9d3f79c9ccc4f90f9cb6 from 1.1.4-677a17027c4f55b2f25358b32f865398](https://github.com/php-api-clients/github-root/pull/1566) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Add support for phpstan/phpdoc-parser v2](https://github.com/composer-unused/symbol-parser/pull/181) on [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) (3 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-f4435e8f9fc01b5ac4711efd22f2b783 from 1.1.4-7adb0053077410f1b1c872d9cf17b27d](https://github.com/php-api-clients/github-root/pull/1561) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [Run unit tests on PHP 8.3 and PHP 8.4 as well](https://github.com/composer-unused/symbol-parser/pull/180) on [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) (3 days ago)
-- [[GitHub] Update to 1.1.4-7d805bd34cdea7b6c0229ab2be120a36 from 1.1.4-70c15d3e8826de45231fa16fc40897e0](https://github.com/php-api-clients/github-root/pull/1560) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 
 ---
 
