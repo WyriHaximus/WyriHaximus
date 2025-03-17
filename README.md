@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (2 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (2 days ago)
-- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (3 days ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (4 days ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (4 days ago)
-- [MammatusPHP/app](https://github.com/MammatusPHP/app) (5 days ago)
-- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (5 days ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (5 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
+- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (3 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
+- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (4 days ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (5 days ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (5 days ago)
+- [MammatusPHP/app](https://github.com/MammatusPHP/app) (6 days ago)
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (6 days ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (6 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 week ago)
 
 ---
@@ -61,13 +61,13 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.2](https://github.com/composer-unused/composer-unused/releases/tag/0.9.2), today) - Show unused composer dependencies by scanning your code
-- [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.2.7](https://github.com/composer-unused/symbol-parser/releases/tag/0.2.7), today) - Toolkit to parse symbols from a composer package
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([nextcloud-0.19.1](https://github.com/groundhog2k/helm-charts/releases/tag/nextcloud-0.19.1), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.7.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.7.0), 4 days ago) - 🌯 PHPStan rules wrapper
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.12](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.12), 4 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
-- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) ([2.1.0](https://github.com/MammatusPHP/life-cycle-events/releases/tag/2.1.0), 5 days ago) - 
-- [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) ([R23](https://github.com/TechEmpower/FrameworkBenchmarks/releases/tag/R23), 1 week ago) - Source for the TechEmpower Framework Benchmarks project
+- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.2](https://github.com/composer-unused/composer-unused/releases/tag/0.9.2), 1 day ago) - Show unused composer dependencies by scanning your code
+- [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.2.7](https://github.com/composer-unused/symbol-parser/releases/tag/0.2.7), 1 day ago) - Toolkit to parse symbols from a composer package
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([nextcloud-0.19.1](https://github.com/groundhog2k/helm-charts/releases/tag/nextcloud-0.19.1), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.7.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.7.0), 5 days ago) - 🌯 PHPStan rules wrapper
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.12](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.12), 5 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) ([2.1.0](https://github.com/MammatusPHP/life-cycle-events/releases/tag/2.1.0), 6 days ago) - 
+- [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) ([R23](https://github.com/TechEmpower/FrameworkBenchmarks/releases/tag/R23), 2 weeks ago) - Source for the TechEmpower Framework Benchmarks project
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.16.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.16.0), 2 weeks ago) - PHP Coding Standard
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) ([2.5.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.5.0), 3 weeks ago) - PSR-14 Event Processing and Notification package
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.0.2](https://github.com/thecodingmachine/safe/releases/tag/v3.0.2), 3 weeks ago) - All PHP functions, rewritten to throw exceptions instead of returning false
@@ -79,26 +79,26 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
-- [Fix task finders](https://github.com/WyriHaximus/Makefiles/pull/2) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-ad7ffa61f67e4015ad76b20ec07feda6 from 1.1.4-f4435e8f9fc01b5ac4711efd22f2b783](https://github.com/php-api-clients/github-root/pull/1568) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [[GitHub] Update to 1.1.4-6b88df041143c890905098eb26e5a9a4 from 1.1.4-7d805bd34cdea7b6c0229ab2be120a36](https://github.com/php-api-clients/github-root/pull/1567) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [[GitHubEnterprise-3.15] Update to 1.1.4-e316db5b358f9d3f79c9ccc4f90f9cb6 from 1.1.4-677a17027c4f55b2f25358b32f865398](https://github.com/php-api-clients/github-root/pull/1566) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [[GitHubEnterprise-3.14] Update to 1.1.4-d38aae92477e79392ec7b388fbc01e51 from 1.1.4-b1c711111d09784b5c8eea125320b49b](https://github.com/php-api-clients/github-root/pull/1565) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [[GitHubEnterprise-3.13] Update to 1.1.4-5c10b4ce18a4a421bdfbf1462d9c7578 from 1.1.4-5d741a8b0df125cb7b16317ae5a0ff16](https://github.com/php-api-clients/github-root/pull/1564) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
-- [[GitHubEnterprise-3.15] Update to 1.1.4-677a17027c4f55b2f25358b32f865398 from 1.1.4-8ccdb4a501a9f3713872e86b010424b2](https://github.com/php-api-clients/github-root/pull/1563) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [[GitHubEnterprise-3.14] Update to 1.1.4-b1c711111d09784b5c8eea125320b49b from 1.1.4-bfa60ec3e74b1fce4fd15feaad5f7d6c](https://github.com/php-api-clients/github-root/pull/1562) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [Add maglnet/composer-require-checker back again](https://github.com/WyriHaximus/php-test-utilities/pull/991) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
-- [Add support for phpstan/phpdoc-parser v2](https://github.com/composer-unused/composer-unused/pull/670) on [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) (4 days ago)
-- [Add support for phpstan/phpdoc-parser v2](https://github.com/composer-unused/symbol-parser/pull/181) on [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) (4 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-f4435e8f9fc01b5ac4711efd22f2b783 from 1.1.4-7adb0053077410f1b1c872d9cf17b27d](https://github.com/php-api-clients/github-root/pull/1561) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [Run unit tests on PHP 8.3 and PHP 8.4 as well](https://github.com/composer-unused/symbol-parser/pull/180) on [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) (4 days ago)
+- [Fix task finders](https://github.com/WyriHaximus/Makefiles/pull/2) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-ad7ffa61f67e4015ad76b20ec07feda6 from 1.1.4-f4435e8f9fc01b5ac4711efd22f2b783](https://github.com/php-api-clients/github-root/pull/1568) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
+- [[GitHub] Update to 1.1.4-6b88df041143c890905098eb26e5a9a4 from 1.1.4-7d805bd34cdea7b6c0229ab2be120a36](https://github.com/php-api-clients/github-root/pull/1567) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
+- [[GitHubEnterprise-3.15] Update to 1.1.4-e316db5b358f9d3f79c9ccc4f90f9cb6 from 1.1.4-677a17027c4f55b2f25358b32f865398](https://github.com/php-api-clients/github-root/pull/1566) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
+- [[GitHubEnterprise-3.14] Update to 1.1.4-d38aae92477e79392ec7b388fbc01e51 from 1.1.4-b1c711111d09784b5c8eea125320b49b](https://github.com/php-api-clients/github-root/pull/1565) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
+- [[GitHubEnterprise-3.13] Update to 1.1.4-5c10b4ce18a4a421bdfbf1462d9c7578 from 1.1.4-5d741a8b0df125cb7b16317ae5a0ff16](https://github.com/php-api-clients/github-root/pull/1564) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
+- [[GitHubEnterprise-3.15] Update to 1.1.4-677a17027c4f55b2f25358b32f865398 from 1.1.4-8ccdb4a501a9f3713872e86b010424b2](https://github.com/php-api-clients/github-root/pull/1563) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
+- [[GitHubEnterprise-3.14] Update to 1.1.4-b1c711111d09784b5c8eea125320b49b from 1.1.4-bfa60ec3e74b1fce4fd15feaad5f7d6c](https://github.com/php-api-clients/github-root/pull/1562) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
+- [Add maglnet/composer-require-checker back again](https://github.com/WyriHaximus/php-test-utilities/pull/991) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
+- [Add support for phpstan/phpdoc-parser v2](https://github.com/composer-unused/composer-unused/pull/670) on [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) (5 days ago)
+- [Add support for phpstan/phpdoc-parser v2](https://github.com/composer-unused/symbol-parser/pull/181) on [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) (5 days ago)
+- [[GitHubEnterpriseCloud] Update to 1.1.4-f4435e8f9fc01b5ac4711efd22f2b783 from 1.1.4-7adb0053077410f1b1c872d9cf17b27d](https://github.com/php-api-clients/github-root/pull/1561) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
+- [Run unit tests on PHP 8.3 and PHP 8.4 as well](https://github.com/composer-unused/symbol-parser/pull/180) on [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) (5 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container. (1 day ago)
-- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (1 day ago)
+- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container. (2 days ago)
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (2 days ago)
 - [thgs/functional](https://github.com/thgs/functional) - (experimental) Trying to express some functional concepts in PHP (1 week ago)
 - [klaudiosinani/hyper-pokemon](https://github.com/klaudiosinani/hyper-pokemon) - Tailor-made Pokémon themes for your Hyper terminal (1 week ago)
 - [LazoVelko/Pokemon-Terminal](https://github.com/LazoVelko/Pokemon-Terminal) - Pokemon terminal themes. (1 week ago)
