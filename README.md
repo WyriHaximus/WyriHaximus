@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-808b83641f5a6cdecf73cd52f50366e7 from 1.1.4-6b88df041143c890905098eb26e5a9a4](https://github.com/php-api-clients/github-root/pull/1572) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-35aa0c27af04ff30389730ec172a99ab from 1.1.4-e316db5b358f9d3f79c9ccc4f90f9cb6](https://github.com/php-api-clients/github-root/pull/1571) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-104eead85eed7e03a026852edc095233 from 1.1.4-d38aae92477e79392ec7b388fbc01e51](https://github.com/php-api-clients/github-root/pull/1570) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-09460ffde7c51e6470752d5d41c06e16 from 1.1.4-5c10b4ce18a4a421bdfbf1462d9c7578](https://github.com/php-api-clients/github-root/pull/1569) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.15] Update to 1.1.4-677a17027c4f55b2f25358b32f865398 from 1.1.4-8ccdb4a501a9f3713872e86b010424b2](https://github.com/php-api-clients/github-root/pull/1563) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-b1c711111d09784b5c8eea125320b49b from 1.1.4-bfa60ec3e74b1fce4fd15feaad5f7d6c](https://github.com/php-api-clients/github-root/pull/1562) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [Add maglnet/composer-require-checker back again](https://github.com/WyriHaximus/php-test-utilities/pull/991) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
-- [Add support for phpstan/phpdoc-parser v2](https://github.com/composer-unused/composer-unused/pull/670) on [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) (6 days ago)
 
 ---
 
