@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Raise to PHP 8.2&#43;](https://github.com/WyriHaximus/StaticMap/pull/87) on [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-18d1649ae731235428cf7dff63fe488a from 1.1.4-ad7ffa61f67e4015ad76b20ec07feda6](https://github.com/php-api-clients/github-root/pull/1573) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-808b83641f5a6cdecf73cd52f50366e7 from 1.1.4-6b88df041143c890905098eb26e5a9a4](https://github.com/php-api-clients/github-root/pull/1572) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-35aa0c27af04ff30389730ec172a99ab from 1.1.4-e316db5b358f9d3f79c9ccc4f90f9cb6](https://github.com/php-api-clients/github-root/pull/1571) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.14] Update to 1.1.4-d38aae92477e79392ec7b388fbc01e51 from 1.1.4-b1c711111d09784b5c8eea125320b49b](https://github.com/php-api-clients/github-root/pull/1565) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-5c10b4ce18a4a421bdfbf1462d9c7578 from 1.1.4-5d741a8b0df125cb7b16317ae5a0ff16](https://github.com/php-api-clients/github-root/pull/1564) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-677a17027c4f55b2f25358b32f865398 from 1.1.4-8ccdb4a501a9f3713872e86b010424b2](https://github.com/php-api-clients/github-root/pull/1563) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
-- [[GitHubEnterprise-3.14] Update to 1.1.4-b1c711111d09784b5c8eea125320b49b from 1.1.4-bfa60ec3e74b1fce4fd15feaad5f7d6c](https://github.com/php-api-clients/github-root/pull/1562) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 
 ---
 
