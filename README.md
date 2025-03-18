@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.13] Update to 1.1.4-09460ffde7c51e6470752d5d41c06e16 from 1.1.4-5c10b4ce18a4a421bdfbf1462d9c7578](https://github.com/php-api-clients/github-root/pull/1569) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Fix task finders](https://github.com/WyriHaximus/Makefiles/pull/2) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-ad7ffa61f67e4015ad76b20ec07feda6 from 1.1.4-f4435e8f9fc01b5ac4711efd22f2b783](https://github.com/php-api-clients/github-root/pull/1568) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHub] Update to 1.1.4-6b88df041143c890905098eb26e5a9a4 from 1.1.4-7d805bd34cdea7b6c0229ab2be120a36](https://github.com/php-api-clients/github-root/pull/1567) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Add support for phpstan/phpdoc-parser v2](https://github.com/composer-unused/composer-unused/pull/670) on [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) (6 days ago)
 - [Add support for phpstan/phpdoc-parser v2](https://github.com/composer-unused/symbol-parser/pull/181) on [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) (6 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-f4435e8f9fc01b5ac4711efd22f2b783 from 1.1.4-7adb0053077410f1b1c872d9cf17b27d](https://github.com/php-api-clients/github-root/pull/1561) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
-- [Run unit tests on PHP 8.3 and PHP 8.4 as well](https://github.com/composer-unused/symbol-parser/pull/180) on [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) (6 days ago)
 
 ---
 
