@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.15] Update to 1.1.4-35aa0c27af04ff30389730ec172a99ab from 1.1.4-e316db5b358f9d3f79c9ccc4f90f9cb6](https://github.com/php-api-clients/github-root/pull/1571) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-104eead85eed7e03a026852edc095233 from 1.1.4-d38aae92477e79392ec7b388fbc01e51](https://github.com/php-api-clients/github-root/pull/1570) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-09460ffde7c51e6470752d5d41c06e16 from 1.1.4-5c10b4ce18a4a421bdfbf1462d9c7578](https://github.com/php-api-clients/github-root/pull/1569) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Fix task finders](https://github.com/WyriHaximus/Makefiles/pull/2) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
@@ -91,12 +92,12 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.14] Update to 1.1.4-b1c711111d09784b5c8eea125320b49b from 1.1.4-bfa60ec3e74b1fce4fd15feaad5f7d6c](https://github.com/php-api-clients/github-root/pull/1562) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [Add maglnet/composer-require-checker back again](https://github.com/WyriHaximus/php-test-utilities/pull/991) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
 - [Add support for phpstan/phpdoc-parser v2](https://github.com/composer-unused/composer-unused/pull/670) on [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) (6 days ago)
-- [Add support for phpstan/phpdoc-parser v2](https://github.com/composer-unused/symbol-parser/pull/181) on [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) (6 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
+- [kamaradclimber/datadog-integration-ha](https://github.com/kamaradclimber/datadog-integration-ha) - A better datadog integration for Home Assistant (today)
 - [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container. (3 days ago)
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (3 days ago)
 - [thgs/functional](https://github.com/thgs/functional) - (experimental) Trying to express some functional concepts in PHP (1 week ago)
@@ -109,7 +110,6 @@ All new major package releases will be in PHP 8.2
 - [DeclanChidlow/BritCSS](https://github.com/DeclanChidlow/BritCSS) - Fixes CSS to use non-bastardised spellings. (3 weeks ago)
 - [anthonyharrison/sbomaudit](https://github.com/anthonyharrison/sbomaudit) - Report on quality of SBOM contents (3 weeks ago)
 - [radiofrance/image-registry-metrics-exporter](https://github.com/radiofrance/image-registry-metrics-exporter) - Image Registry Metrics Exporter provides metrics about creation and uploading time of images on OCI registry. (4 weeks ago)
-- [kenchan0130/actions-system-info](https://github.com/kenchan0130/actions-system-info) - This action provides GitHub Actions runner OS information. (1 month ago)
 
 ---
 
