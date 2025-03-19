@@ -12,17 +12,17 @@ All new major package releases will be in PHP 8.2
 
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (today)
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (today)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (today)
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (today)
-- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (today)
 - [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (today)
+- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (today)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (today)
 - [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (today)
 - [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (today)
-- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
+- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (today)
 
 ---
 
