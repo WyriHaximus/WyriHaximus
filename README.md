@@ -21,8 +21,8 @@ All new major package releases will be in PHP 8.2
 - [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (today)
 - [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (today)
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (today)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
-- [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
 
 ---
 
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-85662c80b53f38fb1fdf4e581c839168 from 1.1.4-808b83641f5a6cdecf73cd52f50366e7](https://github.com/php-api-clients/github-root/pull/1574) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [OCI Image cleanup](https://github.com/WyriHaximus/github-workflows/pull/65) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [[0.6.x] Wait for connection to fully open while opening channel](https://github.com/jakubkulhan/bunny/pull/169) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [Add Conductor through Utils](https://github.com/MammatusPHP/test-app/pull/1) on [MammatusPHP/test-app](https://github.com/MammatusPHP/test-app) (today)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Add Conductor through Utils](https://github.com/MammatusPHP/http-server/pull/188) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [Add Conductor through Utils](https://github.com/MammatusPHP/http-server-contracts/pull/4) on [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (today)
 - [Add Conductor through Utils](https://github.com/MammatusPHP/http-server-webroot/pull/3) on [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (today)
-- [Add Conductor through Utils](https://github.com/MammatusPHP/metrics-prometheus/pull/6) on [MammatusPHP/metrics-prometheus](https://github.com/MammatusPHP/metrics-prometheus) (today)
 
 ---
 
