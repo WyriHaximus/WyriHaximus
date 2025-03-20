@@ -12,9 +12,9 @@ All new major package releases will be in PHP 8.2
 
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (today)
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (1 day ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 day ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 day ago)
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 day ago)
