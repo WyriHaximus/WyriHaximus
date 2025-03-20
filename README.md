@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-4bfe6378be3ffa1aed95dac111e07ebb from 1.1.4-85662c80b53f38fb1fdf4e581c839168](https://github.com/php-api-clients/github-root/pull/1579) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-eebe824d504b8ef98e409bfc84091e66 from 1.1.4-35aa0c27af04ff30389730ec172a99ab](https://github.com/php-api-clients/github-root/pull/1578) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-8137cb0f7b4d2c9a7e11798086b95b2a from 1.1.4-104eead85eed7e03a026852edc095233](https://github.com/php-api-clients/github-root/pull/1577) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-846745eeb2646f15a6b0f4da036bfed8 from 1.1.4-09460ffde7c51e6470752d5d41c06e16](https://github.com/php-api-clients/github-root/pull/1576) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Add Conductor through Utils](https://github.com/MammatusPHP/http-server-annotations/pull/1) on [MammatusPHP/http-server-annotations](https://github.com/MammatusPHP/http-server-annotations) (1 day ago)
 - [Add Conductor through Utils](https://github.com/MammatusPHP/test-utilities/pull/30) on [MammatusPHP/test-utilities](https://github.com/MammatusPHP/test-utilities) (1 day ago)
 - [Add Conductor through Utils](https://github.com/MammatusPHP/healthz-vhost/pull/1) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (1 day ago)
-- [Add Conductor through Utils](https://github.com/MammatusPHP/http-server-websockets/pull/25) on [MammatusPHP/http-server-websockets](https://github.com/MammatusPHP/http-server-websockets) (1 day ago)
 
 ---
 
