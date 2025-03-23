@@ -12,17 +12,17 @@ All new major package releases will be in PHP 8.2
 
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
+- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (3 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (3 days ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
-- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (4 days ago)
-- [MammatusPHP/app](https://github.com/MammatusPHP/app) (4 days ago)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (4 days ago)
-- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (4 days ago)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (4 days ago)
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (4 days ago)
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (4 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
+- [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (4 days ago)
+- [MammatusPHP/app](https://github.com/MammatusPHP/app) (4 days ago)
+- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (4 days ago)
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (4 days ago)
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (4 days ago)
+- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (4 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
+- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (4 days ago)
 
 ---
 
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Support multiple consumer attributes per worker](https://github.com/MammatusPHP/queue/pull/14) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [[0.6.x] One command local testing](https://github.com/jakubkulhan/bunny/pull/172) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-55f74f3e5247a80d845e796bbe3a0f26 from 1.1.4-eebe824d504b8ef98e409bfc84091e66](https://github.com/php-api-clients/github-root/pull/1583) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 days ago)
 - [[WIP] [0.6.x] Concurrent consuming](https://github.com/jakubkulhan/bunny/pull/171) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.13] Update to 1.1.4-846745eeb2646f15a6b0f4da036bfed8 from 1.1.4-09460ffde7c51e6470752d5d41c06e16](https://github.com/php-api-clients/github-root/pull/1576) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-21f5b960fb05aea66521f2bc8c61be9b from 1.1.4-18d1649ae731235428cf7dff63fe488a](https://github.com/php-api-clients/github-root/pull/1575) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHub] Update to 1.1.4-85662c80b53f38fb1fdf4e581c839168 from 1.1.4-808b83641f5a6cdecf73cd52f50366e7](https://github.com/php-api-clients/github-root/pull/1574) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [OCI Image cleanup](https://github.com/WyriHaximus/github-workflows/pull/65) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 
 ---
 
