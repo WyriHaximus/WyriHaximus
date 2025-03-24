@@ -11,8 +11,8 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (today)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (4 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (5 days ago)
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-82b1087a8dddd5516c99b2197699c7e0 from 1.1.4-4bfe6378be3ffa1aed95dac111e07ebb](https://github.com/php-api-clients/github-root/pull/1584) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [Add required friendly name to consumer for k8s resource creation](https://github.com/MammatusPHP/queue-attributes/pull/10) on [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (today)
 - [Support multiple consumer attributes per worker](https://github.com/MammatusPHP/queue/pull/14) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
 - [[0.6.x] One command local testing](https://github.com/jakubkulhan/bunny/pull/172) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.15] Update to 1.1.4-eebe824d504b8ef98e409bfc84091e66 from 1.1.4-35aa0c27af04ff30389730ec172a99ab](https://github.com/php-api-clients/github-root/pull/1578) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-8137cb0f7b4d2c9a7e11798086b95b2a from 1.1.4-104eead85eed7e03a026852edc095233](https://github.com/php-api-clients/github-root/pull/1577) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-846745eeb2646f15a6b0f4da036bfed8 from 1.1.4-09460ffde7c51e6470752d5d41c06e16](https://github.com/php-api-clients/github-root/pull/1576) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-21f5b960fb05aea66521f2bc8c61be9b from 1.1.4-18d1649ae731235428cf7dff63fe488a](https://github.com/php-api-clients/github-root/pull/1575) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 
 ---
 
