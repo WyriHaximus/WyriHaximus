@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.11.0](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.11.0), today) - Kubernetes controller for GitHub Actions self-hosted runners
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([nextcloud-0.19.2](https://github.com/groundhog2k/helm-charts/releases/tag/nextcloud-0.19.2), 5 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.3.1](https://github.com/composer-unused/symbol-parser/releases/tag/0.3.1), 6 days ago) - Toolkit to parse symbols from a composer package
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.2](https://github.com/composer-unused/composer-unused/releases/tag/0.9.2), 1 week ago) - Show unused composer dependencies by scanning your code
@@ -73,12 +74,12 @@ All new major package releases will be in PHP 8.2
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.0.2](https://github.com/thecodingmachine/safe/releases/tag/v3.0.2), 1 month ago) - All PHP functions, rewritten to throw exceptions instead of returning false
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) ([3.0.1](https://github.com/reactphp-parallel/infinite-pool/releases/tag/3.0.1), 1 month ago) - ♾️ Infinite pool for bridging ext-parallel and ReactPHP
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) ([2.0.0](https://github.com/reactphp-parallel/reactphp-parallel/releases/tag/2.0.0), 1 month ago) - 🌉 Bridging ext-parallel and ReactPHP
-- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) ([2.0.0](https://github.com/reactphp-parallel/streams/releases/tag/2.0.0), 1 month ago) - Interthread communication using channels
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.15] Update to 1.1.4-c839dc4b91fdd6e7b4bb4312c26a3e3d from 1.1.4-55f74f3e5247a80d845e796bbe3a0f26](https://github.com/php-api-clients/github-root/pull/1588) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-fd3452e633ca20f3b19f783b723e8aae from 1.1.4-17c2c7428f307a53f2d8a29fc0b52750](https://github.com/php-api-clients/github-root/pull/1587) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-b39b954044a7394ab4e5fe3ce2b56edc from 1.1.4-068189c2ddb887d39c830e1d08c2e36b](https://github.com/php-api-clients/github-root/pull/1586) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-a62795d7aa9301578af5c944c028e062 from 1.1.4-577e687ceeee401a1490a54445a24758](https://github.com/php-api-clients/github-root/pull/1585) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.14] Update to 1.1.4-17c2c7428f307a53f2d8a29fc0b52750 from 1.1.4-8137cb0f7b4d2c9a7e11798086b95b2a](https://github.com/php-api-clients/github-root/pull/1582) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-068189c2ddb887d39c830e1d08c2e36b from 1.1.4-846745eeb2646f15a6b0f4da036bfed8](https://github.com/php-api-clients/github-root/pull/1581) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-577e687ceeee401a1490a54445a24758 from 1.1.4-21f5b960fb05aea66521f2bc8c61be9b](https://github.com/php-api-clients/github-root/pull/1580) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
-- [[GitHub] Update to 1.1.4-4bfe6378be3ffa1aed95dac111e07ebb from 1.1.4-85662c80b53f38fb1fdf4e581c839168](https://github.com/php-api-clients/github-root/pull/1579) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 
 ---
 
