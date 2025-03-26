@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[0.6.x] Strengthen channel consume test assertations](https://github.com/jakubkulhan/bunny/pull/173) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-c839dc4b91fdd6e7b4bb4312c26a3e3d from 1.1.4-55f74f3e5247a80d845e796bbe3a0f26](https://github.com/php-api-clients/github-root/pull/1588) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-fd3452e633ca20f3b19f783b723e8aae from 1.1.4-17c2c7428f307a53f2d8a29fc0b52750](https://github.com/php-api-clients/github-root/pull/1587) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-b39b954044a7394ab4e5fe3ce2b56edc from 1.1.4-068189c2ddb887d39c830e1d08c2e36b](https://github.com/php-api-clients/github-root/pull/1586) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[WIP] [0.6.x] Concurrent consuming](https://github.com/jakubkulhan/bunny/pull/171) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-17c2c7428f307a53f2d8a29fc0b52750 from 1.1.4-8137cb0f7b4d2c9a7e11798086b95b2a](https://github.com/php-api-clients/github-root/pull/1582) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-068189c2ddb887d39c830e1d08c2e36b from 1.1.4-846745eeb2646f15a6b0f4da036bfed8](https://github.com/php-api-clients/github-root/pull/1581) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-577e687ceeee401a1490a54445a24758 from 1.1.4-21f5b960fb05aea66521f2bc8c61be9b](https://github.com/php-api-clients/github-root/pull/1580) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 
 ---
 
