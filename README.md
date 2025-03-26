@@ -97,6 +97,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot (today)
 - [kmorning/cert-manager-webhook-desec](https://github.com/kmorning/cert-manager-webhook-desec) - A cert-manager webhook to solve an ACME DNS01 challenge using the deSEC API (5 days ago)
 - [kamaradclimber/datadog-integration-ha](https://github.com/kamaradclimber/datadog-integration-ha) - A better datadog integration for Home Assistant (1 week ago)
 - [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container. (1 week ago)
@@ -109,7 +110,6 @@ All new major package releases will be in PHP 8.2
 - [martin-helmich/phpunit-psr7-assert](https://github.com/martin-helmich/phpunit-psr7-assert) - PHPUnit assertions for PSR-7 messages (3 weeks ago)
 - [bbbenji/synthwave-hass](https://github.com/bbbenji/synthwave-hass) - Synthwave inspired theme for Home Assistant (3 weeks ago)
 - [DeclanChidlow/BritCSS](https://github.com/DeclanChidlow/BritCSS) - Fixes CSS to use non-bastardised spellings. (1 month ago)
-- [anthonyharrison/sbomaudit](https://github.com/anthonyharrison/sbomaudit) - Report on quality of SBOM contents (1 month ago)
 
 ---
 
