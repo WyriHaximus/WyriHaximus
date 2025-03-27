@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterpriseCloud] Update to 1.1.4-4cb6d3199626db79592936e2eb4a1700 from 1.1.4-a62795d7aa9301578af5c944c028e062](https://github.com/php-api-clients/github-root/pull/1593) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHub] Update to 1.1.4-55d97765ea3cb2894a2648379d436234 from 1.1.4-82b1087a8dddd5516c99b2197699c7e0](https://github.com/php-api-clients/github-root/pull/1592) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-a04f85f2187264e621cc3e26231363c0 from 1.1.4-c839dc4b91fdd6e7b4bb4312c26a3e3d](https://github.com/php-api-clients/github-root/pull/1591) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-e6245dc0265b13d0ccc4baa506381410 from 1.1.4-fd3452e633ca20f3b19f783b723e8aae](https://github.com/php-api-clients/github-root/pull/1590) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHub] Update to 1.1.4-82b1087a8dddd5516c99b2197699c7e0 from 1.1.4-4bfe6378be3ffa1aed95dac111e07ebb](https://github.com/php-api-clients/github-root/pull/1584) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [Add required friendly name to consumer for k8s resource creation](https://github.com/MammatusPHP/queue-attributes/pull/10) on [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (3 days ago)
 - [Support multiple consumer attributes per worker](https://github.com/MammatusPHP/queue/pull/14) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
-- [[0.6.x] One command local testing](https://github.com/jakubkulhan/bunny/pull/172) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (4 days ago)
 
 ---
 
