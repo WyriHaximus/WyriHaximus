@@ -61,7 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([gitea-0.12.6](https://github.com/groundhog2k/helm-charts/releases/tag/gitea-0.12.6), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.154.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.154.0), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.11.0](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.11.0), 2 days ago) - Kubernetes controller for GitHub Actions self-hosted runners
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.3.1](https://github.com/composer-unused/symbol-parser/releases/tag/0.3.1), 1 week ago) - Toolkit to parse symbols from a composer package
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.2](https://github.com/composer-unused/composer-unused/releases/tag/0.9.2), 1 week ago) - Show unused composer dependencies by scanning your code
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHub] Update to 1.1.4-55d97765ea3cb2894a2648379d436234 from 1.1.4-82b1087a8dddd5516c99b2197699c7e0](https://github.com/php-api-clients/github-root/pull/1592) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-a04f85f2187264e621cc3e26231363c0 from 1.1.4-c839dc4b91fdd6e7b4bb4312c26a3e3d](https://github.com/php-api-clients/github-root/pull/1591) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-e6245dc0265b13d0ccc4baa506381410 from 1.1.4-fd3452e633ca20f3b19f783b723e8aae](https://github.com/php-api-clients/github-root/pull/1590) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-9132531bf7c2236209780366a1c898ae from 1.1.4-b39b954044a7394ab4e5fe3ce2b56edc](https://github.com/php-api-clients/github-root/pull/1589) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Add required friendly name to consumer for k8s resource creation](https://github.com/MammatusPHP/queue-attributes/pull/10) on [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (3 days ago)
 - [Support multiple consumer attributes per worker](https://github.com/MammatusPHP/queue/pull/14) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
 - [[0.6.x] One command local testing](https://github.com/jakubkulhan/bunny/pull/172) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (4 days ago)
-- [[GitHubEnterprise-3.15] Update to 1.1.4-55f74f3e5247a80d845e796bbe3a0f26 from 1.1.4-eebe824d504b8ef98e409bfc84091e66](https://github.com/php-api-clients/github-root/pull/1583) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 
 ---
 
