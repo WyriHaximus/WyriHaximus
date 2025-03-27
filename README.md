@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[GitHubEnterprise-3.15] Update to 1.1.4-a04f85f2187264e621cc3e26231363c0 from 1.1.4-c839dc4b91fdd6e7b4bb4312c26a3e3d](https://github.com/php-api-clients/github-root/pull/1591) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-e6245dc0265b13d0ccc4baa506381410 from 1.1.4-fd3452e633ca20f3b19f783b723e8aae](https://github.com/php-api-clients/github-root/pull/1590) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-9132531bf7c2236209780366a1c898ae from 1.1.4-b39b954044a7394ab4e5fe3ce2b56edc](https://github.com/php-api-clients/github-root/pull/1589) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [[0.6.x] Strengthen channel consume test assertations](https://github.com/jakubkulhan/bunny/pull/173) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Support multiple consumer attributes per worker](https://github.com/MammatusPHP/queue/pull/14) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
 - [[0.6.x] One command local testing](https://github.com/jakubkulhan/bunny/pull/172) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (4 days ago)
 - [[GitHubEnterprise-3.15] Update to 1.1.4-55f74f3e5247a80d845e796bbe3a0f26 from 1.1.4-eebe824d504b8ef98e409bfc84091e66](https://github.com/php-api-clients/github-root/pull/1583) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
-- [[WIP] [0.6.x] Concurrent consuming](https://github.com/jakubkulhan/bunny/pull/171) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (6 days ago)
 
 ---
 
