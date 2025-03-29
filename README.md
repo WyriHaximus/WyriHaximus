@@ -97,6 +97,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [otwld/ollama-helm](https://github.com/otwld/ollama-helm) - Helm chart for Ollama on Kubernetes (today)
 - [hakaioffsec/IngressNightmare-PoC](https://github.com/hakaioffsec/IngressNightmare-PoC) - This is a PoC code to exploit the IngressNightmare vulnerabilities (CVE-2025-1097, CVE-2025-1098, CVE-2025-24514, and CVE-2025-1974). (3 days ago)
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot (3 days ago)
 - [kmorning/cert-manager-webhook-desec](https://github.com/kmorning/cert-manager-webhook-desec) - A cert-manager webhook to solve an ACME DNS01 challenge using the deSEC API (1 week ago)
@@ -109,7 +110,6 @@ All new major package releases will be in PHP 8.2
 - [llaville/phpunit-LoggerTestListener](https://github.com/llaville/phpunit-LoggerTestListener) - PHPUnit Test Suite listener for compatible PSR-3 logger (3 weeks ago)
 - [sirbrillig/spies](https://github.com/sirbrillig/spies) - Easier spies, stubs, and mocks for PHP testing (3 weeks ago)
 - [martin-helmich/phpunit-psr7-assert](https://github.com/martin-helmich/phpunit-psr7-assert) - PHPUnit assertions for PSR-7 messages (3 weeks ago)
-- [bbbenji/synthwave-hass](https://github.com/bbbenji/synthwave-hass) - Synthwave inspired theme for Home Assistant (3 weeks ago)
 
 ---
 
