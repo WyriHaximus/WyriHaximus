@@ -135,7 +135,7 @@ All new major package releases will be in PHP 8.2
 - [fronbasal](https://github.com/fronbasal)
 - [reed6868](https://github.com/reed6868)
 - [thgs](https://github.com/thgs)
-- [Khalilheyrani](https://github.com/Khalilheyrani)
+- [mdfardin80](https://github.com/mdfardin80)
 
 ---
 
