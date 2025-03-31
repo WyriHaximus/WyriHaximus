@@ -10,6 +10,7 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
 - [WyriHaximus/github-action-next-semvers](https://github.com/WyriHaximus/github-action-next-semvers) (4 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
@@ -17,12 +18,11 @@ All new major package releases will be in PHP 8.2
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 week ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 week ago)
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 week ago)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 week ago)
-- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (1 week ago)
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (1 week ago)
 - [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (1 week ago)
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 week ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (1 week ago)
+- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 week ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 
 ---
 
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [No need to update `action.yaml` during releasing this action](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/16) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
 - [Add Documentation](https://github.com/WyriHaximus/github-action-testinfra/pull/6) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (today)
 - [Prepare for release](https://github.com/WyriHaximus/github-action-testinfra/pull/5) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-4cb6d3199626db79592936e2eb4a1700 from 1.1.4-a62795d7aa9301578af5c944c028e062](https://github.com/php-api-clients/github-root/pull/1593) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.14] Update to 1.1.4-fd3452e633ca20f3b19f783b723e8aae from 1.1.4-17c2c7428f307a53f2d8a29fc0b52750](https://github.com/php-api-clients/github-root/pull/1587) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-b39b954044a7394ab4e5fe3ce2b56edc from 1.1.4-068189c2ddb887d39c830e1d08c2e36b](https://github.com/php-api-clients/github-root/pull/1586) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-a62795d7aa9301578af5c944c028e062 from 1.1.4-577e687ceeee401a1490a54445a24758](https://github.com/php-api-clients/github-root/pull/1585) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [[GitHub] Update to 1.1.4-82b1087a8dddd5516c99b2197699c7e0 from 1.1.4-4bfe6378be3ffa1aed95dac111e07ebb](https://github.com/php-api-clients/github-root/pull/1584) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
