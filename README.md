@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
-- [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (today)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (today)
 - [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
+- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
+- [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (today)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (today)
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
 - [WyriHaximus/github-action-next-semvers](https://github.com/WyriHaximus/github-action-next-semvers) (4 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 week ago)
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 week ago)
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 week ago)
-- [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 week ago)
 
 ---
 
@@ -61,7 +61,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) ([v1.0.1](https://github.com/WyriHaximus/github-action-testinfra/releases/tag/v1.0.1), today) - GitHub Action running your TestInfra tests
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r58](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r58), today) - 
+- [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) ([v1.0.2](https://github.com/WyriHaximus/github-action-testinfra/releases/tag/v1.0.2), today) - GitHub Action running your TestInfra tests
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.154.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.154.0), 4 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.11.0](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.11.0), 6 days ago) - Kubernetes controller for GitHub Actions self-hosted runners
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.3.1](https://github.com/composer-unused/symbol-parser/releases/tag/0.3.1), 1 week ago) - Toolkit to parse symbols from a composer package
@@ -73,12 +74,14 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.16.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.16.0), 4 weeks ago) - PHP Coding Standard
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) ([2.5.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.5.0), 1 month ago) - PSR-14 Event Processing and Notification package
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.0.2](https://github.com/thecodingmachine/safe/releases/tag/v3.0.2), 1 month ago) - All PHP functions, rewritten to throw exceptions instead of returning false
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) ([3.0.1](https://github.com/reactphp-parallel/infinite-pool/releases/tag/3.0.1), 1 month ago) - ♾️ Infinite pool for bridging ext-parallel and ReactPHP
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Fix typos](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/206) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
+- [Update 2025-03-31-announcing-testinfra-action.markdown](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/205) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
+- [Fix version in example](https://github.com/WyriHaximus/github-action-testinfra/pull/11) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (today)
 - [New Post: Announcing TestInfra Action](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/204) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
 - [Updated action name to not match a user/org name](https://github.com/WyriHaximus/github-action-testinfra/pull/10) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (today)
 - [Switch to stable WyriHaximus/github-action-testinfra](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/24) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
@@ -89,9 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Add Documentation](https://github.com/WyriHaximus/github-action-testinfra/pull/6) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (today)
 - [Prepare for release](https://github.com/WyriHaximus/github-action-testinfra/pull/5) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (today)
 - [[GitHubEnterpriseCloud] Update to 1.1.4-4cb6d3199626db79592936e2eb4a1700 from 1.1.4-a62795d7aa9301578af5c944c028e062](https://github.com/php-api-clients/github-root/pull/1593) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[GitHub] Update to 1.1.4-55d97765ea3cb2894a2648379d436234 from 1.1.4-82b1087a8dddd5516c99b2197699c7e0](https://github.com/php-api-clients/github-root/pull/1592) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[GitHubEnterprise-3.15] Update to 1.1.4-a04f85f2187264e621cc3e26231363c0 from 1.1.4-c839dc4b91fdd6e7b4bb4312c26a3e3d](https://github.com/php-api-clients/github-root/pull/1591) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[GitHubEnterprise-3.14] Update to 1.1.4-e6245dc0265b13d0ccc4baa506381410 from 1.1.4-fd3452e633ca20f3b19f783b723e8aae](https://github.com/php-api-clients/github-root/pull/1590) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 
 ---
 
