@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Switch release workflow back to main](https://github.com/WyriHaximus/github-action-testinfra/pull/8) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (today)
 - [No need to update `action.yaml` during releasing this action](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/16) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
 - [Add Documentation](https://github.com/WyriHaximus/github-action-testinfra/pull/6) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (today)
 - [Prepare for release](https://github.com/WyriHaximus/github-action-testinfra/pull/5) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (today)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.15] Update to 1.1.4-c839dc4b91fdd6e7b4bb4312c26a3e3d from 1.1.4-55f74f3e5247a80d845e796bbe3a0f26](https://github.com/php-api-clients/github-root/pull/1588) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-fd3452e633ca20f3b19f783b723e8aae from 1.1.4-17c2c7428f307a53f2d8a29fc0b52750](https://github.com/php-api-clients/github-root/pull/1587) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-b39b954044a7394ab4e5fe3ce2b56edc from 1.1.4-068189c2ddb887d39c830e1d08c2e36b](https://github.com/php-api-clients/github-root/pull/1586) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
-- [[GitHubEnterpriseCloud] Update to 1.1.4-a62795d7aa9301578af5c944c028e062 from 1.1.4-577e687ceeee401a1490a54445a24758](https://github.com/php-api-clients/github-root/pull/1585) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 
 ---
 
