@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (today)
+- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
-- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
 - [WyriHaximus/github-action-next-semvers](https://github.com/WyriHaximus/github-action-next-semvers) (4 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
+- [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 week ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 week ago)
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 week ago)
+- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 week ago)
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (1 week ago)
-- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 week ago)
-- [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (1 week ago)
-- [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 week ago)
 
 ---
 
@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) ([v1.0.1](https://github.com/WyriHaximus/github-action-testinfra/releases/tag/v1.0.1), today) - GitHub Action running your TestInfra tests
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.154.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.154.0), 4 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.11.0](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.11.0), 6 days ago) - Kubernetes controller for GitHub Actions self-hosted runners
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.3.1](https://github.com/composer-unused/symbol-parser/releases/tag/0.3.1), 1 week ago) - Toolkit to parse symbols from a composer package
@@ -73,12 +74,15 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) ([2.5.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.5.0), 1 month ago) - PSR-14 Event Processing and Notification package
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.0.2](https://github.com/thecodingmachine/safe/releases/tag/v3.0.2), 1 month ago) - All PHP functions, rewritten to throw exceptions instead of returning false
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) ([3.0.1](https://github.com/reactphp-parallel/infinite-pool/releases/tag/3.0.1), 1 month ago) - ♾️ Infinite pool for bridging ext-parallel and ReactPHP
-- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) ([2.0.0](https://github.com/reactphp-parallel/reactphp-parallel/releases/tag/2.0.0), 1 month ago) - 🌉 Bridging ext-parallel and ReactPHP
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Updated action name to not match a user/org name](https://github.com/WyriHaximus/github-action-testinfra/pull/10) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (today)
+- [Switch to stable WyriHaximus/github-action-testinfra](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/24) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
+- [Add non-Docker action support](https://github.com/WyriHaximus/github-workflows/pull/66) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [Set reTagOCIImage to false](https://github.com/WyriHaximus/github-action-testinfra/pull/9) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (today)
 - [Switch release workflow back to main](https://github.com/WyriHaximus/github-action-testinfra/pull/8) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (today)
 - [No need to update `action.yaml` during releasing this action](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/16) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
 - [Add Documentation](https://github.com/WyriHaximus/github-action-testinfra/pull/6) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (today)
@@ -88,10 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[GitHubEnterprise-3.15] Update to 1.1.4-a04f85f2187264e621cc3e26231363c0 from 1.1.4-c839dc4b91fdd6e7b4bb4312c26a3e3d](https://github.com/php-api-clients/github-root/pull/1591) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHubEnterprise-3.14] Update to 1.1.4-e6245dc0265b13d0ccc4baa506381410 from 1.1.4-fd3452e633ca20f3b19f783b723e8aae](https://github.com/php-api-clients/github-root/pull/1590) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [[GitHubEnterprise-3.13] Update to 1.1.4-9132531bf7c2236209780366a1c898ae from 1.1.4-b39b954044a7394ab4e5fe3ce2b56edc](https://github.com/php-api-clients/github-root/pull/1589) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
-- [[0.6.x] Strengthen channel consume test assertations](https://github.com/jakubkulhan/bunny/pull/173) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
-- [[GitHubEnterprise-3.15] Update to 1.1.4-c839dc4b91fdd6e7b4bb4312c26a3e3d from 1.1.4-55f74f3e5247a80d845e796bbe3a0f26](https://github.com/php-api-clients/github-root/pull/1588) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
-- [[GitHubEnterprise-3.14] Update to 1.1.4-fd3452e633ca20f3b19f783b723e8aae from 1.1.4-17c2c7428f307a53f2d8a29fc0b52750](https://github.com/php-api-clients/github-root/pull/1587) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
-- [[GitHubEnterprise-3.13] Update to 1.1.4-b39b954044a7394ab4e5fe3ce2b56edc from 1.1.4-068189c2ddb887d39c830e1d08c2e36b](https://github.com/php-api-clients/github-root/pull/1586) on [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 
 ---
 
