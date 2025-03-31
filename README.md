@@ -12,13 +12,13 @@ All new major package releases will be in PHP 8.2
 
 - [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
-- [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (today)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (today)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (today)
+- [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (today)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [WyriHaximus/github-action-next-semvers](https://github.com/WyriHaximus/github-action-next-semvers) (4 days ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (4 days ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 week ago)
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 week ago)
@@ -61,7 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r58](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r58), today) - 
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r59](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r59), today) - 
 - [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) ([v1.0.2](https://github.com/WyriHaximus/github-action-testinfra/releases/tag/v1.0.2), today) - GitHub Action running your TestInfra tests
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.154.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.154.0), 4 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.11.0](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.11.0), 6 days ago) - Kubernetes controller for GitHub Actions self-hosted runners
