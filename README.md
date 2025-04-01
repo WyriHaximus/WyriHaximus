@@ -28,6 +28,7 @@ All new major package releases will be in PHP 8.2
 
 ### 📜 My latest articles on [WyriHaximus.net](https://blog.wyrihaximus.net/)
 
+- [Announcing TestInfra Action](https://blog.wyrihaximus.net/2025/03/announcing-testinfra-action/) (1 day ago)
 - [Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Enclosure](https://blog.wyrihaximus.net/2024/12/building-a-kubernetes-homelab-with-raspberry-pies-and-lego-nodes-enclosure/) (3 months ago)
 - [Building Secure Images with GitHub Actions](https://blog.wyrihaximus.net/2024/10/building-secure-images-with-github-actions/) (6 months ago)
 - [Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Power](https://blog.wyrihaximus.net/2024/09/building-a-kubernetes-homelab-with-raspberry-pies-and-lego-nodes-power/) (7 months ago)
@@ -37,7 +38,6 @@ All new major package releases will be in PHP 8.2
 - [Always recreating a TerraForm resource](https://blog.wyrihaximus.net/2024/04/always-recreating-a-terraform-resource/) (1 year ago)
 - [Building fast Docker based GitHub Actions](https://blog.wyrihaximus.net/2023/03/building-fast-docker-based-github-actions/) (2 years ago)
 - [Testing GitHub Actions](https://blog.wyrihaximus.net/2023/03/testing-github-actions/) (2 years ago)
-- [Migrating from self-hosted in Kubernetes Databases to managed hosted at Digital Ocean or the story of how I started working on Opportunistic TLS in ReactPHP](https://blog.wyrihaximus.net/2023/01/migrating-from-self-hosted-in-k8s-databases-to-managed-hosted-at-digital-ocean/) (2 years ago)
 
 ---
 
