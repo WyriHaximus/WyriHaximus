@@ -61,7 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.154.1](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.154.1), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([graylog-0.9.10](https://github.com/groundhog2k/helm-charts/releases/tag/graylog-0.9.10), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/reactphp-child-process-messenger](https://github.com/WyriHaximus/reactphp-child-process-messenger) ([4.0.5](https://github.com/WyriHaximus/reactphp-child-process-messenger/releases/tag/4.0.5), today) - 
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r59](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r59), 2 days ago) - 
 - [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) ([v1.0.2](https://github.com/WyriHaximus/github-action-testinfra/releases/tag/v1.0.2), 2 days ago) - GitHub Action running your TestInfra tests
