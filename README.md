@@ -61,10 +61,10 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.154.1](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.154.1), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/reactphp-child-process-messenger](https://github.com/WyriHaximus/reactphp-child-process-messenger) ([4.0.5](https://github.com/WyriHaximus/reactphp-child-process-messenger/releases/tag/4.0.5), today) - 
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r59](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r59), 2 days ago) - 
 - [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) ([v1.0.2](https://github.com/WyriHaximus/github-action-testinfra/releases/tag/v1.0.2), 2 days ago) - GitHub Action running your TestInfra tests
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.154.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.154.0), 6 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.11.0](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.11.0), 1 week ago) - Kubernetes controller for GitHub Actions self-hosted runners
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.3.1](https://github.com/composer-unused/symbol-parser/releases/tag/0.3.1), 2 weeks ago) - Toolkit to parse symbols from a composer package
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.2](https://github.com/composer-unused/composer-unused/releases/tag/0.9.2), 2 weeks ago) - Show unused composer dependencies by scanning your code
