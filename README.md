@@ -61,8 +61,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([graylog-0.9.11](https://github.com/groundhog2k/helm-charts/releases/tag/graylog-0.9.11), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) ([4.0.1](https://github.com/WyriHaximus/FlyPie/releases/tag/4.0.1), today) - Flysystem plugin for CakePHP
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([graylog-0.9.10](https://github.com/groundhog2k/helm-charts/releases/tag/graylog-0.9.10), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/reactphp-child-process-messenger](https://github.com/WyriHaximus/reactphp-child-process-messenger) ([4.0.5](https://github.com/WyriHaximus/reactphp-child-process-messenger/releases/tag/4.0.5), 1 day ago) - 
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r59](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r59), 3 days ago) - 
 - [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) ([v1.0.2](https://github.com/WyriHaximus/github-action-testinfra/releases/tag/v1.0.2), 3 days ago) - GitHub Action running your TestInfra tests
