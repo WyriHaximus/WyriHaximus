@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) ([4.0.1](https://github.com/WyriHaximus/FlyPie/releases/tag/4.0.1), today) - Flysystem plugin for CakePHP
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([graylog-0.9.10](https://github.com/groundhog2k/helm-charts/releases/tag/graylog-0.9.10), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/reactphp-child-process-messenger](https://github.com/WyriHaximus/reactphp-child-process-messenger) ([4.0.5](https://github.com/WyriHaximus/reactphp-child-process-messenger/releases/tag/4.0.5), 1 day ago) - 
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r59](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r59), 3 days ago) - 
@@ -73,7 +74,6 @@ All new major package releases will be in PHP 8.2
 - [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) ([2.1.0](https://github.com/MammatusPHP/life-cycle-events/releases/tag/2.1.0), 3 weeks ago) - 
 - [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) ([R23](https://github.com/TechEmpower/FrameworkBenchmarks/releases/tag/R23), 1 month ago) - Source for the TechEmpower Framework Benchmarks project
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.16.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.16.0), 1 month ago) - PHP Coding Standard
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) ([2.5.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.5.0), 1 month ago) - PSR-14 Event Processing and Notification package
 
 ---
 
