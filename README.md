@@ -10,13 +10,13 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (1 day ago)
-- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (3 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
-- [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (3 days ago)
-- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (3 days ago)
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (3 days ago)
-- [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (3 days ago)
+- [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (2 days ago)
+- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (4 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
+- [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (4 days ago)
+- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (4 days ago)
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (4 days ago)
+- [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (4 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 week ago)
 - [WyriHaximus/github-action-next-semvers](https://github.com/WyriHaximus/github-action-next-semvers) (1 week ago)
@@ -28,7 +28,7 @@ All new major package releases will be in PHP 8.2
 
 ### 📜 My latest articles on [WyriHaximus.net](https://blog.wyrihaximus.net/)
 
-- [Announcing TestInfra Action](https://blog.wyrihaximus.net/2025/03/announcing-testinfra-action/) (3 days ago)
+- [Announcing TestInfra Action](https://blog.wyrihaximus.net/2025/03/announcing-testinfra-action/) (4 days ago)
 - [Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Enclosure](https://blog.wyrihaximus.net/2024/12/building-a-kubernetes-homelab-with-raspberry-pies-and-lego-nodes-enclosure/) (3 months ago)
 - [Building Secure Images with GitHub Actions](https://blog.wyrihaximus.net/2024/10/building-secure-images-with-github-actions/) (6 months ago)
 - [Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Power](https://blog.wyrihaximus.net/2024/09/building-a-kubernetes-homelab-with-raspberry-pies-and-lego-nodes-power/) (7 months ago)
@@ -61,11 +61,11 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([graylog-0.9.11](https://github.com/groundhog2k/helm-charts/releases/tag/graylog-0.9.11), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
-- [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) ([4.0.1](https://github.com/WyriHaximus/FlyPie/releases/tag/4.0.1), today) - Flysystem plugin for CakePHP
-- [WyriHaximus/reactphp-child-process-messenger](https://github.com/WyriHaximus/reactphp-child-process-messenger) ([4.0.5](https://github.com/WyriHaximus/reactphp-child-process-messenger/releases/tag/4.0.5), 1 day ago) - 
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r59](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r59), 3 days ago) - 
-- [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) ([v1.0.2](https://github.com/WyriHaximus/github-action-testinfra/releases/tag/v1.0.2), 3 days ago) - GitHub Action running your TestInfra tests
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([graylog-0.9.11](https://github.com/groundhog2k/helm-charts/releases/tag/graylog-0.9.11), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) ([4.0.1](https://github.com/WyriHaximus/FlyPie/releases/tag/4.0.1), 1 day ago) - Flysystem plugin for CakePHP
+- [WyriHaximus/reactphp-child-process-messenger](https://github.com/WyriHaximus/reactphp-child-process-messenger) ([4.0.5](https://github.com/WyriHaximus/reactphp-child-process-messenger/releases/tag/4.0.5), 2 days ago) - 
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r59](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r59), 4 days ago) - 
+- [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) ([v1.0.2](https://github.com/WyriHaximus/github-action-testinfra/releases/tag/v1.0.2), 4 days ago) - GitHub Action running your TestInfra tests
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.11.0](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.11.0), 1 week ago) - Kubernetes controller for GitHub Actions self-hosted runners
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.3.1](https://github.com/composer-unused/symbol-parser/releases/tag/0.3.1), 2 weeks ago) - Toolkit to parse symbols from a composer package
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.2](https://github.com/composer-unused/composer-unused/releases/tag/0.9.2), 2 weeks ago) - Show unused composer dependencies by scanning your code
@@ -79,35 +79,35 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
-- [Update squizlabs/php_codesniffer to 3.12](https://github.com/WyriHaximus/FlyPie/pull/45) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (1 day ago)
-- [Switch to action to install dependencies](https://github.com/WyriHaximus/FlyPie/pull/44) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (2 days ago)
-- [Automate getting all PHP versions to test against](https://github.com/WyriHaximus/FlyPie/pull/43) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (2 days ago)
-- [Update gitattributes to only export src, config, composer.json, and LICENSE](https://github.com/WyriHaximus/FlyPie/pull/42) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (2 days ago)
-- [Move Renovate config into .github](https://github.com/WyriHaximus/FlyPie/pull/41) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (2 days ago)
-- [Fix typos](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/206) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (3 days ago)
-- [Update 2025-03-31-announcing-testinfra-action.markdown](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/205) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (3 days ago)
-- [Fix version in example](https://github.com/WyriHaximus/github-action-testinfra/pull/11) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (3 days ago)
-- [New Post: Announcing TestInfra Action](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/204) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (3 days ago)
-- [Updated action name to not match a user/org name](https://github.com/WyriHaximus/github-action-testinfra/pull/10) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (3 days ago)
-- [Switch to stable WyriHaximus/github-action-testinfra](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/24) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (3 days ago)
-- [Add non-Docker action support](https://github.com/WyriHaximus/github-workflows/pull/66) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
-- [Set reTagOCIImage to false](https://github.com/WyriHaximus/github-action-testinfra/pull/9) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (3 days ago)
+- [Update squizlabs/php_codesniffer to 3.12](https://github.com/WyriHaximus/FlyPie/pull/45) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (2 days ago)
+- [Switch to action to install dependencies](https://github.com/WyriHaximus/FlyPie/pull/44) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (3 days ago)
+- [Automate getting all PHP versions to test against](https://github.com/WyriHaximus/FlyPie/pull/43) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (3 days ago)
+- [Update gitattributes to only export src, config, composer.json, and LICENSE](https://github.com/WyriHaximus/FlyPie/pull/42) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (3 days ago)
+- [Move Renovate config into .github](https://github.com/WyriHaximus/FlyPie/pull/41) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (3 days ago)
+- [Fix typos](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/206) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (4 days ago)
+- [Update 2025-03-31-announcing-testinfra-action.markdown](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/205) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (4 days ago)
+- [Fix version in example](https://github.com/WyriHaximus/github-action-testinfra/pull/11) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (4 days ago)
+- [New Post: Announcing TestInfra Action](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/204) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (4 days ago)
+- [Updated action name to not match a user/org name](https://github.com/WyriHaximus/github-action-testinfra/pull/10) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (4 days ago)
+- [Switch to stable WyriHaximus/github-action-testinfra](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/24) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (4 days ago)
+- [Add non-Docker action support](https://github.com/WyriHaximus/github-workflows/pull/66) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
+- [Set reTagOCIImage to false](https://github.com/WyriHaximus/github-action-testinfra/pull/9) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (4 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [sdr-enthusiasts/docker-flightradar24](https://github.com/sdr-enthusiasts/docker-flightradar24) - Multi-architecture docker container (arm32v7/arm64/x86_64) running flightradar24 fr24feed. Designed to work in tandem with https://sdr-e.com/docker-adsb-ultrafeeder (today)
-- [sdr-enthusiasts/docker-adsb-ultrafeeder](https://github.com/sdr-enthusiasts/docker-adsb-ultrafeeder) - ADSB-Ultrafeeder is an all-in-one ADSB container with readsb, tar1090, graphs1090, autogain, multi-feeder, and mlat-hub built in (today)
-- [haya14busa/github-action-brandings](https://github.com/haya14busa/github-action-brandings) - GitHub Actions Branding Cheat Sheet (3 days ago)
-- [otwld/ollama-helm](https://github.com/otwld/ollama-helm) - Helm chart for Ollama on Kubernetes (5 days ago)
+- [sdr-enthusiasts/docker-flightradar24](https://github.com/sdr-enthusiasts/docker-flightradar24) - Multi-architecture docker container (arm32v7/arm64/x86_64) running flightradar24 fr24feed. Designed to work in tandem with https://sdr-e.com/docker-adsb-ultrafeeder (1 day ago)
+- [sdr-enthusiasts/docker-adsb-ultrafeeder](https://github.com/sdr-enthusiasts/docker-adsb-ultrafeeder) - ADSB-Ultrafeeder is an all-in-one ADSB container with readsb, tar1090, graphs1090, autogain, multi-feeder, and mlat-hub built in (1 day ago)
+- [haya14busa/github-action-brandings](https://github.com/haya14busa/github-action-brandings) - GitHub Actions Branding Cheat Sheet (4 days ago)
+- [otwld/ollama-helm](https://github.com/otwld/ollama-helm) - Helm chart for Ollama on Kubernetes (6 days ago)
 - [hakaioffsec/IngressNightmare-PoC](https://github.com/hakaioffsec/IngressNightmare-PoC) - This is a PoC code to exploit the IngressNightmare vulnerabilities (CVE-2025-1097, CVE-2025-1098, CVE-2025-24514, and CVE-2025-1974). (1 week ago)
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot (1 week ago)
-- [kmorning/cert-manager-webhook-desec](https://github.com/kmorning/cert-manager-webhook-desec) - A cert-manager webhook to solve an ACME DNS01 challenge using the deSEC API (1 week ago)
+- [kmorning/cert-manager-webhook-desec](https://github.com/kmorning/cert-manager-webhook-desec) - A cert-manager webhook to solve an ACME DNS01 challenge using the deSEC API (2 weeks ago)
 - [kamaradclimber/datadog-integration-ha](https://github.com/kamaradclimber/datadog-integration-ha) - A better datadog integration for Home Assistant (2 weeks ago)
 - [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container. (2 weeks ago)
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (2 weeks ago)
-- [thgs/functional](https://github.com/thgs/functional) - (experimental) Trying to express some functional concepts in PHP (3 weeks ago)
+- [thgs/functional](https://github.com/thgs/functional) - (experimental) Trying to express some functional concepts in PHP (4 weeks ago)
 - [klaudiosinani/hyper-pokemon](https://github.com/klaudiosinani/hyper-pokemon) - Tailor-made Pokémon themes for your Hyper terminal (1 month ago)
 - [LazoVelko/Pokemon-Terminal](https://github.com/LazoVelko/Pokemon-Terminal) - Pokemon terminal themes. (1 month ago)
 
@@ -115,7 +115,7 @@ All new major package releases will be in PHP 8.2
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [challgren](https://github.com/challgren) (2 days ago)
+- [challgren](https://github.com/challgren) (3 days ago)
 - [edorian](https://github.com/edorian) (1 year ago)
 - [codecov](https://github.com/codecov) (2 years ago)
 - [mangkepwing143](https://github.com/mangkepwing143) (2 years ago)
