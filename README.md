@@ -97,6 +97,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [oss-serverless/serverless](https://github.com/oss-serverless/serverless) - Serverless Framework CLI v3 alternative (today)
 - [sdr-enthusiasts/docker-flightradar24](https://github.com/sdr-enthusiasts/docker-flightradar24) - Multi-architecture docker container (arm32v7/arm64/x86_64) running flightradar24 fr24feed. Designed to work in tandem with https://sdr-e.com/docker-adsb-ultrafeeder (2 days ago)
 - [sdr-enthusiasts/docker-adsb-ultrafeeder](https://github.com/sdr-enthusiasts/docker-adsb-ultrafeeder) - ADSB-Ultrafeeder is an all-in-one ADSB container with readsb, tar1090, graphs1090, autogain, multi-feeder, and mlat-hub built in (2 days ago)
 - [haya14busa/github-action-brandings](https://github.com/haya14busa/github-action-brandings) - GitHub Actions Branding Cheat Sheet (5 days ago)
@@ -109,7 +110,6 @@ All new major package releases will be in PHP 8.2
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (3 weeks ago)
 - [thgs/functional](https://github.com/thgs/functional) - (experimental) Trying to express some functional concepts in PHP (4 weeks ago)
 - [klaudiosinani/hyper-pokemon](https://github.com/klaudiosinani/hyper-pokemon) - Tailor-made Pokémon themes for your Hyper terminal (1 month ago)
-- [LazoVelko/Pokemon-Terminal](https://github.com/LazoVelko/Pokemon-Terminal) - Pokemon terminal themes. (1 month ago)
 
 ---
 
