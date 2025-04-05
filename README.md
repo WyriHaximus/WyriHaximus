@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Add serverless CLI](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/25) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
 - [Update squizlabs/php_codesniffer to 3.12](https://github.com/WyriHaximus/FlyPie/pull/45) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (3 days ago)
 - [Switch to action to install dependencies](https://github.com/WyriHaximus/FlyPie/pull/44) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (4 days ago)
 - [Automate getting all PHP versions to test against](https://github.com/WyriHaximus/FlyPie/pull/43) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (4 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Updated action name to not match a user/org name](https://github.com/WyriHaximus/github-action-testinfra/pull/10) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (5 days ago)
 - [Switch to stable WyriHaximus/github-action-testinfra](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/24) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (5 days ago)
 - [Add non-Docker action support](https://github.com/WyriHaximus/github-workflows/pull/66) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
-- [Set reTagOCIImage to false](https://github.com/WyriHaximus/github-action-testinfra/pull/9) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (5 days ago)
 
 ---
 
