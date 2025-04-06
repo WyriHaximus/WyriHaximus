@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Add OSS serverless CLI](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/27) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
 - [Upgrade a failing make command&#39;s exit code to 255](https://github.com/WyriHaximus/Makefiles/pull/3) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Add serverless CLI](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/25) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
 - [Update squizlabs/php_codesniffer to 3.12](https://github.com/WyriHaximus/FlyPie/pull/45) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (4 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Fix version in example](https://github.com/WyriHaximus/github-action-testinfra/pull/11) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (6 days ago)
 - [New Post: Announcing TestInfra Action](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/204) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (6 days ago)
 - [Updated action name to not match a user/org name](https://github.com/WyriHaximus/github-action-testinfra/pull/10) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (6 days ago)
-- [Switch to stable WyriHaximus/github-action-testinfra](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/24) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (6 days ago)
 
 ---
 
