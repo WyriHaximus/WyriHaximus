@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
 - [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 day ago)
+- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (5 days ago)
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (1 week ago)
-- [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (1 week ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
 - [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (1 week ago)
+- [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (1 week ago)
+- [WyriHaximus/github-action-next-semvers](https://github.com/WyriHaximus/github-action-next-semvers) (1 week ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [php-api-clients/github-enterprise-cloud](https://github.com/php-api-clients/github-enterprise-cloud) (1 week ago)
-- [WyriHaximus/github-action-next-semvers](https://github.com/WyriHaximus/github-action-next-semvers) (1 week ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
 
 ---
