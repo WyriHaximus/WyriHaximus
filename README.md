@@ -10,12 +10,12 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/wyrimaps.net-static-maps-serverless](https://github.com/WyriHaximus/wyrimaps.net-static-maps-serverless) (today)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 day ago)
-- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (5 days ago)
+- [WyriHaximus/wyrimaps.net-static-maps-serverless](https://github.com/WyriHaximus/wyrimaps.net-static-maps-serverless) (1 day ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (2 days ago)
+- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 days ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (6 days ago)
 - [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (1 week ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
 - [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (1 week ago)
@@ -61,17 +61,17 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([rabbitmq-2.0.6](https://github.com/groundhog2k/helm-charts/releases/tag/rabbitmq-2.0.6), 3 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
-- [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) ([4.0.1](https://github.com/WyriHaximus/FlyPie/releases/tag/4.0.1), 4 days ago) - Flysystem plugin for CakePHP
-- [WyriHaximus/reactphp-child-process-messenger](https://github.com/WyriHaximus/reactphp-child-process-messenger) ([4.0.5](https://github.com/WyriHaximus/reactphp-child-process-messenger/releases/tag/4.0.5), 5 days ago) - 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([rabbitmq-2.0.6](https://github.com/groundhog2k/helm-charts/releases/tag/rabbitmq-2.0.6), 4 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) ([4.0.1](https://github.com/WyriHaximus/FlyPie/releases/tag/4.0.1), 5 days ago) - Flysystem plugin for CakePHP
+- [WyriHaximus/reactphp-child-process-messenger](https://github.com/WyriHaximus/reactphp-child-process-messenger) ([4.0.5](https://github.com/WyriHaximus/reactphp-child-process-messenger/releases/tag/4.0.5), 6 days ago) - 
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r59](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r59), 1 week ago) - 
 - [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) ([v1.0.2](https://github.com/WyriHaximus/github-action-testinfra/releases/tag/v1.0.2), 1 week ago) - GitHub Action running your TestInfra tests
-- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.11.0](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.11.0), 1 week ago) - Kubernetes controller for GitHub Actions self-hosted runners
+- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.11.0](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.11.0), 2 weeks ago) - Kubernetes controller for GitHub Actions self-hosted runners
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.3.1](https://github.com/composer-unused/symbol-parser/releases/tag/0.3.1), 2 weeks ago) - Toolkit to parse symbols from a composer package
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.2](https://github.com/composer-unused/composer-unused/releases/tag/0.9.2), 3 weeks ago) - Show unused composer dependencies by scanning your code
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.7.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.7.0), 3 weeks ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.12](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.12), 3 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
-- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) ([2.1.0](https://github.com/MammatusPHP/life-cycle-events/releases/tag/2.1.0), 3 weeks ago) - 
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) ([2.1.0](https://github.com/MammatusPHP/life-cycle-events/releases/tag/2.1.0), 4 weeks ago) - 
 - [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) ([R23](https://github.com/TechEmpower/FrameworkBenchmarks/releases/tag/R23), 1 month ago) - Source for the TechEmpower Framework Benchmarks project
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.16.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.16.0), 1 month ago) - PHP Coding Standard
 
@@ -79,16 +79,16 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
-- [Project shouldn&#39;t test NTS and ZTS when parallel isn&#39;t found](https://github.com/WyriHaximus/github-workflows/pull/67) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [Add node20 path before we start installing things](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/28) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
-- [Add OSS serverless CLI](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/27) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
-- [Upgrade a failing make command&#39;s exit code to 255](https://github.com/WyriHaximus/Makefiles/pull/3) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Add serverless CLI](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/25) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 days ago)
-- [Update squizlabs/php_codesniffer to 3.12](https://github.com/WyriHaximus/FlyPie/pull/45) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (5 days ago)
-- [Switch to action to install dependencies](https://github.com/WyriHaximus/FlyPie/pull/44) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (6 days ago)
-- [Automate getting all PHP versions to test against](https://github.com/WyriHaximus/FlyPie/pull/43) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (6 days ago)
-- [Update gitattributes to only export src, config, composer.json, and LICENSE](https://github.com/WyriHaximus/FlyPie/pull/42) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (6 days ago)
-- [Move Renovate config into .github](https://github.com/WyriHaximus/FlyPie/pull/41) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (6 days ago)
+- [Project shouldn&#39;t test NTS and ZTS when parallel isn&#39;t found](https://github.com/WyriHaximus/github-workflows/pull/67) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [Add node20 path before we start installing things](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/28) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 days ago)
+- [Add OSS serverless CLI](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/27) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 days ago)
+- [Upgrade a failing make command&#39;s exit code to 255](https://github.com/WyriHaximus/Makefiles/pull/3) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Add serverless CLI](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/25) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (3 days ago)
+- [Update squizlabs/php_codesniffer to 3.12](https://github.com/WyriHaximus/FlyPie/pull/45) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (6 days ago)
+- [Switch to action to install dependencies](https://github.com/WyriHaximus/FlyPie/pull/44) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (1 week ago)
+- [Automate getting all PHP versions to test against](https://github.com/WyriHaximus/FlyPie/pull/43) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (1 week ago)
+- [Update gitattributes to only export src, config, composer.json, and LICENSE](https://github.com/WyriHaximus/FlyPie/pull/42) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (1 week ago)
+- [Move Renovate config into .github](https://github.com/WyriHaximus/FlyPie/pull/41) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (1 week ago)
 - [Fix typos](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/206) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
 - [Update 2025-03-31-announcing-testinfra-action.markdown](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/205) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
 - [Fix version in example](https://github.com/WyriHaximus/github-action-testinfra/pull/11) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (1 week ago)
@@ -97,16 +97,16 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
-- [lovelylain/hass_ingress](https://github.com/lovelylain/hass_ingress) - Home Assistant ingress feature, add additional ingress panels to your Home Assistant frontend. (today)
-- [oss-serverless/serverless](https://github.com/oss-serverless/serverless) - Serverless Framework CLI v3 alternative (2 days ago)
-- [sdr-enthusiasts/docker-flightradar24](https://github.com/sdr-enthusiasts/docker-flightradar24) - Multi-architecture docker container (arm32v7/arm64/x86_64) running flightradar24 fr24feed. Designed to work in tandem with https://sdr-e.com/docker-adsb-ultrafeeder (4 days ago)
-- [sdr-enthusiasts/docker-adsb-ultrafeeder](https://github.com/sdr-enthusiasts/docker-adsb-ultrafeeder) - ADSB-Ultrafeeder is an all-in-one ADSB container with readsb, tar1090, graphs1090, autogain, multi-feeder, and mlat-hub built in (4 days ago)
+- [lovelylain/hass_ingress](https://github.com/lovelylain/hass_ingress) - Home Assistant ingress feature, add additional ingress panels to your Home Assistant frontend. (1 day ago)
+- [oss-serverless/serverless](https://github.com/oss-serverless/serverless) - Serverless Framework CLI v3 alternative (3 days ago)
+- [sdr-enthusiasts/docker-flightradar24](https://github.com/sdr-enthusiasts/docker-flightradar24) - Multi-architecture docker container (arm32v7/arm64/x86_64) running flightradar24 fr24feed. Designed to work in tandem with https://sdr-e.com/docker-adsb-ultrafeeder (5 days ago)
+- [sdr-enthusiasts/docker-adsb-ultrafeeder](https://github.com/sdr-enthusiasts/docker-adsb-ultrafeeder) - ADSB-Ultrafeeder is an all-in-one ADSB container with readsb, tar1090, graphs1090, autogain, multi-feeder, and mlat-hub built in (5 days ago)
 - [haya14busa/github-action-brandings](https://github.com/haya14busa/github-action-brandings) - GitHub Actions Branding Cheat Sheet (1 week ago)
 - [otwld/ollama-helm](https://github.com/otwld/ollama-helm) - Helm chart for Ollama on Kubernetes (1 week ago)
 - [hakaioffsec/IngressNightmare-PoC](https://github.com/hakaioffsec/IngressNightmare-PoC) - This is a PoC code to exploit the IngressNightmare vulnerabilities (CVE-2025-1097, CVE-2025-1098, CVE-2025-24514, and CVE-2025-1974). (1 week ago)
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot (1 week ago)
 - [kmorning/cert-manager-webhook-desec](https://github.com/kmorning/cert-manager-webhook-desec) - A cert-manager webhook to solve an ACME DNS01 challenge using the deSEC API (2 weeks ago)
-- [kamaradclimber/datadog-integration-ha](https://github.com/kamaradclimber/datadog-integration-ha) - A better datadog integration for Home Assistant (2 weeks ago)
+- [kamaradclimber/datadog-integration-ha](https://github.com/kamaradclimber/datadog-integration-ha) - A better datadog integration for Home Assistant (3 weeks ago)
 - [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container. (3 weeks ago)
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (3 weeks ago)
 - [thgs/functional](https://github.com/thgs/functional) - (experimental) Trying to express some functional concepts in PHP (1 month ago)
@@ -115,7 +115,7 @@ All new major package releases will be in PHP 8.2
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [challgren](https://github.com/challgren) (6 days ago)
+- [challgren](https://github.com/challgren) (1 week ago)
 - [edorian](https://github.com/edorian) (1 year ago)
 - [codecov](https://github.com/codecov) (2 years ago)
 - [mangkepwing143](https://github.com/mangkepwing143) (2 years ago)
