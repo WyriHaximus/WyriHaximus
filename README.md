@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (3 days ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (3 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
-- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (5 days ago)
 - [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (5 days ago)
+- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (5 days ago)
 - [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (1 week ago)
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
 - [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (1 week ago)
 - [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (1 week ago)
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
 - [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (1 week ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 weeks ago)
-- [WyriHaximus/github-action-next-semvers](https://github.com/WyriHaximus/github-action-next-semvers) (2 weeks ago)
 
 ---
 
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Add serverless project support](https://github.com/WyriHaximus/github-workflows/pull/68) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [[New Version] Update versions file to PHP 8.4.6](https://github.com/WyriHaximus/php-fake-php-version/pull/141) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
 - [Drop deprecated methods](https://github.com/WyriHaximus/php-async-test-utilities/pull/277) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (3 days ago)
 - [Drop Psalm](https://github.com/WyriHaximus/Makefiles/pull/4) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Update squizlabs/php_codesniffer to 3.12](https://github.com/WyriHaximus/FlyPie/pull/45) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (1 week ago)
 - [Switch to action to install dependencies](https://github.com/WyriHaximus/FlyPie/pull/44) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (1 week ago)
 - [Automate getting all PHP versions to test against](https://github.com/WyriHaximus/FlyPie/pull/43) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (1 week ago)
-- [Update gitattributes to only export src, config, composer.json, and LICENSE](https://github.com/WyriHaximus/FlyPie/pull/42) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (1 week ago)
 
 ---
 
