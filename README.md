@@ -132,11 +132,11 @@ All new major package releases will be in PHP 8.2
 
 #### 👯 Check out some of my recent followers
 
+- [Charles-Chrismann](https://github.com/Charles-Chrismann)
 - [vtexperts](https://github.com/vtexperts)
 - [gozonjoedaimar](https://github.com/gozonjoedaimar)
 - [fronbasal](https://github.com/fronbasal)
 - [reed6868](https://github.com/reed6868)
-- [thgs](https://github.com/thgs)
 
 ---
 
