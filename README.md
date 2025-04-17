@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Switch to generating makefiles for packages](https://github.com/WyriHaximus/Makefiles/pull/5) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Open local files for reading only](https://github.com/WyriHaximus/StaticMap/pull/89) on [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (3 days ago)
 - [Add serverless project support](https://github.com/WyriHaximus/github-workflows/pull/68) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
 - [[New Version] Update versions file to PHP 8.4.6](https://github.com/WyriHaximus/php-fake-php-version/pull/141) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Upgrade a failing make command&#39;s exit code to 255](https://github.com/WyriHaximus/Makefiles/pull/3) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Add serverless CLI](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/25) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 week ago)
 - [Update squizlabs/php_codesniffer to 3.12](https://github.com/WyriHaximus/FlyPie/pull/45) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (2 weeks ago)
-- [Switch to action to install dependencies](https://github.com/WyriHaximus/FlyPie/pull/44) on [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (2 weeks ago)
 
 ---
 
