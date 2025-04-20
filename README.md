@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (today)
+- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (6 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
-- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (2 weeks ago)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 weeks ago)
+- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (2 weeks ago)
 - [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (2 weeks ago)
-- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (2 weeks ago)
+- [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (2 weeks ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (2 weeks ago)
-- [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (2 weeks ago)
 
 ---
 
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Sort FUNCTION_LIST](https://github.com/WyriHaximus/phpstan-reactphp/pull/12) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
 - [Make FUNCTION_LIST multi line for readiblity](https://github.com/WyriHaximus/phpstan-reactphp/pull/11) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
 - [Add bare documentation](https://github.com/WyriHaximus/Makefiles/pull/7) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Switch to generating makefiles for packages](https://github.com/WyriHaximus/Makefiles/pull/5) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Project shouldn&#39;t test NTS and ZTS when parallel isn&#39;t found](https://github.com/WyriHaximus/github-workflows/pull/67) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [Add node20 path before we start installing things](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/28) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 weeks ago)
 - [Add OSS serverless CLI](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/27) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 weeks ago)
-- [Upgrade a failing make command&#39;s exit code to 255](https://github.com/WyriHaximus/Makefiles/pull/3) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 weeks ago)
 
 ---
 
