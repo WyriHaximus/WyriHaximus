@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (6 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
-- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 weeks ago)
 - [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (2 weeks ago)
+- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 weeks ago)
 - [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (2 weeks ago)
-- [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (2 weeks ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (2 weeks ago)
 
 ---
@@ -61,7 +61,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.1.0](https://github.com/WyriHaximus/Makefiles/releases/tag/0.1.0), 1 day ago) - Makefile building blocks
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.8.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.8.0), today) - 🌯 PHPStan rules wrapper
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.2.0](https://github.com/WyriHaximus/Makefiles/releases/tag/0.2.0), today) - Makefile building blocks
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([wordpress-0.14.0](https://github.com/groundhog2k/helm-charts/releases/tag/wordpress-0.14.0), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.1.0](https://github.com/thecodingmachine/safe/releases/tag/v3.1.0), 5 days ago) - All PHP functions, rewritten to throw exceptions instead of returning false
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.13](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.13), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
@@ -72,13 +73,15 @@ All new major package releases will be in PHP 8.2
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.11.0](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.11.0), 3 weeks ago) - Kubernetes controller for GitHub Actions self-hosted runners
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.3.1](https://github.com/composer-unused/symbol-parser/releases/tag/0.3.1), 1 month ago) - Toolkit to parse symbols from a composer package
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.2](https://github.com/composer-unused/composer-unused/releases/tag/0.9.2), 1 month ago) - Show unused composer dependencies by scanning your code
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.7.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.7.0), 1 month ago) - 🌯 PHPStan rules wrapper
 - [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) ([2.1.0](https://github.com/MammatusPHP/life-cycle-events/releases/tag/2.1.0), 1 month ago) - 
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Turn into PHPStan extension](https://github.com/WyriHaximus/phpstan-reactphp/pull/16) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
+- [Use generated Makefile](https://github.com/WyriHaximus/phpstan-reactphp/pull/13) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
+- [Support extra commands](https://github.com/WyriHaximus/Makefiles/pull/8) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Sort FUNCTION_LIST](https://github.com/WyriHaximus/phpstan-reactphp/pull/12) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
 - [Make FUNCTION_LIST multi line for readiblity](https://github.com/WyriHaximus/phpstan-reactphp/pull/11) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
 - [Add bare documentation](https://github.com/WyriHaximus/Makefiles/pull/7) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
@@ -89,9 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Drop deprecated methods](https://github.com/WyriHaximus/php-async-test-utilities/pull/277) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
 - [Drop Psalm](https://github.com/WyriHaximus/Makefiles/pull/4) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Switch to centralized Makefiles](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/pull/17) on [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 week ago)
-- [Project shouldn&#39;t test NTS and ZTS when parallel isn&#39;t found](https://github.com/WyriHaximus/github-workflows/pull/67) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
-- [Add node20 path before we start installing things](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/28) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 weeks ago)
-- [Add OSS serverless CLI](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/27) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 weeks ago)
 
 ---
 
