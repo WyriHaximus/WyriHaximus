@@ -11,13 +11,13 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (5 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (6 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
-- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 week ago)
-- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 week ago)
+- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 weeks ago)
+- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (2 weeks ago)
 - [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (2 weeks ago)
 - [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (2 weeks ago)
 - [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (2 weeks ago)
@@ -61,9 +61,9 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.1.0](https://github.com/WyriHaximus/Makefiles/releases/tag/0.1.0), today) - Makefile building blocks
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([wordpress-0.14.0](https://github.com/groundhog2k/helm-charts/releases/tag/wordpress-0.14.0), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
-- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.1.0](https://github.com/thecodingmachine/safe/releases/tag/v3.1.0), 4 days ago) - All PHP functions, rewritten to throw exceptions instead of returning false
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.1.0](https://github.com/WyriHaximus/Makefiles/releases/tag/0.1.0), 1 day ago) - Makefile building blocks
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([wordpress-0.14.0](https://github.com/groundhog2k/helm-charts/releases/tag/wordpress-0.14.0), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.1.0](https://github.com/thecodingmachine/safe/releases/tag/v3.1.0), 5 days ago) - All PHP functions, rewritten to throw exceptions instead of returning false
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.13](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.13), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) ([4.0.1](https://github.com/WyriHaximus/FlyPie/releases/tag/4.0.1), 2 weeks ago) - Flysystem plugin for CakePHP
 - [WyriHaximus/reactphp-child-process-messenger](https://github.com/WyriHaximus/reactphp-child-process-messenger) ([4.0.5](https://github.com/WyriHaximus/reactphp-child-process-messenger/releases/tag/4.0.5), 2 weeks ago) - 
@@ -79,17 +79,17 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
-- [Add bare documentation](https://github.com/WyriHaximus/Makefiles/pull/7) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Switch to generating makefiles for packages](https://github.com/WyriHaximus/Makefiles/pull/5) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Open local files for reading only](https://github.com/WyriHaximus/StaticMap/pull/89) on [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (5 days ago)
+- [Add bare documentation](https://github.com/WyriHaximus/Makefiles/pull/7) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [Switch to generating makefiles for packages](https://github.com/WyriHaximus/Makefiles/pull/5) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Open local files for reading only](https://github.com/WyriHaximus/StaticMap/pull/89) on [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (6 days ago)
 - [Add serverless project support](https://github.com/WyriHaximus/github-workflows/pull/68) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [[New Version] Update versions file to PHP 8.4.6](https://github.com/WyriHaximus/php-fake-php-version/pull/141) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [Drop deprecated methods](https://github.com/WyriHaximus/php-async-test-utilities/pull/277) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
 - [Drop Psalm](https://github.com/WyriHaximus/Makefiles/pull/4) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Switch to centralized Makefiles](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/pull/17) on [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 week ago)
 - [Project shouldn&#39;t test NTS and ZTS when parallel isn&#39;t found](https://github.com/WyriHaximus/github-workflows/pull/67) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
-- [Add node20 path before we start installing things](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/28) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 week ago)
-- [Add OSS serverless CLI](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/27) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 week ago)
+- [Add node20 path before we start installing things](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/28) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 weeks ago)
+- [Add OSS serverless CLI](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/27) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 weeks ago)
 - [Upgrade a failing make command&#39;s exit code to 255](https://github.com/WyriHaximus/Makefiles/pull/3) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 weeks ago)
 - [Add serverless CLI](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/25) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 weeks ago)
 
@@ -97,8 +97,8 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
-- [BunnyWay/external-dns-bunny](https://github.com/BunnyWay/external-dns-bunny) -  (1 day ago)
-- [MaxymVlasov/dive-action](https://github.com/MaxymVlasov/dive-action) - Runs dive as GitHub action to scan your Docker image to find wasted disk space (4 days ago)
+- [BunnyWay/external-dns-bunny](https://github.com/BunnyWay/external-dns-bunny) -  (2 days ago)
+- [MaxymVlasov/dive-action](https://github.com/MaxymVlasov/dive-action) - Runs dive as GitHub action to scan your Docker image to find wasted disk space (5 days ago)
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (1 week ago)
 - [lovelylain/hass_ingress](https://github.com/lovelylain/hass_ingress) - Home Assistant ingress feature, add additional ingress panels to your Home Assistant frontend. (1 week ago)
 - [oss-serverless/serverless](https://github.com/oss-serverless/serverless) - Serverless Framework CLI v3 alternative (2 weeks ago)
@@ -108,7 +108,7 @@ All new major package releases will be in PHP 8.2
 - [otwld/ollama-helm](https://github.com/otwld/ollama-helm) - Helm chart for Ollama on Kubernetes (3 weeks ago)
 - [hakaioffsec/IngressNightmare-PoC](https://github.com/hakaioffsec/IngressNightmare-PoC) - This is a PoC code to exploit the IngressNightmare vulnerabilities (CVE-2025-1097, CVE-2025-1098, CVE-2025-24514, and CVE-2025-1974). (3 weeks ago)
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot (3 weeks ago)
-- [kmorning/cert-manager-webhook-desec](https://github.com/kmorning/cert-manager-webhook-desec) - A cert-manager webhook to solve an ACME DNS01 challenge using the deSEC API (4 weeks ago)
+- [kmorning/cert-manager-webhook-desec](https://github.com/kmorning/cert-manager-webhook-desec) - A cert-manager webhook to solve an ACME DNS01 challenge using the deSEC API (1 month ago)
 - [kamaradclimber/datadog-integration-ha](https://github.com/kamaradclimber/datadog-integration-ha) - A better datadog integration for Home Assistant (1 month ago)
 
 ---
