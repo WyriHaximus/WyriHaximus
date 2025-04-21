@@ -10,13 +10,13 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 day ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
@@ -79,6 +79,10 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [CI: Split tasks between targeted tasks that run only on the targeted (and lowest) PHP version, and others that run on all versions](https://github.com/WyriHaximus/github-workflows/pull/69) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [Add Suggests for related packages](https://github.com/WyriHaximus/php-test-utilities/pull/1005) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [Update QA utils](https://github.com/WyriHaximus/php-broadcast/pull/292) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
+- [Update ReactPHP PHPStan extension to upcoming v2](https://github.com/WyriHaximus/php-async-test-utilities/pull/279) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
 - [Update dependencies](https://github.com/WyriHaximus/phpstan-reactphp/pull/17) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
 - [Turn into PHPStan extension](https://github.com/WyriHaximus/phpstan-reactphp/pull/16) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
 - [Use generated Makefile](https://github.com/WyriHaximus/phpstan-reactphp/pull/13) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
@@ -88,10 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Add bare documentation](https://github.com/WyriHaximus/Makefiles/pull/7) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Switch to generating makefiles for packages](https://github.com/WyriHaximus/Makefiles/pull/5) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 - [Open local files for reading only](https://github.com/WyriHaximus/StaticMap/pull/89) on [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 week ago)
-- [Add serverless project support](https://github.com/WyriHaximus/github-workflows/pull/68) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
-- [[New Version] Update versions file to PHP 8.4.6](https://github.com/WyriHaximus/php-fake-php-version/pull/141) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
-- [Drop deprecated methods](https://github.com/WyriHaximus/php-async-test-utilities/pull/277) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
-- [Drop Psalm](https://github.com/WyriHaximus/Makefiles/pull/4) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 
 ---
 
