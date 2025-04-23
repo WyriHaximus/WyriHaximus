@@ -79,6 +79,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Task list CI for All, Low, Locked, and High](https://github.com/WyriHaximus/Makefiles/pull/10) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Task list CI for All, Low, Locked, and High](https://github.com/WyriHaximus/Makefiles/pull/9) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [CI: Split tasks between targeted tasks that run only on the targeted (and lowest) PHP version, and others that run on all versions](https://github.com/WyriHaximus/github-workflows/pull/69) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [Add Suggests for related packages](https://github.com/WyriHaximus/php-test-utilities/pull/1005) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [Update QA utils](https://github.com/WyriHaximus/php-broadcast/pull/292) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
@@ -90,8 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Sort FUNCTION_LIST](https://github.com/WyriHaximus/phpstan-reactphp/pull/12) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (3 days ago)
 - [Make FUNCTION_LIST multi line for readiblity](https://github.com/WyriHaximus/phpstan-reactphp/pull/11) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (3 days ago)
 - [Add bare documentation](https://github.com/WyriHaximus/Makefiles/pull/7) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
-- [Switch to generating makefiles for packages](https://github.com/WyriHaximus/Makefiles/pull/5) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
-- [Open local files for reading only](https://github.com/WyriHaximus/StaticMap/pull/89) on [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 week ago)
 
 ---
 
