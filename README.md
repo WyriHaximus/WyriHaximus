@@ -61,7 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([mysql-3.0.3](https://github.com/groundhog2k/helm-charts/releases/tag/mysql-3.0.3), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([postgres-1.5.3](https://github.com/groundhog2k/helm-charts/releases/tag/postgres-1.5.3), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.8.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.8.0), 4 days ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.2.0](https://github.com/WyriHaximus/Makefiles/releases/tag/0.2.0), 4 days ago) - Makefile building blocks
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.1.0](https://github.com/thecodingmachine/safe/releases/tag/v3.1.0), 1 week ago) - All PHP functions, rewritten to throw exceptions instead of returning false
