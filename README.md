@@ -61,9 +61,9 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([mysql-3.0.3](https://github.com/groundhog2k/helm-charts/releases/tag/mysql-3.0.3), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.8.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.8.0), 4 days ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.2.0](https://github.com/WyriHaximus/Makefiles/releases/tag/0.2.0), 4 days ago) - Makefile building blocks
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([wordpress-0.14.0](https://github.com/groundhog2k/helm-charts/releases/tag/wordpress-0.14.0), 5 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.1.0](https://github.com/thecodingmachine/safe/releases/tag/v3.1.0), 1 week ago) - All PHP functions, rewritten to throw exceptions instead of returning false
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.13](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.13), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) ([4.0.1](https://github.com/WyriHaximus/FlyPie/releases/tag/4.0.1), 3 weeks ago) - Flysystem plugin for CakePHP
