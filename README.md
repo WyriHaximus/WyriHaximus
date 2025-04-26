@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (4 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (4 days ago)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (5 days ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (6 days ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (6 days ago)
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (6 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 weeks ago)
-- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 weeks ago)
 - [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (2 weeks ago)
+- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 weeks ago)
 - [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) (3 weeks ago)
 
 ---
@@ -97,6 +97,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly. (today)
 - [Intelligent-Intern/quicpro_async](https://github.com/Intelligent-Intern/quicpro_async) - PECL channel for QuicPro Async C‑extension (2 days ago)
 - [BunnyWay/external-dns-bunny](https://github.com/BunnyWay/external-dns-bunny) -  (1 week ago)
 - [MaxymVlasov/dive-action](https://github.com/MaxymVlasov/dive-action) - Runs dive as GitHub action to scan your Docker image to find wasted disk space (1 week ago)
@@ -109,7 +110,6 @@ All new major package releases will be in PHP 8.2
 - [otwld/ollama-helm](https://github.com/otwld/ollama-helm) - Helm chart for Ollama on Kubernetes (4 weeks ago)
 - [hakaioffsec/IngressNightmare-PoC](https://github.com/hakaioffsec/IngressNightmare-PoC) - This is a PoC code to exploit the IngressNightmare vulnerabilities (CVE-2025-1097, CVE-2025-1098, CVE-2025-24514, and CVE-2025-1974). (1 month ago)
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot (1 month ago)
-- [kmorning/cert-manager-webhook-desec](https://github.com/kmorning/cert-manager-webhook-desec) - A cert-manager webhook to solve an ACME DNS01 challenge using the deSEC API (1 month ago)
 
 ---
 
