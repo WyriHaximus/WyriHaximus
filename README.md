@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Wrap protentional awaited operations in an async](https://github.com/Valgorithms/Civilizationbot/pull/9) on [Valgorithms/Civilizationbot](https://github.com/Valgorithms/Civilizationbot) (today)
 - [Test if split out task list wrokflow also works without those Makefil…](https://github.com/WyriHaximus/php-broadcast/pull/293) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
 - [Task list CI for All, Low, Locked, and High](https://github.com/WyriHaximus/Makefiles/pull/10) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [Task list CI for All, Low, Locked, and High](https://github.com/WyriHaximus/Makefiles/pull/9) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Use generated Makefile](https://github.com/WyriHaximus/phpstan-reactphp/pull/13) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (6 days ago)
 - [Support extra commands](https://github.com/WyriHaximus/Makefiles/pull/8) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
 - [Sort FUNCTION_LIST](https://github.com/WyriHaximus/phpstan-reactphp/pull/12) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (6 days ago)
-- [Make FUNCTION_LIST multi line for readiblity](https://github.com/WyriHaximus/phpstan-reactphp/pull/11) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (6 days ago)
 
 ---
 
