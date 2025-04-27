@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (today)
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
 - [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (today)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 weeks ago)
-- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (3 weeks ago)
+- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (3 weeks ago)
 
 ---
 
@@ -61,7 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) ([4.5.1](https://github.com/WyriHaximus/reactphp-cache-redis/releases/tag/4.5.1), today) - Redis cache implementation for react/cache
+- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) ([4.6.0](https://github.com/WyriHaximus/reactphp-cache-redis/releases/tag/4.6.0), today) - Redis cache implementation for react/cache
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([redis-1.3.4](https://github.com/groundhog2k/helm-charts/releases/tag/redis-1.3.4), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.12.4](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.12.4), today) - Forked from https://github.com/k8s-at-home/charts
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.3.1](https://github.com/WyriHaximus/Makefiles/releases/tag/0.3.1), 1 day ago) - Makefile building blocks
@@ -79,6 +79,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Update readme example to use lazyclient](https://github.com/WyriHaximus/reactphp-cache-redis/pull/75) on [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (today)
+- [Update QA tooling](https://github.com/WyriHaximus/reactphp-cache-redis/pull/74) on [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (today)
 - [In preparation for updating QA tooling raise PHP to 8.3](https://github.com/WyriHaximus/reactphp-cache-redis/pull/73) on [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (today)
 - [Exclude composer.lock from dist file](https://github.com/WyriHaximus/reactphp-cache-redis/pull/72) on [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (today)
 - [Update .gitattributes to include even less in the dist file](https://github.com/WyriHaximus/php-broadcast/pull/295) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
@@ -90,8 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Update to wyrihaximus/makefiles 0.3](https://github.com/WyriHaximus/phpstan-reactphp/pull/19) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
 - [Update to stable wyrihaximus/test-utilities](https://github.com/WyriHaximus/phpstan-reactphp/pull/18) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
 - [Wrap protentional awaited operations in an async](https://github.com/Valgorithms/Civilizationbot/pull/9) on [Valgorithms/Civilizationbot](https://github.com/Valgorithms/Civilizationbot) (1 day ago)
-- [Test if split out task list wrokflow also works without those Makefil…](https://github.com/WyriHaximus/php-broadcast/pull/293) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
-- [Task list CI for All, Directly on OS, Low, Locked, and High](https://github.com/WyriHaximus/Makefiles/pull/10) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 
 ---
 
