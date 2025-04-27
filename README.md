@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (today)
+- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 weeks ago)
-- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (3 weeks ago)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (3 weeks ago)
 
 ---
@@ -79,6 +79,9 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [In preparation for updating QA tooling raise PHP to 8.3](https://github.com/WyriHaximus/reactphp-cache-redis/pull/73) on [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (today)
+- [Exclude composer.lock from dist file](https://github.com/WyriHaximus/reactphp-cache-redis/pull/72) on [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (today)
+- [Update .gitattributes to include even less in the dist file](https://github.com/WyriHaximus/php-broadcast/pull/295) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
 - [Raise to PHP 8.3](https://github.com/WyriHaximus/php-broadcast/pull/294) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
 - [Fix raw unit testing](https://github.com/WyriHaximus/Makefiles/pull/11) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Turn into PHPStan extension](https://github.com/WyriHaximus/php-async-test-utilities/pull/281) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
@@ -89,9 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Wrap protentional awaited operations in an async](https://github.com/Valgorithms/Civilizationbot/pull/9) on [Valgorithms/Civilizationbot](https://github.com/Valgorithms/Civilizationbot) (1 day ago)
 - [Test if split out task list wrokflow also works without those Makefil…](https://github.com/WyriHaximus/php-broadcast/pull/293) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
 - [Task list CI for All, Directly on OS, Low, Locked, and High](https://github.com/WyriHaximus/Makefiles/pull/10) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
-- [Task list CI for All, Low, Locked, and High](https://github.com/WyriHaximus/Makefiles/pull/9) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
-- [CI: Split tasks between targeted tasks that run only on the targeted (and lowest) PHP version, and others that run on all versions](https://github.com/WyriHaximus/github-workflows/pull/69) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
-- [Add Suggests for related packages](https://github.com/WyriHaximus/php-test-utilities/pull/1005) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
 
 ---
 
