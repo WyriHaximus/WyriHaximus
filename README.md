@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
-- [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (today)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 week ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 weeks ago)
 
 ---
 
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Drop safe](https://github.com/WyriHaximus/php-metrics/pull/95) on [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
 - [Raise PHP to 8.3 in preparation for QA tool updates](https://github.com/WyriHaximus/php-metrics/pull/94) on [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
 - [Drop react-parallel/object-proxy-attributes](https://github.com/WyriHaximus/php-metrics/pull/93) on [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
 - [Update readme example to use lazyclient](https://github.com/WyriHaximus/reactphp-cache-redis/pull/75) on [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (today)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Turn into PHPStan extension](https://github.com/WyriHaximus/php-async-test-utilities/pull/281) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [Update all WyriHaximus packages to their latest versions](https://github.com/WyriHaximus/php-async-test-utilities/pull/280) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [Update to latest stable makefiles and test utils](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/pull/19) on [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 day ago)
-- [Update to wyrihaximus/makefiles 0.3](https://github.com/WyriHaximus/phpstan-reactphp/pull/19) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
 
 ---
 
