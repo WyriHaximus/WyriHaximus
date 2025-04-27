@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Update QA Tooling](https://github.com/WyriHaximus/php-metrics/pull/98) on [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
 - [Drop safe](https://github.com/WyriHaximus/php-metrics/pull/95) on [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
 - [Raise PHP to 8.3 in preparation for QA tool updates](https://github.com/WyriHaximus/php-metrics/pull/94) on [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
 - [Drop react-parallel/object-proxy-attributes](https://github.com/WyriHaximus/php-metrics/pull/93) on [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Fix raw unit testing](https://github.com/WyriHaximus/Makefiles/pull/11) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Turn into PHPStan extension](https://github.com/WyriHaximus/php-async-test-utilities/pull/281) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [Update all WyriHaximus packages to their latest versions](https://github.com/WyriHaximus/php-async-test-utilities/pull/280) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
-- [Update to latest stable makefiles and test utils](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/pull/19) on [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 day ago)
 
 ---
 
