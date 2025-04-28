@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.1.1](https://github.com/thecodingmachine/safe/releases/tag/v3.1.1), today) - All PHP functions, rewritten to throw exceptions instead of returning false
 - [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) ([4.6.0](https://github.com/WyriHaximus/reactphp-cache-redis/releases/tag/4.6.0), 1 day ago) - Redis cache implementation for react/cache
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([redis-1.3.4](https://github.com/groundhog2k/helm-charts/releases/tag/redis-1.3.4), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.12.4](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.12.4), 1 day ago) - Forked from https://github.com/k8s-at-home/charts
@@ -70,7 +71,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) ([2.0.0](https://github.com/WyriHaximus/phpstan-reactphp/releases/tag/2.0.0), 2 days ago) - ReactPHP extension for PHPStan
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([7.0.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/7.0.0), 2 days ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.8.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.8.0), 1 week ago) - 🌯 PHPStan rules wrapper
-- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.1.0](https://github.com/thecodingmachine/safe/releases/tag/v3.1.0), 1 week ago) - All PHP functions, rewritten to throw exceptions instead of returning false
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.13](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.13), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) ([4.0.1](https://github.com/WyriHaximus/FlyPie/releases/tag/4.0.1), 3 weeks ago) - Flysystem plugin for CakePHP
 - [WyriHaximus/reactphp-child-process-messenger](https://github.com/WyriHaximus/reactphp-child-process-messenger) ([4.0.5](https://github.com/WyriHaximus/reactphp-child-process-messenger/releases/tag/4.0.5), 3 weeks ago) - 
