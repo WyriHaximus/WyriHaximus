@@ -11,14 +11,14 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
-- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 day ago)
-- [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 day ago)
+- [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (1 day ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
+- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (1 day ago)
+- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 day ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) ([3.0.0](https://github.com/WyriHaximus/php-metrics/releases/tag/3.0.0), today) - 🕵️‍♀️ Prometheus modelled metric VO&#39;s and registry
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.1.1](https://github.com/thecodingmachine/safe/releases/tag/v3.1.1), today) - All PHP functions, rewritten to throw exceptions instead of returning false
 - [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) ([4.6.0](https://github.com/WyriHaximus/reactphp-cache-redis/releases/tag/4.6.0), 1 day ago) - Redis cache implementation for react/cache
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([redis-1.3.4](https://github.com/groundhog2k/helm-charts/releases/tag/redis-1.3.4), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
@@ -73,12 +74,15 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.8.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.8.0), 1 week ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.13](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.13), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/FlyPie](https://github.com/WyriHaximus/FlyPie) ([4.0.1](https://github.com/WyriHaximus/FlyPie/releases/tag/4.0.1), 3 weeks ago) - Flysystem plugin for CakePHP
-- [WyriHaximus/reactphp-child-process-messenger](https://github.com/WyriHaximus/reactphp-child-process-messenger) ([4.0.5](https://github.com/WyriHaximus/reactphp-child-process-messenger/releases/tag/4.0.5), 3 weeks ago) - 
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Update workflows to the centralized ones](https://github.com/WyriHaximus/php-metrics-tactician/pull/32) on [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (today)
+- [Unlock metrics v3](https://github.com/WyriHaximus/php-metrics-tactician/pull/31) on [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (today)
+- [Drop Safe](https://github.com/MammatusPHP/app/pull/37) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
+- [Raise to PHP 8.3](https://github.com/MammatusPHP/app/pull/36) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
 - [Update QA Tooling](https://github.com/WyriHaximus/php-metrics/pull/98) on [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (1 day ago)
 - [Drop safe](https://github.com/WyriHaximus/php-metrics/pull/95) on [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (1 day ago)
 - [Raise PHP to 8.3 in preparation for QA tool updates](https://github.com/WyriHaximus/php-metrics/pull/94) on [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (1 day ago)
@@ -88,10 +92,6 @@ All new major package releases will be in PHP 8.2
 - [In preparation for updating QA tooling raise PHP to 8.3](https://github.com/WyriHaximus/reactphp-cache-redis/pull/73) on [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (1 day ago)
 - [Exclude composer.lock from dist file](https://github.com/WyriHaximus/reactphp-cache-redis/pull/72) on [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (1 day ago)
 - [Update .gitattributes to include even less in the dist file](https://github.com/WyriHaximus/php-broadcast/pull/295) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
-- [Raise to PHP 8.3](https://github.com/WyriHaximus/php-broadcast/pull/294) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
-- [Fix raw unit testing](https://github.com/WyriHaximus/Makefiles/pull/11) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Turn into PHPStan extension](https://github.com/WyriHaximus/php-async-test-utilities/pull/281) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
-- [Update all WyriHaximus packages to their latest versions](https://github.com/WyriHaximus/php-async-test-utilities/pull/280) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
 
 ---
 
