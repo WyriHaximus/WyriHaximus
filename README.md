@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.9.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.9.0), today) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) ([1.2.0](https://github.com/WyriHaximus/php-metrics-tactician/releases/tag/1.2.0), today) - Metrics middleware for Tactician
 - [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) ([3.0.0](https://github.com/WyriHaximus/php-metrics/releases/tag/3.0.0), today) - 🕵️‍♀️ Prometheus modelled metric VO&#39;s and registry
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.1.1](https://github.com/thecodingmachine/safe/releases/tag/v3.1.1), today) - All PHP functions, rewritten to throw exceptions instead of returning false
@@ -72,7 +73,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) ([3.0.0](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/releases/tag/3.0.0), 2 days ago) - Trait to run all tests in a fiber
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) ([2.0.0](https://github.com/WyriHaximus/phpstan-reactphp/releases/tag/2.0.0), 2 days ago) - ReactPHP extension for PHPStan
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([7.0.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/7.0.0), 2 days ago) - 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.8.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.8.0), 1 week ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.13](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.13), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 
 ---
