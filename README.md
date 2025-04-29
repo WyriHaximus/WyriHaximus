@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Rework tests](https://github.com/WyriHaximus/php-psr-3-utilities/pull/45) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (today)
 - [Extract data providers into a central class](https://github.com/WyriHaximus/php-psr-3-utilities/pull/44) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (today)
 - [Introduce Utils object to replace functions](https://github.com/WyriHaximus/php-psr-3-utilities/pull/43) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (1 day ago)
 - [Update QA Tooling](https://github.com/WyriHaximus/php-psr-3-utilities/pull/41) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Drop Safe](https://github.com/MammatusPHP/app/pull/37) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 day ago)
 - [Raise to PHP 8.3](https://github.com/MammatusPHP/app/pull/36) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 day ago)
 - [Update QA Tooling](https://github.com/WyriHaximus/php-metrics/pull/98) on [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (2 days ago)
-- [Drop safe](https://github.com/WyriHaximus/php-metrics/pull/95) on [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (2 days ago)
 
 ---
 
