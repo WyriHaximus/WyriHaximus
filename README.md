@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [reactphp/socket](https://github.com/reactphp/socket) (1 day ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 day ago)
 - [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (3 days ago)
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (4 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
-- [MammatusPHP/app](https://github.com/MammatusPHP/app) (4 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (4 days ago)
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (4 days ago)
 - [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (4 days ago)
+- [MammatusPHP/app](https://github.com/MammatusPHP/app) (4 days ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (5 days ago)
-- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (5 days ago)
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (5 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (5 days ago)
+- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (5 days ago)
 
 ---
 
@@ -61,7 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.3.2](https://github.com/WyriHaximus/Makefiles/releases/tag/0.3.2), 1 day ago) - Makefile building blocks
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.3.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.3.3), today) - Makefile building blocks
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.17.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.17.0), 1 day ago) - PHP Coding Standard
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([etcd-1.0.7](https://github.com/groundhog2k/helm-charts/releases/tag/etcd-1.0.7), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.9.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.9.0), 4 days ago) - 🌯 PHPStan rules wrapper
@@ -79,6 +79,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Swap async to normal test utils and update to the latest version](https://github.com/WyriHaximus/Makefiles/pull/16) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Raise PHP version to 8.3&#43;](https://github.com/WyriHaximus/Makefiles/pull/15) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Fix extension detection](https://github.com/WyriHaximus/Makefiles/pull/14) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Rework tests](https://github.com/WyriHaximus/php-psr-3-utilities/pull/45) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (3 days ago)
 - [Extract data providers into a central class](https://github.com/WyriHaximus/php-psr-3-utilities/pull/44) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (3 days ago)
@@ -90,8 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Update QA tooling](https://github.com/WyriHaximus/php-metrics-tactician/pull/35) on [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (4 days ago)
 - [Update workflows to the centralized ones](https://github.com/WyriHaximus/php-metrics-tactician/pull/32) on [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (4 days ago)
 - [Unlock metrics v3](https://github.com/WyriHaximus/php-metrics-tactician/pull/31) on [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (4 days ago)
-- [Drop Safe](https://github.com/MammatusPHP/app/pull/37) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (4 days ago)
-- [Raise to PHP 8.3](https://github.com/MammatusPHP/app/pull/36) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (4 days ago)
 
 ---
 
