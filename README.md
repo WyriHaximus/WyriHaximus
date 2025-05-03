@@ -97,6 +97,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [TheRealEiskaffee/brightness-overlay](https://github.com/TheRealEiskaffee/brightness-overlay) -  (today)
 - [Gh61/lovelace-hue-like-light-card](https://github.com/Gh61/lovelace-hue-like-light-card) - This card provides a Hue-like way to control your lights in Home Assistant. (1 day ago)
 - [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly. (1 week ago)
 - [Intelligent-Intern/quicpro_async](https://github.com/Intelligent-Intern/quicpro_async) - PECL channel for QuicPro Async C‑extension (1 week ago)
@@ -109,7 +110,6 @@ All new major package releases will be in PHP 8.2
 - [sdr-enthusiasts/docker-adsb-ultrafeeder](https://github.com/sdr-enthusiasts/docker-adsb-ultrafeeder) - ADSB-Ultrafeeder is an all-in-one ADSB container with readsb, tar1090, graphs1090, autogain, multi-feeder, and mlat-hub built in (1 month ago)
 - [haya14busa/github-action-brandings](https://github.com/haya14busa/github-action-brandings) - GitHub Actions Branding Cheat Sheet (1 month ago)
 - [otwld/ollama-helm](https://github.com/otwld/ollama-helm) - Helm chart for Ollama on Kubernetes (1 month ago)
-- [hakaioffsec/IngressNightmare-PoC](https://github.com/hakaioffsec/IngressNightmare-PoC) - This is a PoC code to exploit the IngressNightmare vulnerabilities (CVE-2025-1097, CVE-2025-1098, CVE-2025-24514, and CVE-2025-1974). (1 month ago)
 
 ---
 
