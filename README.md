@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Add --ignore-msi-with-no-mutations to infection](https://github.com/WyriHaximus/Makefiles/pull/17) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Revert &#34;Run everything on ubuntu-22.04&#34;](https://github.com/WyriHaximusNet/docker-php/pull/267) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Swap async to normal test utils and update to the latest version](https://github.com/WyriHaximus/Makefiles/pull/16) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Raise PHP version to 8.3&#43;](https://github.com/WyriHaximus/Makefiles/pull/15) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Update top PHP 8.3](https://github.com/WyriHaximus/php-psr-3-utilities/pull/40) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (5 days ago)
 - [Drop Safe](https://github.com/WyriHaximus/php-psr-3-utilities/pull/39) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (5 days ago)
 - [Update QA tooling](https://github.com/WyriHaximus/php-metrics-tactician/pull/35) on [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (5 days ago)
-- [Update workflows to the centralized ones](https://github.com/WyriHaximus/php-metrics-tactician/pull/32) on [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (5 days ago)
 
 ---
 
