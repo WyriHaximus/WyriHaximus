@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (today)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
-- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (today)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 day ago)
-- [reactphp/socket](https://github.com/reactphp/socket) (1 day ago)
-- [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (3 days ago)
-- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (4 days ago)
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (4 days ago)
-- [MammatusPHP/app](https://github.com/MammatusPHP/app) (4 days ago)
-- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (5 days ago)
+- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (1 day ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (1 day ago)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (2 days ago)
+- [reactphp/socket](https://github.com/reactphp/socket) (2 days ago)
+- [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (4 days ago)
+- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (5 days ago)
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (5 days ago)
+- [MammatusPHP/app](https://github.com/MammatusPHP/app) (5 days ago)
+- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (6 days ago)
 
 ---
 
@@ -61,52 +61,52 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.3.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.3.3), today) - Makefile building blocks
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.17.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.17.0), 1 day ago) - PHP Coding Standard
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([etcd-1.0.7](https://github.com/groundhog2k/helm-charts/releases/tag/etcd-1.0.7), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.9.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.9.0), 4 days ago) - 🌯 PHPStan rules wrapper
-- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) ([1.2.0](https://github.com/WyriHaximus/php-metrics-tactician/releases/tag/1.2.0), 4 days ago) - Metrics middleware for Tactician
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) ([3.0.0](https://github.com/WyriHaximus/php-metrics/releases/tag/3.0.0), 4 days ago) - 🕵️‍♀️ Prometheus modelled metric VO&#39;s and registry
-- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.1.1](https://github.com/thecodingmachine/safe/releases/tag/v3.1.1), 4 days ago) - All PHP functions, rewritten to throw exceptions instead of returning false
-- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) ([4.6.0](https://github.com/WyriHaximus/reactphp-cache-redis/releases/tag/4.6.0), 5 days ago) - Redis cache implementation for react/cache
-- [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.12.4](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.12.4), 5 days ago) - Forked from https://github.com/k8s-at-home/charts
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([9.0.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/9.0.0), 6 days ago) - 
-- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) ([3.0.0](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/releases/tag/3.0.0), 6 days ago) - Trait to run all tests in a fiber
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) ([2.0.0](https://github.com/WyriHaximus/phpstan-reactphp/releases/tag/2.0.0), 6 days ago) - ReactPHP extension for PHPStan
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([7.0.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/7.0.0), 6 days ago) - 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.3.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.3.3), 1 day ago) - Makefile building blocks
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.17.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.17.0), 2 days ago) - PHP Coding Standard
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([etcd-1.0.7](https://github.com/groundhog2k/helm-charts/releases/tag/etcd-1.0.7), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.9.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.9.0), 5 days ago) - 🌯 PHPStan rules wrapper
+- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) ([1.2.0](https://github.com/WyriHaximus/php-metrics-tactician/releases/tag/1.2.0), 5 days ago) - Metrics middleware for Tactician
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) ([3.0.0](https://github.com/WyriHaximus/php-metrics/releases/tag/3.0.0), 5 days ago) - 🕵️‍♀️ Prometheus modelled metric VO&#39;s and registry
+- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.1.1](https://github.com/thecodingmachine/safe/releases/tag/v3.1.1), 5 days ago) - All PHP functions, rewritten to throw exceptions instead of returning false
+- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) ([4.6.0](https://github.com/WyriHaximus/reactphp-cache-redis/releases/tag/4.6.0), 6 days ago) - Redis cache implementation for react/cache
+- [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.12.4](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.12.4), 6 days ago) - Forked from https://github.com/k8s-at-home/charts
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([9.0.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/9.0.0), 1 week ago) - 
+- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) ([3.0.0](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/releases/tag/3.0.0), 1 week ago) - Trait to run all tests in a fiber
+- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) ([2.0.0](https://github.com/WyriHaximus/phpstan-reactphp/releases/tag/2.0.0), 1 week ago) - ReactPHP extension for PHPStan
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([7.0.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/7.0.0), 1 week ago) - 
 
 ---
 
 #### 🔨 My recent Pull Requests
 
-- [Swap async to normal test utils and update to the latest version](https://github.com/WyriHaximus/Makefiles/pull/16) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Raise PHP version to 8.3&#43;](https://github.com/WyriHaximus/Makefiles/pull/15) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Fix extension detection](https://github.com/WyriHaximus/Makefiles/pull/14) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Rework tests](https://github.com/WyriHaximus/php-psr-3-utilities/pull/45) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (3 days ago)
-- [Extract data providers into a central class](https://github.com/WyriHaximus/php-psr-3-utilities/pull/44) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (3 days ago)
-- [Introduce Utils object to replace functions](https://github.com/WyriHaximus/php-psr-3-utilities/pull/43) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (4 days ago)
-- [Update QA Tooling](https://github.com/WyriHaximus/php-psr-3-utilities/pull/41) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (4 days ago)
-- [Add staabm/phpstan-psr3](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/167) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (4 days ago)
-- [Update top PHP 8.3](https://github.com/WyriHaximus/php-psr-3-utilities/pull/40) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (4 days ago)
-- [Drop Safe](https://github.com/WyriHaximus/php-psr-3-utilities/pull/39) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (4 days ago)
-- [Update QA tooling](https://github.com/WyriHaximus/php-metrics-tactician/pull/35) on [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (4 days ago)
-- [Update workflows to the centralized ones](https://github.com/WyriHaximus/php-metrics-tactician/pull/32) on [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (4 days ago)
-- [Unlock metrics v3](https://github.com/WyriHaximus/php-metrics-tactician/pull/31) on [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (4 days ago)
+- [Swap async to normal test utils and update to the latest version](https://github.com/WyriHaximus/Makefiles/pull/16) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [Raise PHP version to 8.3&#43;](https://github.com/WyriHaximus/Makefiles/pull/15) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [Fix extension detection](https://github.com/WyriHaximus/Makefiles/pull/14) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [Rework tests](https://github.com/WyriHaximus/php-psr-3-utilities/pull/45) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (4 days ago)
+- [Extract data providers into a central class](https://github.com/WyriHaximus/php-psr-3-utilities/pull/44) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (4 days ago)
+- [Introduce Utils object to replace functions](https://github.com/WyriHaximus/php-psr-3-utilities/pull/43) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (5 days ago)
+- [Update QA Tooling](https://github.com/WyriHaximus/php-psr-3-utilities/pull/41) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (5 days ago)
+- [Add staabm/phpstan-psr3](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/167) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (5 days ago)
+- [Update top PHP 8.3](https://github.com/WyriHaximus/php-psr-3-utilities/pull/40) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (5 days ago)
+- [Drop Safe](https://github.com/WyriHaximus/php-psr-3-utilities/pull/39) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (5 days ago)
+- [Update QA tooling](https://github.com/WyriHaximus/php-metrics-tactician/pull/35) on [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (5 days ago)
+- [Update workflows to the centralized ones](https://github.com/WyriHaximus/php-metrics-tactician/pull/32) on [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (5 days ago)
+- [Unlock metrics v3](https://github.com/WyriHaximus/php-metrics-tactician/pull/31) on [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (5 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [Gh61/lovelace-hue-like-light-card](https://github.com/Gh61/lovelace-hue-like-light-card) - This card provides a Hue-like way to control your lights in Home Assistant. (today)
-- [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly. (6 days ago)
+- [Gh61/lovelace-hue-like-light-card](https://github.com/Gh61/lovelace-hue-like-light-card) - This card provides a Hue-like way to control your lights in Home Assistant. (1 day ago)
+- [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly. (1 week ago)
 - [Intelligent-Intern/quicpro_async](https://github.com/Intelligent-Intern/quicpro_async) - PECL channel for QuicPro Async C‑extension (1 week ago)
 - [BunnyWay/external-dns-bunny](https://github.com/BunnyWay/external-dns-bunny) -  (2 weeks ago)
 - [MaxymVlasov/dive-action](https://github.com/MaxymVlasov/dive-action) - Runs dive as GitHub action to scan your Docker image to find wasted disk space (2 weeks ago)
-- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (2 weeks ago)
+- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (3 weeks ago)
 - [lovelylain/hass_ingress](https://github.com/lovelylain/hass_ingress) - Home Assistant ingress feature, add additional ingress panels to your Home Assistant frontend. (3 weeks ago)
-- [oss-serverless/serverless](https://github.com/oss-serverless/serverless) - Serverless Framework CLI v3 alternative (3 weeks ago)
-- [sdr-enthusiasts/docker-flightradar24](https://github.com/sdr-enthusiasts/docker-flightradar24) - Multi-architecture docker container (arm32v7/arm64/x86_64) running flightradar24 fr24feed. Designed to work in tandem with https://sdr-e.com/docker-adsb-ultrafeeder (4 weeks ago)
-- [sdr-enthusiasts/docker-adsb-ultrafeeder](https://github.com/sdr-enthusiasts/docker-adsb-ultrafeeder) - ADSB-Ultrafeeder is an all-in-one ADSB container with readsb, tar1090, graphs1090, autogain, multi-feeder, and mlat-hub built in (4 weeks ago)
+- [oss-serverless/serverless](https://github.com/oss-serverless/serverless) - Serverless Framework CLI v3 alternative (4 weeks ago)
+- [sdr-enthusiasts/docker-flightradar24](https://github.com/sdr-enthusiasts/docker-flightradar24) - Multi-architecture docker container (arm32v7/arm64/x86_64) running flightradar24 fr24feed. Designed to work in tandem with https://sdr-e.com/docker-adsb-ultrafeeder (1 month ago)
+- [sdr-enthusiasts/docker-adsb-ultrafeeder](https://github.com/sdr-enthusiasts/docker-adsb-ultrafeeder) - ADSB-Ultrafeeder is an all-in-one ADSB container with readsb, tar1090, graphs1090, autogain, multi-feeder, and mlat-hub built in (1 month ago)
 - [haya14busa/github-action-brandings](https://github.com/haya14busa/github-action-brandings) - GitHub Actions Branding Cheat Sheet (1 month ago)
 - [otwld/ollama-helm](https://github.com/otwld/ollama-helm) - Helm chart for Ollama on Kubernetes (1 month ago)
 - [hakaioffsec/IngressNightmare-PoC](https://github.com/hakaioffsec/IngressNightmare-PoC) - This is a PoC code to exploit the IngressNightmare vulnerabilities (CVE-2025-1097, CVE-2025-1098, CVE-2025-24514, and CVE-2025-1974). (1 month ago)
