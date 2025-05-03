@@ -79,6 +79,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Bump to PHP 8.3](https://github.com/WyriHaximus/php-compress/pull/122) on [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (today)
+- [Bump to PHP 8.3](https://github.com/WyriHaximus/php-compress-test-utilities/pull/78) on [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (today)
 - [Add --ignore-msi-with-no-mutations to infection](https://github.com/WyriHaximus/Makefiles/pull/17) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Revert &#34;Run everything on ubuntu-22.04&#34;](https://github.com/WyriHaximusNet/docker-php/pull/267) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Swap async to normal test utils and update to the latest version](https://github.com/WyriHaximus/Makefiles/pull/16) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
@@ -90,8 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Update QA Tooling](https://github.com/WyriHaximus/php-psr-3-utilities/pull/41) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (5 days ago)
 - [Add staabm/phpstan-psr3](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/167) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (5 days ago)
 - [Update top PHP 8.3](https://github.com/WyriHaximus/php-psr-3-utilities/pull/40) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (5 days ago)
-- [Drop Safe](https://github.com/WyriHaximus/php-psr-3-utilities/pull/39) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (5 days ago)
-- [Update QA tooling](https://github.com/WyriHaximus/php-metrics-tactician/pull/35) on [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (5 days ago)
 
 ---
 
