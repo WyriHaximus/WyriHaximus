@@ -13,16 +13,16 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (1 day ago)
-- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 day ago)
-- [MammatusPHP/cron-contracts](https://github.com/MammatusPHP/cron-contracts) (1 day ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
+- [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (1 day ago)
+- [MammatusPHP/cron-contracts](https://github.com/MammatusPHP/cron-contracts) (1 day ago)
 - [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (1 day ago)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (2 days ago)
+- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 day ago)
 - [reactphp/socket](https://github.com/reactphp/socket) (2 days ago)
-- [MammatusPHP/app](https://github.com/MammatusPHP/app) (5 days ago)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (2 days ago)
 - [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (5 days ago)
 - [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (5 days ago)
+- [MammatusPHP/app](https://github.com/MammatusPHP/app) (5 days ago)
 
 ---
 
@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) ([3.0.0](https://github.com/WyriHaximus/php-compress-test-utilities/releases/tag/3.0.0), today) - 
 - [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) ([2.2.0](https://github.com/WyriHaximus/php-psr-3-utilities/releases/tag/2.2.0), today) - 
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.3.4](https://github.com/WyriHaximus/Makefiles/releases/tag/0.3.4), today) - Makefile building blocks
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.17.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.17.0), 2 days ago) - PHP Coding Standard
@@ -73,7 +74,6 @@ All new major package releases will be in PHP 8.2
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.12.4](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.12.4), 6 days ago) - Forked from https://github.com/k8s-at-home/charts
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([9.0.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/9.0.0), 1 week ago) - 
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) ([3.0.0](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/releases/tag/3.0.0), 1 week ago) - Trait to run all tests in a fiber
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) ([2.0.0](https://github.com/WyriHaximus/phpstan-reactphp/releases/tag/2.0.0), 1 week ago) - ReactPHP extension for PHPStan
 
 ---
 
