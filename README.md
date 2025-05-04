@@ -115,6 +115,7 @@ All new major package releases will be in PHP 8.2
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [iBotPeaches](https://github.com/iBotPeaches) (today)
 - [challgren](https://github.com/challgren) (1 month ago)
 - [edorian](https://github.com/edorian) (1 year ago)
 - [codecov](https://github.com/codecov) (2 years ago)
