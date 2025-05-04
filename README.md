@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Raise to PHP 8.3](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler/pull/60) on [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (today)
 - [Bump to PHP 8.3](https://github.com/WyriHaximus/php-compress/pull/122) on [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (1 day ago)
 - [Bump to PHP 8.3](https://github.com/WyriHaximus/php-compress-test-utilities/pull/78) on [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (1 day ago)
 - [Add --ignore-msi-with-no-mutations to infection](https://github.com/WyriHaximus/Makefiles/pull/17) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Introduce Utils object to replace functions](https://github.com/WyriHaximus/php-psr-3-utilities/pull/43) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (6 days ago)
 - [Update QA Tooling](https://github.com/WyriHaximus/php-psr-3-utilities/pull/41) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (6 days ago)
 - [Add staabm/phpstan-psr3](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/167) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (6 days ago)
-- [Update top PHP 8.3](https://github.com/WyriHaximus/php-psr-3-utilities/pull/40) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (6 days ago)
 
 ---
 
