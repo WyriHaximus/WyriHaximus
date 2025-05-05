@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (2 days ago)
-- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (2 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
+- [MammatusPHP/cron-contracts](https://github.com/MammatusPHP/cron-contracts) (3 days ago)
+- [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (3 days ago)
 - [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (3 days ago)
 - [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (3 days ago)
-- [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (3 days ago)
-- [reactphp/socket](https://github.com/reactphp/socket) (4 days ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (4 days ago)
 
 ---
