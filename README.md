@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([mariadb-4.3.1](https://github.com/groundhog2k/helm-charts/releases/tag/mariadb-4.3.1), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.4.2](https://github.com/WyriHaximus/Makefiles/releases/tag/0.4.2), today) - Makefile building blocks
 - [PHP-DI-Definitions/definitions-gatherer](https://github.com/PHP-DI-Definitions/definitions-gatherer) ([1.4.0](https://github.com/PHP-DI-Definitions/definitions-gatherer/releases/tag/1.4.0), 1 day ago) - 
 - [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) ([3.1.0](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler/releases/tag/3.1.0), 1 day ago) - Formatted PSR-3 handler for Monolog
@@ -68,7 +69,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) ([3.0.0](https://github.com/WyriHaximus/php-compress-test-utilities/releases/tag/3.0.0), 2 days ago) - 
 - [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) ([2.2.0](https://github.com/WyriHaximus/php-psr-3-utilities/releases/tag/2.2.0), 2 days ago) - 
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.17.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.17.0), 4 days ago) - PHP Coding Standard
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([etcd-1.0.7](https://github.com/groundhog2k/helm-charts/releases/tag/etcd-1.0.7), 4 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.9.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.9.0), 1 week ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) ([1.2.0](https://github.com/WyriHaximus/php-metrics-tactician/releases/tag/1.2.0), 1 week ago) - Metrics middleware for Tactician
 - [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) ([3.0.0](https://github.com/WyriHaximus/php-metrics/releases/tag/3.0.0), 1 week ago) - 🕵️‍♀️ Prometheus modelled metric VO&#39;s and registry
