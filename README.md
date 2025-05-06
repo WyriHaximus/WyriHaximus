@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.3](https://github.com/composer-unused/composer-unused/releases/tag/0.9.3), today) - Show unused composer dependencies by scanning your code
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([7.2.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/7.2.0), 1 day ago) - 
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([mariadb-4.3.1](https://github.com/groundhog2k/helm-charts/releases/tag/mariadb-4.3.1), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.4.2](https://github.com/WyriHaximus/Makefiles/releases/tag/0.4.2), 1 day ago) - Makefile building blocks
@@ -73,7 +74,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) ([1.2.0](https://github.com/WyriHaximus/php-metrics-tactician/releases/tag/1.2.0), 1 week ago) - Metrics middleware for Tactician
 - [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) ([3.0.0](https://github.com/WyriHaximus/php-metrics/releases/tag/3.0.0), 1 week ago) - 🕵️‍♀️ Prometheus modelled metric VO&#39;s and registry
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.1.1](https://github.com/thecodingmachine/safe/releases/tag/v3.1.1), 1 week ago) - All PHP functions, rewritten to throw exceptions instead of returning false
-- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) ([4.6.0](https://github.com/WyriHaximus/reactphp-cache-redis/releases/tag/4.6.0), 1 week ago) - Redis cache implementation for react/cache
 
 ---
 
