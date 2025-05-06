@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Update CI Badge](https://github.com/WyriHaximusNet/docker-php/pull/269) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [[New Version] Update versions file to PHP 8.4.7](https://github.com/WyriHaximus/php-fake-php-version/pull/142) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [Add PHPStan and Rector to package documentation](https://github.com/WyriHaximus/php-test-utilities/pull/1017) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [Add Rector](https://github.com/WyriHaximus/php-test-utilities/pull/1015) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Bump to PHP 8.3](https://github.com/WyriHaximus/php-compress/pull/122) on [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (3 days ago)
 - [Bump to PHP 8.3](https://github.com/WyriHaximus/php-compress-test-utilities/pull/78) on [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (3 days ago)
 - [Add --ignore-msi-with-no-mutations to infection](https://github.com/WyriHaximus/Makefiles/pull/17) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
-- [Revert &#34;Run everything on ubuntu-22.04&#34;](https://github.com/WyriHaximusNet/docker-php/pull/267) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
 
 ---
 
