@@ -61,10 +61,10 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([redis-2.0.0](https://github.com/groundhog2k/helm-charts/releases/tag/redis-2.0.0), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.14](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.14), today) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.3](https://github.com/composer-unused/composer-unused/releases/tag/0.9.3), today) - Show unused composer dependencies by scanning your code
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([7.2.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/7.2.0), 1 day ago) - 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([mariadb-4.3.1](https://github.com/groundhog2k/helm-charts/releases/tag/mariadb-4.3.1), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.4.2](https://github.com/WyriHaximus/Makefiles/releases/tag/0.4.2), 1 day ago) - Makefile building blocks
 - [PHP-DI-Definitions/definitions-gatherer](https://github.com/PHP-DI-Definitions/definitions-gatherer) ([1.4.0](https://github.com/PHP-DI-Definitions/definitions-gatherer/releases/tag/1.4.0), 2 days ago) - 
 - [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) ([3.1.0](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler/releases/tag/3.1.0), 2 days ago) - Formatted PSR-3 handler for Monolog
