@@ -97,6 +97,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [OpenEPaperLink/Home_Assistant_Integration](https://github.com/OpenEPaperLink/Home_Assistant_Integration) - Home assistant Integration for the OpenEPaperLink project (today)
 - [Browsers-software/browsers](https://github.com/Browsers-software/browsers) - Open the right browser at the right time (today)
 - [TheRealEiskaffee/brightness-overlay](https://github.com/TheRealEiskaffee/brightness-overlay) -  (4 days ago)
 - [Gh61/lovelace-hue-like-light-card](https://github.com/Gh61/lovelace-hue-like-light-card) - This card provides a Hue-like way to control your lights in Home Assistant. (5 days ago)
@@ -109,7 +110,6 @@ All new major package releases will be in PHP 8.2
 - [oss-serverless/serverless](https://github.com/oss-serverless/serverless) - Serverless Framework CLI v3 alternative (1 month ago)
 - [sdr-enthusiasts/docker-flightradar24](https://github.com/sdr-enthusiasts/docker-flightradar24) - Multi-architecture docker container (arm32v7/arm64/x86_64) running flightradar24 fr24feed. Designed to work in tandem with https://sdr-e.com/docker-adsb-ultrafeeder (1 month ago)
 - [sdr-enthusiasts/docker-adsb-ultrafeeder](https://github.com/sdr-enthusiasts/docker-adsb-ultrafeeder) - ADSB-Ultrafeeder is an all-in-one ADSB container with readsb, tar1090, graphs1090, autogain, multi-feeder, and mlat-hub built in (1 month ago)
-- [haya14busa/github-action-brandings](https://github.com/haya14busa/github-action-brandings) - GitHub Actions Branding Cheat Sheet (1 month ago)
 
 ---
 
