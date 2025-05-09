@@ -97,6 +97,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [cspray/database-testing-phpunit](https://github.com/cspray/database-testing-phpunit) - A testing extension for cspray/database-testing to setup a database for testing with PHPUnit (today)
 - [b0mbays/continuously_casting_dashboards](https://github.com/b0mbays/continuously_casting_dashboards) - HACS Integration for continuously casting a Home Assistant dashboard to your Google Chromecast Displays (2 days ago)
 - [OpenEPaperLink/Home_Assistant_Integration](https://github.com/OpenEPaperLink/Home_Assistant_Integration) - Home assistant Integration for the OpenEPaperLink project (2 days ago)
 - [Browsers-software/browsers](https://github.com/Browsers-software/browsers) - Open the right browser at the right time (2 days ago)
@@ -109,7 +110,6 @@ All new major package releases will be in PHP 8.2
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (3 weeks ago)
 - [lovelylain/hass_ingress](https://github.com/lovelylain/hass_ingress) - Home Assistant ingress feature, add additional ingress panels to your Home Assistant frontend. (1 month ago)
 - [oss-serverless/serverless](https://github.com/oss-serverless/serverless) - Serverless Framework CLI v3 alternative (1 month ago)
-- [sdr-enthusiasts/docker-flightradar24](https://github.com/sdr-enthusiasts/docker-flightradar24) - Multi-architecture docker container (arm32v7/arm64/x86_64) running flightradar24 fr24feed. Designed to work in tandem with https://sdr-e.com/docker-adsb-ultrafeeder (1 month ago)
 
 ---
 
