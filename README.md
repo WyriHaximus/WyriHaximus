@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Correct JIT tests](https://github.com/WyriHaximusNet/docker-php/pull/274) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Pin xdebug to 3.4.1](https://github.com/WyriHaximusNet/docker-php/pull/273) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Assert JIT is active](https://github.com/WyriHaximusNet/docker-php/pull/272) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [Drop dbhi/qus/action@main, and replace it with docker/setup-qemu-action@v3](https://github.com/WyriHaximusNet/docker-php/pull/271) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Run Rector before CS commands](https://github.com/WyriHaximus/Makefiles/pull/20) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
 - [Have PHPStan check the etc directory](https://github.com/WyriHaximus/Makefiles/pull/19) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
 - [Add rector upgrade](https://github.com/WyriHaximus/Makefiles/pull/18) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
-- [Go 10x developer on the build step and tenfold the amount of retries](https://github.com/WyriHaximusNet/docker-php/pull/268) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (6 days ago)
 
 ---
 
