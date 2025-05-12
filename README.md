@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.2
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (5 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (6 days ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 week ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (1 week ago)
-- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (1 week ago)
-- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 week ago)
 - [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (1 week ago)
-- [reactphp/socket](https://github.com/reactphp/socket) (1 week ago)
+- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 week ago)
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (1 week ago)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 week ago)
 
 ---
 
