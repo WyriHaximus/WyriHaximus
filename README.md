@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Retry tests](https://github.com/WyriHaximusNet/docker-php/pull/276) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Correctly build project matrix](https://github.com/WyriHaximus/github-workflows/pull/70) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Revert &#34;Assert JIT is active&#34;](https://github.com/WyriHaximusNet/docker-php/pull/275) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Correct JIT tests](https://github.com/WyriHaximusNet/docker-php/pull/274) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [[New Version] Update versions file to PHP 8.4.7](https://github.com/WyriHaximus/php-fake-php-version/pull/142) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (6 days ago)
 - [Add PHPStan and Rector to package documentation](https://github.com/WyriHaximus/php-test-utilities/pull/1017) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [Add Rector](https://github.com/WyriHaximus/php-test-utilities/pull/1015) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
-- [Run Rector before CS commands](https://github.com/WyriHaximus/Makefiles/pull/20) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 
 ---
 
