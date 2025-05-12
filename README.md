@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Revert &#34;Assert JIT is active&#34;](https://github.com/WyriHaximusNet/docker-php/pull/275) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Correct JIT tests](https://github.com/WyriHaximusNet/docker-php/pull/274) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [Pin xdebug to 3.4.1](https://github.com/WyriHaximusNet/docker-php/pull/273) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [Assert JIT is active](https://github.com/WyriHaximusNet/docker-php/pull/272) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Add Rector](https://github.com/WyriHaximus/php-test-utilities/pull/1015) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [Run Rector before CS commands](https://github.com/WyriHaximus/Makefiles/pull/20) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Have PHPStan check the etc directory](https://github.com/WyriHaximus/Makefiles/pull/19) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [Add rector upgrade](https://github.com/WyriHaximus/Makefiles/pull/18) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 
 ---
 
