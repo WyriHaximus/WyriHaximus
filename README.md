@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.2.0](https://github.com/thecodingmachine/safe/releases/tag/v3.2.0), today) - All PHP functions, rewritten to throw exceptions instead of returning false
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([gitea-0.12.8](https://github.com/groundhog2k/helm-charts/releases/tag/gitea-0.12.8), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.18.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.18.0), 1 day ago) - PHP Coding Standard
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([9.1.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/9.1.0), 2 days ago) - 
@@ -73,7 +74,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) ([3.1.0](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler/releases/tag/3.1.0), 1 week ago) - Formatted PSR-3 handler for Monolog
 - [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) ([3.0.0](https://github.com/WyriHaximus/php-compress-test-utilities/releases/tag/3.0.0), 1 week ago) - 
 - [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) ([2.2.0](https://github.com/WyriHaximus/php-psr-3-utilities/releases/tag/2.2.0), 1 week ago) - 
-- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) ([1.2.0](https://github.com/WyriHaximus/php-metrics-tactician/releases/tag/1.2.0), 2 weeks ago) - Metrics middleware for Tactician
 
 ---
 
