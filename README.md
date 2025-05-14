@@ -61,8 +61,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.3.0](https://github.com/thecodingmachine/safe/releases/tag/v3.3.0), today) - All PHP functions, rewritten to throw exceptions instead of returning false
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([redis-2.0.1](https://github.com/groundhog2k/helm-charts/releases/tag/redis-2.0.1), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
-- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([3.3.0](https://github.com/thecodingmachine/safe/releases/tag/3.3.0), 1 day ago) - All PHP functions, rewritten to throw exceptions instead of returning false
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.18.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.18.0), 2 days ago) - PHP Coding Standard
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([9.1.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/9.1.0), 3 days ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.10.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.10.0), 1 week ago) - 🌯 PHPStan rules wrapper
