@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
 - [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (today)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (today)
+- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (today)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (4 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (5 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (1 week ago)
-- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (2 weeks ago)
 
 ---
 
