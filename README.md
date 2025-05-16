@@ -10,15 +10,15 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
 - [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (today)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (4 days ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (4 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (5 days ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (1 week ago)
@@ -61,13 +61,13 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.18.1](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.18.1), today) - PHP Coding Standard
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.11.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.11.0), today) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) ([2.2.0](https://github.com/WyriHaximus/php-compress/releases/tag/2.2.0), today) - 
 - [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) ([3.1.0](https://github.com/WyriHaximus/php-compress-test-utilities/releases/tag/3.1.0), today) - 
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.158.3](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.158.3), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.3.0](https://github.com/thecodingmachine/safe/releases/tag/v3.3.0), 2 days ago) - All PHP functions, rewritten to throw exceptions instead of returning false
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.18.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.18.0), 4 days ago) - PHP Coding Standard
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([9.1.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/9.1.0), 5 days ago) - 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.10.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.10.0), 1 week ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.14](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.14), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.3](https://github.com/composer-unused/composer-unused/releases/tag/0.9.3), 1 week ago) - Show unused composer dependencies by scanning your code
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([7.2.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/7.2.0), 1 week ago) - 
