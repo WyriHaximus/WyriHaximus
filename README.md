@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (4 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (4 days ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (4 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (5 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (1 week ago)
-- [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (2 weeks ago)
-- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (2 weeks ago)
+- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (2 weeks ago)
 
 ---
 
@@ -61,6 +61,8 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) ([2.2.0](https://github.com/WyriHaximus/php-compress/releases/tag/2.2.0), today) - 
+- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) ([3.1.0](https://github.com/WyriHaximus/php-compress-test-utilities/releases/tag/3.1.0), today) - 
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.158.3](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.158.3), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.3.0](https://github.com/thecodingmachine/safe/releases/tag/v3.3.0), 2 days ago) - All PHP functions, rewritten to throw exceptions instead of returning false
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.18.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.18.0), 4 days ago) - PHP Coding Standard
@@ -72,13 +74,13 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.4.2](https://github.com/WyriHaximus/Makefiles/releases/tag/0.4.2), 1 week ago) - Makefile building blocks
 - [PHP-DI-Definitions/definitions-gatherer](https://github.com/PHP-DI-Definitions/definitions-gatherer) ([1.4.0](https://github.com/PHP-DI-Definitions/definitions-gatherer/releases/tag/1.4.0), 1 week ago) - 
 - [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) ([3.1.0](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler/releases/tag/3.1.0), 1 week ago) - Formatted PSR-3 handler for Monolog
-- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) ([3.0.0](https://github.com/WyriHaximus/php-compress-test-utilities/releases/tag/3.0.0), 1 week ago) - 
-- [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) ([2.2.0](https://github.com/WyriHaximus/php-psr-3-utilities/releases/tag/2.2.0), 1 week ago) - 
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Enable Rector](https://github.com/WyriHaximus/php-compress-test-utilities/pull/85) on [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (today)
+- [Bump wyrihaximus/makefiles to 0.4](https://github.com/WyriHaximus/php-compress-test-utilities/pull/84) on [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (today)
 - [Move towards uniform image building tooling: Phase I](https://github.com/WyriHaximusNet/docker-php/pull/277) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
 - [Retry tests](https://github.com/WyriHaximusNet/docker-php/pull/276) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
 - [Correctly build project matrix](https://github.com/WyriHaximus/github-workflows/pull/70) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
@@ -90,8 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Increase JIT buffer size to next logical unit](https://github.com/WyriHaximusNet/docker-php/pull/270) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (6 days ago)
 - [Raise to PHP 8.3](https://github.com/WyriHaximus/StaticMap/pull/91) on [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 week ago)
 - [Update CI Badge](https://github.com/WyriHaximusNet/docker-php/pull/269) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
-- [[New Version] Update versions file to PHP 8.4.7](https://github.com/WyriHaximus/php-fake-php-version/pull/142) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
-- [Add PHPStan and Rector to package documentation](https://github.com/WyriHaximus/php-test-utilities/pull/1017) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 
 ---
 
