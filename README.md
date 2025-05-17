@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (today)
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 day ago)
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 day ago)
-- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (1 day ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 day ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
+- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (1 day ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (6 days ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 
 ---
 
@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) ([1.1.0](https://github.com/WyriHaximus/php-tile-stitcher/releases/tag/1.1.0), today) - 
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) ([5.2.0](https://github.com/WyriHaximus/reactphp-cron/releases/tag/5.2.0), today) - Cronlike scheduler running inside a ReactPHP Event Loop
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.159.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.159.0), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.18.1](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.18.1), 1 day ago) - PHP Coding Standard
@@ -73,7 +74,6 @@ All new major package releases will be in PHP 8.2
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.3](https://github.com/composer-unused/composer-unused/releases/tag/0.9.3), 1 week ago) - Show unused composer dependencies by scanning your code
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([7.2.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/7.2.0), 1 week ago) - 
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.4.2](https://github.com/WyriHaximus/Makefiles/releases/tag/0.4.2), 1 week ago) - Makefile building blocks
-- [PHP-DI-Definitions/definitions-gatherer](https://github.com/PHP-DI-Definitions/definitions-gatherer) ([1.4.0](https://github.com/PHP-DI-Definitions/definitions-gatherer/releases/tag/1.4.0), 1 week ago) - 
 
 ---
 
