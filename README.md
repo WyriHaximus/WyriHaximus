@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[3.x] Drop PHP 8.1 support](https://github.com/reactphp-parallel/runtime/pull/69) on [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (today)
 - [PHP 8.3&#43; &#43; Next Gen QA](https://github.com/WyriHaximus/php-tile-stitcher/pull/18) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (today)
 - [Set up Rector](https://github.com/WyriHaximus/Makefiles/pull/23) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [PHP 8.3&#43; &#43; next gen QA](https://github.com/WyriHaximus/reactphp-cron/pull/88) on [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (today)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Correct JIT tests](https://github.com/WyriHaximusNet/docker-php/pull/274) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (6 days ago)
 - [Pin xdebug to 3.4.1](https://github.com/WyriHaximusNet/docker-php/pull/273) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (6 days ago)
 - [Assert JIT is active](https://github.com/WyriHaximusNet/docker-php/pull/272) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
-- [Drop dbhi/qus/action@main, and replace it with docker/setup-qemu-action@v3](https://github.com/WyriHaximusNet/docker-php/pull/271) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 
 ---
 
