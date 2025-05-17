@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [PHP 8.3&#43; &#43; next gen QA](https://github.com/WyriHaximus/reactphp-cron/pull/88) on [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (today)
 - [Enable Rector](https://github.com/WyriHaximus/php-compress-test-utilities/pull/85) on [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (1 day ago)
 - [Bump wyrihaximus/makefiles to 0.4](https://github.com/WyriHaximus/php-compress-test-utilities/pull/84) on [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (1 day ago)
 - [Move towards uniform image building tooling: Phase I](https://github.com/WyriHaximusNet/docker-php/pull/277) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Drop dbhi/qus/action@main, and replace it with docker/setup-qemu-action@v3](https://github.com/WyriHaximusNet/docker-php/pull/271) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [Increase JIT buffer size to next logical unit](https://github.com/WyriHaximusNet/docker-php/pull/270) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [Raise to PHP 8.3](https://github.com/WyriHaximus/StaticMap/pull/91) on [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 week ago)
-- [Update CI Badge](https://github.com/WyriHaximusNet/docker-php/pull/269) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 
 ---
 
