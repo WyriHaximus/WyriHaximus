@@ -97,6 +97,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [Datagraver/Publieke-data](https://github.com/Datagraver/Publieke-data) - Dataverzamelingen voor publiek gebruik (today)
 - [PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card) - This card can show and hide a specific card on current device while not affecting other windows. It does not require any integration to run. (1 day ago)
 - [Pharb/kubernetes-iperf3](https://github.com/Pharb/kubernetes-iperf3) - Simple wrapper around iperf3 to measure network bandwidth from all nodes of a Kubernetes cluster (1 week ago)
 - [cspray/database-testing-phpunit](https://github.com/cspray/database-testing-phpunit) - A testing extension for cspray/database-testing to setup a database for testing with PHPUnit (1 week ago)
@@ -109,7 +110,6 @@ All new major package releases will be in PHP 8.2
 - [Intelligent-Intern/quicpro_async](https://github.com/Intelligent-Intern/quicpro_async) - PECL channel for QuicPro Async C‑extension (3 weeks ago)
 - [BunnyWay/external-dns-bunny](https://github.com/BunnyWay/external-dns-bunny) -  (4 weeks ago)
 - [MaxymVlasov/dive-action](https://github.com/MaxymVlasov/dive-action) - Runs dive as GitHub action to scan your Docker image to find wasted disk space (1 month ago)
-- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (1 month ago)
 
 ---
 
