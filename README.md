@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Update QA Tooling](https://github.com/MammatusPHP/app/pull/38) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
 - [[3.x] Drop PHP 8.1 support](https://github.com/reactphp-parallel/runtime/pull/69) on [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 day ago)
 - [PHP 8.3&#43; &#43; Next Gen QA](https://github.com/WyriHaximus/php-tile-stitcher/pull/18) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
 - [Set up Rector](https://github.com/WyriHaximus/Makefiles/pull/23) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Revert &#34;Assert JIT is active&#34;](https://github.com/WyriHaximusNet/docker-php/pull/275) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (6 days ago)
 - [Correct JIT tests](https://github.com/WyriHaximusNet/docker-php/pull/274) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [Pin xdebug to 3.4.1](https://github.com/WyriHaximusNet/docker-php/pull/273) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
-- [Assert JIT is active](https://github.com/WyriHaximusNet/docker-php/pull/272) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 
 ---
 
