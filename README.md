@@ -10,17 +10,17 @@ All new major package releases will be in PHP 8.2
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (today)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (today)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 day ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (2 days ago)
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (2 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (2 days ago)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (2 days ago)
 - [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (2 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
 
@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) ([2.4.0](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger/releases/tag/2.4.0), today) - Callable throwable decorator around a PSR-3 logger (to be used with react/promise and reactivex/rxphp)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) ([1.1.0](https://github.com/WyriHaximus/php-tile-stitcher/releases/tag/1.1.0), 1 day ago) - 
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) ([5.2.0](https://github.com/WyriHaximus/reactphp-cron/releases/tag/5.2.0), 1 day ago) - Cronlike scheduler running inside a ReactPHP Event Loop
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.159.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.159.0), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
@@ -73,7 +74,6 @@ All new major package releases will be in PHP 8.2
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.14](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.14), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.3](https://github.com/composer-unused/composer-unused/releases/tag/0.9.3), 1 week ago) - Show unused composer dependencies by scanning your code
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([7.2.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/7.2.0), 1 week ago) - 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.4.2](https://github.com/WyriHaximus/Makefiles/releases/tag/0.4.2), 1 week ago) - Makefile building blocks
 
 ---
 
