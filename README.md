@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [Bump to PHP 8.3](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger/pull/46) on [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (today)
 - [Update Makefile and enable Rector](https://github.com/WyriHaximus/php-broadcast/pull/297) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
 - [Bump to PHP 8.3&#43;](https://github.com/MammatusPHP/kubernetes/pull/6) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (today)
 - [Update QA Tooling](https://github.com/MammatusPHP/app/pull/38) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Move towards uniform image building tooling: Phase I](https://github.com/WyriHaximusNet/docker-php/pull/277) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (6 days ago)
 - [Retry tests](https://github.com/WyriHaximusNet/docker-php/pull/276) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (6 days ago)
 - [Correctly build project matrix](https://github.com/WyriHaximus/github-workflows/pull/70) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
-- [Revert &#34;Assert JIT is active&#34;](https://github.com/WyriHaximusNet/docker-php/pull/275) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (6 days ago)
 
 ---
 
