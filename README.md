@@ -97,6 +97,7 @@ All new major package releases will be in PHP 8.2
 
 #### ⭐ Recent Stars
 
+- [sgmobiledev/OpenEpaperLinkHATagSources](https://github.com/sgmobiledev/OpenEpaperLinkHATagSources) - Home-Assistant BLE Tags Yaml Scripte for Open Epaperlink  (today)
 - [Datagraver/Publieke-data](https://github.com/Datagraver/Publieke-data) - Dataverzamelingen voor publiek gebruik (2 days ago)
 - [PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card) - This card can show and hide a specific card on current device while not affecting other windows. It does not require any integration to run. (3 days ago)
 - [Pharb/kubernetes-iperf3](https://github.com/Pharb/kubernetes-iperf3) - Simple wrapper around iperf3 to measure network bandwidth from all nodes of a Kubernetes cluster (1 week ago)
@@ -109,7 +110,6 @@ All new major package releases will be in PHP 8.2
 - [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly. (3 weeks ago)
 - [Intelligent-Intern/quicpro_async](https://github.com/Intelligent-Intern/quicpro_async) - PECL channel for QuicPro Async C‑extension (3 weeks ago)
 - [BunnyWay/external-dns-bunny](https://github.com/BunnyWay/external-dns-bunny) -  (1 month ago)
-- [MaxymVlasov/dive-action](https://github.com/MaxymVlasov/dive-action) - Runs dive as GitHub action to scan your Docker image to find wasted disk space (1 month ago)
 
 ---
 
