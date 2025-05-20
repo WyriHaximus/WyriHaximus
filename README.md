@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.2
 
 #### 🔨 My recent Pull Requests
 
+- [[4.x] Drop PHP 8.1](https://github.com/reactphp-parallel/pool-tests/pull/58) on [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (today)
 - [Bump to PHP 8.3](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger/pull/46) on [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (2 days ago)
 - [Update Makefile and enable Rector](https://github.com/WyriHaximus/php-broadcast/pull/297) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
 - [Bump to PHP 8.3&#43;](https://github.com/MammatusPHP/kubernetes/pull/6) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (2 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.2
 - [Bump wyrihaximus/makefiles to 0.4](https://github.com/WyriHaximus/php-compress-test-utilities/pull/84) on [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (4 days ago)
 - [Move towards uniform image building tooling: Phase I](https://github.com/WyriHaximusNet/docker-php/pull/277) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [Retry tests](https://github.com/WyriHaximusNet/docker-php/pull/276) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
-- [Correctly build project matrix](https://github.com/WyriHaximus/github-workflows/pull/70) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 
 ---
 
