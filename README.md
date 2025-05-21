@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (today)
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
-- [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (1 day ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
+- [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (today)
+- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (today)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (3 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (3 days ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (4 days ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (4 days ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (5 days ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (5 days ago)
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (5 days ago)
 - [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (5 days ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (5 days ago)
 
 ---
 
@@ -97,6 +97,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [opentelemetry-php/contrib-auto-reactphp](https://github.com/opentelemetry-php/contrib-auto-reactphp) - [READONLY] ReactPHP auto-instrumentation (today)
 - [biofects/piper-voice](https://github.com/biofects/piper-voice) - My first ever training of a piper tts voice (1 day ago)
 - [sgmobiledev/OpenEpaperLinkHATagSources](https://github.com/sgmobiledev/OpenEpaperLinkHATagSources) - Home-Assistant BLE Tags Yaml Scripte for Open Epaperlink  (2 days ago)
 - [Datagraver/Publieke-data](https://github.com/Datagraver/Publieke-data) - Dataverzamelingen voor publiek gebruik (4 days ago)
@@ -109,7 +110,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [TheRealEiskaffee/brightness-overlay](https://github.com/TheRealEiskaffee/brightness-overlay) -  (2 weeks ago)
 - [Gh61/lovelace-hue-like-light-card](https://github.com/Gh61/lovelace-hue-like-light-card) - This card provides a Hue-like way to control your lights in Home Assistant. (2 weeks ago)
 - [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly. (3 weeks ago)
-- [Intelligent-Intern/quicpro_async](https://github.com/Intelligent-Intern/quicpro_async) - PECL channel for QuicPro Async C‑extension (3 weeks ago)
 
 ---
 
