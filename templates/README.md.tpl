@@ -2,7 +2,7 @@ Hi!
 
 I am Cees-Jan Kiewiet.
 
-All new major package releases will be in PHP 8.2
+All new major package releases will be in PHP 8.3, and most most minor updates will also be raised to 8.3 when doing update rounds. In specific situations a final release for the previous PHP version will be made before bumping to 8.3 in the next right after.
 
 ![WyriHaximus's github stats](https://github-readme-stats.vercel.app/api?username=WyriHaximus&show_icons=true)
 
