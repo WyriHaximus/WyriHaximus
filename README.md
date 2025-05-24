@@ -61,11 +61,11 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([postgres-1.5.4](https://github.com/groundhog2k/helm-charts/releases/tag/postgres-1.5.4), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) ([v0.5.6](https://github.com/jakubkulhan/bunny/releases/tag/v0.5.6), 1 day ago) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
 - [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) ([2.4.0](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger/releases/tag/2.4.0), 6 days ago) - Callable throwable decorator around a PSR-3 logger (to be used with react/promise and reactivex/rxphp)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) ([1.1.0](https://github.com/WyriHaximus/php-tile-stitcher/releases/tag/1.1.0), 1 week ago) - 
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) ([5.2.0](https://github.com/WyriHaximus/reactphp-cron/releases/tag/5.2.0), 1 week ago) - Cronlike scheduler running inside a ReactPHP Event Loop
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.159.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.159.0), 1 week ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.18.1](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.18.1), 1 week ago) - PHP Coding Standard
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.11.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.11.0), 1 week ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) ([2.2.0](https://github.com/WyriHaximus/php-compress/releases/tag/2.2.0), 1 week ago) - 
