@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[2.x] Drop PHP 8.1](https://github.com/reactphp-parallel/reactphp-parallel/pull/60) on [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (today)
 - [[2.x] Drop PHP 8.1](https://github.com/reactphp-parallel/limited-pool/pull/59) on [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (1 day ago)
 - [Figure out ZTS or NTS when figuring out package version](https://github.com/WyriHaximus/github-workflows/pull/71) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [[4.x] Add tests to test our tests](https://github.com/reactphp-parallel/pool-tests/pull/59) on [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (4 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [PHP 8.3&#43; &#43; Next Gen QA](https://github.com/WyriHaximus/php-tile-stitcher/pull/18) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 week ago)
 - [Set up Rector](https://github.com/WyriHaximus/Makefiles/pull/23) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [PHP 8.3&#43; &#43; next gen QA](https://github.com/WyriHaximus/reactphp-cron/pull/88) on [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 week ago)
-- [Enable Rector](https://github.com/WyriHaximus/php-compress-test-utilities/pull/85) on [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (1 week ago)
 
 ---
 
