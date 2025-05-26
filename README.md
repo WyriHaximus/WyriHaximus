@@ -10,6 +10,9 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
 - [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (4 days ago)
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) (5 days ago)
@@ -17,12 +20,9 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 week ago)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 week ago)
-- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 week ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 week ago)
+- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 week ago)
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 week ago)
-- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (1 week ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 
 ---
 
@@ -61,24 +61,26 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([9.2.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/9.2.0), today) - 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([7.3.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/7.3.0), today) - 
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.18.2](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.18.2), today) - PHP Coding Standard
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([nextcloud-0.19.4](https://github.com/groundhog2k/helm-charts/releases/tag/nextcloud-0.19.4), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) ([v0.5.6](https://github.com/jakubkulhan/bunny/releases/tag/v0.5.6), 3 days ago) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
 - [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) ([2.4.0](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger/releases/tag/2.4.0), 1 week ago) - Callable throwable decorator around a PSR-3 logger (to be used with react/promise and reactivex/rxphp)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) ([1.1.0](https://github.com/WyriHaximus/php-tile-stitcher/releases/tag/1.1.0), 1 week ago) - 
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) ([5.2.0](https://github.com/WyriHaximus/reactphp-cron/releases/tag/5.2.0), 1 week ago) - Cronlike scheduler running inside a ReactPHP Event Loop
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.18.1](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.18.1), 1 week ago) - PHP Coding Standard
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.11.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.11.0), 1 week ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) ([2.2.0](https://github.com/WyriHaximus/php-compress/releases/tag/2.2.0), 1 week ago) - 
 - [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) ([3.1.0](https://github.com/WyriHaximus/php-compress-test-utilities/releases/tag/3.1.0), 1 week ago) - 
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.3.0](https://github.com/thecodingmachine/safe/releases/tag/v3.3.0), 1 week ago) - All PHP functions, rewritten to throw exceptions instead of returning false
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([9.1.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/9.1.0), 2 weeks ago) - 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.14](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.14), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
-- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.3](https://github.com/composer-unused/composer-unused/releases/tag/0.9.3), 2 weeks ago) - Show unused composer dependencies by scanning your code
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Update test utils to 7.3](https://github.com/WyriHaximus/php-async-test-utilities/pull/287) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [Update coding standard to 2.18.2](https://github.com/WyriHaximus/php-test-utilities/pull/1027) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [[2.x] Drop PHP 8.1](https://github.com/reactphp-parallel/reactphp-parallel/pull/60) on [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (1 day ago)
 - [[2.x] Drop PHP 8.1](https://github.com/reactphp-parallel/limited-pool/pull/59) on [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (2 days ago)
 - [Figure out ZTS or NTS when figuring out package version](https://github.com/WyriHaximus/github-workflows/pull/71) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
@@ -90,8 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Update QA Tooling](https://github.com/MammatusPHP/app/pull/38) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 week ago)
 - [[3.x] Drop PHP 8.1 support](https://github.com/reactphp-parallel/runtime/pull/69) on [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 week ago)
 - [PHP 8.3&#43; &#43; Next Gen QA](https://github.com/WyriHaximus/php-tile-stitcher/pull/18) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 week ago)
-- [Set up Rector](https://github.com/WyriHaximus/Makefiles/pull/23) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [PHP 8.3&#43; &#43; next gen QA](https://github.com/WyriHaximus/reactphp-cron/pull/88) on [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 week ago)
 
 ---
 
