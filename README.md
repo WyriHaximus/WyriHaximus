@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[2.x] Drop PHP 8.1](https://github.com/reactphp-parallel/streams/pull/42) on [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (today)
 - [Update test utils to 7.3](https://github.com/WyriHaximus/php-async-test-utilities/pull/287) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [Update coding standard to 2.18.2](https://github.com/WyriHaximus/php-test-utilities/pull/1027) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [[2.x] Drop PHP 8.1](https://github.com/reactphp-parallel/reactphp-parallel/pull/60) on [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (2 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Bump to PHP 8.3&#43;](https://github.com/MammatusPHP/kubernetes/pull/6) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 week ago)
 - [Update QA Tooling](https://github.com/MammatusPHP/app/pull/38) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 week ago)
 - [[3.x] Drop PHP 8.1 support](https://github.com/reactphp-parallel/runtime/pull/69) on [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 week ago)
-- [PHP 8.3&#43; &#43; Next Gen QA](https://github.com/WyriHaximus/php-tile-stitcher/pull/18) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 week ago)
 
 ---
 
