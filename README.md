@@ -109,7 +109,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [b0mbays/continuously_casting_dashboards](https://github.com/b0mbays/continuously_casting_dashboards) - HACS Integration for continuously casting a Home Assistant dashboard to your Google Chromecast Displays (2 weeks ago)
 - [OpenEPaperLink/Home_Assistant_Integration](https://github.com/OpenEPaperLink/Home_Assistant_Integration) - Home assistant Integration for the OpenEPaperLink project (2 weeks ago)
 - [Browsers-software/browsers](https://github.com/Browsers-software/browsers) - Open the right browser at the right time (2 weeks ago)
-- [TheRealEiskaffee/brightness-overlay](https://github.com/TheRealEiskaffee/brightness-overlay) -  (3 weeks ago)
+- [TheRealEiskaffee/brightness-overlay](https://github.com/TheRealEiskaffee/brightness-overlay) - Dim your Home Assistant dashboard globally using an entity. (3 weeks ago)
 
 ---
 
