@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (today)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 day ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
-- [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (5 days ago)
-- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (6 days ago)
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) (6 days ago)
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 week ago)
+- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (6 days ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 week ago)
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 week ago)
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 week ago)
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 week ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 
 ---
@@ -97,6 +97,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [uriparser/uriparser](https://github.com/uriparser/uriparser) -  :hocho: Strictly RFC 3986 compliant URI parsing and handling library written in C89; moved from SourceForge to GitHub (today)
 - [StreamController/StreamController](https://github.com/StreamController/StreamController) - An elegant Linux app for the Elgato Stream Deck with support for plugins (5 days ago)
 - [opentelemetry-php/contrib-auto-reactphp](https://github.com/opentelemetry-php/contrib-auto-reactphp) - [READONLY] ReactPHP auto-instrumentation (6 days ago)
 - [biofects/piper-voice](https://github.com/biofects/piper-voice) - My first ever training of a piper tts voice (1 week ago)
@@ -109,7 +110,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [OpenEPaperLink/Home_Assistant_Integration](https://github.com/OpenEPaperLink/Home_Assistant_Integration) - Home assistant Integration for the OpenEPaperLink project (2 weeks ago)
 - [Browsers-software/browsers](https://github.com/Browsers-software/browsers) - Open the right browser at the right time (2 weeks ago)
 - [TheRealEiskaffee/brightness-overlay](https://github.com/TheRealEiskaffee/brightness-overlay) -  (3 weeks ago)
-- [Gh61/lovelace-hue-like-light-card](https://github.com/Gh61/lovelace-hue-like-light-card) - This card provides a Hue-like way to control your lights in Home Assistant. (3 weeks ago)
 
 ---
 
