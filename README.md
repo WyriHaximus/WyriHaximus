@@ -97,6 +97,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features (today)
 - [uriparser/uriparser](https://github.com/uriparser/uriparser) -  :hocho: Strictly RFC 3986 compliant URI parsing and handling library written in C89; moved from SourceForge to GitHub (1 day ago)
 - [StreamController/StreamController](https://github.com/StreamController/StreamController) - An elegant Linux app for the Elgato Stream Deck with support for plugins (6 days ago)
 - [opentelemetry-php/contrib-auto-reactphp](https://github.com/opentelemetry-php/contrib-auto-reactphp) - [READONLY] ReactPHP auto-instrumentation (1 week ago)
@@ -109,7 +110,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [b0mbays/continuously_casting_dashboards](https://github.com/b0mbays/continuously_casting_dashboards) - HACS Integration for continuously casting a Home Assistant dashboard to your Google Chromecast Displays (3 weeks ago)
 - [OpenEPaperLink/Home_Assistant_Integration](https://github.com/OpenEPaperLink/Home_Assistant_Integration) - Home assistant Integration for the OpenEPaperLink project (3 weeks ago)
 - [Browsers-software/browsers](https://github.com/Browsers-software/browsers) - Open the right browser at the right time (3 weeks ago)
-- [TheRealEiskaffee/brightness-overlay](https://github.com/TheRealEiskaffee/brightness-overlay) - Dim your Home Assistant dashboard globally using an entity. (3 weeks ago)
 
 ---
 
