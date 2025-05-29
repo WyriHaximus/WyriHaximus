@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (today)
+- [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (today)
+- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (today)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (today)
+- [MammatusPHP/cron-contracts](https://github.com/MammatusPHP/cron-contracts) (today)
+- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (today)
+- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (today)
+- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (today)
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (today)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
-- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (today)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (today)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (today)
-- [MammatusPHP/cron-contracts](https://github.com/MammatusPHP/cron-contracts) (today)
-- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (today)
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (today)
-- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (today)
-- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (today)
-- [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
 
 ---
 
@@ -61,6 +61,9 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([5.0.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/5.0.0), today) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
+- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) ([3.1.0](https://github.com/reactphp-parallel/runtime/releases/tag/3.1.0), today) - 💨 Convinence wrapper around the ext-parallel Runtime and ReactPHP
+- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) ([2.1.0](https://github.com/reactphp-parallel/event-loop/releases/tag/2.1.0), today) - Event Loop bridge to ext-parallel Events
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.159.2](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.159.2), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([9.3.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/9.3.0), 1 day ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([7.4.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/7.4.0), 1 day ago) - 
@@ -71,14 +74,12 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) ([1.1.0](https://github.com/WyriHaximus/php-tile-stitcher/releases/tag/1.1.0), 1 week ago) - 
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) ([5.2.0](https://github.com/WyriHaximus/reactphp-cron/releases/tag/5.2.0), 1 week ago) - Cronlike scheduler running inside a ReactPHP Event Loop
 - [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) ([2.2.0](https://github.com/WyriHaximus/php-compress/releases/tag/2.2.0), 1 week ago) - 
-- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) ([3.1.0](https://github.com/WyriHaximus/php-compress-test-utilities/releases/tag/3.1.0), 1 week ago) - 
-- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) ([v3.3.0](https://github.com/thecodingmachine/safe/releases/tag/v3.3.0), 2 weeks ago) - All PHP functions, rewritten to throw exceptions instead of returning false
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.14](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.14), 3 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [[3.x] Drop PHP 8.1](https://github.com/reactphp-parallel/infinite-pool/pull/65) on [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (today)
 - [[0.6.x] Update the minimum PHP version mention in the readme to 8.1](https://github.com/jakubkulhan/bunny/pull/177) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
 - [[0.6.x] Add Configuration object](https://github.com/jakubkulhan/bunny/pull/176) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
 - [Update wyrihaximus/test-utilities to 7.4 &#43; update QA config](https://github.com/WyriHaximus/php-async-test-utilities/pull/288) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Figure out ZTS or NTS when figuring out package version](https://github.com/WyriHaximus/github-workflows/pull/71) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
 - [[4.x] Add tests to test our tests](https://github.com/reactphp-parallel/pool-tests/pull/59) on [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (1 week ago)
 - [[4.x] Drop PHP 8.1](https://github.com/reactphp-parallel/pool-tests/pull/58) on [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (1 week ago)
-- [Bump to PHP 8.3](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger/pull/46) on [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (1 week ago)
 
 ---
 
