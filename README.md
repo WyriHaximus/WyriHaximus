@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
-- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (today)
-- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (today)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (today)
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (today)
-- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (today)
 - [MammatusPHP/cron-contracts](https://github.com/MammatusPHP/cron-contracts) (today)
+- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (today)
+- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (today)
+- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (today)
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (today)
+- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (today)
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (today)
+- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (today)
+- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (today)
 - [reactphp/http](https://github.com/reactphp/http) (today)
-- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (today)
 - [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (today)
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (today)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
+- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (today)
 
 ---
 
@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) ([2.1.0](https://github.com/reactphp-parallel/reactphp-parallel/releases/tag/2.1.0), today) - 🌉 Bridging ext-parallel and ReactPHP
 - [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) ([2.1.0](https://github.com/reactphp-parallel/limited-pool/releases/tag/2.1.0), today) - 🏔️ Limited pool for ext-parallel
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) ([3.1.0](https://github.com/reactphp-parallel/infinite-pool/releases/tag/3.1.0), today) - ♾️ Infinite pool for bridging ext-parallel and ReactPHP
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([5.0.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/5.0.0), today) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
@@ -73,7 +74,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.18.2](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.18.2), 3 days ago) - PHP Coding Standard
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) ([v0.5.6](https://github.com/jakubkulhan/bunny/releases/tag/v0.5.6), 6 days ago) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
 - [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) ([2.4.0](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger/releases/tag/2.4.0), 1 week ago) - Callable throwable decorator around a PSR-3 logger (to be used with react/promise and reactivex/rxphp)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) ([1.1.0](https://github.com/WyriHaximus/php-tile-stitcher/releases/tag/1.1.0), 1 week ago) - 
 
 ---
 
