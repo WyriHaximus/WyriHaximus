@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Drop To Do from readme](https://github.com/WyriHaximus/php-tile-stitcher/pull/19) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (today)
 - [Raise minimum PHP version to 8.3](https://github.com/reactphp-parallel/test-pool/pull/8) on [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (1 day ago)
 - [[3.x] Drop PHP 8.1](https://github.com/reactphp-parallel/infinite-pool/pull/65) on [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (2 days ago)
 - [[0.6.x] Update the minimum PHP version mention in the readme to 8.1](https://github.com/jakubkulhan/bunny/pull/177) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [[2.x] Drop PHP 8.1](https://github.com/reactphp-parallel/reactphp-parallel/pull/60) on [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (6 days ago)
 - [[2.x] Drop PHP 8.1](https://github.com/reactphp-parallel/limited-pool/pull/59) on [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (1 week ago)
 - [Figure out ZTS or NTS when figuring out package version](https://github.com/WyriHaximus/github-workflows/pull/71) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
-- [[4.x] Add tests to test our tests](https://github.com/reactphp-parallel/pool-tests/pull/59) on [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (1 week ago)
 
 ---
 
