@@ -11,16 +11,16 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
-- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (2 days ago)
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (2 days ago)
 - [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (2 days ago)
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (2 days ago)
-- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (2 days ago)
-- [MammatusPHP/cron-contracts](https://github.com/MammatusPHP/cron-contracts) (2 days ago)
-- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (2 days ago)
-- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (2 days ago)
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (2 days ago)
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (2 days ago)
+- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (2 days ago)
+- [MammatusPHP/cron-contracts](https://github.com/MammatusPHP/cron-contracts) (2 days ago)
+- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (2 days ago)
+- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (2 days ago)
+- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (2 days ago)
+- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (2 days ago)
 - [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (3 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
 
