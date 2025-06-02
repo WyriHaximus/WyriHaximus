@@ -12,17 +12,17 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (2 days ago)
-- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (3 days ago)
-- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (3 days ago)
-- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (3 days ago)
-- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (3 days ago)
-- [MammatusPHP/cron-contracts](https://github.com/MammatusPHP/cron-contracts) (3 days ago)
-- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (3 days ago)
 - [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (3 days ago)
-- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (3 days ago)
+- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (3 days ago)
+- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (3 days ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (3 days ago)
+- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (3 days ago)
+- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (3 days ago)
+- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (3 days ago)
+- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (3 days ago)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (3 days ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (4 days ago)
+- [MammatusPHP/cron-contracts](https://github.com/MammatusPHP/cron-contracts) (3 days ago)
+- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (4 days ago)
 
 ---
 
