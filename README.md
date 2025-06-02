@@ -28,7 +28,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 ### 📜 My latest articles on [WyriHaximus.net](https://blog.wyrihaximus.net/)
 
-- [ReactPHP Parallel v2(.1)](https://blog.wyrihaximus.net/2025/06/reactphp-parallel-v2-/) (today)
 - [Announcing TestInfra Action](https://blog.wyrihaximus.net/2025/03/announcing-testinfra-action/) (2 months ago)
 - [Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Enclosure](https://blog.wyrihaximus.net/2024/12/building-a-kubernetes-homelab-with-raspberry-pies-and-lego-nodes-enclosure/) (5 months ago)
 - [Building Secure Images with GitHub Actions](https://blog.wyrihaximus.net/2024/10/building-secure-images-with-github-actions/) (8 months ago)
@@ -38,6 +37,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Updating (PHP) packages to ReactPHP Promise v3, and test your types with PHPStan](https://blog.wyrihaximus.net/2024/06/updating-php-packages-to-reactphp-promise-v3--and-test-your-types-with-phpstan/) (11 months ago)
 - [Always recreating a TerraForm resource](https://blog.wyrihaximus.net/2024/04/always-recreating-a-terraform-resource/) (1 year ago)
 - [Building fast Docker based GitHub Actions](https://blog.wyrihaximus.net/2023/03/building-fast-docker-based-github-actions/) (2 years ago)
+- [Testing GitHub Actions](https://blog.wyrihaximus.net/2023/03/testing-github-actions/) (2 years ago)
 
 ---
 
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[RFC][0.6.x] Helpers](https://github.com/jakubkulhan/bunny/pull/178) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [Add link to ReactPHP Parallel](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/209) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
 - [Update 2025-06-02-reactphp-parallel-v2-.1-.markdown](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/208) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
 - [New Post: ReactPHP Parallel v2(.1)](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/207) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Update wyrihaximus/test-utilities to 7.4 &#43; update QA config](https://github.com/WyriHaximus/php-async-test-utilities/pull/288) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (5 days ago)
 - [Update wyrihaximus/phpstan-rules-wrapper to 10.13](https://github.com/WyriHaximus/php-test-utilities/pull/1028) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
 - [[2.x] Drop PHP 8.1](https://github.com/reactphp-parallel/streams/pull/42) on [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (6 days ago)
-- [Update test utils to 7.3](https://github.com/WyriHaximus/php-async-test-utilities/pull/287) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
 
 ---
 
