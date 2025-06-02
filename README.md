@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [MammatusPHP/cron-contracts](https://github.com/MammatusPHP/cron-contracts) (today)
+- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (today)
+- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (today)
+- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (today)
+- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (today)
+- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (today)
+- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (today)
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (today)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (2 days ago)
-- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (3 days ago)
-- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (3 days ago)
-- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (3 days ago)
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (3 days ago)
-- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (3 days ago)
 - [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (3 days ago)
-- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (3 days ago)
-- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (3 days ago)
-- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (3 days ago)
-- [MammatusPHP/cron-contracts](https://github.com/MammatusPHP/cron-contracts) (3 days ago)
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (4 days ago)
+- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (3 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (4 days ago)
 
 ---
 
@@ -97,6 +97,8 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [sanmai/pipeline](https://github.com/sanmai/pipeline) - Build streaming pipelines in PHP. The missing pipe operator. General-purpose collection pipeline. Since 2017. (today)
+- [sanmai/later](https://github.com/sanmai/later) - Later: a deferred object manager. Zero callbacks required. Futures for PHP. (today)
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely. (2 days ago)
 - [rest-certain/rest-certain](https://github.com/rest-certain/rest-certain) - PHP DSL for easy testing of REST services, with a nod to the Java DSL, REST Assured (3 days ago)
 - [open-telemetry/opentelemetry-php-instrumentation](https://github.com/open-telemetry/opentelemetry-php-instrumentation) - OpenTelemetry PHP auto-instrumentation extension (4 days ago)
@@ -108,8 +110,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [sgmobiledev/OpenEpaperLinkHATagSources](https://github.com/sgmobiledev/OpenEpaperLinkHATagSources) - Home-Assistant BLE Tags Yaml Scripte for Open Epaperlink  (2 weeks ago)
 - [Datagraver/Publieke-data](https://github.com/Datagraver/Publieke-data) - Dataverzamelingen voor publiek gebruik (2 weeks ago)
 - [PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card) - This card can show and hide a specific card on current device while not affecting other windows. It does not require any integration to run. (2 weeks ago)
-- [Pharb/kubernetes-iperf3](https://github.com/Pharb/kubernetes-iperf3) - Simple wrapper around iperf3 to measure network bandwidth from all nodes of a Kubernetes cluster (3 weeks ago)
-- [cspray/database-testing-phpunit](https://github.com/cspray/database-testing-phpunit) - A testing extension for cspray/database-testing to setup a database for testing with PHPUnit (3 weeks ago)
 
 ---
 
