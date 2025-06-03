@@ -115,7 +115,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [iBotPeaches](https://github.com/iBotPeaches) (1 month ago)
 - [challgren](https://github.com/challgren) (2 months ago)
 - [edorian](https://github.com/edorian) (1 year ago)
 - [codecov](https://github.com/codecov) (2 years ago)
