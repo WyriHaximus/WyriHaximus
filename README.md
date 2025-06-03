@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (today)
 - [MammatusPHP/cron-contracts](https://github.com/MammatusPHP/cron-contracts) (1 day ago)
-- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (1 day ago)
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
-- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 day ago)
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (1 day ago)
+- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (1 day ago)
+- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 day ago)
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 day ago)
 - [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 day ago)
-- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (1 day ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 day ago)
+- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (1 day ago)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (3 days ago)
 - [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (4 days ago)
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (4 days ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
 
 ---
 
@@ -79,6 +79,8 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Introduce wikimedia/minify](https://github.com/WyriHaximus/php-js-compress/pull/109) on [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (today)
+- [Drop meenie/javascript-packer](https://github.com/WyriHaximus/php-js-compress/pull/108) on [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (today)
 - [[RFC][0.6.x] Helpers](https://github.com/jakubkulhan/bunny/pull/178) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
 - [Add link to ReactPHP Parallel](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/209) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 day ago)
 - [Update 2025-06-02-reactphp-parallel-v2-.1-.markdown](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/208) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 day ago)
@@ -90,8 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [[0.6.x] Update the minimum PHP version mention in the readme to 8.1](https://github.com/jakubkulhan/bunny/pull/177) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (6 days ago)
 - [[0.6.x] Add Configuration object](https://github.com/jakubkulhan/bunny/pull/176) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (6 days ago)
 - [Update wyrihaximus/test-utilities to 7.4 &#43; update QA config](https://github.com/WyriHaximus/php-async-test-utilities/pull/288) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (6 days ago)
-- [Update wyrihaximus/phpstan-rules-wrapper to 10.13](https://github.com/WyriHaximus/php-test-utilities/pull/1028) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
-- [[2.x] Drop PHP 8.1](https://github.com/reactphp-parallel/streams/pull/42) on [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (1 week ago)
 
 ---
 
