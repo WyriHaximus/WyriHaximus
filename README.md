@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add OTEL related extensions](https://github.com/WyriHaximusNet/docker-php/pull/278) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [[New Version] Update versions file to PHP 8.4.8](https://github.com/WyriHaximus/php-fake-php-version/pull/143) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
 - [Introduce wikimedia/minify](https://github.com/WyriHaximus/php-js-compress/pull/109) on [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (1 day ago)
 - [Drop meenie/javascript-packer](https://github.com/WyriHaximus/php-js-compress/pull/108) on [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Raise minimum PHP version to 8.3](https://github.com/reactphp-parallel/test-pool/pull/8) on [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (5 days ago)
 - [[3.x] Drop PHP 8.1](https://github.com/reactphp-parallel/infinite-pool/pull/65) on [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (6 days ago)
 - [[0.6.x] Update the minimum PHP version mention in the readme to 8.1](https://github.com/jakubkulhan/bunny/pull/177) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
-- [[0.6.x] Add Configuration object](https://github.com/jakubkulhan/bunny/pull/176) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
 
 ---
 
