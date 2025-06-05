@@ -12,16 +12,16 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 - [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 day ago)
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (1 day ago)
+- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 day ago)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 day ago)
 - [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 day ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
 - [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (2 days ago)
+- [MammatusPHP/cron-contracts](https://github.com/MammatusPHP/cron-contracts) (3 days ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (3 days ago)
 - [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (3 days ago)
-- [MammatusPHP/cron-contracts](https://github.com/MammatusPHP/cron-contracts) (3 days ago)
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (3 days ago)
 
 ---
