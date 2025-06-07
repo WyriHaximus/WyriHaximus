@@ -11,17 +11,17 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
 - [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (2 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
-- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (3 days ago)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (3 days ago)
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (3 days ago)
-- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (3 days ago)
+- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (3 days ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (3 days ago)
+- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (3 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (4 days ago)
 - [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (4 days ago)
-- [MammatusPHP/cron-contracts](https://github.com/MammatusPHP/cron-contracts) (5 days ago)
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (5 days ago)
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (5 days ago)
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (5 days ago)
 
 ---
@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.19](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.19), today) - PHP Coding Standard
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([graylog-0.10.3](https://github.com/groundhog2k/helm-charts/releases/tag/graylog-0.10.3), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.15](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.15), 4 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r61](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r61), 5 days ago) - 
@@ -73,7 +74,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([9.3.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/9.3.0), 1 week ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([7.4.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/7.4.0), 1 week ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.13.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.13.0), 1 week ago) - 🌯 PHPStan rules wrapper
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.18.2](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.18.2), 1 week ago) - PHP Coding Standard
 
 ---
 
