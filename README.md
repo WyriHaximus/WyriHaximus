@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Make JUnit XML available](https://github.com/WyriHaximus/github-action-testinfra/pull/12) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (today)
 - [Introduce wikimedia/minify](https://github.com/WyriHaximus/php-css-compress/pull/155) on [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (2 days ago)
 - [Add concurrently limiting on Composer Diff](https://github.com/WyriHaximus/github-workflows/pull/72) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [Update to PHP 8.3&#43;](https://github.com/WyriHaximus/php-css-compress/pull/153) on [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (2 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Update 2025-06-02-reactphp-parallel-v2-.1-.markdown](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/208) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (5 days ago)
 - [New Post: ReactPHP Parallel v2(.1)](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/207) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (5 days ago)
 - [Raise minimum PHP version to 8.3](https://github.com/WyriHaximus/php-js-compress/pull/105) on [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (1 week ago)
-- [Drop To Do from readme](https://github.com/WyriHaximus/php-tile-stitcher/pull/19) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 week ago)
 
 ---
 
