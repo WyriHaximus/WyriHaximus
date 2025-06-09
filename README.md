@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Disable otel extensions for dev images](https://github.com/WyriHaximusNet/docker-php/pull/279) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Make JUnit XML available](https://github.com/WyriHaximus/github-action-testinfra/pull/12) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (2 days ago)
 - [Introduce wikimedia/minify](https://github.com/WyriHaximus/php-css-compress/pull/155) on [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (4 days ago)
 - [Add concurrently limiting on Composer Diff](https://github.com/WyriHaximus/github-workflows/pull/72) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Add link to ReactPHP Parallel](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/209) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
 - [Update 2025-06-02-reactphp-parallel-v2-.1-.markdown](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/208) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
 - [New Post: ReactPHP Parallel v2(.1)](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/207) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
-- [Raise minimum PHP version to 8.3](https://github.com/WyriHaximus/php-js-compress/pull/105) on [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (1 week ago)
 
 ---
 
