@@ -61,11 +61,11 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.161.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.161.0), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([9.4.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/9.4.0), today) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([7.5.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/7.5.0), today) - 
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.20.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.20.0), today) - PHP Coding Standard
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.14.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.14.0), today) - 🌯 PHPStan rules wrapper
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([graylog-0.10.3](https://github.com/groundhog2k/helm-charts/releases/tag/graylog-0.10.3), 6 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.15](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.15), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r61](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r61), 1 week ago) - 
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) ([2.1.0](https://github.com/reactphp-parallel/reactphp-parallel/releases/tag/2.1.0), 1 week ago) - 🌉 Bridging ext-parallel and ReactPHP
