@@ -10,14 +10,14 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (today)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
-- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (6 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 day ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 day ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
+- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (1 week ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 week ago)
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 week ago)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 week ago)
@@ -30,7 +30,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 - [ReactPHP Parallel v2(.1)](https://blog.wyrihaximus.net/2025/06/reactphp-parallel-v2-/) (1 week ago)
 - [Announcing TestInfra Action](https://blog.wyrihaximus.net/2025/03/announcing-testinfra-action/) (2 months ago)
-- [Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Enclosure](https://blog.wyrihaximus.net/2024/12/building-a-kubernetes-homelab-with-raspberry-pies-and-lego-nodes-enclosure/) (5 months ago)
+- [Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Enclosure](https://blog.wyrihaximus.net/2024/12/building-a-kubernetes-homelab-with-raspberry-pies-and-lego-nodes-enclosure/) (6 months ago)
 - [Building Secure Images with GitHub Actions](https://blog.wyrihaximus.net/2024/10/building-secure-images-with-github-actions/) (8 months ago)
 - [Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Power](https://blog.wyrihaximus.net/2024/09/building-a-kubernetes-homelab-with-raspberry-pies-and-lego-nodes-power/) (9 months ago)
 - [Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Storage](https://blog.wyrihaximus.net/2024/08/building-a-kubernetes-homelab-with-raspberry-pies-and-lego-nodes-storage/) (10 months ago)
@@ -61,30 +61,30 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.161.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.161.0), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([9.4.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/9.4.0), today) - 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([7.5.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/7.5.0), today) - 
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.20.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.20.0), today) - PHP Coding Standard
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.14.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.14.0), today) - 🌯 PHPStan rules wrapper
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.161.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.161.0), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([9.4.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/9.4.0), 1 day ago) - 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([7.5.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/7.5.0), 1 day ago) - 
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.20.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.20.0), 1 day ago) - PHP Coding Standard
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.14.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.14.0), 1 day ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.15](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.15), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r61](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r61), 1 week ago) - 
-- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) ([2.1.0](https://github.com/reactphp-parallel/reactphp-parallel/releases/tag/2.1.0), 1 week ago) - 🌉 Bridging ext-parallel and ReactPHP
-- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) ([2.1.0](https://github.com/reactphp-parallel/limited-pool/releases/tag/2.1.0), 1 week ago) - 🏔️ Limited pool for ext-parallel
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) ([3.1.0](https://github.com/reactphp-parallel/infinite-pool/releases/tag/3.1.0), 1 week ago) - ♾️ Infinite pool for bridging ext-parallel and ReactPHP
-- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([5.0.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/5.0.0), 1 week ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
-- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) ([3.1.0](https://github.com/reactphp-parallel/runtime/releases/tag/3.1.0), 1 week ago) - 💨 Convinence wrapper around the ext-parallel Runtime and ReactPHP
-- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) ([2.1.0](https://github.com/reactphp-parallel/event-loop/releases/tag/2.1.0), 1 week ago) - Event Loop bridge to ext-parallel Events
+- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) ([2.1.0](https://github.com/reactphp-parallel/reactphp-parallel/releases/tag/2.1.0), 2 weeks ago) - 🌉 Bridging ext-parallel and ReactPHP
+- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) ([2.1.0](https://github.com/reactphp-parallel/limited-pool/releases/tag/2.1.0), 2 weeks ago) - 🏔️ Limited pool for ext-parallel
+- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) ([3.1.0](https://github.com/reactphp-parallel/infinite-pool/releases/tag/3.1.0), 2 weeks ago) - ♾️ Infinite pool for bridging ext-parallel and ReactPHP
+- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([5.0.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/5.0.0), 2 weeks ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
+- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) ([3.1.0](https://github.com/reactphp-parallel/runtime/releases/tag/3.1.0), 2 weeks ago) - 💨 Convinence wrapper around the ext-parallel Runtime and ReactPHP
+- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) ([2.1.0](https://github.com/reactphp-parallel/event-loop/releases/tag/2.1.0), 2 weeks ago) - Event Loop bridge to ext-parallel Events
 
 ---
 
 #### 🔨 My recent Pull Requests
 
-- [Disable ergebis noNamedArgument and noNullableReturnTypeDeclaration rules](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/178) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
-- [Disable otel extensions for dev images](https://github.com/WyriHaximusNet/docker-php/pull/279) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
-- [Make JUnit XML available](https://github.com/WyriHaximus/github-action-testinfra/pull/12) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (4 days ago)
-- [Introduce wikimedia/minify](https://github.com/WyriHaximus/php-css-compress/pull/155) on [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (6 days ago)
-- [Add concurrently limiting on Composer Diff](https://github.com/WyriHaximus/github-workflows/pull/72) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
-- [Update to PHP 8.3&#43;](https://github.com/WyriHaximus/php-css-compress/pull/153) on [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (6 days ago)
+- [Disable ergebis noNamedArgument and noNullableReturnTypeDeclaration rules](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/178) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
+- [Disable otel extensions for dev images](https://github.com/WyriHaximusNet/docker-php/pull/279) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
+- [Make JUnit XML available](https://github.com/WyriHaximus/github-action-testinfra/pull/12) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (5 days ago)
+- [Introduce wikimedia/minify](https://github.com/WyriHaximus/php-css-compress/pull/155) on [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (1 week ago)
+- [Add concurrently limiting on Composer Diff](https://github.com/WyriHaximus/github-workflows/pull/72) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
+- [Update to PHP 8.3&#43;](https://github.com/WyriHaximus/php-css-compress/pull/153) on [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (1 week ago)
 - [Add OTEL related extensions](https://github.com/WyriHaximusNet/docker-php/pull/278) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [[New Version] Update versions file to PHP 8.4.8](https://github.com/WyriHaximus/php-fake-php-version/pull/143) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [Introduce wikimedia/minify](https://github.com/WyriHaximus/php-js-compress/pull/109) on [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (1 week ago)
@@ -101,10 +101,10 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [sanmai/later](https://github.com/sanmai/later) - Later: a deferred object manager. Zero callbacks required. Futures for PHP. (1 week ago)
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely. (1 week ago)
 - [rest-certain/rest-certain](https://github.com/rest-certain/rest-certain) - PHP DSL for easy testing of REST services, with a nod to the Java DSL, REST Assured (1 week ago)
-- [open-telemetry/opentelemetry-php-instrumentation](https://github.com/open-telemetry/opentelemetry-php-instrumentation) - OpenTelemetry PHP auto-instrumentation extension (1 week ago)
+- [open-telemetry/opentelemetry-php-instrumentation](https://github.com/open-telemetry/opentelemetry-php-instrumentation) - OpenTelemetry PHP auto-instrumentation extension (2 weeks ago)
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features (2 weeks ago)
 - [uriparser/uriparser](https://github.com/uriparser/uriparser) -  :hocho: Strictly RFC 3986 compliant URI parsing and handling library written in C89; moved from SourceForge to GitHub (2 weeks ago)
-- [StreamController/StreamController](https://github.com/StreamController/StreamController) - An elegant Linux app for the Elgato Stream Deck with support for plugins (2 weeks ago)
+- [StreamController/StreamController](https://github.com/StreamController/StreamController) - An elegant Linux app for the Elgato Stream Deck with support for plugins (3 weeks ago)
 - [opentelemetry-php/contrib-auto-reactphp](https://github.com/opentelemetry-php/contrib-auto-reactphp) - [READONLY] ReactPHP auto-instrumentation (3 weeks ago)
 - [biofects/piper-voice](https://github.com/biofects/piper-voice) - My first ever training of a piper tts voice (3 weeks ago)
 - [sgmobiledev/OpenEpaperLinkHATagSources](https://github.com/sgmobiledev/OpenEpaperLinkHATagSources) - Home-Assistant BLE Tags Yaml Scripte for Open Epaperlink  (3 weeks ago)
