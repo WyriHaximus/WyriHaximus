@@ -61,7 +61,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.161.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.161.0), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([gitea-0.13.0](https://github.com/groundhog2k/helm-charts/releases/tag/gitea-0.13.0), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([9.4.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/9.4.0), 1 day ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([7.5.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/7.5.0), 1 day ago) - 
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.20.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.20.0), 1 day ago) - PHP Coding Standard
