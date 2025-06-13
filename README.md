@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.12.0](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.12.0), today) - Kubernetes controller for GitHub Actions self-hosted runners
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([gitea-0.13.0](https://github.com/groundhog2k/helm-charts/releases/tag/gitea-0.13.0), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([9.4.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/9.4.0), 2 days ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([7.5.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/7.5.0), 2 days ago) - 
@@ -73,7 +74,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) ([3.1.0](https://github.com/reactphp-parallel/infinite-pool/releases/tag/3.1.0), 2 weeks ago) - ♾️ Infinite pool for bridging ext-parallel and ReactPHP
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([5.0.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/5.0.0), 2 weeks ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
 - [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) ([3.1.0](https://github.com/reactphp-parallel/runtime/releases/tag/3.1.0), 2 weeks ago) - 💨 Convinence wrapper around the ext-parallel Runtime and ReactPHP
-- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) ([2.1.0](https://github.com/reactphp-parallel/event-loop/releases/tag/2.1.0), 2 weeks ago) - Event Loop bridge to ext-parallel Events
 
 ---
 
