@@ -61,7 +61,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([nextcloud-0.19.5](https://github.com/groundhog2k/helm-charts/releases/tag/nextcloud-0.19.5), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([mariadb-4.4.0](https://github.com/groundhog2k/helm-charts/releases/tag/mariadb-4.4.0), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([7.5.1](https://github.com/WyriHaximus/php-test-utilities/releases/tag/7.5.1), 2 days ago) - 
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.20.1](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.20.1), 2 days ago) - PHP Coding Standard
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.12.0](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.12.0), 2 days ago) - Kubernetes controller for GitHub Actions self-hosted runners
