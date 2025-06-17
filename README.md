@@ -10,7 +10,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (4 days ago)
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Optimize OTEL extension installing so we don&#39;t install twice](https://github.com/WyriHaximusNet/docker-php/pull/282) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Filter our Alpine 3.22 for now](https://github.com/WyriHaximusNet/docker-php/pull/281) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 - [Go 0.1x developer on build retries](https://github.com/WyriHaximusNet/docker-php/pull/280) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
 - [Disable ergebis noNamedArgument and noNullableReturnTypeDeclaration rules](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/178) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (6 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [[New Version] Update versions file to PHP 8.4.8](https://github.com/WyriHaximus/php-fake-php-version/pull/143) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 weeks ago)
 - [Introduce wikimedia/minify](https://github.com/WyriHaximus/php-js-compress/pull/109) on [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (2 weeks ago)
 - [Drop meenie/javascript-packer](https://github.com/WyriHaximus/php-js-compress/pull/108) on [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (2 weeks ago)
-- [[RFC][0.6.x] Helpers](https://github.com/jakubkulhan/bunny/pull/178) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 weeks ago)
 
 ---
 
