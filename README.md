@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Revert disabling OTEL on dev images](https://github.com/WyriHaximusNet/docker-php/pull/283) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Optimize OTEL extension installing so we don&#39;t install twice](https://github.com/WyriHaximusNet/docker-php/pull/282) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [Filter our Alpine 3.22 for now](https://github.com/WyriHaximusNet/docker-php/pull/281) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
 - [Go 0.1x developer on build retries](https://github.com/WyriHaximusNet/docker-php/pull/280) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
@@ -91,12 +92,13 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Add OTEL related extensions](https://github.com/WyriHaximusNet/docker-php/pull/278) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 weeks ago)
 - [[New Version] Update versions file to PHP 8.4.8](https://github.com/WyriHaximus/php-fake-php-version/pull/143) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 weeks ago)
 - [Introduce wikimedia/minify](https://github.com/WyriHaximus/php-js-compress/pull/109) on [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (2 weeks ago)
-- [Drop meenie/javascript-packer](https://github.com/WyriHaximus/php-js-compress/pull/108) on [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (2 weeks ago)
 
 ---
 
 #### ⭐ Recent Stars
 
+- [ludeeus/integration_blueprint](https://github.com/ludeeus/integration_blueprint) - Blueprint for custom_component developers. (today)
+- [meshtastic/home-assistant](https://github.com/meshtastic/home-assistant) - Home Assistant Integration for Meshtastic (today)
 - [sanmai/pipeline](https://github.com/sanmai/pipeline) - Build streaming pipelines in PHP. The missing pipe operator. General-purpose collection pipeline. Since 2017. (2 weeks ago)
 - [sanmai/later](https://github.com/sanmai/later) - Later: a deferred object manager. Zero callbacks required. Futures for PHP. (2 weeks ago)
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely. (2 weeks ago)
@@ -108,8 +110,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [opentelemetry-php/contrib-auto-reactphp](https://github.com/opentelemetry-php/contrib-auto-reactphp) - [READONLY] ReactPHP auto-instrumentation (4 weeks ago)
 - [biofects/piper-voice](https://github.com/biofects/piper-voice) - My first ever training of a piper tts voice (4 weeks ago)
 - [sgmobiledev/OpenEpaperLinkHATagSources](https://github.com/sgmobiledev/OpenEpaperLinkHATagSources) - Home-Assistant BLE Tags Yaml Scripte for Open Epaperlink  (1 month ago)
-- [Datagraver/Publieke-data](https://github.com/Datagraver/Publieke-data) - Dataverzamelingen voor publiek gebruik (1 month ago)
-- [PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card) - This card can show and hide a specific card on current device while not affecting other windows. It does not require any integration to run. (1 month ago)
 
 ---
 
