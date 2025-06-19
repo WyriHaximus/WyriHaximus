@@ -97,6 +97,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [ramsey/identifier](https://github.com/ramsey/identifier) - A PHP library for generating and working with identifiers, including UUIDs, ULIDs, and Snowflakes (today)
 - [ludeeus/integration_blueprint](https://github.com/ludeeus/integration_blueprint) - Blueprint for custom_component developers. (1 day ago)
 - [meshtastic/home-assistant](https://github.com/meshtastic/home-assistant) - Home Assistant Integration for Meshtastic (1 day ago)
 - [sanmai/pipeline](https://github.com/sanmai/pipeline) - Build streaming pipelines in PHP. The missing pipe operator. General-purpose collection pipeline. Since 2017. (2 weeks ago)
@@ -109,7 +110,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [StreamController/StreamController](https://github.com/StreamController/StreamController) - An elegant Linux app for the Elgato Stream Deck with support for plugins (4 weeks ago)
 - [opentelemetry-php/contrib-auto-reactphp](https://github.com/opentelemetry-php/contrib-auto-reactphp) - [READONLY] ReactPHP auto-instrumentation (4 weeks ago)
 - [biofects/piper-voice](https://github.com/biofects/piper-voice) - My first ever training of a piper tts voice (1 month ago)
-- [sgmobiledev/OpenEpaperLinkHATagSources](https://github.com/sgmobiledev/OpenEpaperLinkHATagSources) - Home-Assistant BLE Tags Yaml Scripte for Open Epaperlink  (1 month ago)
 
 ---
 
