@@ -61,9 +61,9 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([gitea-0.13.1](https://github.com/groundhog2k/helm-charts/releases/tag/gitea-0.13.1), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.13.0](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.13.0), 2 days ago) - Forked from https://github.com/k8s-at-home/charts
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([9.4.1](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/9.4.1), 4 days ago) - 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([mariadb-4.4.0](https://github.com/groundhog2k/helm-charts/releases/tag/mariadb-4.4.0), 5 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([7.5.1](https://github.com/WyriHaximus/php-test-utilities/releases/tag/7.5.1), 1 week ago) - 
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.20.1](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.20.1), 1 week ago) - PHP Coding Standard
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.12.0](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.12.0), 1 week ago) - Kubernetes controller for GitHub Actions self-hosted runners
