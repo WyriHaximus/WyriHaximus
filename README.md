@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Cache Trivy cache to speed up CVE scanning](https://github.com/WyriHaximusNet/docker-php/pull/284) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Add OTEL fiber env var for async applications](https://github.com/WyriHaximus/Makefiles/pull/24) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Revert disabling OTEL on dev images](https://github.com/WyriHaximusNet/docker-php/pull/283) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
 - [Optimize OTEL extension installing so we don&#39;t install twice](https://github.com/WyriHaximusNet/docker-php/pull/282) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
@@ -91,12 +92,14 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Add concurrently limiting on Composer Diff](https://github.com/WyriHaximus/github-workflows/pull/72) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 weeks ago)
 - [Update to PHP 8.3&#43;](https://github.com/WyriHaximus/php-css-compress/pull/153) on [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (2 weeks ago)
 - [Add OTEL related extensions](https://github.com/WyriHaximusNet/docker-php/pull/278) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 weeks ago)
-- [[New Version] Update versions file to PHP 8.4.8](https://github.com/WyriHaximus/php-fake-php-version/pull/143) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 weeks ago)
 
 ---
 
 #### ⭐ Recent Stars
 
+- [kubebeam/trivy-headlamp-plugin](https://github.com/kubebeam/trivy-headlamp-plugin) -  (today)
+- [owenrumney/lazytrivy](https://github.com/owenrumney/lazytrivy) - Vulnerability scanning just got lazier (today)
+- [aquasecurity/trivy-operator-lens-extension](https://github.com/aquasecurity/trivy-operator-lens-extension) - https://github.com/aquasecurity/trivy-operator (today)
 - [opentelemetry-php/contrib-detector-digitalocean](https://github.com/opentelemetry-php/contrib-detector-digitalocean) - [READONLY] DigitalOcean detector (1 day ago)
 - [ramsey/identifier](https://github.com/ramsey/identifier) - A PHP library for generating and working with identifiers, including UUIDs, ULIDs, and Snowflakes (2 days ago)
 - [ludeeus/integration_blueprint](https://github.com/ludeeus/integration_blueprint) - Blueprint for custom_component developers. (3 days ago)
@@ -107,9 +110,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [rest-certain/rest-certain](https://github.com/rest-certain/rest-certain) - PHP DSL for easy testing of REST services, with a nod to the Java DSL, REST Assured (3 weeks ago)
 - [open-telemetry/opentelemetry-php-instrumentation](https://github.com/open-telemetry/opentelemetry-php-instrumentation) - OpenTelemetry PHP auto-instrumentation extension (3 weeks ago)
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features (3 weeks ago)
-- [uriparser/uriparser](https://github.com/uriparser/uriparser) -  :hocho: Strictly RFC 3986 compliant URI parsing and handling library written in C89; moved from SourceForge to GitHub (3 weeks ago)
-- [StreamController/StreamController](https://github.com/StreamController/StreamController) - An elegant Linux app for the Elgato Stream Deck with support for plugins (1 month ago)
-- [opentelemetry-php/contrib-auto-reactphp](https://github.com/opentelemetry-php/contrib-auto-reactphp) - [READONLY] ReactPHP auto-instrumentation (1 month ago)
 
 ---
 
