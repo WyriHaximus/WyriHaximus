@@ -10,17 +10,17 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (6 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 week ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 week ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 week ago)
 - [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (2 weeks ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 weeks ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (2 weeks ago)
-- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (2 weeks ago)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (2 weeks ago)
+- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (2 weeks ago)
 - [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (2 weeks ago)
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (2 weeks ago)
 
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Drop Psalm specific checks](https://github.com/WyriHaximus/github-workflows/pull/73) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Cache Trivy cache to speed up CVE scanning](https://github.com/WyriHaximusNet/docker-php/pull/284) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [Add OTEL fiber env var for async applications](https://github.com/WyriHaximus/Makefiles/pull/24) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Revert disabling OTEL on dev images](https://github.com/WyriHaximusNet/docker-php/pull/283) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Introduce wikimedia/minify](https://github.com/WyriHaximus/php-css-compress/pull/155) on [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (2 weeks ago)
 - [Add concurrently limiting on Composer Diff](https://github.com/WyriHaximus/github-workflows/pull/72) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 weeks ago)
 - [Update to PHP 8.3&#43;](https://github.com/WyriHaximus/php-css-compress/pull/153) on [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (2 weeks ago)
-- [Add OTEL related extensions](https://github.com/WyriHaximusNet/docker-php/pull/278) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 weeks ago)
 
 ---
 
