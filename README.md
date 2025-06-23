@@ -11,8 +11,8 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Set OTEL_PHP_FIBERS_ENABLED to &#34;true&#34; for QA calls](https://github.com/WyriHaximus/github-workflows/pull/74) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Force PHPCS to one thread](https://github.com/WyriHaximus/Makefiles/pull/27) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Drop Psalm specific checks](https://github.com/WyriHaximus/github-workflows/pull/73) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [Cache Trivy cache to speed up CVE scanning](https://github.com/WyriHaximusNet/docker-php/pull/284) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Disable otel extensions for dev images](https://github.com/WyriHaximusNet/docker-php/pull/279) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 weeks ago)
 - [Make JUnit XML available](https://github.com/WyriHaximus/github-action-testinfra/pull/12) on [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (2 weeks ago)
 - [Introduce wikimedia/minify](https://github.com/WyriHaximus/php-css-compress/pull/155) on [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (2 weeks ago)
-- [Add concurrently limiting on Composer Diff](https://github.com/WyriHaximus/github-workflows/pull/72) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 weeks ago)
 
 ---
 
