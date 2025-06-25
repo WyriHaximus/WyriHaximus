@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) ([2.2.0](https://github.com/WyriHaximus/php-css-compress/releases/tag/2.2.0), today) - 
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.164.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.164.0), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) ([4.4.0](https://github.com/WyriHaximus/HtmlCompress/releases/tag/4.4.0), 1 day ago) - 
 - [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) ([6.0.0](https://github.com/WyriHaximus/php-js-compress/releases/tag/6.0.0), 1 day ago) - 
@@ -73,7 +74,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.12.0](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.12.0), 1 week ago) - Kubernetes controller for GitHub Actions self-hosted runners
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.15](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.15), 3 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r61](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r61), 3 weeks ago) - 
-- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) ([2.1.0](https://github.com/reactphp-parallel/reactphp-parallel/releases/tag/2.1.0), 3 weeks ago) - 🌉 Bridging ext-parallel and ReactPHP
 
 ---
 
