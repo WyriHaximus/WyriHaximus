@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Fix failing tests on Windows](https://github.com/WyriHaximus/HtmlCompress/pull/185) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (today)
 - [Switch MarkDown link checking for more performant one](https://github.com/WyriHaximus/github-workflows/pull/75) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Update QA tooling](https://github.com/WyriHaximus/HtmlCompress/pull/183) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (3 days ago)
 - [Raise minimum PHP version to 8.3](https://github.com/WyriHaximus/HtmlCompress/pull/182) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (3 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Optimize OTEL extension installing so we don&#39;t install twice](https://github.com/WyriHaximusNet/docker-php/pull/282) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [Filter our Alpine 3.22 for now](https://github.com/WyriHaximusNet/docker-php/pull/281) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [Go 0.1x developer on build retries](https://github.com/WyriHaximusNet/docker-php/pull/280) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 weeks ago)
-- [Disable ergebis noNamedArgument and noNullableReturnTypeDeclaration rules](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/178) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 weeks ago)
 
 ---
 
