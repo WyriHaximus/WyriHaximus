@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Use version ranges instead of pinned versions](https://github.com/ecoAPM/php-libyear/pull/149) on [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) (today)
 - [Fix failing tests on Windows](https://github.com/WyriHaximus/HtmlCompress/pull/185) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (1 day ago)
 - [Switch MarkDown link checking for more performant one](https://github.com/WyriHaximus/github-workflows/pull/75) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [Update QA tooling](https://github.com/WyriHaximus/HtmlCompress/pull/183) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (4 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Revert disabling OTEL on dev images](https://github.com/WyriHaximusNet/docker-php/pull/283) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [Optimize OTEL extension installing so we don&#39;t install twice](https://github.com/WyriHaximusNet/docker-php/pull/282) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [Filter our Alpine 3.22 for now](https://github.com/WyriHaximusNet/docker-php/pull/281) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
-- [Go 0.1x developer on build retries](https://github.com/WyriHaximusNet/docker-php/pull/280) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 weeks ago)
 
 ---
 
@@ -132,11 +132,11 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 👯 Check out some of my recent followers
 
+- [tyrsson](https://github.com/tyrsson)
 - [abrahamfast](https://github.com/abrahamfast)
 - [Baki333634](https://github.com/Baki333634)
 - [helallao](https://github.com/helallao)
 - [meyoramu](https://github.com/meyoramu)
-- [githubcdr](https://github.com/githubcdr)
 
 ---
 
