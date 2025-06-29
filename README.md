@@ -10,6 +10,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (2 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (5 days ago)
@@ -20,9 +21,8 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 weeks ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (2 weeks ago)
 - [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (3 weeks ago)
-- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (3 weeks ago)
+- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (3 weeks ago)
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (3 weeks ago)
-- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (3 weeks ago)
 
 ---
 
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Set up repository](https://github.com/MammatusPHP/open-telemetry/pull/1) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
 - [Use version ranges instead of pinned versions](https://github.com/ecoAPM/php-libyear/pull/149) on [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) (1 day ago)
 - [Fix failing tests on Windows](https://github.com/WyriHaximus/HtmlCompress/pull/185) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (2 days ago)
 - [Switch MarkDown link checking for more performant one](https://github.com/WyriHaximus/github-workflows/pull/75) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Add OTEL fiber env var for async applications](https://github.com/WyriHaximus/Makefiles/pull/24) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Revert disabling OTEL on dev images](https://github.com/WyriHaximusNet/docker-php/pull/283) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [Optimize OTEL extension installing so we don&#39;t install twice](https://github.com/WyriHaximusNet/docker-php/pull/282) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
-- [Filter our Alpine 3.22 for now](https://github.com/WyriHaximusNet/docker-php/pull/281) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 weeks ago)
 
 ---
 
