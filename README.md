@@ -10,10 +10,11 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [reactphp-inspector/filesystem](https://github.com/reactphp-inspector/filesystem) (1 day ago)
+- [reactphp-inspector/filesystem](https://github.com/reactphp-inspector/filesystem) (today)
+- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (today)
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
-- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (3 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
+- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (3 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (6 days ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 week ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
@@ -22,7 +23,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 weeks ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (2 weeks ago)
 - [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (3 weeks ago)
-- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (3 weeks ago)
 
 ---
 
@@ -79,6 +79,9 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add basic documentation](https://github.com/MammatusPHP/open-telemetry/pull/4) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
+- [Add basic documentation](https://github.com/reactphp-inspector/filesystem/pull/3) on [reactphp-inspector/filesystem](https://github.com/reactphp-inspector/filesystem) (today)
+- [Add basic documentation](https://github.com/reactphp-inspector/bunny/pull/4) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (today)
 - [Port shift to OTEL implementation over from personal project](https://github.com/reactphp-inspector/bunny/pull/2) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 day ago)
 - [Port initial implementation over from personal project](https://github.com/reactphp-inspector/filesystem/pull/1) on [reactphp-inspector/filesystem](https://github.com/reactphp-inspector/filesystem) (1 day ago)
 - [Port initial implementation over from personal project](https://github.com/MammatusPHP/open-telemetry/pull/3) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
@@ -89,9 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Update QA tooling](https://github.com/WyriHaximus/HtmlCompress/pull/183) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (6 days ago)
 - [Raise minimum PHP version to 8.3](https://github.com/WyriHaximus/HtmlCompress/pull/182) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (6 days ago)
 - [Set OTEL_PHP_FIBERS_ENABLED to &#34;true&#34; for QA calls](https://github.com/WyriHaximus/github-workflows/pull/74) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
-- [Force PHPCS to one thread](https://github.com/WyriHaximus/Makefiles/pull/27) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [Drop Psalm specific checks](https://github.com/WyriHaximus/github-workflows/pull/73) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
-- [Cache Trivy cache to speed up CVE scanning](https://github.com/WyriHaximusNet/docker-php/pull/284) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 
 ---
 
