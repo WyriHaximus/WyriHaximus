@@ -10,9 +10,10 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
-- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 day ago)
 - [reactphp-inspector/filesystem](https://github.com/reactphp-inspector/filesystem) (1 day ago)
+- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 day ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (4 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
@@ -22,7 +23,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 weeks ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 weeks ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (2 weeks ago)
-- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (3 weeks ago)
 
 ---
 
@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.16](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.16), today) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.12.1](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.12.1), 4 days ago) - Kubernetes controller for GitHub Actions self-hosted runners
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.164.1](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.164.1), 6 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) ([2.2.0](https://github.com/WyriHaximus/php-css-compress/releases/tag/2.2.0), 6 days ago) - 
@@ -72,13 +73,13 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.13.0](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.13.0), 1 week ago) - Forked from https://github.com/k8s-at-home/charts
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([9.4.1](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/9.4.1), 2 weeks ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([7.5.1](https://github.com/WyriHaximus/php-test-utilities/releases/tag/7.5.1), 2 weeks ago) - 
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.15](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.15), 4 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r61](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r61), 4 weeks ago) - 
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [[New Version] Update versions file to PHP 8.4.9](https://github.com/WyriHaximus/php-fake-php-version/pull/144) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [Test up to PHP 8.4](https://github.com/ecoAPM/php-libyear/pull/150) on [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) (today)
 - [Add basic documentation](https://github.com/MammatusPHP/open-telemetry/pull/4) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
 - [Add basic documentation](https://github.com/reactphp-inspector/filesystem/pull/3) on [reactphp-inspector/filesystem](https://github.com/reactphp-inspector/filesystem) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Fix failing tests on Windows](https://github.com/WyriHaximus/HtmlCompress/pull/185) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (4 days ago)
 - [Switch MarkDown link checking for more performant one](https://github.com/WyriHaximus/github-workflows/pull/75) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 - [Update QA tooling](https://github.com/WyriHaximus/HtmlCompress/pull/183) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (1 week ago)
-- [Raise minimum PHP version to 8.3](https://github.com/WyriHaximus/HtmlCompress/pull/182) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (1 week ago)
 
 ---
 
