@@ -11,14 +11,14 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
 - [reactphp-inspector/filesystem](https://github.com/reactphp-inspector/filesystem) (2 days ago)
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (2 days ago)
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (5 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 week ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 week ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 weeks ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 weeks ago)
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add fully static deploy support](https://github.com/WyriHaximus/github-workflows/pull/76) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [[New Version] Update versions file to PHP 8.4.10](https://github.com/WyriHaximus/php-fake-php-version/pull/145) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [[New Version] Update versions file to PHP 8.4.9](https://github.com/WyriHaximus/php-fake-php-version/pull/144) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
 - [Test up to PHP 8.4](https://github.com/ecoAPM/php-libyear/pull/150) on [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Set up repository](https://github.com/MammatusPHP/open-telemetry/pull/1) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (3 days ago)
 - [Use version ranges instead of pinned versions](https://github.com/ecoAPM/php-libyear/pull/149) on [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) (4 days ago)
 - [Fix failing tests on Windows](https://github.com/WyriHaximus/HtmlCompress/pull/185) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (5 days ago)
-- [Switch MarkDown link checking for more performant one](https://github.com/WyriHaximus/github-workflows/pull/75) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
 
 ---
 
