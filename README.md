@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Revert &#34;Switch MarkDown link checking for more performant one&#34;](https://github.com/WyriHaximus/github-workflows/pull/77) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Add fully static deploy support](https://github.com/WyriHaximus/github-workflows/pull/76) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [[New Version] Update versions file to PHP 8.4.10](https://github.com/WyriHaximus/php-fake-php-version/pull/145) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [[New Version] Update versions file to PHP 8.4.9](https://github.com/WyriHaximus/php-fake-php-version/pull/144) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Port initial implementation over from personal project](https://github.com/MammatusPHP/open-telemetry/pull/3) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (3 days ago)
 - [Set up repository](https://github.com/MammatusPHP/open-telemetry/pull/1) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (3 days ago)
 - [Use version ranges instead of pinned versions](https://github.com/ecoAPM/php-libyear/pull/149) on [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) (4 days ago)
-- [Fix failing tests on Windows](https://github.com/WyriHaximus/HtmlCompress/pull/185) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (5 days ago)
 
 ---
 
