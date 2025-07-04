@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (2 days ago)
-- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (3 days ago)
-- [reactphp-inspector/filesystem](https://github.com/reactphp-inspector/filesystem) (3 days ago)
-- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (6 days ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (3 days ago)
+- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (4 days ago)
+- [reactphp-inspector/filesystem](https://github.com/reactphp-inspector/filesystem) (4 days ago)
+- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (1 week ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 week ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 weeks ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 weeks ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 weeks ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (3 weeks ago)
 
 ---
@@ -61,9 +61,9 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.165.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.165.0), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.17](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.17), 1 day ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
-- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.12.1](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.12.1), 6 days ago) - Kubernetes controller for GitHub Actions self-hosted runners
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.165.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.165.0), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.17](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.17), 2 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
+- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.12.1](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.12.1), 1 week ago) - Kubernetes controller for GitHub Actions self-hosted runners
 - [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) ([2.2.0](https://github.com/WyriHaximus/php-css-compress/releases/tag/2.2.0), 1 week ago) - 
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) ([4.4.0](https://github.com/WyriHaximus/HtmlCompress/releases/tag/4.4.0), 1 week ago) - 
 - [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) ([6.0.0](https://github.com/WyriHaximus/php-js-compress/releases/tag/6.0.0), 1 week ago) - 
@@ -72,36 +72,36 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.20.2](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.20.2), 1 week ago) - PHP Coding Standard
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.13.0](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.13.0), 2 weeks ago) - Forked from https://github.com/k8s-at-home/charts
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([9.4.1](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/9.4.1), 2 weeks ago) - 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([7.5.1](https://github.com/WyriHaximus/php-test-utilities/releases/tag/7.5.1), 2 weeks ago) - 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([7.5.1](https://github.com/WyriHaximus/php-test-utilities/releases/tag/7.5.1), 3 weeks ago) - 
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r61](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r61), 1 month ago) - 
 
 ---
 
 #### 🔨 My recent Pull Requests
 
-- [Revert &#34;Switch MarkDown link checking for more performant one&#34;](https://github.com/WyriHaximus/github-workflows/pull/77) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
-- [Add fully static deploy support](https://github.com/WyriHaximus/github-workflows/pull/76) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
-- [[New Version] Update versions file to PHP 8.4.10](https://github.com/WyriHaximus/php-fake-php-version/pull/145) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
-- [[New Version] Update versions file to PHP 8.4.9](https://github.com/WyriHaximus/php-fake-php-version/pull/144) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
-- [Test up to PHP 8.4](https://github.com/ecoAPM/php-libyear/pull/150) on [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) (2 days ago)
-- [Add basic documentation](https://github.com/MammatusPHP/open-telemetry/pull/4) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (3 days ago)
-- [Add basic documentation](https://github.com/reactphp-inspector/filesystem/pull/3) on [reactphp-inspector/filesystem](https://github.com/reactphp-inspector/filesystem) (3 days ago)
-- [Add basic documentation](https://github.com/reactphp-inspector/bunny/pull/4) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (3 days ago)
-- [Port shift to OTEL implementation over from personal project](https://github.com/reactphp-inspector/bunny/pull/2) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (4 days ago)
-- [Port initial implementation over from personal project](https://github.com/reactphp-inspector/filesystem/pull/1) on [reactphp-inspector/filesystem](https://github.com/reactphp-inspector/filesystem) (4 days ago)
-- [Port initial implementation over from personal project](https://github.com/MammatusPHP/open-telemetry/pull/3) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (4 days ago)
-- [Set up repository](https://github.com/MammatusPHP/open-telemetry/pull/1) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (4 days ago)
-- [Use version ranges instead of pinned versions](https://github.com/ecoAPM/php-libyear/pull/149) on [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) (5 days ago)
+- [Revert &#34;Switch MarkDown link checking for more performant one&#34;](https://github.com/WyriHaximus/github-workflows/pull/77) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
+- [Add fully static deploy support](https://github.com/WyriHaximus/github-workflows/pull/76) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
+- [[New Version] Update versions file to PHP 8.4.10](https://github.com/WyriHaximus/php-fake-php-version/pull/145) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
+- [[New Version] Update versions file to PHP 8.4.9](https://github.com/WyriHaximus/php-fake-php-version/pull/144) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
+- [Test up to PHP 8.4](https://github.com/ecoAPM/php-libyear/pull/150) on [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) (3 days ago)
+- [Add basic documentation](https://github.com/MammatusPHP/open-telemetry/pull/4) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (4 days ago)
+- [Add basic documentation](https://github.com/reactphp-inspector/filesystem/pull/3) on [reactphp-inspector/filesystem](https://github.com/reactphp-inspector/filesystem) (4 days ago)
+- [Add basic documentation](https://github.com/reactphp-inspector/bunny/pull/4) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (4 days ago)
+- [Port shift to OTEL implementation over from personal project](https://github.com/reactphp-inspector/bunny/pull/2) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (5 days ago)
+- [Port initial implementation over from personal project](https://github.com/reactphp-inspector/filesystem/pull/1) on [reactphp-inspector/filesystem](https://github.com/reactphp-inspector/filesystem) (5 days ago)
+- [Port initial implementation over from personal project](https://github.com/MammatusPHP/open-telemetry/pull/3) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (5 days ago)
+- [Set up repository](https://github.com/MammatusPHP/open-telemetry/pull/1) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (5 days ago)
+- [Use version ranges instead of pinned versions](https://github.com/ecoAPM/php-libyear/pull/149) on [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) (6 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [tcort/github-action-markdown-link-check](https://github.com/tcort/github-action-markdown-link-check) - Check all links in markdown files if they are alive or dead. 🔗✔️ (6 days ago)
+- [tcort/github-action-markdown-link-check](https://github.com/tcort/github-action-markdown-link-check) - Check all links in markdown files if they are alive or dead. 🔗✔️ (1 week ago)
 - [kubebeam/trivy-headlamp-plugin](https://github.com/kubebeam/trivy-headlamp-plugin) -  (1 week ago)
 - [owenrumney/lazytrivy](https://github.com/owenrumney/lazytrivy) - Vulnerability scanning just got lazier (1 week ago)
 - [aquasecurity/trivy-operator-lens-extension](https://github.com/aquasecurity/trivy-operator-lens-extension) - https://github.com/aquasecurity/trivy-operator (1 week ago)
-- [opentelemetry-php/contrib-detector-digitalocean](https://github.com/opentelemetry-php/contrib-detector-digitalocean) - [READONLY] DigitalOcean detector (1 week ago)
+- [opentelemetry-php/contrib-detector-digitalocean](https://github.com/opentelemetry-php/contrib-detector-digitalocean) - [READONLY] DigitalOcean detector (2 weeks ago)
 - [ramsey/identifier](https://github.com/ramsey/identifier) - A PHP library for generating and working with identifiers, including UUIDs, ULIDs, and Snowflakes (2 weeks ago)
 - [ludeeus/integration_blueprint](https://github.com/ludeeus/integration_blueprint) - Blueprint for custom_component developers. (2 weeks ago)
 - [meshtastic/home-assistant](https://github.com/meshtastic/home-assistant) - Home Assistant Integration for Meshtastic (2 weeks ago)
