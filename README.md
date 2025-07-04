@@ -61,7 +61,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([rabbitmq-2.1.2](https://github.com/groundhog2k/helm-charts/releases/tag/rabbitmq-2.1.2), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.166.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.166.0), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.17](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.17), 2 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.12.1](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.12.1), 1 week ago) - Kubernetes controller for GitHub Actions self-hosted runners
 - [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) ([2.2.0](https://github.com/WyriHaximus/php-css-compress/releases/tag/2.2.0), 1 week ago) - 
