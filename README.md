@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Disable assertions on non-dev](https://github.com/WyriHaximusNet/docker-php/pull/285) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Make PSR transport non-blocking](https://github.com/MammatusPHP/open-telemetry/pull/5) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
 - [Update QA toolset](https://github.com/BBQueue/php-bunny/pull/7) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (1 day ago)
 - [Raise PHP version to 8.3 in preparation for new QA tooling upgrades](https://github.com/BBQueue/php-bunny/pull/6) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Add basic documentation](https://github.com/reactphp-inspector/filesystem/pull/3) on [reactphp-inspector/filesystem](https://github.com/reactphp-inspector/filesystem) (5 days ago)
 - [Add basic documentation](https://github.com/reactphp-inspector/bunny/pull/4) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (5 days ago)
 - [Port shift to OTEL implementation over from personal project](https://github.com/reactphp-inspector/bunny/pull/2) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (6 days ago)
-- [Port initial implementation over from personal project](https://github.com/reactphp-inspector/filesystem/pull/1) on [reactphp-inspector/filesystem](https://github.com/reactphp-inspector/filesystem) (6 days ago)
 
 ---
 
