@@ -10,12 +10,12 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (1 day ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
+- [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (today)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (4 days ago)
-- [reactphp-inspector/filesystem](https://github.com/reactphp-inspector/filesystem) (5 days ago)
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (5 days ago)
+- [reactphp-inspector/filesystem](https://github.com/reactphp-inspector/filesystem) (5 days ago)
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (1 week ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
