@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (4 days ago)
 - [reactphp-inspector/filesystem](https://github.com/reactphp-inspector/filesystem) (5 days ago)
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (5 days ago)
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (1 week ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 week ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 weeks ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 weeks ago)
 
 ---
 
@@ -61,13 +61,13 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.16.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.16.0), today) - 🌯 PHPStan rules wrapper
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.166.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.166.0), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.17](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.17), 3 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.12.1](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.12.1), 1 week ago) - Kubernetes controller for GitHub Actions self-hosted runners
 - [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) ([2.2.0](https://github.com/WyriHaximus/php-css-compress/releases/tag/2.2.0), 1 week ago) - 
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) ([4.4.0](https://github.com/WyriHaximus/HtmlCompress/releases/tag/4.4.0), 1 week ago) - 
 - [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) ([6.0.0](https://github.com/WyriHaximus/php-js-compress/releases/tag/6.0.0), 1 week ago) - 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.15.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.15.0), 1 week ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.4.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.4.3), 1 week ago) - Makefile building blocks
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.20.2](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.20.2), 1 week ago) - PHP Coding Standard
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.13.0](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.13.0), 2 weeks ago) - Forked from https://github.com/k8s-at-home/charts
@@ -79,6 +79,8 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Raise PHP to 8.3](https://github.com/WyriHaximus/php-get-in-packages-composer.json/pull/37) on [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (today)
+- [Drop Safe](https://github.com/WyriHaximus/php-get-in-packages-composer.json/pull/35) on [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (today)
 - [Disable assertions on non-dev](https://github.com/WyriHaximusNet/docker-php/pull/285) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Make PSR transport non-blocking](https://github.com/MammatusPHP/open-telemetry/pull/5) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
 - [Update QA toolset](https://github.com/BBQueue/php-bunny/pull/7) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (1 day ago)
@@ -90,8 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Test up to PHP 8.4](https://github.com/ecoAPM/php-libyear/pull/150) on [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) (4 days ago)
 - [Add basic documentation](https://github.com/MammatusPHP/open-telemetry/pull/4) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (5 days ago)
 - [Add basic documentation](https://github.com/reactphp-inspector/filesystem/pull/3) on [reactphp-inspector/filesystem](https://github.com/reactphp-inspector/filesystem) (5 days ago)
-- [Add basic documentation](https://github.com/reactphp-inspector/bunny/pull/4) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (5 days ago)
-- [Port shift to OTEL implementation over from personal project](https://github.com/reactphp-inspector/bunny/pull/2) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (6 days ago)
 
 ---
 
