@@ -10,17 +10,17 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (today)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (4 days ago)
-- [reactphp-inspector/filesystem](https://github.com/reactphp-inspector/filesystem) (5 days ago)
-- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (5 days ago)
+- [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (1 day ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (4 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (5 days ago)
+- [reactphp-inspector/filesystem](https://github.com/reactphp-inspector/filesystem) (6 days ago)
+- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (6 days ago)
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (1 week ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 week ago)
 
@@ -61,10 +61,10 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([7.5.2](https://github.com/WyriHaximus/php-test-utilities/releases/tag/7.5.2), today) - 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.16.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.16.0), today) - 🌯 PHPStan rules wrapper
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.166.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.166.0), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.17](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.17), 3 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([7.5.2](https://github.com/WyriHaximus/php-test-utilities/releases/tag/7.5.2), 1 day ago) - 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.16.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.16.0), 1 day ago) - 🌯 PHPStan rules wrapper
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.166.0](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.166.0), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.17](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.17), 4 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.12.1](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.12.1), 1 week ago) - Kubernetes controller for GitHub Actions self-hosted runners
 - [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) ([2.2.0](https://github.com/WyriHaximus/php-css-compress/releases/tag/2.2.0), 1 week ago) - 
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) ([4.4.0](https://github.com/WyriHaximus/HtmlCompress/releases/tag/4.4.0), 1 week ago) - 
@@ -79,19 +79,19 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Raise PHP to 8.3](https://github.com/WyriHaximus/php-get-in-packages-composer.json/pull/37) on [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (today)
-- [Drop Safe](https://github.com/WyriHaximus/php-get-in-packages-composer.json/pull/35) on [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (today)
-- [Disable assertions on non-dev](https://github.com/WyriHaximusNet/docker-php/pull/285) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
-- [Make PSR transport non-blocking](https://github.com/MammatusPHP/open-telemetry/pull/5) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
-- [Update QA toolset](https://github.com/BBQueue/php-bunny/pull/7) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (1 day ago)
-- [Raise PHP version to 8.3 in preparation for new QA tooling upgrades](https://github.com/BBQueue/php-bunny/pull/6) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (1 day ago)
-- [Revert &#34;Switch MarkDown link checking for more performant one&#34;](https://github.com/WyriHaximus/github-workflows/pull/77) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
-- [Add fully static deploy support](https://github.com/WyriHaximus/github-workflows/pull/76) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
-- [[New Version] Update versions file to PHP 8.4.10](https://github.com/WyriHaximus/php-fake-php-version/pull/145) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
-- [[New Version] Update versions file to PHP 8.4.9](https://github.com/WyriHaximus/php-fake-php-version/pull/144) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (4 days ago)
-- [Test up to PHP 8.4](https://github.com/ecoAPM/php-libyear/pull/150) on [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) (4 days ago)
-- [Add basic documentation](https://github.com/MammatusPHP/open-telemetry/pull/4) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (5 days ago)
-- [Add basic documentation](https://github.com/reactphp-inspector/filesystem/pull/3) on [reactphp-inspector/filesystem](https://github.com/reactphp-inspector/filesystem) (5 days ago)
+- [Raise PHP to 8.3](https://github.com/WyriHaximus/php-get-in-packages-composer.json/pull/37) on [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (1 day ago)
+- [Drop Safe](https://github.com/WyriHaximus/php-get-in-packages-composer.json/pull/35) on [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (1 day ago)
+- [Disable assertions on non-dev](https://github.com/WyriHaximusNet/docker-php/pull/285) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
+- [Make PSR transport non-blocking](https://github.com/MammatusPHP/open-telemetry/pull/5) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
+- [Update QA toolset](https://github.com/BBQueue/php-bunny/pull/7) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (2 days ago)
+- [Raise PHP version to 8.3 in preparation for new QA tooling upgrades](https://github.com/BBQueue/php-bunny/pull/6) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (2 days ago)
+- [Revert &#34;Switch MarkDown link checking for more performant one&#34;](https://github.com/WyriHaximus/github-workflows/pull/77) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
+- [Add fully static deploy support](https://github.com/WyriHaximus/github-workflows/pull/76) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
+- [[New Version] Update versions file to PHP 8.4.10](https://github.com/WyriHaximus/php-fake-php-version/pull/145) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (4 days ago)
+- [[New Version] Update versions file to PHP 8.4.9](https://github.com/WyriHaximus/php-fake-php-version/pull/144) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (5 days ago)
+- [Test up to PHP 8.4](https://github.com/ecoAPM/php-libyear/pull/150) on [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) (5 days ago)
+- [Add basic documentation](https://github.com/MammatusPHP/open-telemetry/pull/4) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (6 days ago)
+- [Add basic documentation](https://github.com/reactphp-inspector/filesystem/pull/3) on [reactphp-inspector/filesystem](https://github.com/reactphp-inspector/filesystem) (6 days ago)
 
 ---
 
