@@ -10,17 +10,17 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (today)
 - [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (1 day ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
-- [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (2 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (5 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (6 days ago)
-- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 week ago)
 - [reactphp-inspector/filesystem](https://github.com/reactphp-inspector/filesystem) (1 week ago)
+- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 week ago)
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (1 week ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (2 weeks ago)
 
