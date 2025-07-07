@@ -61,7 +61,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([graylog-0.10.4](https://github.com/groundhog2k/helm-charts/releases/tag/graylog-0.10.4), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([valkey-2.1.0](https://github.com/groundhog2k/helm-charts/releases/tag/valkey-2.1.0), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) ([2.2.1](https://github.com/WyriHaximus/php-get-in-packages-composer.json/releases/tag/2.2.1), 1 day ago) - Get a specific configuration setting from all installed composer packages
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([7.5.2](https://github.com/WyriHaximus/php-test-utilities/releases/tag/7.5.2), 2 days ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.16.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.16.0), 2 days ago) - 🌯 PHPStan rules wrapper
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add traces](https://github.com/MammatusPHP/queue/pull/16) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [Raise minimum PHP version to 8.3](https://github.com/MammatusPHP/queue/pull/15) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [Check for method not concrete implementation](https://github.com/BBQueue/php-bunny/pull/8) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (1 day ago)
 - [Add missing dependency (composer/composer)](https://github.com/WyriHaximus/php-get-in-packages-composer.json/pull/40) on [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Update QA toolset](https://github.com/BBQueue/php-bunny/pull/7) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (3 days ago)
 - [Raise PHP version to 8.3 in preparation for new QA tooling upgrades](https://github.com/BBQueue/php-bunny/pull/6) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (3 days ago)
 - [Revert &#34;Switch MarkDown link checking for more performant one&#34;](https://github.com/WyriHaximus/github-workflows/pull/77) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
-- [Add fully static deploy support](https://github.com/WyriHaximus/github-workflows/pull/76) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
 
 ---
 
