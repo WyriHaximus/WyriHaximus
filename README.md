@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Raise minimum PHP version to 8.3](https://github.com/MammatusPHP/queue/pull/15) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [Check for method not concrete implementation](https://github.com/BBQueue/php-bunny/pull/8) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (1 day ago)
 - [Add missing dependency (composer/composer)](https://github.com/WyriHaximus/php-get-in-packages-composer.json/pull/40) on [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (1 day ago)
 - [Use information build into composer](https://github.com/WyriHaximus/php-get-in-packages-composer.json/pull/39) on [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Raise PHP version to 8.3 in preparation for new QA tooling upgrades](https://github.com/BBQueue/php-bunny/pull/6) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (3 days ago)
 - [Revert &#34;Switch MarkDown link checking for more performant one&#34;](https://github.com/WyriHaximus/github-workflows/pull/77) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
 - [Add fully static deploy support](https://github.com/WyriHaximus/github-workflows/pull/76) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
-- [[New Version] Update versions file to PHP 8.4.10](https://github.com/WyriHaximus/php-fake-php-version/pull/145) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (5 days ago)
 
 ---
 
