@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Revert &#34;Filter our Alpine 3.22 for now&#34;](https://github.com/WyriHaximusNet/docker-php/pull/286) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Add working directory tests](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/174) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
 - [Drop Composer diff concurrency](https://github.com/WyriHaximus/github-workflows/pull/79) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [Toggle OTEL_FIBERS based on zts vs nts](https://github.com/WyriHaximus/github-workflows/pull/78) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Introduce static class based API](https://github.com/WyriHaximus/php-get-in-packages-composer.json/pull/38) on [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (3 days ago)
 - [Raise PHP to 8.3](https://github.com/WyriHaximus/php-get-in-packages-composer.json/pull/37) on [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (4 days ago)
 - [Drop Safe](https://github.com/WyriHaximus/php-get-in-packages-composer.json/pull/35) on [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (4 days ago)
-- [Disable assertions on non-dev](https://github.com/WyriHaximusNet/docker-php/pull/285) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
 
 ---
 
