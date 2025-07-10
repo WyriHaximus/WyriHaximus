@@ -11,17 +11,17 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
-- [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (3 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
+- [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (3 days ago)
 - [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (4 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (5 days ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 week ago)
-- [reactphp-inspector/filesystem](https://github.com/reactphp-inspector/filesystem) (1 week ago)
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 week ago)
 
 ---
@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) ([2.2.0](https://github.com/MammatusPHP/life-cycle-events/releases/tag/2.2.0), today) - 
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.13.1](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.13.1), today) - Forked from https://github.com/k8s-at-home/charts
 - [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.166.1](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.166.1), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) ([2.2.1](https://github.com/WyriHaximus/php-get-in-packages-composer.json/releases/tag/2.2.1), 4 days ago) - Get a specific configuration setting from all installed composer packages
@@ -73,12 +74,12 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) ([6.0.0](https://github.com/WyriHaximus/php-js-compress/releases/tag/6.0.0), 2 weeks ago) - 
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.4.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.4.3), 2 weeks ago) - Makefile building blocks
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.20.2](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.20.2), 2 weeks ago) - PHP Coding Standard
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([9.4.1](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/9.4.1), 3 weeks ago) - 
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Introduce Kernal as the first event to be emitted before everything else](https://github.com/MammatusPHP/life-cycle-events/pull/60) on [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (today)
 - [Run Manager only on catchall boot](https://github.com/MammatusPHP/cron/pull/89) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [Manager should only start on Start Life Cycle Event](https://github.com/MammatusPHP/queue/pull/17) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [Switch dry run](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/175) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Add traces](https://github.com/MammatusPHP/queue/pull/16) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
 - [Raise minimum PHP version to 8.3](https://github.com/MammatusPHP/queue/pull/15) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
 - [Check for method not concrete implementation](https://github.com/BBQueue/php-bunny/pull/8) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (4 days ago)
-- [Add missing dependency (composer/composer)](https://github.com/WyriHaximus/php-get-in-packages-composer.json/pull/40) on [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (4 days ago)
 
 ---
 
