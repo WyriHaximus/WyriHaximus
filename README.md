@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (today)
-- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (1 day ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
 - [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (4 days ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
 - [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (5 days ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (6 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (6 days ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 week ago)
 
 ---
 
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add Auto-Instrumentation for PSR&#39;s](https://github.com/MammatusPHP/open-telemetry/pull/6) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
 - [Introduce Kernal as the first event to be emitted before everything else](https://github.com/MammatusPHP/life-cycle-events/pull/60) on [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (1 day ago)
 - [Run Manager only on catchall boot](https://github.com/MammatusPHP/cron/pull/89) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 day ago)
 - [Manager should only start on Start Life Cycle Event](https://github.com/MammatusPHP/queue/pull/17) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Use local PHPUnit XSD instead of hitting the (inter)net(work)](https://github.com/WyriHaximus/php-test-utilities/pull/1047) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
 - [Add traces](https://github.com/MammatusPHP/queue/pull/16) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
 - [Raise minimum PHP version to 8.3](https://github.com/MammatusPHP/queue/pull/15) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
-- [Check for method not concrete implementation](https://github.com/BBQueue/php-bunny/pull/8) on [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (5 days ago)
 
 ---
 
