@@ -13,16 +13,16 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 day ago)
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (2 days ago)
 - [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (2 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (2 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (5 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 - [BBQueue/php-bunny](https://github.com/BBQueue/php-bunny) (5 days ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (5 days ago)
 - [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (6 days ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 
 ---
 
