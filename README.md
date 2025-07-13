@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add permissions required by Renovate](https://github.com/reactphp-inspector/bunny/pull/6) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (today)
 - [Drop php-coveralls/php-coveralls](https://github.com/WyriHaximus/Makefiles/pull/30) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Switch to running Renovate on GitHub Actions](https://github.com/reactphp-inspector/bunny/pull/5) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 day ago)
 - [PSR-3 v3](https://github.com/WyriHaximus/php-psr-3-context-logger/pull/48) on [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Manager should only start on Start Life Cycle Event](https://github.com/MammatusPHP/queue/pull/17) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
 - [Switch dry run](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/175) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (3 days ago)
 - [[3.0] Use PCOV to avoid segfault with Xdebug 3.4.2 on PHP 8.0&#43;](https://github.com/reactphp/dns/pull/235) on [reactphp/dns](https://github.com/reactphp/dns) (4 days ago)
-- [Revert &#34;Filter our Alpine 3.22 for now&#34;](https://github.com/WyriHaximusNet/docker-php/pull/286) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
 
 ---
 
