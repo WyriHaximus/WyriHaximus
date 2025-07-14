@@ -79,6 +79,8 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Emit Kernel event before anything else](https://github.com/MammatusPHP/app/pull/43) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
+- [Cancel forceFlush timers](https://github.com/MammatusPHP/open-telemetry/pull/7) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
 - [Give GHA Renovate even more permissions](https://github.com/reactphp-inspector/bunny/pull/8) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (today)
 - [Add permissions required by Renovate](https://github.com/reactphp-inspector/bunny/pull/6) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 day ago)
 - [Drop php-coveralls/php-coveralls](https://github.com/WyriHaximus/Makefiles/pull/30) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
@@ -90,8 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Add Auto-Instrumentation for PSR&#39;s](https://github.com/MammatusPHP/open-telemetry/pull/6) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (3 days ago)
 - [Introduce Kernal as the first event to be emitted before everything else](https://github.com/MammatusPHP/life-cycle-events/pull/60) on [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (4 days ago)
 - [Run Manager only on catchall boot](https://github.com/MammatusPHP/cron/pull/89) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (4 days ago)
-- [Manager should only start on Start Life Cycle Event](https://github.com/MammatusPHP/queue/pull/17) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
-- [Switch dry run](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/175) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (4 days ago)
 
 ---
 
