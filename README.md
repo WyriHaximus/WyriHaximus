@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Bunny will always return false on (n)ack](https://github.com/reactphp-inspector/bunny/pull/9) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (today)
 - [Emit Kernel event before anything else](https://github.com/MammatusPHP/app/pull/43) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 day ago)
 - [Cancel forceFlush timers](https://github.com/MammatusPHP/open-telemetry/pull/7) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
 - [Give GHA Renovate even more permissions](https://github.com/reactphp-inspector/bunny/pull/8) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Raise PHP version to 8.3&#43;](https://github.com/MammatusPHP/cron/pull/90) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (3 days ago)
 - [Add Auto-Instrumentation for PSR&#39;s](https://github.com/MammatusPHP/open-telemetry/pull/6) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (4 days ago)
 - [Introduce Kernal as the first event to be emitted before everything else](https://github.com/MammatusPHP/life-cycle-events/pull/60) on [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (5 days ago)
-- [Run Manager only on catchall boot](https://github.com/MammatusPHP/cron/pull/89) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (5 days ago)
 
 ---
 
