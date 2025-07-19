@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (3 days ago)
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (4 days ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (4 days ago)
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (5 days ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (5 days ago)
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) (5 days ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (5 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (6 days ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 week ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (1 week ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 week ago)
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (1 week ago)
 
 ---
 
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[0.6.x] Refactor configuration internals](https://github.com/jakubkulhan/bunny/pull/181) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [Bunny will always return false on (n)ack](https://github.com/reactphp-inspector/bunny/pull/9) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (4 days ago)
 - [Emit Kernel event before anything else](https://github.com/MammatusPHP/app/pull/43) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (5 days ago)
 - [Cancel forceFlush timers](https://github.com/MammatusPHP/open-telemetry/pull/7) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (5 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [PHP 8.3](https://github.com/WyriHaximus/php-psr-3-context-logger/pull/45) on [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (1 week ago)
 - [Raise PHP version to 8.3&#43;](https://github.com/MammatusPHP/cron/pull/90) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 week ago)
 - [Add Auto-Instrumentation for PSR&#39;s](https://github.com/MammatusPHP/open-telemetry/pull/6) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 week ago)
-- [Introduce Kernal as the first event to be emitted before everything else](https://github.com/MammatusPHP/life-cycle-events/pull/60) on [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (1 week ago)
 
 ---
 
