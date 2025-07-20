@@ -16,13 +16,13 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (4 days ago)
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (5 days ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (6 days ago)
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (6 days ago)
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) (6 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (6 days ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
+- [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (1 week ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 week ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (1 week ago)
 
 ---
 
