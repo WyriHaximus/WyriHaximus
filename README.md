@@ -97,6 +97,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [kassner/caddy-trapdoor](https://github.com/kassner/caddy-trapdoor) -  (today)
 - [dmakeroam/cronhpa-controller](https://github.com/dmakeroam/cronhpa-controller) - CronHorizontalPodAutoscaler Controller (3 days ago)
 - [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test! (1 week ago)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (1 week ago)
@@ -109,7 +110,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [ludeeus/integration_blueprint](https://github.com/ludeeus/integration_blueprint) - Blueprint for custom_component developers. (1 month ago)
 - [meshtastic/home-assistant](https://github.com/meshtastic/home-assistant) - Home Assistant Integration for Meshtastic (1 month ago)
 - [sanmai/pipeline](https://github.com/sanmai/pipeline) - Build streaming pipelines in PHP. The missing pipe operator. General-purpose collection pipeline. Since 2017. (1 month ago)
-- [sanmai/later](https://github.com/sanmai/later) - Later: a deferred object manager. Zero callbacks required. Futures for PHP. (1 month ago)
 
 ---
 
