@@ -10,14 +10,14 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
-- [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (4 days ago)
-- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (5 days ago)
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (6 days ago)
-- [MammatusPHP/app](https://github.com/MammatusPHP/app) (6 days ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (6 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
+- [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (5 days ago)
+- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (6 days ago)
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 week ago)
+- [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 week ago)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 week ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 week ago)
@@ -61,10 +61,10 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) ([1.0.0](https://github.com/WyriHaximus/reactphp-opportunistic-tls/releases/tag/1.0.0), today) - 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.17.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.17.0), 1 day ago) - 🌯 PHPStan rules wrapper
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.167.1](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.167.1), 1 day ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
-- [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.13.2](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.13.2), 3 days ago) - Forked from https://github.com/k8s-at-home/charts
+- [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) ([1.0.0](https://github.com/WyriHaximus/reactphp-opportunistic-tls/releases/tag/1.0.0), 1 day ago) - 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.17.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.17.0), 2 days ago) - 🌯 PHPStan rules wrapper
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.167.1](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.167.1), 2 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
+- [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.13.2](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.13.2), 4 days ago) - Forked from https://github.com/k8s-at-home/charts
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([9.4.2](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/9.4.2), 1 week ago) - 
 - [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) ([2.2.0](https://github.com/MammatusPHP/life-cycle-events/releases/tag/2.2.0), 1 week ago) - 
 - [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) ([2.2.1](https://github.com/WyriHaximus/php-get-in-packages-composer.json/releases/tag/2.2.1), 2 weeks ago) - Get a specific configuration setting from all installed composer packages
@@ -79,12 +79,12 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [[0.6.x] Change SSL to TLS](https://github.com/jakubkulhan/bunny/pull/182) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
-- [[0.6.x] Refactor configuration internals](https://github.com/jakubkulhan/bunny/pull/181) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
-- [Bunny will always return false on (n)ack](https://github.com/reactphp-inspector/bunny/pull/9) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (5 days ago)
-- [Emit Kernel event before anything else](https://github.com/MammatusPHP/app/pull/43) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (6 days ago)
-- [Cancel forceFlush timers](https://github.com/MammatusPHP/open-telemetry/pull/7) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (6 days ago)
-- [Give GHA Renovate even more permissions](https://github.com/reactphp-inspector/bunny/pull/8) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (6 days ago)
+- [[0.6.x] Change SSL to TLS](https://github.com/jakubkulhan/bunny/pull/182) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
+- [[0.6.x] Refactor configuration internals](https://github.com/jakubkulhan/bunny/pull/181) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
+- [Bunny will always return false on (n)ack](https://github.com/reactphp-inspector/bunny/pull/9) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (6 days ago)
+- [Emit Kernel event before anything else](https://github.com/MammatusPHP/app/pull/43) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 week ago)
+- [Cancel forceFlush timers](https://github.com/MammatusPHP/open-telemetry/pull/7) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 week ago)
+- [Give GHA Renovate even more permissions](https://github.com/reactphp-inspector/bunny/pull/8) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 week ago)
 - [Add permissions required by Renovate](https://github.com/reactphp-inspector/bunny/pull/6) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 week ago)
 - [Drop php-coveralls/php-coveralls](https://github.com/WyriHaximus/Makefiles/pull/30) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Switch to running Renovate on GitHub Actions](https://github.com/reactphp-inspector/bunny/pull/5) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 week ago)
@@ -97,14 +97,14 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### ⭐ Recent Stars
 
-- [kassner/caddy-trapdoor](https://github.com/kassner/caddy-trapdoor) -  (today)
-- [dmakeroam/cronhpa-controller](https://github.com/dmakeroam/cronhpa-controller) - CronHorizontalPodAutoscaler Controller (3 days ago)
+- [kassner/caddy-trapdoor](https://github.com/kassner/caddy-trapdoor) -  (1 day ago)
+- [dmakeroam/cronhpa-controller](https://github.com/dmakeroam/cronhpa-controller) - CronHorizontalPodAutoscaler Controller (4 days ago)
 - [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test! (1 week ago)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (1 week ago)
 - [tcort/github-action-markdown-link-check](https://github.com/tcort/github-action-markdown-link-check) - Check all links in markdown files if they are alive or dead. 🔗✔️ (3 weeks ago)
-- [kubebeam/trivy-headlamp-plugin](https://github.com/kubebeam/trivy-headlamp-plugin) -  (4 weeks ago)
-- [owenrumney/lazytrivy](https://github.com/owenrumney/lazytrivy) - Vulnerability scanning just got lazier (4 weeks ago)
-- [aquasecurity/trivy-operator-lens-extension](https://github.com/aquasecurity/trivy-operator-lens-extension) - https://github.com/aquasecurity/trivy-operator (4 weeks ago)
+- [kubebeam/trivy-headlamp-plugin](https://github.com/kubebeam/trivy-headlamp-plugin) -  (1 month ago)
+- [owenrumney/lazytrivy](https://github.com/owenrumney/lazytrivy) - Vulnerability scanning just got lazier (1 month ago)
+- [aquasecurity/trivy-operator-lens-extension](https://github.com/aquasecurity/trivy-operator-lens-extension) - https://github.com/aquasecurity/trivy-operator (1 month ago)
 - [opentelemetry-php/contrib-detector-digitalocean](https://github.com/opentelemetry-php/contrib-detector-digitalocean) - [READONLY] DigitalOcean detector (1 month ago)
 - [ramsey/identifier](https://github.com/ramsey/identifier) - A PHP library for generating and working with identifiers, including UUIDs, ULIDs, and Snowflakes (1 month ago)
 - [ludeeus/integration_blueprint](https://github.com/ludeeus/integration_blueprint) - Blueprint for custom_component developers. (1 month ago)
