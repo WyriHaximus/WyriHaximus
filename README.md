@@ -97,6 +97,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [ikalnytskyi/action-setup-postgres](https://github.com/ikalnytskyi/action-setup-postgres) - Setup a PostgreSQL for Linux, macOS and Windows runner machines. (today)
 - [kassner/caddy-trapdoor](https://github.com/kassner/caddy-trapdoor) -  (1 day ago)
 - [dmakeroam/cronhpa-controller](https://github.com/dmakeroam/cronhpa-controller) - CronHorizontalPodAutoscaler Controller (4 days ago)
 - [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test! (1 week ago)
@@ -109,7 +110,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [ramsey/identifier](https://github.com/ramsey/identifier) - A PHP library for generating and working with identifiers, including UUIDs, ULIDs, and Snowflakes (1 month ago)
 - [ludeeus/integration_blueprint](https://github.com/ludeeus/integration_blueprint) - Blueprint for custom_component developers. (1 month ago)
 - [meshtastic/home-assistant](https://github.com/meshtastic/home-assistant) - Home Assistant Integration for Meshtastic (1 month ago)
-- [sanmai/pipeline](https://github.com/sanmai/pipeline) - Build streaming pipelines in PHP. The missing pipe operator. General-purpose collection pipeline. Since 2017. (1 month ago)
 
 ---
 
