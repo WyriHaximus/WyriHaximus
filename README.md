@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
 - [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (6 days ago)
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 week ago)
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 week ago)
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 week ago)
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 week ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 week ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 week ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 week ago)
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (1 week ago)
 
 ---
 
