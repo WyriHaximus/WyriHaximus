@@ -79,7 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [[WIP] [3.x] Fix Ubuntu 24.04 issues](https://github.com/reactphp/dns/pull/237) on [reactphp/dns](https://github.com/reactphp/dns) (today)
+- [[3.x] Increase query count in excessive TCP query tests](https://github.com/reactphp/dns/pull/237) on [reactphp/dns](https://github.com/reactphp/dns) (today)
 - [[3.0] Downgrade Ubuntu runners to 22.04](https://github.com/reactphp/dns/pull/236) on [reactphp/dns](https://github.com/reactphp/dns) (today)
 - [[0.6.x] Change SSL to TLS](https://github.com/jakubkulhan/bunny/pull/182) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
 - [[0.6.x] Refactor configuration internals](https://github.com/jakubkulhan/bunny/pull/181) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
