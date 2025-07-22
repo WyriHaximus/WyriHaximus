@@ -61,9 +61,9 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.167.2](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.167.2), today) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) ([1.0.0](https://github.com/WyriHaximus/reactphp-opportunistic-tls/releases/tag/1.0.0), 2 days ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.17.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.17.0), 3 days ago) - 🌯 PHPStan rules wrapper
-- [groundhog2k/helm-charts](https://github.com/groundhog2k/helm-charts) ([ghost-0.167.1](https://github.com/groundhog2k/helm-charts/releases/tag/ghost-0.167.1), 3 days ago) - Helm charts for open source applications - ready to use for deployment on Kubernetes
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.13.2](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.13.2), 5 days ago) - Forked from https://github.com/k8s-at-home/charts
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([9.4.2](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/9.4.2), 1 week ago) - 
 - [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) ([2.2.0](https://github.com/MammatusPHP/life-cycle-events/releases/tag/2.2.0), 1 week ago) - 
