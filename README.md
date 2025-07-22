@@ -79,6 +79,8 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[WIP] [3.x] Fix Ubuntu 24.04 issues](https://github.com/reactphp/dns/pull/237) on [reactphp/dns](https://github.com/reactphp/dns) (today)
+- [[3.0] Downgrade Ubuntu runners to 22.04](https://github.com/reactphp/dns/pull/236) on [reactphp/dns](https://github.com/reactphp/dns) (today)
 - [[0.6.x] Change SSL to TLS](https://github.com/jakubkulhan/bunny/pull/182) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
 - [[0.6.x] Refactor configuration internals](https://github.com/jakubkulhan/bunny/pull/181) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
 - [Bunny will always return false on (n)ack](https://github.com/reactphp-inspector/bunny/pull/9) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 week ago)
@@ -90,8 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Switch to running Renovate on GitHub Actions](https://github.com/reactphp-inspector/bunny/pull/5) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 week ago)
 - [PSR-3 v3](https://github.com/WyriHaximus/php-psr-3-context-logger/pull/48) on [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (1 week ago)
 - [Drop php-coveralls/php-coveralls](https://github.com/WyriHaximus/php-test-utilities/pull/1049) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
-- [PHP 8.3](https://github.com/WyriHaximus/php-psr-3-context-logger/pull/45) on [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (1 week ago)
-- [Raise PHP version to 8.3&#43;](https://github.com/MammatusPHP/cron/pull/90) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 week ago)
 
 ---
 
