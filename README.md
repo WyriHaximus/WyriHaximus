@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (1 day ago)
 - [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) (2 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (5 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
 - [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (1 week ago)
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 week ago)
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 week ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 week ago)
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 week ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 week ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 week ago)
 
 ---
@@ -79,6 +79,8 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[0.6.x] Make Connection::onHeartbeat private](https://github.com/jakubkulhan/bunny/pull/184) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
+- [[0.6.x] Local development TLS fixes](https://github.com/jakubkulhan/bunny/pull/183) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [Set package up](https://github.com/reactphp-inspector/cache/pull/2) on [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) (2 days ago)
 - [[3.x] Increase query count in excessive TCP query tests](https://github.com/reactphp/dns/pull/237) on [reactphp/dns](https://github.com/reactphp/dns) (3 days ago)
 - [[3.0] Downgrade Ubuntu runners to 22.04](https://github.com/reactphp/dns/pull/236) on [reactphp/dns](https://github.com/reactphp/dns) (3 days ago)
@@ -90,8 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Give GHA Renovate even more permissions](https://github.com/reactphp-inspector/bunny/pull/8) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 week ago)
 - [Add permissions required by Renovate](https://github.com/reactphp-inspector/bunny/pull/6) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 week ago)
 - [Drop php-coveralls/php-coveralls](https://github.com/WyriHaximus/Makefiles/pull/30) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [Switch to running Renovate on GitHub Actions](https://github.com/reactphp-inspector/bunny/pull/5) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 week ago)
-- [PSR-3 v3](https://github.com/WyriHaximus/php-psr-3-context-logger/pull/48) on [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (1 week ago)
 
 ---
 
