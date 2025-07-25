@@ -20,8 +20,8 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 week ago)
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 week ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 week ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 week ago)
 
 ---
