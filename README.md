@@ -97,6 +97,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [php-amqp/php-amqp](https://github.com/php-amqp/php-amqp) - PHP extension to communicate with any AMQP compliant server (today)
 - [ikalnytskyi/action-setup-postgres](https://github.com/ikalnytskyi/action-setup-postgres) - Setup a PostgreSQL for Linux, macOS and Windows runner machines. (5 days ago)
 - [kassner/caddy-trapdoor](https://github.com/kassner/caddy-trapdoor) -  (6 days ago)
 - [dmakeroam/cronhpa-controller](https://github.com/dmakeroam/cronhpa-controller) - CronHorizontalPodAutoscaler Controller (1 week ago)
@@ -109,7 +110,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [opentelemetry-php/contrib-detector-digitalocean](https://github.com/opentelemetry-php/contrib-detector-digitalocean) - [READONLY] DigitalOcean detector (1 month ago)
 - [ramsey/identifier](https://github.com/ramsey/identifier) - A PHP library for generating and working with identifiers, including UUIDs, ULIDs, and Snowflakes (1 month ago)
 - [ludeeus/integration_blueprint](https://github.com/ludeeus/integration_blueprint) - Blueprint for custom_component developers. (1 month ago)
-- [meshtastic/home-assistant](https://github.com/meshtastic/home-assistant) - Home Assistant Integration for Meshtastic (1 month ago)
 
 ---
 
