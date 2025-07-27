@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add PIE by @asgrim to the image](https://github.com/WyriHaximusNet/docker-php/pull/287) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Port tests](https://github.com/reactphp-inspector/bunny/pull/10) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 day ago)
 - [[0.6.x] Update benchmark numbers](https://github.com/jakubkulhan/bunny/pull/186) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
 - [[0.6.x] Improve benchmark outputs](https://github.com/jakubkulhan/bunny/pull/185) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [[0.6.x] Refactor configuration internals](https://github.com/jakubkulhan/bunny/pull/181) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
 - [Bunny will always return false on (n)ack](https://github.com/reactphp-inspector/bunny/pull/9) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 week ago)
 - [Emit Kernel event before anything else](https://github.com/MammatusPHP/app/pull/43) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 week ago)
-- [Cancel forceFlush timers](https://github.com/MammatusPHP/open-telemetry/pull/7) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 week ago)
 
 ---
 
