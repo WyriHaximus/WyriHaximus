@@ -79,6 +79,8 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [8.5.0alpha2 test run](https://github.com/WyriHaximusNet/docker-php/pull/288) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
+- [Add first 8.5: 8.5.0alpha2](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/61) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
 - [[New Version] Update versions file to PHP 8.4.11](https://github.com/WyriHaximus/php-fake-php-version/pull/146) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [Drop react-amqp from readme](https://github.com/jakubkulhan/bunny/pull/190) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
 - [[0.6.x] CI Optimizations](https://github.com/jakubkulhan/bunny/pull/189) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
@@ -90,8 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [[0.6.x] Improve benchmark outputs](https://github.com/jakubkulhan/bunny/pull/185) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (4 days ago)
 - [[0.6.x] Make Connection::onHeartbeat private](https://github.com/jakubkulhan/bunny/pull/184) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (4 days ago)
 - [[0.6.x] Local development TLS fixes](https://github.com/jakubkulhan/bunny/pull/183) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (4 days ago)
-- [Set package up](https://github.com/reactphp-inspector/cache/pull/2) on [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) (6 days ago)
-- [[3.x] Increase query count in excessive TCP query tests](https://github.com/reactphp/dns/pull/237) on [reactphp/dns](https://github.com/reactphp/dns) (1 week ago)
 
 ---
 
