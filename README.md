@@ -10,6 +10,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
@@ -19,10 +20,9 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (1 week ago)
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (2 weeks ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (2 weeks ago)
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) (2 weeks ago)
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (2 weeks ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 weeks ago)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (2 weeks ago)
 
 ---
 
@@ -61,6 +61,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.18](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.18), today) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) ([1.0.0](https://github.com/WyriHaximus/reactphp-opportunistic-tls/releases/tag/1.0.0), 1 week ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.17.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.17.0), 1 week ago) - 🌯 PHPStan rules wrapper
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.13.2](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.13.2), 1 week ago) - Forked from https://github.com/k8s-at-home/charts
@@ -68,7 +69,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) ([2.2.0](https://github.com/MammatusPHP/life-cycle-events/releases/tag/2.2.0), 2 weeks ago) - 
 - [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) ([2.2.1](https://github.com/WyriHaximus/php-get-in-packages-composer.json/releases/tag/2.2.1), 3 weeks ago) - Get a specific configuration setting from all installed composer packages
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([7.5.2](https://github.com/WyriHaximus/php-test-utilities/releases/tag/7.5.2), 3 weeks ago) - 
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.17](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.17), 3 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.12.1](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.12.1), 1 month ago) - Kubernetes controller for GitHub Actions self-hosted runners
 - [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) ([2.2.0](https://github.com/WyriHaximus/php-css-compress/releases/tag/2.2.0), 1 month ago) - 
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) ([4.4.0](https://github.com/WyriHaximus/HtmlCompress/releases/tag/4.4.0), 1 month ago) - 
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[New Version] Update versions file to PHP 8.4.11](https://github.com/WyriHaximus/php-fake-php-version/pull/146) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [Drop react-amqp from readme](https://github.com/jakubkulhan/bunny/pull/190) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
 - [[0.6.x] CI Optimizations](https://github.com/jakubkulhan/bunny/pull/189) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
 - [[0.6.x] Run CI on pushes to 0.6.x branch](https://github.com/jakubkulhan/bunny/pull/188) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [[0.6.x] Local development TLS fixes](https://github.com/jakubkulhan/bunny/pull/183) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (4 days ago)
 - [Set package up](https://github.com/reactphp-inspector/cache/pull/2) on [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) (6 days ago)
 - [[3.x] Increase query count in excessive TCP query tests](https://github.com/reactphp/dns/pull/237) on [reactphp/dns](https://github.com/reactphp/dns) (1 week ago)
-- [[3.0] Downgrade Ubuntu runners to 22.04](https://github.com/reactphp/dns/pull/236) on [reactphp/dns](https://github.com/reactphp/dns) (1 week ago)
 
 ---
 
