@@ -10,16 +10,16 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (3 days ago)
-- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (5 days ago)
-- [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) (6 days ago)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (4 days ago)
+- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (6 days ago)
+- [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) (1 week ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
-- [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (1 week ago)
+- [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (2 weeks ago)
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (2 weeks ago)
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (2 weeks ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (2 weeks ago)
@@ -61,8 +61,8 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.32](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.32), today) - 
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.18](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.18), today) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.32](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.32), 1 day ago) - 
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.18](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.18), 1 day ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) ([1.0.0](https://github.com/WyriHaximus/reactphp-opportunistic-tls/releases/tag/1.0.0), 1 week ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.17.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.17.0), 1 week ago) - 🌯 PHPStan rules wrapper
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.13.2](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.13.2), 1 week ago) - Forked from https://github.com/k8s-at-home/charts
@@ -79,30 +79,30 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [8.5.0alpha2 test run](https://github.com/WyriHaximusNet/docker-php/pull/288) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
-- [Add first 8.5: 8.5.0alpha2](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/61) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
-- [[New Version] Update versions file to PHP 8.4.11](https://github.com/WyriHaximus/php-fake-php-version/pull/146) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
-- [Drop react-amqp from readme](https://github.com/jakubkulhan/bunny/pull/190) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
-- [[0.6.x] CI Optimizations](https://github.com/jakubkulhan/bunny/pull/189) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
-- [[0.6.x] Run CI on pushes to 0.6.x branch](https://github.com/jakubkulhan/bunny/pull/188) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
-- [[0.6.x] Tidy up readme](https://github.com/jakubkulhan/bunny/pull/187) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
-- [Add PIE by @asgrim to the image](https://github.com/WyriHaximusNet/docker-php/pull/287) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
-- [Port tests](https://github.com/reactphp-inspector/bunny/pull/10) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (3 days ago)
-- [[0.6.x] Update benchmark numbers](https://github.com/jakubkulhan/bunny/pull/186) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (4 days ago)
-- [[0.6.x] Improve benchmark outputs](https://github.com/jakubkulhan/bunny/pull/185) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (4 days ago)
-- [[0.6.x] Make Connection::onHeartbeat private](https://github.com/jakubkulhan/bunny/pull/184) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (4 days ago)
-- [[0.6.x] Local development TLS fixes](https://github.com/jakubkulhan/bunny/pull/183) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (4 days ago)
+- [8.5.0alpha2 test run](https://github.com/WyriHaximusNet/docker-php/pull/288) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
+- [Add first 8.5: 8.5.0alpha2](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/61) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
+- [[New Version] Update versions file to PHP 8.4.11](https://github.com/WyriHaximus/php-fake-php-version/pull/146) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
+- [Drop react-amqp from readme](https://github.com/jakubkulhan/bunny/pull/190) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
+- [[0.6.x] CI Optimizations](https://github.com/jakubkulhan/bunny/pull/189) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
+- [[0.6.x] Run CI on pushes to 0.6.x branch](https://github.com/jakubkulhan/bunny/pull/188) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
+- [[0.6.x] Tidy up readme](https://github.com/jakubkulhan/bunny/pull/187) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
+- [Add PIE by @asgrim to the image](https://github.com/WyriHaximusNet/docker-php/pull/287) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
+- [Port tests](https://github.com/reactphp-inspector/bunny/pull/10) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (4 days ago)
+- [[0.6.x] Update benchmark numbers](https://github.com/jakubkulhan/bunny/pull/186) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
+- [[0.6.x] Improve benchmark outputs](https://github.com/jakubkulhan/bunny/pull/185) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
+- [[0.6.x] Make Connection::onHeartbeat private](https://github.com/jakubkulhan/bunny/pull/184) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
+- [[0.6.x] Local development TLS fixes](https://github.com/jakubkulhan/bunny/pull/183) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [php-amqp/php-amqp](https://github.com/php-amqp/php-amqp) - PHP extension to communicate with any AMQP compliant server (3 days ago)
+- [php-amqp/php-amqp](https://github.com/php-amqp/php-amqp) - PHP extension to communicate with any AMQP compliant server (4 days ago)
 - [ikalnytskyi/action-setup-postgres](https://github.com/ikalnytskyi/action-setup-postgres) - Setup a PostgreSQL for Linux, macOS and Windows runner machines. (1 week ago)
 - [kassner/caddy-trapdoor](https://github.com/kassner/caddy-trapdoor) -  (1 week ago)
 - [dmakeroam/cronhpa-controller](https://github.com/dmakeroam/cronhpa-controller) - CronHorizontalPodAutoscaler Controller (1 week ago)
 - [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test! (2 weeks ago)
-- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (2 weeks ago)
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (3 weeks ago)
 - [tcort/github-action-markdown-link-check](https://github.com/tcort/github-action-markdown-link-check) - Check all links in markdown files if they are alive or dead. 🔗✔️ (1 month ago)
 - [kubebeam/trivy-headlamp-plugin](https://github.com/kubebeam/trivy-headlamp-plugin) -  (1 month ago)
 - [owenrumney/lazytrivy](https://github.com/owenrumney/lazytrivy) - Vulnerability scanning just got lazier (1 month ago)
@@ -115,8 +115,8 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [challgren](https://github.com/challgren) (3 months ago)
-- [edorian](https://github.com/edorian) (1 year ago)
+- [challgren](https://github.com/challgren) (4 months ago)
+- [edorian](https://github.com/edorian) (2 years ago)
 - [codecov](https://github.com/codecov) (2 years ago)
 - [mangkepwing143](https://github.com/mangkepwing143) (2 years ago)
 - [jeromegamez](https://github.com/jeromegamez) (2 years ago)
@@ -132,11 +132,11 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 👯 Check out some of my recent followers
 
+- [Arison99](https://github.com/Arison99)
 - [anasmohammad611](https://github.com/anasmohammad611)
 - [seckinyasar](https://github.com/seckinyasar)
 - [Ben477-JOB](https://github.com/Ben477-JOB)
 - [tyrsson](https://github.com/tyrsson)
-- [abrahamfast](https://github.com/abrahamfast)
 
 ---
 
