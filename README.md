@@ -10,6 +10,8 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
@@ -18,10 +20,8 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (6 days ago)
 - [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) (1 week ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (2 weeks ago)
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (2 weeks ago)
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (2 weeks ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (2 weeks ago)
 
 ---
@@ -79,6 +79,8 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Drop ecoapm/libyear](https://github.com/WyriHaximus/Makefiles/pull/31) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Drop ecoapm/libyear](https://github.com/WyriHaximus/php-test-utilities/pull/1054) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [8.5.0alpha2 test run](https://github.com/WyriHaximusNet/docker-php/pull/288) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [Add first 8.5: 8.5.0alpha2](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/61) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
 - [[New Version] Update versions file to PHP 8.4.11](https://github.com/WyriHaximus/php-fake-php-version/pull/146) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
@@ -90,8 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Port tests](https://github.com/reactphp-inspector/bunny/pull/10) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (4 days ago)
 - [[0.6.x] Update benchmark numbers](https://github.com/jakubkulhan/bunny/pull/186) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
 - [[0.6.x] Improve benchmark outputs](https://github.com/jakubkulhan/bunny/pull/185) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
-- [[0.6.x] Make Connection::onHeartbeat private](https://github.com/jakubkulhan/bunny/pull/184) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
-- [[0.6.x] Local development TLS fixes](https://github.com/jakubkulhan/bunny/pull/183) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
 
 ---
 
