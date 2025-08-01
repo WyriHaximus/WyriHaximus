@@ -10,14 +10,14 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/test-utilities](https://github.com/MammatusPHP/test-utilities) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 days ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (5 days ago)
+- [MammatusPHP/test-utilities](https://github.com/MammatusPHP/test-utilities) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (3 days ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (4 days ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (6 days ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (1 week ago)
 - [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) (1 week ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
@@ -28,7 +28,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 ### 📜 My latest articles on [WyriHaximus.net](https://blog.wyrihaximus.net/)
 
-- [ReactPHP Parallel v2(.1)](https://blog.wyrihaximus.net/2025/06/reactphp-parallel-v2-/) (1 month ago)
+- [ReactPHP Parallel v2(.1)](https://blog.wyrihaximus.net/2025/06/reactphp-parallel-v2-/) (2 months ago)
 - [Announcing TestInfra Action](https://blog.wyrihaximus.net/2025/03/announcing-testinfra-action/) (4 months ago)
 - [Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Enclosure](https://blog.wyrihaximus.net/2024/12/building-a-kubernetes-homelab-with-raspberry-pies-and-lego-nodes-enclosure/) (7 months ago)
 - [Building Secure Images with GitHub Actions](https://blog.wyrihaximus.net/2024/10/building-secure-images-with-github-actions/) (10 months ago)
@@ -61,9 +61,9 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.4](https://github.com/composer-unused/composer-unused/releases/tag/0.9.4), 1 day ago) - Show unused composer dependencies by scanning your code
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.32](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.32), 2 days ago) - 
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.18](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.18), 2 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
+- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.4](https://github.com/composer-unused/composer-unused/releases/tag/0.9.4), 2 days ago) - Show unused composer dependencies by scanning your code
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.32](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.32), 3 days ago) - 
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.18](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.18), 3 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) ([1.0.0](https://github.com/WyriHaximus/reactphp-opportunistic-tls/releases/tag/1.0.0), 1 week ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.17.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.17.0), 1 week ago) - 🌯 PHPStan rules wrapper
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.13.2](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.13.2), 2 weeks ago) - Forked from https://github.com/k8s-at-home/charts
@@ -79,25 +79,25 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Drop ecoapm/libyear](https://github.com/WyriHaximus/Makefiles/pull/31) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Drop ecoapm/libyear](https://github.com/WyriHaximus/php-test-utilities/pull/1054) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [8.5.0alpha2 test run](https://github.com/WyriHaximusNet/docker-php/pull/288) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
-- [Add first 8.5: 8.5.0alpha2](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/61) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 days ago)
-- [[New Version] Update versions file to PHP 8.4.11](https://github.com/WyriHaximus/php-fake-php-version/pull/146) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
-- [Drop react-amqp from readme](https://github.com/jakubkulhan/bunny/pull/190) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
-- [[0.6.x] CI Optimizations](https://github.com/jakubkulhan/bunny/pull/189) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (4 days ago)
-- [[0.6.x] Run CI on pushes to 0.6.x branch](https://github.com/jakubkulhan/bunny/pull/188) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (4 days ago)
-- [[0.6.x] Tidy up readme](https://github.com/jakubkulhan/bunny/pull/187) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (4 days ago)
-- [Add PIE by @asgrim to the image](https://github.com/WyriHaximusNet/docker-php/pull/287) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
-- [Port tests](https://github.com/reactphp-inspector/bunny/pull/10) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (5 days ago)
-- [[0.6.x] Update benchmark numbers](https://github.com/jakubkulhan/bunny/pull/186) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (6 days ago)
-- [[0.6.x] Improve benchmark outputs](https://github.com/jakubkulhan/bunny/pull/185) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (6 days ago)
+- [Drop ecoapm/libyear](https://github.com/WyriHaximus/Makefiles/pull/31) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [Drop ecoapm/libyear](https://github.com/WyriHaximus/php-test-utilities/pull/1054) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
+- [8.5.0alpha2 test run](https://github.com/WyriHaximusNet/docker-php/pull/288) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
+- [Add first 8.5: 8.5.0alpha2](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/61) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (3 days ago)
+- [[New Version] Update versions file to PHP 8.4.11](https://github.com/WyriHaximus/php-fake-php-version/pull/146) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
+- [Drop react-amqp from readme](https://github.com/jakubkulhan/bunny/pull/190) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (4 days ago)
+- [[0.6.x] CI Optimizations](https://github.com/jakubkulhan/bunny/pull/189) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
+- [[0.6.x] Run CI on pushes to 0.6.x branch](https://github.com/jakubkulhan/bunny/pull/188) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
+- [[0.6.x] Tidy up readme](https://github.com/jakubkulhan/bunny/pull/187) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
+- [Add PIE by @asgrim to the image](https://github.com/WyriHaximusNet/docker-php/pull/287) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
+- [Port tests](https://github.com/reactphp-inspector/bunny/pull/10) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (6 days ago)
+- [[0.6.x] Update benchmark numbers](https://github.com/jakubkulhan/bunny/pull/186) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
+- [[0.6.x] Improve benchmark outputs](https://github.com/jakubkulhan/bunny/pull/185) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [php-amqp/php-amqp](https://github.com/php-amqp/php-amqp) - PHP extension to communicate with any AMQP compliant server (5 days ago)
+- [php-amqp/php-amqp](https://github.com/php-amqp/php-amqp) - PHP extension to communicate with any AMQP compliant server (6 days ago)
 - [ikalnytskyi/action-setup-postgres](https://github.com/ikalnytskyi/action-setup-postgres) - Setup a PostgreSQL for Linux, macOS and Windows runner machines. (1 week ago)
 - [kassner/caddy-trapdoor](https://github.com/kassner/caddy-trapdoor) -  (1 week ago)
 - [dmakeroam/cronhpa-controller](https://github.com/dmakeroam/cronhpa-controller) - CronHorizontalPodAutoscaler Controller (2 weeks ago)
