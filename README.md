@@ -10,11 +10,12 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/test-utilities](https://github.com/MammatusPHP/test-utilities) (3 days ago)
+- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
+- [MammatusPHP/test-utilities](https://github.com/MammatusPHP/test-utilities) (3 days ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (5 days ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (5 days ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (5 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (6 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
@@ -22,7 +23,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) (1 week ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 weeks ago)
 - [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (2 weeks ago)
-- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (2 weeks ago)
 
 ---
 
@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Pass secrets to package utils](https://github.com/reactphp-inspector/bunny/pull/11) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (today)
 - [Drop ecoapm/libyear](https://github.com/WyriHaximus/Makefiles/pull/31) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 - [Drop ecoapm/libyear](https://github.com/WyriHaximus/php-test-utilities/pull/1054) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
 - [8.5.0alpha2 test run](https://github.com/WyriHaximusNet/docker-php/pull/288) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Add PIE by @asgrim to the image](https://github.com/WyriHaximusNet/docker-php/pull/287) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [Port tests](https://github.com/reactphp-inspector/bunny/pull/10) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 week ago)
 - [[0.6.x] Update benchmark numbers](https://github.com/jakubkulhan/bunny/pull/186) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
-- [[0.6.x] Improve benchmark outputs](https://github.com/jakubkulhan/bunny/pull/185) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
 
 ---
 
