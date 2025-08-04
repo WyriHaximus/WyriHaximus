@@ -132,7 +132,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 👯 Check out some of my recent followers
 
-- [ikramagix](https://github.com/ikramagix)
+- [NamesMT](https://github.com/NamesMT)
 - [seckinyasar](https://github.com/seckinyasar)
 - [Ben477-JOB](https://github.com/Ben477-JOB)
 - [tyrsson](https://github.com/tyrsson)
