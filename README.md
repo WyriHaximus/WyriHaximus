@@ -12,8 +12,8 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (today)
 - [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
 - [MammatusPHP/test-utilities](https://github.com/MammatusPHP/test-utilities) (4 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (6 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (6 days ago)
