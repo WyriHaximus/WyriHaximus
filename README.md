@@ -14,11 +14,11 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 day ago)
 - [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (4 days ago)
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (4 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [MammatusPHP/test-utilities](https://github.com/MammatusPHP/test-utilities) (1 week ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
@@ -43,6 +43,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🌱 My latest projects
 
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) - renovate-runner
 - [WyriHaximus/hass-entity-to-prometheus-push-gateway](https://github.com/WyriHaximus/hass-entity-to-prometheus-push-gateway) - 
 - [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) - GitHub Action running your TestInfra tests
 - [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) - 
@@ -55,7 +56,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [WyriHaximus/php-metrics-prometheus-push-gateway](https://github.com/WyriHaximus/php-metrics-prometheus-push-gateway) - Prom Push Gateway package for wyrihaximus/metrics
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) - ReactPHP extension for PHPStan
 - [WyriHaximus/reactphp-throw-unhandled-rejected-promises](https://github.com/WyriHaximus/reactphp-throw-unhandled-rejected-promises) - 
-- [WyriHaximus/promise-any-test](https://github.com/WyriHaximus/promise-any-test) - 
 
 ---
 
