@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (today)
-- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (today)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 day ago)
-- [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (4 days ago)
-- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (4 days ago)
-- [MammatusPHP/test-utilities](https://github.com/MammatusPHP/test-utilities) (1 week ago)
+- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 day ago)
+- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (1 day ago)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (2 days ago)
+- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (5 days ago)
+- [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (5 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
+- [MammatusPHP/test-utilities](https://github.com/MammatusPHP/test-utilities) (1 week ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
-- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (1 week ago)
+- [php-api-clients/github-root](https://github.com/php-api-clients/github-root) (2 weeks ago)
 
 ---
 
@@ -66,10 +66,10 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.32](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.32), 1 week ago) - 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.18](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.18), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) ([1.0.0](https://github.com/WyriHaximus/reactphp-opportunistic-tls/releases/tag/1.0.0), 2 weeks ago) - 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.17.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.17.0), 2 weeks ago) - 🌯 PHPStan rules wrapper
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.17.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.17.0), 3 weeks ago) - 🌯 PHPStan rules wrapper
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.13.2](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.13.2), 3 weeks ago) - Forked from https://github.com/k8s-at-home/charts
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([9.4.2](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/9.4.2), 3 weeks ago) - 
-- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) ([2.2.0](https://github.com/MammatusPHP/life-cycle-events/releases/tag/2.2.0), 4 weeks ago) - 
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) ([2.2.0](https://github.com/MammatusPHP/life-cycle-events/releases/tag/2.2.0), 1 month ago) - 
 - [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) ([2.2.1](https://github.com/WyriHaximus/php-get-in-packages-composer.json/releases/tag/2.2.1), 1 month ago) - Get a specific configuration setting from all installed composer packages
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([7.5.2](https://github.com/WyriHaximus/php-test-utilities/releases/tag/7.5.2), 1 month ago) - 
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.12.1](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.12.1), 1 month ago) - Kubernetes controller for GitHub Actions self-hosted runners
@@ -79,8 +79,8 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Bump makefiles down as Renovate test](https://github.com/reactphp-inspector/bunny/pull/13) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (4 days ago)
-- [Pass secrets to package utils](https://github.com/reactphp-inspector/bunny/pull/11) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (5 days ago)
+- [Bump makefiles down as Renovate test](https://github.com/reactphp-inspector/bunny/pull/13) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (5 days ago)
+- [Pass secrets to package utils](https://github.com/reactphp-inspector/bunny/pull/11) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (6 days ago)
 - [Drop ecoapm/libyear](https://github.com/WyriHaximus/Makefiles/pull/31) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Drop ecoapm/libyear](https://github.com/WyriHaximus/php-test-utilities/pull/1054) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [8.5.0alpha2 test run](https://github.com/WyriHaximusNet/docker-php/pull/288) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
@@ -91,18 +91,18 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [[0.6.x] Run CI on pushes to 0.6.x branch](https://github.com/jakubkulhan/bunny/pull/188) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
 - [[0.6.x] Tidy up readme](https://github.com/jakubkulhan/bunny/pull/187) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
 - [Add PIE by @asgrim to the image](https://github.com/WyriHaximusNet/docker-php/pull/287) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
-- [Port tests](https://github.com/reactphp-inspector/bunny/pull/10) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 week ago)
+- [Port tests](https://github.com/reactphp-inspector/bunny/pull/10) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (2 weeks ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [MindFreeze/ha-sankey-chart](https://github.com/MindFreeze/ha-sankey-chart) - A Home Assistant lovelace card to display a sankey chart. For example for power consumption (1 day ago)
-- [php-amqp/php-amqp](https://github.com/php-amqp/php-amqp) - PHP extension to communicate with any AMQP compliant server (1 week ago)
+- [MindFreeze/ha-sankey-chart](https://github.com/MindFreeze/ha-sankey-chart) - A Home Assistant lovelace card to display a sankey chart. For example for power consumption (2 days ago)
+- [php-amqp/php-amqp](https://github.com/php-amqp/php-amqp) - PHP extension to communicate with any AMQP compliant server (2 weeks ago)
 - [ikalnytskyi/action-setup-postgres](https://github.com/ikalnytskyi/action-setup-postgres) - Setup a PostgreSQL for Linux, macOS and Windows runner machines. (2 weeks ago)
 - [kassner/caddy-trapdoor](https://github.com/kassner/caddy-trapdoor) -  (2 weeks ago)
 - [dmakeroam/cronhpa-controller](https://github.com/dmakeroam/cronhpa-controller) - CronHorizontalPodAutoscaler Controller (3 weeks ago)
-- [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test! (3 weeks ago)
+- [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test! (4 weeks ago)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (1 month ago)
 - [tcort/github-action-markdown-link-check](https://github.com/tcort/github-action-markdown-link-check) - Check all links in markdown files if they are alive or dead. 🔗✔️ (1 month ago)
 - [kubebeam/trivy-headlamp-plugin](https://github.com/kubebeam/trivy-headlamp-plugin) -  (1 month ago)
