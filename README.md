@@ -10,17 +10,17 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (1 day ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 day ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 day ago)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 day ago)
+- [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (1 day ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (3 days ago)
 - [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (4 days ago)
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 week ago)
-- [MammatusPHP/test-utilities](https://github.com/MammatusPHP/test-utilities) (1 week ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
+- [MammatusPHP/test-utilities](https://github.com/MammatusPHP/test-utilities) (1 week ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 weeks ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 weeks ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 weeks ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 weeks ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 weeks ago)
 
