@@ -79,6 +79,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Switch to on-install-or-update make command on composer post and update commands](https://github.com/WyriHaximus/php-test-utilities/pull/1063) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [Add composer normalize](https://github.com/WyriHaximus/Makefiles/pull/36) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Add On Install Or Update](https://github.com/WyriHaximus/Makefiles/pull/35) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Make `make` work inside Docker](https://github.com/WyriHaximus/Makefiles/pull/34) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
@@ -91,7 +92,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Add first 8.5: 8.5.0alpha2](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/61) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 weeks ago)
 - [[New Version] Update versions file to PHP 8.4.11](https://github.com/WyriHaximus/php-fake-php-version/pull/146) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 weeks ago)
 - [Drop react-amqp from readme](https://github.com/jakubkulhan/bunny/pull/190) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 weeks ago)
-- [[0.6.x] CI Optimizations](https://github.com/jakubkulhan/bunny/pull/189) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 weeks ago)
 
 ---
 
