@@ -22,6 +22,20 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 ---
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+
+---
+
 #### 🌱 My latest projects
 {{range recentRepos 13}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
