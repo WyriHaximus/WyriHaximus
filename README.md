@@ -12,16 +12,16 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 day ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 day ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 day ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
-- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (2 days ago)
+- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (2 days ago)
 - [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (2 days ago)
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (2 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
-- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (2 days ago)
+- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (2 days ago)
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (2 days ago)
 
 ---
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Raise PHP version to 8.4](https://github.com/WyriHaximus/php-async-test-utilities/pull/304) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
 - [Add scripts section to `composer.json` if it doesn&#39;t exists](https://github.com/WyriHaximus/php-test-utilities/pull/1073) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [Only add makefile command to scripts if makefile package is present](https://github.com/WyriHaximus/php-test-utilities/pull/1072) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [Install make on-install-or-update || true on composer post install and update commands](https://github.com/WyriHaximus/php-test-utilities/pull/1071) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Make `make` work inside Docker](https://github.com/WyriHaximus/Makefiles/pull/34) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 - [Fix inconsistent switch case syntax](https://github.com/reactphp/promise/pull/269) on [reactphp/promise](https://github.com/reactphp/promise) (5 days ago)
 - [Bump makefiles down as Renovate test](https://github.com/reactphp-inspector/bunny/pull/13) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (2 weeks ago)
-- [Pass secrets to package utils](https://github.com/reactphp-inspector/bunny/pull/11) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (2 weeks ago)
 
 ---
 
