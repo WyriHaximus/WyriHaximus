@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 day ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 day ago)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 day ago)
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (2 days ago)
 - [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (2 days ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
 - [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (2 days ago)
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (2 days ago)
 - [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (2 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
-- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (3 days ago)
+- [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) (3 days ago)
 
 ---
 
