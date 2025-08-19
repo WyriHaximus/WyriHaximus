@@ -149,8 +149,8 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [sarkarshuvojit](https://github.com/sarkarshuvojit)
 - [blacknaml](https://github.com/blacknaml)
 - [emiloi21](https://github.com/emiloi21)
-- [seckinyasar](https://github.com/seckinyasar)
 - [Ben477-JOB](https://github.com/Ben477-JOB)
+- [tyrsson](https://github.com/tyrsson)
 
 ---
 
