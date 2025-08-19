@@ -12,10 +12,10 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
 - [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (today)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (2 days ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (2 days ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (2 days ago)
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (3 days ago)
