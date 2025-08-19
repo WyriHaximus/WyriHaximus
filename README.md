@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [reactphp/promise](https://github.com/reactphp/promise) ([v3.3.0](https://github.com/reactphp/promise/releases/tag/v3.3.0), today) - Promises/A implementation for PHP.
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.0.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.0.0), 1 day ago) - 
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.21.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.21.0), 3 days ago) - PHP Coding Standard
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.19](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.19), 3 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
@@ -87,7 +88,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.13.2](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.13.2), 1 month ago) - Forked from https://github.com/k8s-at-home/charts
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([9.4.2](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/9.4.2), 1 month ago) - 
 - [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) ([2.2.0](https://github.com/MammatusPHP/life-cycle-events/releases/tag/2.2.0), 1 month ago) - 
-- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) ([2.2.1](https://github.com/WyriHaximus/php-get-in-packages-composer.json/releases/tag/2.2.1), 1 month ago) - Get a specific configuration setting from all installed composer packages
 
 ---
 
