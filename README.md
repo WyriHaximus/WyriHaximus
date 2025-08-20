@@ -75,9 +75,9 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.1.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.1.0), today) - 
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.6.0](https://github.com/WyriHaximus/Makefiles/releases/tag/0.6.0), today) - Makefile building blocks
 - [reactphp/promise](https://github.com/reactphp/promise) ([v3.3.0](https://github.com/reactphp/promise/releases/tag/v3.3.0), 1 day ago) - Promises/A implementation for PHP.
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.0.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.0.0), 2 days ago) - 
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.21.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.21.0), 4 days ago) - PHP Coding Standard
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.19](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.19), 4 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.19.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.19.0), 4 days ago) - 🌯 PHPStan rules wrapper
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Update wyrihaximus/test-utilities to v8](https://github.com/WyriHaximus/php-async-test-utilities/pull/309) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
 - [Support all WyriHaximus test utils for makefile script updating](https://github.com/WyriHaximus/php-test-utilities/pull/1076) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [Update to test utils v8](https://github.com/WyriHaximus/Makefiles/pull/42) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Force everything through Docker](https://github.com/WyriHaximus/Makefiles/pull/41) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Raise minimum PHP version to 8.4](https://github.com/WyriHaximus/php-test-utilities/pull/1068) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
 - [Bump to PHP 8.4](https://github.com/WyriHaximus/php-coding-standard/pull/85) on [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (4 days ago)
 - [Update dependency php to ^8.4.11](https://github.com/WyriHaximus/php-test-utilities/pull/1064) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
-- [Switch to on-install-or-update make command on composer post and update commands](https://github.com/WyriHaximus/php-test-utilities/pull/1063) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
 
 ---
 
