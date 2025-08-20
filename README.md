@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (1 day ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (1 day ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 day ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 day ago)
-- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (1 day ago)
-- [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (1 day ago)
 - [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 day ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (3 days ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (3 days ago)
-- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (4 days ago)
 
 ---
 
@@ -75,12 +75,12 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.6.0](https://github.com/WyriHaximus/Makefiles/releases/tag/0.6.0), today) - Makefile building blocks
 - [reactphp/promise](https://github.com/reactphp/promise) ([v3.3.0](https://github.com/reactphp/promise/releases/tag/v3.3.0), 1 day ago) - Promises/A implementation for PHP.
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.0.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.0.0), 2 days ago) - 
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.21.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.21.0), 4 days ago) - PHP Coding Standard
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.19](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.19), 4 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.19.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.19.0), 4 days ago) - 🌯 PHPStan rules wrapper
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.5.0](https://github.com/WyriHaximus/Makefiles/releases/tag/0.5.0), 5 days ago) - Makefile building blocks
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) ([v0.6.0-alpha.1](https://github.com/jakubkulhan/bunny/releases/tag/v0.6.0-alpha.1), 2 weeks ago) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.4](https://github.com/composer-unused/composer-unused/releases/tag/0.9.4), 3 weeks ago) - Show unused composer dependencies by scanning your code
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.32](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.32), 3 weeks ago) - 
@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Update to test utils v8](https://github.com/WyriHaximus/Makefiles/pull/42) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Force everything through Docker](https://github.com/WyriHaximus/Makefiles/pull/41) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Fix `composer.json` description](https://github.com/WyriHaximus/Makefiles/pull/39) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Bump PHP to 8.4](https://github.com/WyriHaximus/Makefiles/pull/38) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Raise PHP version to 8.4](https://github.com/WyriHaximus/php-async-test-utilities/pull/304) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Update dependency php to ^8.4.11](https://github.com/WyriHaximus/php-test-utilities/pull/1064) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
 - [Switch to on-install-or-update make command on composer post and update commands](https://github.com/WyriHaximus/php-test-utilities/pull/1063) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
 - [Add composer normalize](https://github.com/WyriHaximus/Makefiles/pull/36) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
-- [Add On Install Or Update](https://github.com/WyriHaximus/Makefiles/pull/35) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
-- [Make `make` work inside Docker](https://github.com/WyriHaximus/Makefiles/pull/34) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
 
 ---
 
