@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-compress-test-utilities/pull/96) on [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (today)
 - [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-metrics/pull/105) on [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
 - [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-metrics-tactician/pull/43) on [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (today)
 - [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-tile-stitcher/pull/26) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Bump PHP to 8.4](https://github.com/WyriHaximus/Makefiles/pull/38) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [Raise PHP version to 8.4](https://github.com/WyriHaximus/php-async-test-utilities/pull/304) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (3 days ago)
 - [Add scripts section to `composer.json` if it doesn&#39;t exists](https://github.com/WyriHaximus/php-test-utilities/pull/1073) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
-- [Only add makefile command to scripts if makefile package is present](https://github.com/WyriHaximus/php-test-utilities/pull/1072) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
 
 ---
 
