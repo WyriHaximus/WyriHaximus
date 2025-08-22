@@ -10,12 +10,12 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
 - [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (today)
 - [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 days ago)
@@ -93,6 +93,9 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-css-compress/pull/162) on [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (today)
+- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-js-compress/pull/116) on [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (today)
+- [Use relative path for PHPUnit XSD](https://github.com/WyriHaximus/php-async-test-utilities/pull/310) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
 - [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-compress-test-utilities/pull/96) on [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (1 day ago)
 - [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-metrics/pull/105) on [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (1 day ago)
 - [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-metrics-tactician/pull/43) on [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (1 day ago)
@@ -103,9 +106,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Update to test utils v8](https://github.com/WyriHaximus/Makefiles/pull/42) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Force everything through Docker](https://github.com/WyriHaximus/Makefiles/pull/41) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Fix `composer.json` description](https://github.com/WyriHaximus/Makefiles/pull/39) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
-- [Bump PHP to 8.4](https://github.com/WyriHaximus/Makefiles/pull/38) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
-- [Raise PHP version to 8.4](https://github.com/WyriHaximus/php-async-test-utilities/pull/304) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (4 days ago)
-- [Add scripts section to `composer.json` if it doesn&#39;t exists](https://github.com/WyriHaximus/php-test-utilities/pull/1073) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
 
 ---
 
