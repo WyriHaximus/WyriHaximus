@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Kubernetes mode support](https://github.com/WyriHaximus/github-action-wait-for-status/pull/194) on [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (today)
 - [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-css-compress/pull/162) on [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (1 day ago)
 - [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-js-compress/pull/116) on [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (1 day ago)
 - [Use relative path for PHPUnit XSD](https://github.com/WyriHaximus/php-async-test-utilities/pull/310) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Support all WyriHaximus test utils for makefile script updating](https://github.com/WyriHaximus/php-test-utilities/pull/1076) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
 - [Update to test utils v8](https://github.com/WyriHaximus/Makefiles/pull/42) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [Force everything through Docker](https://github.com/WyriHaximus/Makefiles/pull/41) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
-- [Fix `composer.json` description](https://github.com/WyriHaximus/Makefiles/pull/39) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 
 ---
 
