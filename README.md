@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
-- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (today)
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
-- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (today)
-- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (today)
-- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (today)
-- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
-- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (1 day ago)
-- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (1 day ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
-- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (1 day ago)
-- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (1 day ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
+- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (1 day ago)
+- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (1 day ago)
+- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 day ago)
+- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (1 day ago)
+- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 day ago)
+- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 days ago)
+- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (2 days ago)
+- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (2 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
+- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (2 days ago)
+- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (2 days ago)
 
 ---
 
@@ -75,14 +75,14 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) ([2.3.0](https://github.com/WyriHaximus/php-compress/releases/tag/2.3.0), today) - 
-- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) ([2.3.0](https://github.com/WyriHaximus/php-css-compress/releases/tag/2.3.0), 1 day ago) - 
-- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) ([6.1.0](https://github.com/WyriHaximus/php-js-compress/releases/tag/6.1.0), 1 day ago) - 
-- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) ([3.2.0](https://github.com/WyriHaximus/php-compress-test-utilities/releases/tag/3.2.0), 1 day ago) - 
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.0.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.0.0), 2 days ago) - 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.1.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.1.0), 3 days ago) - 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.6.0](https://github.com/WyriHaximus/Makefiles/releases/tag/0.6.0), 3 days ago) - Makefile building blocks
-- [reactphp/promise](https://github.com/reactphp/promise) ([v3.3.0](https://github.com/reactphp/promise/releases/tag/v3.3.0), 4 days ago) - Promises/A implementation for PHP.
+- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) ([2.3.0](https://github.com/WyriHaximus/php-compress/releases/tag/2.3.0), 1 day ago) - 
+- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) ([2.3.0](https://github.com/WyriHaximus/php-css-compress/releases/tag/2.3.0), 2 days ago) - 
+- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) ([6.1.0](https://github.com/WyriHaximus/php-js-compress/releases/tag/6.1.0), 2 days ago) - 
+- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) ([3.2.0](https://github.com/WyriHaximus/php-compress-test-utilities/releases/tag/3.2.0), 2 days ago) - 
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.0.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.0.0), 3 days ago) - 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.1.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.1.0), 4 days ago) - 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.6.0](https://github.com/WyriHaximus/Makefiles/releases/tag/0.6.0), 4 days ago) - Makefile building blocks
+- [reactphp/promise](https://github.com/reactphp/promise) ([v3.3.0](https://github.com/reactphp/promise/releases/tag/v3.3.0), 5 days ago) - Promises/A implementation for PHP.
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.21.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.21.0), 1 week ago) - PHP Coding Standard
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.19](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.19), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.19.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.19.0), 1 week ago) - 🌯 PHPStan rules wrapper
@@ -93,19 +93,19 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/StaticMap/pull/98) on [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (today)
-- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/pull/27) on [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (today)
-- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/phpstan-reactphp/pull/27) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
-- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-broadcast/pull/304) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
-- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/reactphp-cron/pull/95) on [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (today)
-- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-compress/pull/128) on [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (today)
-- [Kubernetes mode support](https://github.com/WyriHaximus/github-action-wait-for-status/pull/194) on [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (today)
-- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-css-compress/pull/162) on [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (1 day ago)
-- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-js-compress/pull/116) on [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (1 day ago)
-- [Use relative path for PHPUnit XSD](https://github.com/WyriHaximus/php-async-test-utilities/pull/310) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
-- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-compress-test-utilities/pull/96) on [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (2 days ago)
-- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-metrics/pull/105) on [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (2 days ago)
-- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-metrics-tactician/pull/43) on [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (2 days ago)
+- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/StaticMap/pull/98) on [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 day ago)
+- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/pull/27) on [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 day ago)
+- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/phpstan-reactphp/pull/27) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
+- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-broadcast/pull/304) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
+- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/reactphp-cron/pull/95) on [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 day ago)
+- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-compress/pull/128) on [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (1 day ago)
+- [Kubernetes mode support](https://github.com/WyriHaximus/github-action-wait-for-status/pull/194) on [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (1 day ago)
+- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-css-compress/pull/162) on [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (2 days ago)
+- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-js-compress/pull/116) on [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (2 days ago)
+- [Use relative path for PHPUnit XSD](https://github.com/WyriHaximus/php-async-test-utilities/pull/310) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
+- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-compress-test-utilities/pull/96) on [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (3 days ago)
+- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-metrics/pull/105) on [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (3 days ago)
+- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-metrics-tactician/pull/43) on [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (3 days ago)
 
 ---
 
