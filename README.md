@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
-- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (1 day ago)
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (1 day ago)
-- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 day ago)
-- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (1 day ago)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 day ago)
-- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 days ago)
-- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (2 days ago)
-- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (2 days ago)
+- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
+- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (1 day ago)
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (1 day ago)
+- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (1 day ago)
+- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 day ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
+- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (2 days ago)
 - [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (2 days ago)
+- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (2 days ago)
 - [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (2 days ago)
+- [php-api-clients/openapi-client-generator](https://github.com/php-api-clients/openapi-client-generator) (2 days ago)
 
 ---
 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[SemConv] Add TLS trace attributes to new structure introduced in #1659](https://github.com/open-telemetry/opentelemetry-php/pull/1695) on [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) (today)
 - [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/StaticMap/pull/98) on [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 day ago)
 - [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/pull/27) on [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 day ago)
 - [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/phpstan-reactphp/pull/27) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Use relative path for PHPUnit XSD](https://github.com/WyriHaximus/php-async-test-utilities/pull/310) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
 - [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-compress-test-utilities/pull/96) on [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (3 days ago)
 - [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-metrics/pull/105) on [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (3 days ago)
-- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-metrics-tactician/pull/43) on [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (3 days ago)
 
 ---
 
