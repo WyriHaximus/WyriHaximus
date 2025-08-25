@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (today)
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
+- [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (today)
 - [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) (1 day ago)
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (2 days ago)
-- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (2 days ago)
-- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (2 days ago)
-- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (2 days ago)
-- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (2 days ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
 - [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (2 days ago)
-- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (3 days ago)
+- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (2 days ago)
+- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (2 days ago)
+- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (2 days ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
+- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (2 days ago)
+- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (2 days ago)
+- [php-api-clients/openapi-client-generator](https://github.com/php-api-clients/openapi-client-generator) (3 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (3 days ago)
-- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (3 days ago)
+- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (3 days ago)
 
 ---
 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Switch to back span processor](https://github.com/MammatusPHP/open-telemetry/pull/9) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
 - [Add low level ReactPHP auto instrumentation](https://github.com/MammatusPHP/open-telemetry/pull/8) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
 - [Detach scope in promise resolution and error handling](https://github.com/reactphp-inspector/cache/pull/8) on [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) (1 day ago)
 - [[SemConv] Add TLS trace attributes to new structure introduced in #1659](https://github.com/open-telemetry/opentelemetry-php/pull/1695) on [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Kubernetes mode support](https://github.com/WyriHaximus/github-action-wait-for-status/pull/194) on [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (2 days ago)
 - [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-css-compress/pull/162) on [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (3 days ago)
 - [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-js-compress/pull/116) on [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (3 days ago)
-- [Use relative path for PHPUnit XSD](https://github.com/WyriHaximus/php-async-test-utilities/pull/310) on [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (3 days ago)
 
 ---
 
