@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (today)
-- [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (1 day ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (1 day ago)
 - [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) (2 days ago)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (3 days ago)
-- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (3 days ago)
-- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (3 days ago)
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (3 days ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (3 days ago)
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (3 days ago)
+- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (3 days ago)
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (3 days ago)
-- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (4 days ago)
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (3 days ago)
+- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (3 days ago)
 
 ---
 
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.20](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.20), today) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [reactphp-inspector/dns](https://github.com/reactphp-inspector/dns) ([0.1.0](https://github.com/reactphp-inspector/dns/releases/tag/0.1.0), 1 day ago) - Open Telemetry Auto Instrumentation for ReactPHP&#39;s DNS component
 - [reactphp-inspector/socket](https://github.com/reactphp-inspector/socket) ([0.1.0](https://github.com/reactphp-inspector/socket/releases/tag/0.1.0), 1 day ago) - Open Telemetry Auto Instrumentation for ReactPHP&#39;s Socket component
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) ([0.1.0](https://github.com/reactphp-inspector/bunny/releases/tag/0.1.0), 1 day ago) - 
@@ -87,12 +88,12 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.0.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.0.0), 5 days ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.1.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.1.0), 6 days ago) - 
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.6.0](https://github.com/WyriHaximus/Makefiles/releases/tag/0.6.0), 6 days ago) - Makefile building blocks
-- [reactphp/promise](https://github.com/reactphp/promise) ([v3.3.0](https://github.com/reactphp/promise/releases/tag/v3.3.0), 1 week ago) - Promises/A implementation for PHP.
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [[New Version] Update versions file to PHP 8.4.12](https://github.com/WyriHaximus/php-fake-php-version/pull/157) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [[1.x] Increase query count in excessive TCP query tests](https://github.com/reactphp/dns/pull/240) on [reactphp/dns](https://github.com/reactphp/dns) (today)
 - [[1.x] Run tests on PHP 8.4 and update test environment](https://github.com/reactphp/dns/pull/239) on [reactphp/dns](https://github.com/reactphp/dns) (today)
 - [[1.x] Run tests on PHP 8.4 and update test environment](https://github.com/reactphp/socket/pull/326) on [reactphp/socket](https://github.com/reactphp/socket) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/phpstan-reactphp/pull/27) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (3 days ago)
 - [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-broadcast/pull/304) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (3 days ago)
 - [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/reactphp-cron/pull/95) on [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (3 days ago)
-- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-compress/pull/128) on [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (3 days ago)
 
 ---
 
