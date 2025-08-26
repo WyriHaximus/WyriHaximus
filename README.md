@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[0.6.x] Make it abundantly clear Bunny must run in a fiber](https://github.com/jakubkulhan/bunny/pull/193) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/31) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [[New Version] Update versions file to PHP 8.4.12](https://github.com/WyriHaximus/php-fake-php-version/pull/157) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [[1.x] Increase query count in excessive TCP query tests](https://github.com/reactphp/dns/pull/240) on [reactphp/dns](https://github.com/reactphp/dns) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/StaticMap/pull/98) on [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (3 days ago)
 - [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/pull/27) on [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (3 days ago)
 - [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/phpstan-reactphp/pull/27) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (3 days ago)
-- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-broadcast/pull/304) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (3 days ago)
 
 ---
 
