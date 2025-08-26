@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[1.x] Increase query count in excessive TCP query tests](https://github.com/reactphp/dns/pull/240) on [reactphp/dns](https://github.com/reactphp/dns) (today)
 - [[1.x] Run tests on PHP 8.4 and update test environment](https://github.com/reactphp/dns/pull/239) on [reactphp/dns](https://github.com/reactphp/dns) (today)
 - [[1.x] Run tests on PHP 8.4 and update test environment](https://github.com/reactphp/socket/pull/326) on [reactphp/socket](https://github.com/reactphp/socket) (today)
 - [Switch to back span processor](https://github.com/MammatusPHP/open-telemetry/pull/9) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-broadcast/pull/304) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (3 days ago)
 - [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/reactphp-cron/pull/95) on [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (3 days ago)
 - [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-compress/pull/128) on [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (3 days ago)
-- [Kubernetes mode support](https://github.com/WyriHaximus/github-action-wait-for-status/pull/194) on [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (3 days ago)
 
 ---
 
