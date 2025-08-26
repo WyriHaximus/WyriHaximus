@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (today)
 - [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (1 day ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
 - [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) (2 days ago)
+- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (3 days ago)
 - [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (3 days ago)
 - [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (3 days ago)
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (3 days ago)
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (3 days ago)
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (3 days ago)
-- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (3 days ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (3 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (4 days ago)
-- [php-api-clients/openapi-client-generator](https://github.com/php-api-clients/openapi-client-generator) (4 days ago)
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (3 days ago)
+- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (3 days ago)
+- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (4 days ago)
 
 ---
 
@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[1.x] Run tests on PHP 8.4 and update test environment](https://github.com/reactphp/dns/pull/239) on [reactphp/dns](https://github.com/reactphp/dns) (today)
+- [[1.x] Run tests on PHP 8.4 and update test environment](https://github.com/reactphp/socket/pull/326) on [reactphp/socket](https://github.com/reactphp/socket) (today)
 - [Switch to back span processor](https://github.com/MammatusPHP/open-telemetry/pull/9) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
 - [Add low level ReactPHP auto instrumentation](https://github.com/MammatusPHP/open-telemetry/pull/8) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
 - [Detach scope in promise resolution and error handling](https://github.com/reactphp-inspector/cache/pull/8) on [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) (2 days ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/reactphp-cron/pull/95) on [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (3 days ago)
 - [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-compress/pull/128) on [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (3 days ago)
 - [Kubernetes mode support](https://github.com/WyriHaximus/github-action-wait-for-status/pull/194) on [WyriHaximus/github-action-wait-for-status](https://github.com/WyriHaximus/github-action-wait-for-status) (3 days ago)
-- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-css-compress/pull/162) on [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (4 days ago)
-- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-js-compress/pull/116) on [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (4 days ago)
 
 ---
 
