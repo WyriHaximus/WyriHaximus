@@ -12,17 +12,17 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 day ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (2 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (2 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (2 days ago)
 - [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) (3 days ago)
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (4 days ago)
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (4 days ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (4 days ago)
-- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (4 days ago)
 - [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (4 days ago)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (4 days ago)
+- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (4 days ago)
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (4 days ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (4 days ago)
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (4 days ago)
+- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (4 days ago)
 
 ---
 
