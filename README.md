@@ -10,10 +10,10 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 day ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
 - [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (2 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (2 days ago)
 - [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) (3 days ago)
 - [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (4 days ago)
