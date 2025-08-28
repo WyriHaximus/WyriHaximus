@@ -10,26 +10,26 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 day ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
-- [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (2 days ago)
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (2 days ago)
-- [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) (3 days ago)
-- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (4 days ago)
-- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (4 days ago)
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (4 days ago)
-- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (4 days ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (4 days ago)
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (4 days ago)
-- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (4 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (2 days ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
+- [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (3 days ago)
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (3 days ago)
+- [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) (4 days ago)
+- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (5 days ago)
+- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (5 days ago)
+- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (5 days ago)
+- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (5 days ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (5 days ago)
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (5 days ago)
+- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (5 days ago)
 
 ---
 
 ### 📜 My latest articles on [WyriHaximus.net](https://blog.wyrihaximus.net/)
 
 - [ReactPHP Parallel v2(.1)](https://blog.wyrihaximus.net/2025/06/reactphp-parallel-v2-/) (2 months ago)
-- [Announcing TestInfra Action](https://blog.wyrihaximus.net/2025/03/announcing-testinfra-action/) (4 months ago)
+- [Announcing TestInfra Action](https://blog.wyrihaximus.net/2025/03/announcing-testinfra-action/) (5 months ago)
 - [Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Enclosure](https://blog.wyrihaximus.net/2024/12/building-a-kubernetes-homelab-with-raspberry-pies-and-lego-nodes-enclosure/) (8 months ago)
 - [Building Secure Images with GitHub Actions](https://blog.wyrihaximus.net/2024/10/building-secure-images-with-github-actions/) (11 months ago)
 - [Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Power](https://blog.wyrihaximus.net/2024/09/building-a-kubernetes-homelab-with-raspberry-pies-and-lego-nodes-power/) (1 year ago)
@@ -75,17 +75,17 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.20](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.20), 1 day ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
-- [reactphp-inspector/dns](https://github.com/reactphp-inspector/dns) ([0.1.0](https://github.com/reactphp-inspector/dns/releases/tag/0.1.0), 2 days ago) - Open Telemetry Auto Instrumentation for ReactPHP&#39;s DNS component
-- [reactphp-inspector/socket](https://github.com/reactphp-inspector/socket) ([0.1.0](https://github.com/reactphp-inspector/socket/releases/tag/0.1.0), 2 days ago) - Open Telemetry Auto Instrumentation for ReactPHP&#39;s Socket component
-- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) ([0.1.0](https://github.com/reactphp-inspector/bunny/releases/tag/0.1.0), 2 days ago) - 
-- [reactphp-inspector/filesystem](https://github.com/reactphp-inspector/filesystem) ([0.1.0](https://github.com/reactphp-inspector/filesystem/releases/tag/0.1.0), 2 days ago) - Open Telemetry Auto Instrumentation for ReactPHP&#39;s Filesystem component
-- [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) ([0.1.0](https://github.com/reactphp-inspector/cache/releases/tag/0.1.0), 2 days ago) - Port of PSR16 auto instrumentation for react/cache
-- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) ([2.3.0](https://github.com/WyriHaximus/php-compress/releases/tag/2.3.0), 4 days ago) - 
-- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) ([2.3.0](https://github.com/WyriHaximus/php-css-compress/releases/tag/2.3.0), 5 days ago) - 
-- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) ([6.1.0](https://github.com/WyriHaximus/php-js-compress/releases/tag/6.1.0), 5 days ago) - 
-- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) ([3.2.0](https://github.com/WyriHaximus/php-compress-test-utilities/releases/tag/3.2.0), 5 days ago) - 
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.0.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.0.0), 6 days ago) - 
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.20](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.20), 2 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
+- [reactphp-inspector/dns](https://github.com/reactphp-inspector/dns) ([0.1.0](https://github.com/reactphp-inspector/dns/releases/tag/0.1.0), 3 days ago) - Open Telemetry Auto Instrumentation for ReactPHP&#39;s DNS component
+- [reactphp-inspector/socket](https://github.com/reactphp-inspector/socket) ([0.1.0](https://github.com/reactphp-inspector/socket/releases/tag/0.1.0), 3 days ago) - Open Telemetry Auto Instrumentation for ReactPHP&#39;s Socket component
+- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) ([0.1.0](https://github.com/reactphp-inspector/bunny/releases/tag/0.1.0), 3 days ago) - 
+- [reactphp-inspector/filesystem](https://github.com/reactphp-inspector/filesystem) ([0.1.0](https://github.com/reactphp-inspector/filesystem/releases/tag/0.1.0), 3 days ago) - Open Telemetry Auto Instrumentation for ReactPHP&#39;s Filesystem component
+- [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) ([0.1.0](https://github.com/reactphp-inspector/cache/releases/tag/0.1.0), 3 days ago) - Port of PSR16 auto instrumentation for react/cache
+- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) ([2.3.0](https://github.com/WyriHaximus/php-compress/releases/tag/2.3.0), 5 days ago) - 
+- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) ([2.3.0](https://github.com/WyriHaximus/php-css-compress/releases/tag/2.3.0), 6 days ago) - 
+- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) ([6.1.0](https://github.com/WyriHaximus/php-js-compress/releases/tag/6.1.0), 6 days ago) - 
+- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) ([3.2.0](https://github.com/WyriHaximus/php-compress-test-utilities/releases/tag/3.2.0), 6 days ago) - 
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.0.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.0.0), 1 week ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.1.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.1.0), 1 week ago) - 
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.6.0](https://github.com/WyriHaximus/Makefiles/releases/tag/0.6.0), 1 week ago) - Makefile building blocks
 
@@ -93,25 +93,25 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [[0.6.x] Make it abundantly clear Bunny must run in a fiber](https://github.com/jakubkulhan/bunny/pull/193) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
-- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/31) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
-- [[New Version] Update versions file to PHP 8.4.12](https://github.com/WyriHaximus/php-fake-php-version/pull/157) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
-- [[1.x] Increase query count in excessive TCP query tests](https://github.com/reactphp/dns/pull/240) on [reactphp/dns](https://github.com/reactphp/dns) (1 day ago)
-- [[1.x] Run tests on PHP 8.4 and update test environment](https://github.com/reactphp/dns/pull/239) on [reactphp/dns](https://github.com/reactphp/dns) (1 day ago)
-- [[1.x] Run tests on PHP 8.4 and update test environment](https://github.com/reactphp/socket/pull/326) on [reactphp/socket](https://github.com/reactphp/socket) (1 day ago)
-- [Switch to back span processor](https://github.com/MammatusPHP/open-telemetry/pull/9) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (2 days ago)
-- [Add low level ReactPHP auto instrumentation](https://github.com/MammatusPHP/open-telemetry/pull/8) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (2 days ago)
-- [Detach scope in promise resolution and error handling](https://github.com/reactphp-inspector/cache/pull/8) on [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) (3 days ago)
-- [[SemConv] Add TLS trace attributes to new structure introduced in #1659](https://github.com/open-telemetry/opentelemetry-php/pull/1695) on [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) (3 days ago)
-- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/StaticMap/pull/98) on [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (4 days ago)
-- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/pull/27) on [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (4 days ago)
-- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/phpstan-reactphp/pull/27) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (4 days ago)
+- [[0.6.x] Make it abundantly clear Bunny must run in a fiber](https://github.com/jakubkulhan/bunny/pull/193) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
+- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/31) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
+- [[New Version] Update versions file to PHP 8.4.12](https://github.com/WyriHaximus/php-fake-php-version/pull/157) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
+- [[1.x] Increase query count in excessive TCP query tests](https://github.com/reactphp/dns/pull/240) on [reactphp/dns](https://github.com/reactphp/dns) (2 days ago)
+- [[1.x] Run tests on PHP 8.4 and update test environment](https://github.com/reactphp/dns/pull/239) on [reactphp/dns](https://github.com/reactphp/dns) (2 days ago)
+- [[1.x] Run tests on PHP 8.4 and update test environment](https://github.com/reactphp/socket/pull/326) on [reactphp/socket](https://github.com/reactphp/socket) (2 days ago)
+- [Switch to back span processor](https://github.com/MammatusPHP/open-telemetry/pull/9) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (3 days ago)
+- [Add low level ReactPHP auto instrumentation](https://github.com/MammatusPHP/open-telemetry/pull/8) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (3 days ago)
+- [Detach scope in promise resolution and error handling](https://github.com/reactphp-inspector/cache/pull/8) on [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) (4 days ago)
+- [[SemConv] Add TLS trace attributes to new structure introduced in #1659](https://github.com/open-telemetry/opentelemetry-php/pull/1695) on [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) (4 days ago)
+- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/StaticMap/pull/98) on [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (5 days ago)
+- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/pull/27) on [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (5 days ago)
+- [PHP 8.4 &#43; QA updates](https://github.com/WyriHaximus/phpstan-reactphp/pull/27) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (5 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [MindFreeze/ha-sankey-chart](https://github.com/MindFreeze/ha-sankey-chart) - A Home Assistant lovelace card to display a sankey chart. For example for power consumption (2 weeks ago)
+- [MindFreeze/ha-sankey-chart](https://github.com/MindFreeze/ha-sankey-chart) - A Home Assistant lovelace card to display a sankey chart. For example for power consumption (3 weeks ago)
 - [php-amqp/php-amqp](https://github.com/php-amqp/php-amqp) - PHP extension to communicate with any AMQP compliant server (1 month ago)
 - [ikalnytskyi/action-setup-postgres](https://github.com/ikalnytskyi/action-setup-postgres) - Setup a PostgreSQL for Linux, macOS and Windows runner machines. (1 month ago)
 - [kassner/caddy-trapdoor](https://github.com/kassner/caddy-trapdoor) -  (1 month ago)
