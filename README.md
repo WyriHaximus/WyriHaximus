@@ -17,12 +17,12 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (6 days ago)
 - [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (6 days ago)
 - [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) (1 week ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 week ago)
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 week ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
-- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (1 week ago)
-- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (1 week ago)
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (1 week ago)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 week ago)
+- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (1 week ago)
 
 ---
 
@@ -146,11 +146,11 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 👯 Check out some of my recent followers
 
+- [Arison99](https://github.com/Arison99)
 - [slavaGanzin](https://github.com/slavaGanzin)
 - [Yassineafaila](https://github.com/Yassineafaila)
 - [blacknaml](https://github.com/blacknaml)
 - [emiloi21](https://github.com/emiloi21)
-- [Ben477-JOB](https://github.com/Ben477-JOB)
 
 ---
 
