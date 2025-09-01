@@ -111,6 +111,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [actions/create-github-app-token](https://github.com/actions/create-github-app-token) - GitHub Action for creating a GitHub App Installation Access Token (today)
 - [MindFreeze/ha-sankey-chart](https://github.com/MindFreeze/ha-sankey-chart) - A Home Assistant lovelace card to display a sankey chart. For example for power consumption (3 weeks ago)
 - [php-amqp/php-amqp](https://github.com/php-amqp/php-amqp) - PHP extension to communicate with any AMQP compliant server (1 month ago)
 - [ikalnytskyi/action-setup-postgres](https://github.com/ikalnytskyi/action-setup-postgres) - Setup a PostgreSQL for Linux, macOS and Windows runner machines. (1 month ago)
@@ -123,7 +124,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [owenrumney/lazytrivy](https://github.com/owenrumney/lazytrivy) - Vulnerability scanning just got lazier (2 months ago)
 - [aquasecurity/trivy-operator-lens-extension](https://github.com/aquasecurity/trivy-operator-lens-extension) - https://github.com/aquasecurity/trivy-operator (2 months ago)
 - [opentelemetry-php/contrib-detector-digitalocean](https://github.com/opentelemetry-php/contrib-detector-digitalocean) - [READONLY] DigitalOcean detector (2 months ago)
-- [ramsey/identifier](https://github.com/ramsey/identifier) - A PHP library for generating and working with identifiers, including UUIDs, ULIDs, and Snowflakes (2 months ago)
 
 ---
 
