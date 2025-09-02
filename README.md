@@ -10,17 +10,17 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 week ago)
-- [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (1 week ago)
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 week ago)
+- [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (1 week ago)
 - [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) (1 week ago)
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 week ago)
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (1 week ago)
+- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (1 week ago)
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 week ago)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 week ago)
 
@@ -93,6 +93,9 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Ignore on install or update commands in the all command](https://github.com/WyriHaximus/Makefiles/pull/47) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Exclude PHP 8.1](https://github.com/WyriHaximusNet/docker-php/pull/307) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
+- [Make sure we don&#39;t fail fast during releasing](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/70) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
 - [Drop GRPC from 8.5 and up](https://github.com/WyriHaximusNet/docker-php/pull/306) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Enable PHPStan for infection](https://github.com/WyriHaximus/Makefiles/pull/46) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Move infection config to ./etc/qa/](https://github.com/WyriHaximus/Makefiles/pull/45) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
@@ -103,9 +106,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [[1.x] Run tests on PHP 8.4 and update test environment](https://github.com/reactphp/dns/pull/239) on [reactphp/dns](https://github.com/reactphp/dns) (1 week ago)
 - [[1.x] Run tests on PHP 8.4 and update test environment](https://github.com/reactphp/socket/pull/326) on [reactphp/socket](https://github.com/reactphp/socket) (1 week ago)
 - [Switch to back span processor](https://github.com/MammatusPHP/open-telemetry/pull/9) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 week ago)
-- [Add low level ReactPHP auto instrumentation](https://github.com/MammatusPHP/open-telemetry/pull/8) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 week ago)
-- [Detach scope in promise resolution and error handling](https://github.com/reactphp-inspector/cache/pull/8) on [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) (1 week ago)
-- [[SemConv] Add TLS trace attributes to new structure introduced in #1659](https://github.com/open-telemetry/opentelemetry-php/pull/1695) on [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) (1 week ago)
 
 ---
 
