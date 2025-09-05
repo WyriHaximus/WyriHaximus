@@ -11,8 +11,8 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 day ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (2 days ago)
 - [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (2 days ago)
