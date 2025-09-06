@@ -10,8 +10,9 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (1 day ago)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (1 day ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (2 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 - [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (3 days ago)
@@ -22,7 +23,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 week ago)
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 week ago)
 
 ---
 
