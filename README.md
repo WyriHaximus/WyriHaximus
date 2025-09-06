@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (today)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (today)
 - [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (1 day ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (3 days ago)
-- [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (3 days ago)
 - [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (3 days ago)
 - [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (3 days ago)
+- [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (3 days ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (4 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
-- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 week ago)
 
 ---
 
@@ -75,8 +75,9 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-json-utilities](https://github.com/WyriHaximus/php-json-utilities) ([1.4.0](https://github.com/WyriHaximus/php-json-utilities/releases/tag/1.4.0), today) - Utilities for php-json-* packages
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.3), today) - Makefile building blocks
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.21](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.21), today) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.2](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.2), 2 days ago) - Makefile building blocks
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.14.0](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.14.0), 1 week ago) - Forked from https://github.com/k8s-at-home/charts
 - [reactphp-inspector/dns](https://github.com/reactphp-inspector/dns) ([0.1.0](https://github.com/reactphp-inspector/dns/releases/tag/0.1.0), 1 week ago) - Open Telemetry Auto Instrumentation for ReactPHP&#39;s DNS component
 - [reactphp-inspector/socket](https://github.com/reactphp-inspector/socket) ([0.1.0](https://github.com/reactphp-inspector/socket/releases/tag/0.1.0), 1 week ago) - Open Telemetry Auto Instrumentation for ReactPHP&#39;s Socket component
@@ -87,12 +88,13 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) ([2.3.0](https://github.com/WyriHaximus/php-css-compress/releases/tag/2.3.0), 2 weeks ago) - 
 - [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) ([6.1.0](https://github.com/WyriHaximus/php-js-compress/releases/tag/6.1.0), 2 weeks ago) - 
 - [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) ([3.2.0](https://github.com/WyriHaximus/php-compress-test-utilities/releases/tag/3.2.0), 2 weeks ago) - 
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.0.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.0.0), 2 weeks ago) - 
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Raise minimum PHP version to 8.4](https://github.com/WyriHaximus/php-json-utilities/pull/62) on [WyriHaximus/php-json-utilities](https://github.com/WyriHaximus/php-json-utilities) (today)
+- [PHP Migrations: #### Create empty infection.json.dist to fool Renovate](https://github.com/WyriHaximus/Makefiles/pull/52) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Update copyright year to 2025](https://github.com/WyriHaximus/php-fake-php-version/pull/158) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [Revert &#34;Run on install or update twice&#34;](https://github.com/WyriHaximus/Makefiles/pull/51) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Run on install or update twice](https://github.com/WyriHaximus/Makefiles/pull/50) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Exclude PHP 8.1](https://github.com/WyriHaximusNet/docker-php/pull/307) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
 - [Make sure we don&#39;t fail fast during releasing](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/70) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (4 days ago)
 - [Drop GRPC from 8.5 and up](https://github.com/WyriHaximusNet/docker-php/pull/306) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
-- [Enable PHPStan for infection](https://github.com/WyriHaximus/Makefiles/pull/46) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
-- [Move infection config to ./etc/qa/](https://github.com/WyriHaximus/Makefiles/pull/45) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 
 ---
 
