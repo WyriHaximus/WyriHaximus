@@ -10,10 +10,10 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 day ago)
 - [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (2 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Revert &#34;PHP Migrations: #### Create empty infection.json.dist to fool Renovate&#34;](https://github.com/WyriHaximus/Makefiles/pull/54) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Don&#39;t try running in Docker if there is no Docker](https://github.com/WyriHaximus/Makefiles/pull/53) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Raise minimum PHP version to 8.4](https://github.com/WyriHaximus/php-json-psr7/pull/169) on [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (1 day ago)
 - [Raise minimum PHP version to 8.4](https://github.com/WyriHaximus/php-json-utilities/pull/62) on [WyriHaximus/php-json-utilities](https://github.com/WyriHaximus/php-json-utilities) (1 day ago)
 - [PHP Migrations: #### Create empty infection.json.dist to fool Renovate](https://github.com/WyriHaximus/Makefiles/pull/52) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Make sure Renovate can find out relevant Docker files](https://github.com/WyriHaximusNet/docker-php/pull/308) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
 - [Build (optional) multi arch support into our build toolkit](https://github.com/usabilla/php-docker-template/pull/204) on [usabilla/php-docker-template](https://github.com/usabilla/php-docker-template) (4 days ago)
 - [Ignore on install or update commands in the all command](https://github.com/WyriHaximus/Makefiles/pull/47) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
-- [Exclude PHP 8.1](https://github.com/WyriHaximusNet/docker-php/pull/307) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
-- [Make sure we don&#39;t fail fast during releasing](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/70) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (5 days ago)
 
 ---
 
