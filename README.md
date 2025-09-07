@@ -17,9 +17,9 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 day ago)
 - [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (2 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
+- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (4 days ago)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (4 days ago)
 - [WyriHaximusNet/helm-charts](https://github.com/WyriHaximusNet/helm-charts) (4 days ago)
-- [WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator](https://github.com/WyriHaximusNet/docker-kubernetes-redis-db-assignment-operator) (4 days ago)
 - [WyriHaximusNet/docker-testinfra](https://github.com/WyriHaximusNet/docker-testinfra) (4 days ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (5 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
@@ -75,8 +75,8 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.4](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.4), today) - Makefile building blocks
 - [WyriHaximus/php-json-utilities](https://github.com/WyriHaximus/php-json-utilities) ([1.4.0](https://github.com/WyriHaximus/php-json-utilities/releases/tag/1.4.0), 1 day ago) - Utilities for php-json-* packages
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.3), 1 day ago) - Makefile building blocks
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.21](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.21), 1 day ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.14.0](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.14.0), 1 week ago) - Forked from https://github.com/k8s-at-home/charts
 - [reactphp-inspector/dns](https://github.com/reactphp-inspector/dns) ([0.1.0](https://github.com/reactphp-inspector/dns/releases/tag/0.1.0), 1 week ago) - Open Telemetry Auto Instrumentation for ReactPHP&#39;s DNS component
@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add PHP Migration: Fix logs paths in etc/qa/infection.json5](https://github.com/WyriHaximus/Makefiles/pull/56) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Fix bug in Docker detection](https://github.com/WyriHaximus/Makefiles/pull/55) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Revert &#34;PHP Migrations: #### Create empty infection.json.dist to fool Renovate&#34;](https://github.com/WyriHaximus/Makefiles/pull/54) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Don&#39;t try running in Docker if there is no Docker](https://github.com/WyriHaximus/Makefiles/pull/53) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Raise minimum PHP version to 8.4](https://github.com/WyriHaximus/php-json-psr7/pull/169) on [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (1 day ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Introduce PHP Migration commands to keep PHP packages in shape](https://github.com/WyriHaximus/Makefiles/pull/49) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [Improve performance by only going to docker if we don&#39;t have composer](https://github.com/WyriHaximus/Makefiles/pull/48) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [Make sure Renovate can find out relevant Docker files](https://github.com/WyriHaximusNet/docker-php/pull/308) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
-- [Build (optional) multi arch support into our build toolkit](https://github.com/usabilla/php-docker-template/pull/204) on [usabilla/php-docker-template](https://github.com/usabilla/php-docker-template) (4 days ago)
-- [Ignore on install or update commands in the all command](https://github.com/WyriHaximus/Makefiles/pull/47) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 
 ---
 
