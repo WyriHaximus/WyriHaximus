@@ -75,7 +75,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.4](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.4), today) - Makefile building blocks
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.5](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.5), today) - Makefile building blocks
 - [WyriHaximus/php-json-utilities](https://github.com/WyriHaximus/php-json-utilities) ([1.4.0](https://github.com/WyriHaximus/php-json-utilities/releases/tag/1.4.0), 1 day ago) - Utilities for php-json-* packages
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.21](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.21), 1 day ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.14.0](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.14.0), 1 week ago) - Forked from https://github.com/k8s-at-home/charts
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Only update logs properties that are strings](https://github.com/WyriHaximus/Makefiles/pull/57) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Add PHP Migration: Fix logs paths in etc/qa/infection.json5](https://github.com/WyriHaximus/Makefiles/pull/56) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Fix bug in Docker detection](https://github.com/WyriHaximus/Makefiles/pull/55) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Revert &#34;PHP Migrations: #### Create empty infection.json.dist to fool Renovate&#34;](https://github.com/WyriHaximus/Makefiles/pull/54) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Run on install or update twice](https://github.com/WyriHaximus/Makefiles/pull/50) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [Introduce PHP Migration commands to keep PHP packages in shape](https://github.com/WyriHaximus/Makefiles/pull/49) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [Improve performance by only going to docker if we don&#39;t have composer](https://github.com/WyriHaximus/Makefiles/pull/48) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
-- [Make sure Renovate can find out relevant Docker files](https://github.com/WyriHaximusNet/docker-php/pull/308) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
 
 ---
 
