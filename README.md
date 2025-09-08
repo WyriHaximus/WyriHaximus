@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.22.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.22.0), today) - PHP Coding Standard
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.5](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.5), 1 day ago) - Makefile building blocks
 - [WyriHaximus/php-json-utilities](https://github.com/WyriHaximus/php-json-utilities) ([1.4.0](https://github.com/WyriHaximus/php-json-utilities/releases/tag/1.4.0), 2 days ago) - Utilities for php-json-* packages
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.21](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.21), 2 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
@@ -87,7 +88,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) ([2.3.0](https://github.com/WyriHaximus/php-compress/releases/tag/2.3.0), 2 weeks ago) - 
 - [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) ([2.3.0](https://github.com/WyriHaximus/php-css-compress/releases/tag/2.3.0), 2 weeks ago) - 
 - [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) ([6.1.0](https://github.com/WyriHaximus/php-js-compress/releases/tag/6.1.0), 2 weeks ago) - 
-- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) ([3.2.0](https://github.com/WyriHaximus/php-compress-test-utilities/releases/tag/3.2.0), 2 weeks ago) - 
 
 ---
 
