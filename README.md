@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (today)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 day ago)
-- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (1 day ago)
 - [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (1 day ago)
+- [WyriHaximus/php-json-utilities](https://github.com/WyriHaximus/php-json-utilities) (1 day ago)
 - [WyriHaximus/reactphp-cache-json](https://github.com/WyriHaximus/reactphp-cache-json) (1 day ago)
 - [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (1 day ago)
-- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (2 days ago)
-- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (2 days ago)
+- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (1 day ago)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 day ago)
+- [reactphp-parallel/renovate-runner](https://github.com/reactphp-parallel/renovate-runner) (2 days ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
-- [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (2 days ago)
 
 ---
 
@@ -111,6 +111,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies and invalid licenses in your PRs (today)
 - [tssge/prometheus-devolo-exporter](https://github.com/tssge/prometheus-devolo-exporter) - Devolo ethernet over powerline adapter metrics exporter for Prometheus (1 day ago)
 - [actions/create-github-app-token](https://github.com/actions/create-github-app-token) - GitHub Action for creating a GitHub App Installation Access Token (1 week ago)
 - [MindFreeze/ha-sankey-chart](https://github.com/MindFreeze/ha-sankey-chart) - A Home Assistant lovelace card to display a sankey chart. For example for power consumption (1 month ago)
@@ -123,7 +124,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [tcort/github-action-markdown-link-check](https://github.com/tcort/github-action-markdown-link-check) - Check all links in markdown files if they are alive or dead. 🔗✔️ (2 months ago)
 - [kubebeam/trivy-headlamp-plugin](https://github.com/kubebeam/trivy-headlamp-plugin) -  (2 months ago)
 - [owenrumney/lazytrivy](https://github.com/owenrumney/lazytrivy) - Vulnerability scanning just got lazier (2 months ago)
-- [aquasecurity/trivy-operator-lens-extension](https://github.com/aquasecurity/trivy-operator-lens-extension) - https://github.com/aquasecurity/trivy-operator (2 months ago)
 
 ---
 
