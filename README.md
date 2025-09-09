@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Ensure we configure infection to emit logs to GitHub in etc/qa/infection.json5](https://github.com/WyriHaximus/Makefiles/pull/58) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Only update logs properties that are strings](https://github.com/WyriHaximus/Makefiles/pull/57) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Add PHP Migration: Fix logs paths in etc/qa/infection.json5](https://github.com/WyriHaximus/Makefiles/pull/56) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Fix bug in Docker detection](https://github.com/WyriHaximus/Makefiles/pull/55) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Revert &#34;Run on install or update twice&#34;](https://github.com/WyriHaximus/Makefiles/pull/51) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 - [Run on install or update twice](https://github.com/WyriHaximus/Makefiles/pull/50) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 - [Introduce PHP Migration commands to keep PHP packages in shape](https://github.com/WyriHaximus/Makefiles/pull/49) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
-- [Improve performance by only going to docker if we don&#39;t have composer](https://github.com/WyriHaximus/Makefiles/pull/48) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 
 ---
 
