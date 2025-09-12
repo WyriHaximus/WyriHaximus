@@ -10,6 +10,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
@@ -18,7 +19,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (2 days ago)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (3 days ago)
 - [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (3 days ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (3 days ago)
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (3 days ago)
 - [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (3 days ago)
@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Update composer.lock without going over the network](https://github.com/WyriHaximus/Makefiles/pull/60) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Ensure that the PHPUnit XDS referred in etc/qa/phpunit.xml points to vendor/phpunit/phpunit/phpunit.xsd so we don&#39;t go over the network](https://github.com/WyriHaximus/Makefiles/pull/59) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Ensure we configure infection to emit logs to GitHub in etc/qa/infection.json5](https://github.com/WyriHaximus/Makefiles/pull/58) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [Only update logs properties that are strings](https://github.com/WyriHaximus/Makefiles/pull/57) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 - [Add PHP Migration: Fix logs paths in etc/qa/infection.json5](https://github.com/WyriHaximus/Makefiles/pull/56) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [PHP Migrations: #### Create empty infection.json.dist to fool Renovate](https://github.com/WyriHaximus/Makefiles/pull/52) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
 - [Update copyright year to 2025](https://github.com/WyriHaximus/php-fake-php-version/pull/158) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (6 days ago)
 - [Revert &#34;Run on install or update twice&#34;](https://github.com/WyriHaximus/Makefiles/pull/51) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [Run on install or update twice](https://github.com/WyriHaximus/Makefiles/pull/50) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [Introduce PHP Migration commands to keep PHP packages in shape](https://github.com/WyriHaximus/Makefiles/pull/49) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 
 ---
 
