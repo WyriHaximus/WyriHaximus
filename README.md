@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (today)
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
+- [reactphp-parallel/renovate-runner](https://github.com/reactphp-parallel/renovate-runner) (today)
+- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (today)
+- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [WyriHaximus/php-json-utilities](https://github.com/WyriHaximus/php-json-utilities) (today)
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
+- [WyriHaximus/php-json-utilities](https://github.com/WyriHaximus/php-json-utilities) (today)
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (today)
+- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (today)
+- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
 - [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (today)
-- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (today)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
-- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (today)
-- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 
 ---
 
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([5.1.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/5.1.0), today) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.1.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.1.0), today) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.2.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.2.0), 1 day ago) - 
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.22.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.22.0), 5 days ago) - PHP Coding Standard
@@ -87,12 +88,15 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) ([0.1.0](https://github.com/reactphp-inspector/bunny/releases/tag/0.1.0), 2 weeks ago) - 
 - [reactphp-inspector/filesystem](https://github.com/reactphp-inspector/filesystem) ([0.1.0](https://github.com/reactphp-inspector/filesystem/releases/tag/0.1.0), 2 weeks ago) - Open Telemetry Auto Instrumentation for ReactPHP&#39;s Filesystem component
 - [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) ([0.1.0](https://github.com/reactphp-inspector/cache/releases/tag/0.1.0), 2 weeks ago) - Port of PSR16 auto instrumentation for react/cache
-- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) ([2.3.0](https://github.com/WyriHaximus/php-compress/releases/tag/2.3.0), 3 weeks ago) - 
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [[2.x] Update to PHP 8.4](https://github.com/reactphp-parallel/streams/pull/56) on [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (today)
+- [[2.x] Update to PHP 8.4](https://github.com/reactphp-parallel/event-loop/pull/83) on [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (today)
+- [Update to PHP 8.4](https://github.com/reactphp-parallel/test-pool/pull/21) on [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (today)
+- [Update to PHP 8.4&#43;](https://github.com/reactphp-parallel/pool-tests/pull/65) on [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (today)
 - [Updated to PHP 8.4](https://github.com/reactphp-parallel/stubs/pull/12) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (today)
 - [Add GitHub Actions migrations](https://github.com/WyriHaximus/Makefiles/pull/62) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Update composer.lock without going over the network](https://github.com/WyriHaximus/Makefiles/pull/60) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
@@ -102,10 +106,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Add PHP Migration: Fix logs paths in etc/qa/infection.json5](https://github.com/WyriHaximus/Makefiles/pull/56) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
 - [Fix bug in Docker detection](https://github.com/WyriHaximus/Makefiles/pull/55) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
 - [Revert &#34;PHP Migrations: #### Create empty infection.json.dist to fool Renovate&#34;](https://github.com/WyriHaximus/Makefiles/pull/54) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
-- [Don&#39;t try running in Docker if there is no Docker](https://github.com/WyriHaximus/Makefiles/pull/53) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
-- [Raise minimum PHP version to 8.4](https://github.com/WyriHaximus/php-json-psr7/pull/169) on [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (1 week ago)
-- [Raise minimum PHP version to 8.4](https://github.com/WyriHaximus/php-json-utilities/pull/62) on [WyriHaximus/php-json-utilities](https://github.com/WyriHaximus/php-json-utilities) (1 week ago)
-- [PHP Migrations: #### Create empty infection.json.dist to fool Renovate](https://github.com/WyriHaximus/Makefiles/pull/52) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 
 ---
 
