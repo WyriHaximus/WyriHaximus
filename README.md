@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[2.x] Update to PHP 8.4&#43;](https://github.com/reactphp-parallel/limited-pool/pull/73) on [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (today)
 - [[3.x] Update to PHP 8.4&#43;](https://github.com/reactphp-parallel/infinite-pool/pull/77) on [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (today)
 - [Run tests on PHP 8.4 and update test environment](https://github.com/reactphp/event-loop/pull/280) on [reactphp/event-loop](https://github.com/reactphp/event-loop) (1 day ago)
 - [[0.6.x] Add support for creating Configuration from DSN](https://github.com/jakubkulhan/bunny/pull/194) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 - [Updated to PHP 8.4](https://github.com/reactphp-parallel/stubs/pull/12) on [reactphp-parallel/stubs](https://github.com/reactphp-parallel/stubs) (3 days ago)
 - [Add GitHub Actions migrations](https://github.com/WyriHaximus/Makefiles/pull/62) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [Update composer.lock without going over the network](https://github.com/WyriHaximus/Makefiles/pull/60) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
-- [Ensure that the PHPUnit XDS referred in etc/qa/phpunit.xml points to vendor/phpunit/phpunit/phpunit.xsd so we don&#39;t go over the network](https://github.com/WyriHaximus/Makefiles/pull/59) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 
 ---
 
