@@ -2,7 +2,7 @@ Hi!
 
 I am Cees-Jan Kiewiet.
 
-All new major package releases will be in PHP 8.3, and most most minor updates will also be raised to 8.3 when doing update rounds. In specific situations a final release for the previous PHP version will be made before bumping to 8.3 in the next right after.
+All new major package releases will be in PHP 8.4, and most most minor updates will also be raised to 8.4 when doing update rounds. In specific situations, a final release for the previous PHP version will be made before bumping to 8.4 in the next right after.
 
 ![WyriHaximus's github stats](https://github-readme-stats.vercel.app/api?username=WyriHaximus&show_icons=true)
 
@@ -81,7 +81,8 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 #### 📫 How to reach me
 
 - Mastodon: [@wyri@haxim.us](https://toot-toot.wyrihaxim.us/@wyri)
+- BlueSky: [@wyri@haxim.us](https://bsky.app/profile/wyrihaxim.us)
 - Blog: [blog.wyrihaximus.net](https://blog.wyrihaximus.net/)
-- The X formally known as Twitter: [@WyriHaximus](https://twitter.com/WyriHaximus)
-- Website: [wyrihaximus.net](https://wyrihaximus.net/)
+- Website: [WyriHaximus.net](https://wyrihaximus.net/)
 - Email: [github@ceesjankiewiet.nl](mailto:github@ceesjankiewiet.nl)
+- The X formally known as Twitter: [@WyriHaximus](https://twitter.com/WyriHaximus)
