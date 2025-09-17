@@ -2,7 +2,7 @@ Hi!
 
 I am Cees-Jan Kiewiet.
 
-All new major package releases will be in PHP 8.3, and most most minor updates will also be raised to 8.3 when doing update rounds. In specific situations a final release for the previous PHP version will be made before bumping to 8.3 in the next right after.
+All new major package releases will be in PHP 8.4, and most most minor updates will also be raised to 8.4 when doing update rounds. In specific situations, a final release for the previous PHP version will be made before bumping to 8.4 in the next right after.
 
 ![WyriHaximus's github stats](https://github-readme-stats.vercel.app/api?username=WyriHaximus&show_icons=true)
 
@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
+- [reactphp-parallel/renovate-runner](https://github.com/reactphp-parallel/renovate-runner) (today)
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (today)
-- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (1 day ago)
+- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (today)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (1 day ago)
+- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (1 day ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
-- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (3 days ago)
-- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (3 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (3 days ago)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (4 days ago)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (4 days ago)
+- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (3 days ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (3 days ago)
 
 ---
 
@@ -157,7 +157,8 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 #### 📫 How to reach me
 
 - Mastodon: [@wyri@haxim.us](https://toot-toot.wyrihaxim.us/@wyri)
+- BlueSky: [@wyri@haxim.us](https://bsky.app/profile/wyrihaxim.us)
 - Blog: [blog.wyrihaximus.net](https://blog.wyrihaximus.net/)
-- The X formally known as Twitter: [@WyriHaximus](https://twitter.com/WyriHaximus)
-- Website: [wyrihaximus.net](https://wyrihaximus.net/)
+- Website: [WyriHaximus.net](https://wyrihaximus.net/)
 - Email: [github@ceesjankiewiet.nl](mailto:github@ceesjankiewiet.nl)
+- The X formally known as Twitter: [@WyriHaximus](https://twitter.com/WyriHaximus)
