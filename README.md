@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.3, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (today)
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (1 day ago)
 - [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (1 day ago)
+- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (1 day ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
-- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (3 days ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (3 days ago)
 - [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (3 days ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (3 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (4 days ago)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (4 days ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (4 days ago)
 
 ---
