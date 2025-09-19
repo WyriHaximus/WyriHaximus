@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5
 
       - name: generate SVG
-        uses: cyprieng/github-breakout@90be7fe2a0909a65dfae356079298bce401094e0 # v1.0.0
+        uses: cyprieng/github-breakout@e07b17967f41a918090383c52206198d9c22c35a # v1.2.1
         with:
           github_username: ${{ github.repository_owner }}
 
