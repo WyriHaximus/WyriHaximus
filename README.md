@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
+- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
-- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 day ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (2 days ago)
 - [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (2 days ago)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (2 days ago)
 - [reactphp-parallel/renovate-runner](https://github.com/reactphp-parallel/renovate-runner) (2 days ago)
 - [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (2 days ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (3 days ago)
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (3 days ago)
-- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (4 days ago)
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (4 days ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
+- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (4 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
 
 ---
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Run apk upgrade with --no-cache](https://github.com/WyriHaximusNet/docker-php/pull/324) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [ksort](https://github.com/WyriHaximus/php-json-psr7/pull/173) on [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (1 day ago)
 - [Fix scheduler recursion](https://github.com/WyriHaximus/reactphp-cron/pull/104) on [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 day ago)
 - [[0.6.x] Include benchmark, examples, and tutorial in PHPCS runs](https://github.com/jakubkulhan/bunny/pull/195) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [[3.x] Update to PHP 8.4](https://github.com/reactphp-parallel/runtime/pull/83) on [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 week ago)
 - [Add remove etc/qa/psalm.xml PHP migration](https://github.com/WyriHaximus/Makefiles/pull/63) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [[2.x] Update to PHP 8.4](https://github.com/reactphp-parallel/streams/pull/56) on [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (1 week ago)
-- [[2.x] Update to PHP 8.4](https://github.com/reactphp-parallel/event-loop/pull/83) on [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 week ago)
 
 ---
 
