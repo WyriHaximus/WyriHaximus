@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (today)
 - [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (today)
+- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (today)
+- [reactphp-parallel/renovate-runner](https://github.com/reactphp-parallel/renovate-runner) (today)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (2 days ago)
-- [reactphp-parallel/renovate-runner](https://github.com/reactphp-parallel/renovate-runner) (3 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (3 days ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (3 days ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (4 days ago)
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (4 days ago)
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (5 days ago)
 - [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (5 days ago)
 
 ---
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Fix uses: renovatebot/github-action version hallucination](https://github.com/WyriHaximus/github-action-renovatebot/pull/2) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
 - [Swap trigger array for Trigger object](https://github.com/MammatusPHP/kubernetes-keda/pull/17) on [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (today)
 - [Support Prometheus in typing](https://github.com/MammatusPHP/kubernetes-keda/pull/16) on [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 day ago)
 - [Run apk upgrade with --no-cache](https://github.com/WyriHaximusNet/docker-php/pull/324) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [[3.x] Update to PHP 8.4&#43;](https://github.com/reactphp-parallel/infinite-pool/pull/77) on [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (5 days ago)
 - [Run tests on PHP 8.4 and update test environment](https://github.com/reactphp/event-loop/pull/280) on [reactphp/event-loop](https://github.com/reactphp/event-loop) (6 days ago)
 - [[0.6.x] Add support for creating Configuration from DSN](https://github.com/jakubkulhan/bunny/pull/194) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
-- [[3.x] Update to PHP 8.4](https://github.com/reactphp-parallel/runtime/pull/83) on [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 week ago)
 
 ---
 
