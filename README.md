@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (today)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
+- [reactphp-parallel/renovate-runner](https://github.com/reactphp-parallel/renovate-runner) (today)
 - [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (today)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
-- [MammatusPHP/test-utilities](https://github.com/MammatusPHP/test-utilities) (today)
-- [reactphp-parallel/renovate-runner](https://github.com/reactphp-parallel/renovate-runner) (today)
-- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (today)
 - [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (today)
+- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (today)
+- [MammatusPHP/test-utilities](https://github.com/MammatusPHP/test-utilities) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (2 days ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (3 days ago)
 - [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (3 days ago)
 
 ---
