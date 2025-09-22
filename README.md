@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Bump to PHP 8.4&#43;](https://github.com/MammatusPHP/kubernetes-keda/pull/21) on [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (today)
+- [Bump to PHP 8.4&#43;](https://github.com/MammatusPHP/kubernetes/pull/11) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (today)
 - [Add support for RENOVATE_HOST_RULES](https://github.com/WyriHaximus/github-action-renovatebot/pull/6) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
 - [No need to create commit](https://github.com/WyriHaximus/github-action-renovatebot/pull/5) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
 - [Drop pre-commit script, we don&#39;t use it](https://github.com/WyriHaximus/github-action-renovatebot/pull/4) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [ksort](https://github.com/WyriHaximus/php-json-psr7/pull/173) on [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (3 days ago)
 - [Fix scheduler recursion](https://github.com/WyriHaximus/reactphp-cron/pull/104) on [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (3 days ago)
 - [[0.6.x] Include benchmark, examples, and tutorial in PHPCS runs](https://github.com/jakubkulhan/bunny/pull/195) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (4 days ago)
-- [Makefiles 0.6 to 0.6.0](https://github.com/WyriHaximus/php-json-psr7/pull/172) on [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (4 days ago)
-- [[2.x] Update to PHP 8.4&#43;](https://github.com/reactphp-parallel/reactphp-parallel/pull/74) on [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (6 days ago)
 
 ---
 
