@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Introduce PSR-20 clock support to improve testing](https://github.com/WyriHaximus/reactphp-cron/pull/105) on [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (today)
 - [[New Version] Update versions file to PHP 8.4.13](https://github.com/WyriHaximus/php-fake-php-version/pull/159) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [Update to PHP 8.4&#43;](https://github.com/MammatusPHP/cron/pull/98) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [Update to PHP 8.4&#43;](https://github.com/MammatusPHP/app/pull/51) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Fix uses: renovatebot/github-action version hallucination](https://github.com/WyriHaximus/github-action-renovatebot/pull/2) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
 - [Swap trigger array for Trigger object](https://github.com/MammatusPHP/kubernetes-keda/pull/17) on [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (2 days ago)
 - [Support Prometheus in typing](https://github.com/MammatusPHP/kubernetes-keda/pull/16) on [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (3 days ago)
-- [Run apk upgrade with --no-cache](https://github.com/WyriHaximusNet/docker-php/pull/324) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
 
 ---
 
