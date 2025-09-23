@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Update to PHP 8.4&#43;](https://github.com/MammatusPHP/cron/pull/98) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
+- [Update to PHP 8.4&#43;](https://github.com/MammatusPHP/app/pull/51) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
 - [Bump to PHP 8.4&#43;](https://github.com/MammatusPHP/kubernetes-keda/pull/21) on [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 day ago)
 - [Bump to PHP 8.4&#43;](https://github.com/MammatusPHP/kubernetes/pull/11) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 day ago)
 - [Add support for RENOVATE_HOST_RULES](https://github.com/WyriHaximus/github-action-renovatebot/pull/6) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Support Prometheus in typing](https://github.com/MammatusPHP/kubernetes-keda/pull/16) on [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (3 days ago)
 - [Run apk upgrade with --no-cache](https://github.com/WyriHaximusNet/docker-php/pull/324) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
 - [ksort](https://github.com/WyriHaximus/php-json-psr7/pull/173) on [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (4 days ago)
-- [Fix scheduler recursion](https://github.com/WyriHaximus/reactphp-cron/pull/104) on [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (4 days ago)
-- [[0.6.x] Include benchmark, examples, and tutorial in PHPCS runs](https://github.com/jakubkulhan/bunny/pull/195) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
 
 ---
 
