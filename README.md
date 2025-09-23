@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 day ago)
 - [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (1 day ago)
-- [reactphp-parallel/renovate-runner](https://github.com/reactphp-parallel/renovate-runner) (2 days ago)
+- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (2 days ago)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
+- [MammatusPHP/test-utilities](https://github.com/MammatusPHP/test-utilities) (2 days ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (2 days ago)
 - [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (2 days ago)
-- [MammatusPHP/test-utilities](https://github.com/MammatusPHP/test-utilities) (2 days ago)
-- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (2 days ago)
+- [reactphp-parallel/renovate-runner](https://github.com/reactphp-parallel/renovate-runner) (2 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (4 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (4 days ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (5 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
 
 ---
 
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.22](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.22), today) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) ([0.1.0](https://github.com/MammatusPHP/queue-attributes/releases/tag/0.1.0), today) - 
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.5](https://github.com/composer-unused/composer-unused/releases/tag/0.9.5), 1 day ago) - Show unused composer dependencies by scanning your code
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.2.0](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.2.0), 2 days ago) - Wrapper around renovatebot/github-action
@@ -85,7 +86,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.22.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.22.0), 2 weeks ago) - PHP Coding Standard
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.5](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.5), 2 weeks ago) - Makefile building blocks
 - [WyriHaximus/php-json-utilities](https://github.com/WyriHaximus/php-json-utilities) ([1.4.0](https://github.com/WyriHaximus/php-json-utilities/releases/tag/1.4.0), 2 weeks ago) - Utilities for php-json-* packages
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.21](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.21), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.14.0](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.14.0), 3 weeks ago) - Forked from https://github.com/k8s-at-home/charts
 - [reactphp-inspector/dns](https://github.com/reactphp-inspector/dns) ([0.1.0](https://github.com/reactphp-inspector/dns/releases/tag/0.1.0), 4 weeks ago) - Open Telemetry Auto Instrumentation for ReactPHP&#39;s DNS component
 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[New Version] Update versions file to PHP 8.4.13](https://github.com/WyriHaximus/php-fake-php-version/pull/159) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [Update to PHP 8.4&#43;](https://github.com/MammatusPHP/cron/pull/98) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [Update to PHP 8.4&#43;](https://github.com/MammatusPHP/app/pull/51) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
 - [Bump to PHP 8.4&#43;](https://github.com/MammatusPHP/kubernetes-keda/pull/21) on [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Swap trigger array for Trigger object](https://github.com/MammatusPHP/kubernetes-keda/pull/17) on [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (2 days ago)
 - [Support Prometheus in typing](https://github.com/MammatusPHP/kubernetes-keda/pull/16) on [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (3 days ago)
 - [Run apk upgrade with --no-cache](https://github.com/WyriHaximusNet/docker-php/pull/324) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
-- [ksort](https://github.com/WyriHaximus/php-json-psr7/pull/173) on [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (4 days ago)
 
 ---
 
