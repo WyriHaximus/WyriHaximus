@@ -12,16 +12,16 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
 - [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (2 days ago)
 - [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (2 days ago)
-- [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (3 days ago)
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (3 days ago)
-- [MammatusPHP/test-utilities](https://github.com/MammatusPHP/test-utilities) (3 days ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (3 days ago)
+- [MammatusPHP/test-utilities](https://github.com/MammatusPHP/test-utilities) (3 days ago)
+- [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (3 days ago)
 - [reactphp-parallel/renovate-runner](https://github.com/reactphp-parallel/renovate-runner) (3 days ago)
 - [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (3 days ago)
-- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (5 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
 
 ---
@@ -75,11 +75,11 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.3.0](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.3.0), today) - Wrapper around renovatebot/github-action
 - [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) ([0.1.0](https://github.com/MammatusPHP/queue-contracts/releases/tag/0.1.0), 1 day ago) - 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.22](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.22), 1 day ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) ([0.1.0](https://github.com/MammatusPHP/queue-attributes/releases/tag/0.1.0), 1 day ago) - 
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.5](https://github.com/composer-unused/composer-unused/releases/tag/0.9.5), 2 days ago) - Show unused composer dependencies by scanning your code
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.2.0](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.2.0), 3 days ago) - Wrapper around renovatebot/github-action
 - [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) ([3.0.0](https://github.com/WyriHaximus/php-psr-3-context-logger/releases/tag/3.0.0), 6 days ago) - PSR-3 context decorator
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([5.1.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/5.1.0), 1 week ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.1.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.1.0), 1 week ago) - 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Make sure we mount the docker socket](https://github.com/WyriHaximus/github-action-renovatebot/pull/7) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
 - [Introduce GitHub Migrations](https://github.com/WyriHaximus/Makefiles/pull/64) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Don&#39;t add (updated) apk cache into image](https://github.com/WyriHaximusNet/docker-php/pull/325) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Update to PHP 8.4&#43;](https://github.com/MammatusPHP/queue/pull/25) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add support for RENOVATE_HOST_RULES](https://github.com/WyriHaximus/github-action-renovatebot/pull/6) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (3 days ago)
 - [No need to create commit](https://github.com/WyriHaximus/github-action-renovatebot/pull/5) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (3 days ago)
 - [Drop pre-commit script, we don&#39;t use it](https://github.com/WyriHaximus/github-action-renovatebot/pull/4) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (3 days ago)
-- [Turn off OCI image retagging](https://github.com/WyriHaximus/github-action-renovatebot/pull/3) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (3 days ago)
 
 ---
 
