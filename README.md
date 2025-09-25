@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) ([3.0.0](https://github.com/ecoAPM/php-libyear/releases/tag/3.0.0), today) - A simple measure of dependency freshness
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.3.0](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.3.0), 1 day ago) - Wrapper around renovatebot/github-action
 - [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) ([0.1.0](https://github.com/MammatusPHP/queue-contracts/releases/tag/0.1.0), 2 days ago) - 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.22](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.22), 2 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
@@ -87,7 +88,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.22.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.22.0), 2 weeks ago) - PHP Coding Standard
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.5](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.5), 2 weeks ago) - Makefile building blocks
 - [WyriHaximus/php-json-utilities](https://github.com/WyriHaximus/php-json-utilities) ([1.4.0](https://github.com/WyriHaximus/php-json-utilities/releases/tag/1.4.0), 2 weeks ago) - Utilities for php-json-* packages
-- [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.14.0](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.14.0), 4 weeks ago) - Forked from https://github.com/k8s-at-home/charts
 
 ---
 
