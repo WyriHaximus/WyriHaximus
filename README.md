@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
+- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (today)
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 day ago)
-- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 day ago)
-- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (1 day ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [reactphp-parallel/renovate-runner](https://github.com/reactphp-parallel/renovate-runner) (1 day ago)
-- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 day ago)
+- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (1 day ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
+- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 day ago)
+- [reactphp-parallel/renovate-runner](https://github.com/reactphp-parallel/renovate-runner) (1 day ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
-- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (2 days ago)
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (2 days ago)
-- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (2 days ago)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
+- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (2 days ago)
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (2 days ago)
 
 ---
 
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) ([5.3.0](https://github.com/WyriHaximus/reactphp-cron/releases/tag/5.3.0), today) - Cronlike scheduler running inside a ReactPHP Event Loop
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r62](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r62), today) - 
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.2.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.2.0), 1 day ago) - 
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.3.2](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.3.2), 1 day ago) - Wrapper around renovatebot/github-action
@@ -87,7 +88,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) ([3.0.0](https://github.com/WyriHaximus/php-psr-3-context-logger/releases/tag/3.0.0), 1 week ago) - PSR-3 context decorator
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([5.1.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/5.1.0), 2 weeks ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.22.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.22.0), 3 weeks ago) - PHP Coding Standard
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.5](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.5), 3 weeks ago) - Makefile building blocks
 
 ---
 
