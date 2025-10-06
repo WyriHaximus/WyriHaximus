@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 day ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
-- [reactphp-parallel/renovate-runner](https://github.com/reactphp-parallel/renovate-runner) (4 days ago)
 - [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (4 days ago)
-- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (4 days ago)
 - [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (4 days ago)
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (4 days ago)
-- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (4 days ago)
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (4 days ago)
 - [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (4 days ago)
-- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (4 days ago)
+- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (4 days ago)
+- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (4 days ago)
+- [reactphp-parallel/renovate-runner](https://github.com/reactphp-parallel/renovate-runner) (4 days ago)
+- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (4 days ago)
 
 ---
 
@@ -57,6 +57,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🌱 My latest projects
 
+- [WyriHaximus/infectionphp-phpstan-2417](https://github.com/WyriHaximus/infectionphp-phpstan-2417) - 
 - [WyriHaximus/github-template-renovate-runner](https://github.com/WyriHaximus/github-template-renovate-runner) - GitHub Template repository for setting up self hosted Renovate Runners on GitHub Actions with my preferred config
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) - Wrapper around renovatebot/github-action
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) - renovate-runner
@@ -69,7 +70,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/playground-github-action-mixed-js-docker](https://github.com/WyriHaximus/playground-github-action-mixed-js-docker) - Playground to work on shared workflows
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) - 
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) - Trait to run all tests in a fiber
-- [WyriHaximus/php-metrics-prometheus-push-gateway](https://github.com/WyriHaximus/php-metrics-prometheus-push-gateway) - Prom Push Gateway package for wyrihaximus/metrics
 
 ---
 
@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add sponge util](https://github.com/WyriHaximusNet/docker-php/pull/327) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
+- [Drop the need for TTY](https://github.com/WyriHaximus/Makefiles/pull/69) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Post: Unlock Composer Plugins by Self Hosting Renovate](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/218) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (5 days ago)
 - [Migration: Align Renovate config](https://github.com/WyriHaximus/Makefiles/pull/68) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
 - [Introduce Renovate Migrations](https://github.com/WyriHaximus/Makefiles/pull/67) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Update to PHP 8.4&#43;](https://github.com/MammatusPHP/queue/pull/25) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 week ago)
 - [Introduce PSR-20 clock support to improve testing](https://github.com/WyriHaximus/reactphp-cron/pull/105) on [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 week ago)
 - [[New Version] Update versions file to PHP 8.4.13](https://github.com/WyriHaximus/php-fake-php-version/pull/159) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
-- [Update to PHP 8.4&#43;](https://github.com/MammatusPHP/cron/pull/98) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 week ago)
-- [Update to PHP 8.4&#43;](https://github.com/MammatusPHP/app/pull/51) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 week ago)
 
 ---
 
