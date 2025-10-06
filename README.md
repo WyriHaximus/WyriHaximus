@@ -10,25 +10,25 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
-- [reactphp-parallel/renovate-runner](https://github.com/reactphp-parallel/renovate-runner) (3 days ago)
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (3 days ago)
-- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (3 days ago)
-- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (3 days ago)
-- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (3 days ago)
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (3 days ago)
-- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (3 days ago)
-- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (3 days ago)
-- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (3 days ago)
-- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (4 days ago)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 day ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
+- [reactphp-parallel/renovate-runner](https://github.com/reactphp-parallel/renovate-runner) (4 days ago)
+- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (4 days ago)
+- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (4 days ago)
+- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (4 days ago)
+- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (4 days ago)
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (4 days ago)
+- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (4 days ago)
+- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (4 days ago)
+- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (4 days ago)
+- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (5 days ago)
 
 ---
 
 ### 📜 My latest articles on [WyriHaximus.net](https://blog.wyrihaximus.net/)
 
-- [Unlock Composer Plugins by Self Hosting Renovate](https://blog.wyrihaximus.net/2025/10/unlock-composer-plugins-by-self-hosting-renovate/) (4 days ago)
+- [Unlock Composer Plugins by Self Hosting Renovate](https://blog.wyrihaximus.net/2025/10/unlock-composer-plugins-by-self-hosting-renovate/) (5 days ago)
 - [ReactPHP Parallel v2(.1)](https://blog.wyrihaximus.net/2025/06/reactphp-parallel-v2-/) (4 months ago)
 - [Announcing TestInfra Action](https://blog.wyrihaximus.net/2025/03/announcing-testinfra-action/) (6 months ago)
 - [Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Enclosure](https://blog.wyrihaximus.net/2024/12/building-a-kubernetes-homelab-with-raspberry-pies-and-lego-nodes-enclosure/) (9 months ago)
@@ -75,27 +75,27 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) ([5.3.0](https://github.com/WyriHaximus/reactphp-cron/releases/tag/5.3.0), 4 days ago) - Cronlike scheduler running inside a ReactPHP Event Loop
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r62](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r62), 4 days ago) - 
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.2.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.2.0), 5 days ago) - 
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.3.2](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.3.2), 5 days ago) - Wrapper around renovatebot/github-action
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.3.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.3.0), 6 days ago) - 
+- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) ([5.3.0](https://github.com/WyriHaximus/reactphp-cron/releases/tag/5.3.0), 5 days ago) - Cronlike scheduler running inside a ReactPHP Event Loop
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r62](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r62), 5 days ago) - 
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.2.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.2.0), 6 days ago) - 
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.3.2](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.3.2), 6 days ago) - Wrapper around renovatebot/github-action
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.3.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.3.0), 1 week ago) - 
 - [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) ([3.0.0](https://github.com/ecoAPM/php-libyear/releases/tag/3.0.0), 1 week ago) - A simple measure of dependency freshness
 - [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) ([0.1.0](https://github.com/MammatusPHP/queue-contracts/releases/tag/0.1.0), 1 week ago) - 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.22](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.22), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) ([0.1.0](https://github.com/MammatusPHP/queue-attributes/releases/tag/0.1.0), 1 week ago) - 
-- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.5](https://github.com/composer-unused/composer-unused/releases/tag/0.9.5), 1 week ago) - Show unused composer dependencies by scanning your code
+- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.5](https://github.com/composer-unused/composer-unused/releases/tag/0.9.5), 2 weeks ago) - Show unused composer dependencies by scanning your code
 - [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) ([3.0.0](https://github.com/WyriHaximus/php-psr-3-context-logger/releases/tag/3.0.0), 2 weeks ago) - PSR-3 context decorator
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([5.1.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/5.1.0), 3 weeks ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.22.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.22.0), 3 weeks ago) - PHP Coding Standard
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([2.22.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/2.22.0), 4 weeks ago) - PHP Coding Standard
 
 ---
 
 #### 🔨 My recent Pull Requests
 
-- [Post: Unlock Composer Plugins by Self Hosting Renovate](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/218) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (4 days ago)
-- [Migration: Align Renovate config](https://github.com/WyriHaximus/Makefiles/pull/68) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
-- [Introduce Renovate Migrations](https://github.com/WyriHaximus/Makefiles/pull/67) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
+- [Post: Unlock Composer Plugins by Self Hosting Renovate](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/218) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (5 days ago)
+- [Migration: Align Renovate config](https://github.com/WyriHaximus/Makefiles/pull/68) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
+- [Introduce Renovate Migrations](https://github.com/WyriHaximus/Makefiles/pull/67) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
 - [Utilize PSR-20 clock to control time (and speed up tests)](https://github.com/WyriHaximus/reactphp-cron/pull/106) on [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 week ago)
 - [Restore temporary disabled matrix](https://github.com/usabilla/php-docker-template/pull/205) on [usabilla/php-docker-template](https://github.com/usabilla/php-docker-template) (1 week ago)
 - [Make sure we mount the docker socket](https://github.com/WyriHaximus/github-action-renovatebot/pull/7) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 week ago)
@@ -111,16 +111,16 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
-- [analogwhisper/slack-ground-colors](https://github.com/analogwhisper/slack-ground-colors) - Customize the background color of slack channels and private messages!  (2 days ago)
+- [analogwhisper/slack-ground-colors](https://github.com/analogwhisper/slack-ground-colors) - Customize the background color of slack channels and private messages!  (3 days ago)
 - [ksimes/trainControl](https://github.com/ksimes/trainControl) - Simple control of a LEGO Train set 60197 using Bluetooth from a Rasp Pi A&#43; running Python using MQTT client and a website with an Angular front end and PHP MQTT publisher back end. (1 week ago)
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif (2 weeks ago)
 - [contributte/rabbitmq](https://github.com/contributte/rabbitmq) - 🐰 RabbitMQ (AMQP, STOMP, MQTT) using BunnyPHP for Nette Framework (@nette). (2 weeks ago)
 - [jpetazzo/snakedeck](https://github.com/jpetazzo/snakedeck) - Elgato StreamDeck controller for Linux, in Python. (3 weeks ago)
 - [hikhvar/mqtt2prometheus](https://github.com/hikhvar/mqtt2prometheus) - MQTT to Prometheus gateway (3 weeks ago)
 - [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies and invalid licenses in your PRs (3 weeks ago)
-- [tssge/prometheus-devolo-exporter](https://github.com/tssge/prometheus-devolo-exporter) - Devolo ethernet over powerline adapter metrics exporter for Prometheus (3 weeks ago)
+- [tssge/prometheus-devolo-exporter](https://github.com/tssge/prometheus-devolo-exporter) - Devolo ethernet over powerline adapter metrics exporter for Prometheus (4 weeks ago)
 - [actions/create-github-app-token](https://github.com/actions/create-github-app-token) - GitHub Action for creating a GitHub App Installation Access Token (1 month ago)
-- [MindFreeze/ha-sankey-chart](https://github.com/MindFreeze/ha-sankey-chart) - A Home Assistant lovelace card to display a sankey chart. For example for power consumption (1 month ago)
+- [MindFreeze/ha-sankey-chart](https://github.com/MindFreeze/ha-sankey-chart) - A Home Assistant lovelace card to display a sankey chart. For example for power consumption (2 months ago)
 - [php-amqp/php-amqp](https://github.com/php-amqp/php-amqp) - PHP extension to communicate with any AMQP compliant server (2 months ago)
 - [ikalnytskyi/action-setup-postgres](https://github.com/ikalnytskyi/action-setup-postgres) - Setup a PostgreSQL for Linux, macOS and Windows runner machines. (2 months ago)
 - [kassner/caddy-trapdoor](https://github.com/kassner/caddy-trapdoor) -  (2 months ago)
