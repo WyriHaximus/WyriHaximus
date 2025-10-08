@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.6](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.6), today) - Makefile building blocks
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.3.4](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.3.4), today) - Wrapper around renovatebot/github-action
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.4.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.4.0), 1 day ago) - 
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.34](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.34), 2 days ago) - 
@@ -87,7 +88,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) ([0.1.0](https://github.com/MammatusPHP/queue-attributes/releases/tag/0.1.0), 2 weeks ago) - 
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.5](https://github.com/composer-unused/composer-unused/releases/tag/0.9.5), 2 weeks ago) - Show unused composer dependencies by scanning your code
 - [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) ([3.0.0](https://github.com/WyriHaximus/php-psr-3-context-logger/releases/tag/3.0.0), 2 weeks ago) - PSR-3 context decorator
-- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([5.1.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/5.1.0), 3 weeks ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
 
 ---
 
