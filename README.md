@@ -12,17 +12,17 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (today)
-- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (today)
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (today)
-- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (today)
-- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (today)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
-- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (today)
 - [reactphp-parallel/renovate-runner](https://github.com/reactphp-parallel/renovate-runner) (today)
-- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (today)
+- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (today)
 - [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (today)
+- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (today)
+- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (today)
+- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (today)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (today)
+- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (today)
 - [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (today)
+- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (today)
 
 ---
 
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([5.2.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/5.2.0), today) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.4.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.4.0), 1 day ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.5.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.5.0), 1 day ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.20.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.20.0), 1 day ago) - 🌯 PHPStan rules wrapper
@@ -87,12 +88,13 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) ([0.1.0](https://github.com/MammatusPHP/queue-contracts/releases/tag/0.1.0), 2 weeks ago) - 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.22](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.22), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) ([0.1.0](https://github.com/MammatusPHP/queue-attributes/releases/tag/0.1.0), 2 weeks ago) - 
-- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.5](https://github.com/composer-unused/composer-unused/releases/tag/0.9.5), 2 weeks ago) - Show unused composer dependencies by scanning your code
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Update to PHP 8.4&#43;](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger/pull/61) on [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (today)
+- [[5.x] QA Update](https://github.com/reactphp-parallel/pool-tests/pull/69) on [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (today)
 - [Refine PHPStan ignore annotations in CollectorMiddleware](https://github.com/WyriHaximus/php-metrics-tactician/pull/50) on [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (today)
 - [Move level=max to PHPStan config through a migration](https://github.com/WyriHaximus/Makefiles/pull/72) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Move paths to PHPStan config through a migration](https://github.com/WyriHaximus/Makefiles/pull/71) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Migration: Align Renovate config](https://github.com/WyriHaximus/Makefiles/pull/68) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Introduce Renovate Migrations](https://github.com/WyriHaximus/Makefiles/pull/67) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Utilize PSR-20 clock to control time (and speed up tests)](https://github.com/WyriHaximus/reactphp-cron/pull/106) on [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 week ago)
-- [Restore temporary disabled matrix](https://github.com/usabilla/php-docker-template/pull/205) on [usabilla/php-docker-template](https://github.com/usabilla/php-docker-template) (2 weeks ago)
-- [Make sure we mount the docker socket](https://github.com/WyriHaximus/github-action-renovatebot/pull/7) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 weeks ago)
 
 ---
 
@@ -146,11 +146,11 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 👯 Check out some of my recent followers
 
+- [vavilovnv](https://github.com/vavilovnv)
 - [emilycodestar](https://github.com/emilycodestar)
 - [chiefkarim](https://github.com/chiefkarim)
 - [KenyanRedwoods01](https://github.com/KenyanRedwoods01)
 - [meysam1366](https://github.com/meysam1366)
-- [YaShhhhz](https://github.com/YaShhhhz)
 
 ---
 
