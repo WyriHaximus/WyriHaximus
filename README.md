@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (today)
+- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (today)
+- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (today)
 - [reactphp-parallel/renovate-runner](https://github.com/reactphp-parallel/renovate-runner) (today)
-- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (1 day ago)
-- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (1 day ago)
-- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (1 day ago)
-- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 day ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (1 day ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
-- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (1 day ago)
-- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 day ago)
-- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (1 day ago)
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 day ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (today)
+- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (today)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
+- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (today)
+- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (today)
 
 ---
 
