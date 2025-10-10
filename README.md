@@ -93,6 +93,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[1.x] Run tests on PHP 8.4 and update test environment](https://github.com/reactphp/http/pull/546) on [reactphp/http](https://github.com/reactphp/http) (today)
+- [Run tests on PHP 8.4 and update test environment](https://github.com/reactphp/stream/pull/184) on [reactphp/stream](https://github.com/reactphp/stream) (today)
+- [Run tests on PHP 8.4 and update test environment](https://github.com/reactphp/cache/pull/64) on [reactphp/cache](https://github.com/reactphp/cache) (today)
 - [Update to PHP 8.4&#43;](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger/pull/61) on [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (1 day ago)
 - [[5.x] QA Update](https://github.com/reactphp-parallel/pool-tests/pull/69) on [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (1 day ago)
 - [Refine PHPStan ignore annotations in CollectorMiddleware](https://github.com/WyriHaximus/php-metrics-tactician/pull/50) on [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (1 day ago)
@@ -103,9 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add sponge util](https://github.com/WyriHaximusNet/docker-php/pull/327) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
 - [Drop the need for TTY](https://github.com/WyriHaximus/Makefiles/pull/69) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 - [Post: Unlock Composer Plugins by Self Hosting Renovate](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/218) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
-- [Migration: Align Renovate config](https://github.com/WyriHaximus/Makefiles/pull/68) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [Introduce Renovate Migrations](https://github.com/WyriHaximus/Makefiles/pull/67) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [Utilize PSR-20 clock to control time (and speed up tests)](https://github.com/WyriHaximus/reactphp-cron/pull/106) on [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (2 weeks ago)
 
 ---
 
