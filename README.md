@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (today)
-- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (today)
 - [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (today)
-- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (today)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (today)
-- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (today)
+- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (today)
+- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (today)
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (today)
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
-- [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (today)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (today)
+- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (today)
+- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (today)
+- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (today)
+- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (today)
 
 ---
 
@@ -93,6 +93,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Make sure we have a PHPCS config file at etc/qa/phpcs.xml](https://github.com/WyriHaximus/Makefiles/pull/92) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Make sure we have a PHPUnit config file at etc/qa/phpunit.xml](https://github.com/WyriHaximus/Makefiles/pull/91) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Make sure we have a PHPStan config file at etc/qa/phpstan.neon](https://github.com/WyriHaximus/Makefiles/pull/90) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Create Infection config file if it doesn&#39;t exists at etc/qa/infection.json5](https://github.com/WyriHaximus/Makefiles/pull/89) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Create Composer Require Checker config file if it doesn&#39;t exists at e…](https://github.com/WyriHaximus/Makefiles/pull/88) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Update Composer Unused config file dropping a commented out line that is scattered cross my repos](https://github.com/WyriHaximus/Makefiles/pull/87) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Make sure we have etc/ci/markdown-link-checker.json](https://github.com/WyriHaximus/Makefiles/pull/86) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
@@ -102,10 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Ensure PHPStan config doesn&#39;t contain include for wyrihaximus/async-utilities/rules.neon or wyrihaximus/async-utilities/rules.neon as those are now extensions](https://github.com/WyriHaximus/Makefiles/pull/82) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Ensure PHPStan config doesn&#39;t contain checkGenericClassInNonGenericObjectType as it&#39;s no longer a valid config option](https://github.com/WyriHaximus/Makefiles/pull/81) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Ensure PHPStan config uses ergebnis.noExtends.classesAllowedToBeExtended not ergebnis.classesAllowedToBeExtended](https://github.com/WyriHaximus/Makefiles/pull/80) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Make sure PHPCS runs through etc](https://github.com/WyriHaximus/Makefiles/pull/79) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Run migrations before CS fix, Rector, etc](https://github.com/WyriHaximus/Makefiles/pull/78) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [When not found, create default config file for Rector](https://github.com/WyriHaximus/Makefiles/pull/77) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Raise minimum PHP version to 8.4](https://github.com/WyriHaximus/HtmlCompress/pull/199) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (today)
 
 ---
 
