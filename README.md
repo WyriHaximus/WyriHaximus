@@ -93,6 +93,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Make sure we have etc/ci/markdown-link-checker.json](https://github.com/WyriHaximus/Makefiles/pull/86) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Make sure etc/, etc/ci/, and etc/qa/ exists](https://github.com/WyriHaximus/Makefiles/pull/85) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Make sure we remove .github/dependabot.yml](https://github.com/WyriHaximus/Makefiles/pull/84) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Create Composer Unused config file if it doesn&#39;t exists at etc/qa/composer-unused.php](https://github.com/WyriHaximus/Makefiles/pull/83) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Ensure PHPStan config doesn&#39;t contain include for wyrihaximus/async-utilities/rules.neon or wyrihaximus/async-utilities/rules.neon as those are now extensions](https://github.com/WyriHaximus/Makefiles/pull/82) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Ensure PHPStan config doesn&#39;t contain checkGenericClassInNonGenericObjectType as it&#39;s no longer a valid config option](https://github.com/WyriHaximus/Makefiles/pull/81) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Ensure PHPStan config uses ergebnis.noExtends.classesAllowedToBeExtended not ergebnis.classesAllowedToBeExtended](https://github.com/WyriHaximus/Makefiles/pull/80) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
@@ -102,10 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Raise minimum PHP version to 8.4](https://github.com/WyriHaximus/HtmlCompress/pull/199) on [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (today)
 - [Ensure PHPStan config as parameters not commented out in etc/qa/phpstan.neon](https://github.com/WyriHaximus/Makefiles/pull/76) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Composer update lock fallback to network when it fails without](https://github.com/WyriHaximus/Makefiles/pull/75) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [[1.x] Run tests on PHP 8.4 and update test environment](https://github.com/reactphp/http/pull/546) on [reactphp/http](https://github.com/reactphp/http) (1 day ago)
-- [Run tests on PHP 8.4 and update test environment](https://github.com/reactphp/stream/pull/184) on [reactphp/stream](https://github.com/reactphp/stream) (1 day ago)
-- [Run tests on PHP 8.4 and update test environment](https://github.com/reactphp/cache/pull/64) on [reactphp/cache](https://github.com/reactphp/cache) (1 day ago)
-- [Update to PHP 8.4&#43;](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger/pull/61) on [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (2 days ago)
 
 ---
 
