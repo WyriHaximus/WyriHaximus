@@ -75,7 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.8](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.8), 1 day ago) - Makefile building blocks
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.9](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.9), today) - Makefile building blocks
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([5.2.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/5.2.0), 2 days ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.4.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.4.0), 3 days ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.5.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.5.0), 3 days ago) - 
@@ -93,6 +93,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Ensure PHPStan config doesn&#39;t contain include for wyrihaximus/async-utilities/rules.neon or wyrihaximus/async-utilities/rules.neon as those are now extensions](https://github.com/WyriHaximus/Makefiles/pull/82) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Ensure PHPStan config doesn&#39;t contain checkGenericClassInNonGenericObjectType as it&#39;s no longer a valid config option](https://github.com/WyriHaximus/Makefiles/pull/81) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Ensure PHPStan config uses ergebnis.noExtends.classesAllowedToBeExtended not ergebnis.classesAllowedToBeExtended](https://github.com/WyriHaximus/Makefiles/pull/80) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Make sure PHPCS runs through etc](https://github.com/WyriHaximus/Makefiles/pull/79) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Run migrations before CS fix, Rector, etc](https://github.com/WyriHaximus/Makefiles/pull/78) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [When not found, create default config file for Rector](https://github.com/WyriHaximus/Makefiles/pull/77) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
@@ -103,9 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Run tests on PHP 8.4 and update test environment](https://github.com/reactphp/stream/pull/184) on [reactphp/stream](https://github.com/reactphp/stream) (1 day ago)
 - [Run tests on PHP 8.4 and update test environment](https://github.com/reactphp/cache/pull/64) on [reactphp/cache](https://github.com/reactphp/cache) (1 day ago)
 - [Update to PHP 8.4&#43;](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger/pull/61) on [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (2 days ago)
-- [[5.x] QA Update](https://github.com/reactphp-parallel/pool-tests/pull/69) on [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (2 days ago)
-- [Refine PHPStan ignore annotations in CollectorMiddleware](https://github.com/WyriHaximus/php-metrics-tactician/pull/50) on [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (2 days ago)
-- [Move level=max to PHPStan config through a migration](https://github.com/WyriHaximus/Makefiles/pull/72) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 
 ---
 
