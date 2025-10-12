@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Move .github/workflows/ci.yml to .github/workflows/ci.yaml](https://github.com/WyriHaximus/Makefiles/pull/93) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Update to PHP8.4 and drop PSR-3 v2 and lower](https://github.com/WyriHaximus/php-psr-3-utilities/pull/61) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (today)
 - [Update to PHP8.4&#43;](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler/pull/77) on [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (today)
 - [Make sure we have a PHPCS config file at etc/qa/phpcs.xml](https://github.com/WyriHaximus/Makefiles/pull/92) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Make sure etc/, etc/ci/, and etc/qa/ exists](https://github.com/WyriHaximus/Makefiles/pull/85) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Make sure we remove .github/dependabot.yml](https://github.com/WyriHaximus/Makefiles/pull/84) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Create Composer Unused config file if it doesn&#39;t exists at etc/qa/composer-unused.php](https://github.com/WyriHaximus/Makefiles/pull/83) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Ensure PHPStan config doesn&#39;t contain include for wyrihaximus/async-utilities/rules.neon or wyrihaximus/async-utilities/rules.neon as those are now extensions](https://github.com/WyriHaximus/Makefiles/pull/82) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 
 ---
 
