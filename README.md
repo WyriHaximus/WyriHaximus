@@ -10,17 +10,17 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (today)
+- [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (today)
 - [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (today)
-- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (today)
 - [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (today)
-- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 day ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
-- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 day ago)
-- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (1 day ago)
+- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (today)
+- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (1 day ago)
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (1 day ago)
+- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 day ago)
+- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (1 day ago)
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 day ago)
 - [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (1 day ago)
 
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) ([2.3.0](https://github.com/WyriHaximus/php-psr-3-utilities/releases/tag/2.3.0), today) - 
 - [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) ([3.2.0](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler/releases/tag/3.2.0), today) - Formatted PSR-3 handler for Monolog
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.9](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.9), 1 day ago) - Makefile building blocks
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([5.2.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/5.2.0), 3 days ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
@@ -87,12 +88,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r62](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r62), 1 week ago) - 
 - [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) ([3.0.0](https://github.com/ecoAPM/php-libyear/releases/tag/3.0.0), 2 weeks ago) - A simple measure of dependency freshness
 - [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) ([0.1.0](https://github.com/MammatusPHP/queue-contracts/releases/tag/0.1.0), 2 weeks ago) - 
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.22](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.22), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Update to PHP8.4 and drop PSR-3 v2 and lower](https://github.com/WyriHaximus/php-psr-3-utilities/pull/61) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (today)
 - [Update to PHP8.4&#43;](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler/pull/77) on [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (today)
 - [Make sure we have a PHPCS config file at etc/qa/phpcs.xml](https://github.com/WyriHaximus/Makefiles/pull/92) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Make sure we have a PHPUnit config file at etc/qa/phpunit.xml](https://github.com/WyriHaximus/Makefiles/pull/91) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Make sure we remove .github/dependabot.yml](https://github.com/WyriHaximus/Makefiles/pull/84) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Create Composer Unused config file if it doesn&#39;t exists at etc/qa/composer-unused.php](https://github.com/WyriHaximus/Makefiles/pull/83) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Ensure PHPStan config doesn&#39;t contain include for wyrihaximus/async-utilities/rules.neon or wyrihaximus/async-utilities/rules.neon as those are now extensions](https://github.com/WyriHaximus/Makefiles/pull/82) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Ensure PHPStan config doesn&#39;t contain checkGenericClassInNonGenericObjectType as it&#39;s no longer a valid config option](https://github.com/WyriHaximus/Makefiles/pull/81) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 
 ---
 
