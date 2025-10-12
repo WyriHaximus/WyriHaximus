@@ -93,6 +93,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Remove set-milestone-on-pr.yaml it has been folded into centralized workflows through release-management.yaml](https://github.com/WyriHaximus/Makefiles/pull/97) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Remove craft-release.yaml it has been folded into centralized workflows through release-management.yaml](https://github.com/WyriHaximus/Makefiles/pull/96) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Remove markdown-check-links.yaml it has been folded into centralized workflows through ci.yaml](https://github.com/WyriHaximus/Makefiles/pull/95) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Remove composer-diff.yaml it has been folded into centralized workflows through ci.yaml](https://github.com/WyriHaximus/Makefiles/pull/94) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Move .github/workflows/ci.yml to .github/workflows/ci.yaml](https://github.com/WyriHaximus/Makefiles/pull/93) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Update to PHP8.4 and drop PSR-3 v2 and lower](https://github.com/WyriHaximus/php-psr-3-utilities/pull/61) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (today)
 - [Update to PHP8.4&#43;](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler/pull/77) on [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (today)
@@ -102,10 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Create Infection config file if it doesn&#39;t exists at etc/qa/infection.json5](https://github.com/WyriHaximus/Makefiles/pull/89) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Create Composer Require Checker config file if it doesn&#39;t exists at e…](https://github.com/WyriHaximus/Makefiles/pull/88) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Update Composer Unused config file dropping a commented out line that is scattered cross my repos](https://github.com/WyriHaximus/Makefiles/pull/87) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Make sure we have etc/ci/markdown-link-checker.json](https://github.com/WyriHaximus/Makefiles/pull/86) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Make sure etc/, etc/ci/, and etc/qa/ exists](https://github.com/WyriHaximus/Makefiles/pull/85) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Make sure we remove .github/dependabot.yml](https://github.com/WyriHaximus/Makefiles/pull/84) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Create Composer Unused config file if it doesn&#39;t exists at etc/qa/composer-unused.php](https://github.com/WyriHaximus/Makefiles/pull/83) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 
 ---
 
