@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (today)
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (today)
 - [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (today)
-- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (today)
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (today)
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (1 day ago)
-- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (today)
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
+- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (today)
+- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (1 day ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (1 day ago)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
-- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (1 day ago)
+- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (1 day ago)
+- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 day ago)
+- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (1 day ago)
 
 ---
 
@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Improve old CI detection](https://github.com/WyriHaximus/Makefiles/pull/104) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Update to PHP8.4&#43; and PSR-3 v3&#43;](https://github.com/WyriHaximus/reactphp-psr-3-stdio/pull/52) on [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) (today)
 - [Create Renovate Config if it doesn&#39;t exists at .github/renovate.json](https://github.com/WyriHaximus/Makefiles/pull/103) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Make sure we remove phpunit.xml.dist](https://github.com/WyriHaximus/Makefiles/pull/102) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Move psalm.xml to etc/qa/psalm.xml](https://github.com/WyriHaximus/Makefiles/pull/101) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Remove craft-release.yaml it has been folded into centralized workflows through release-management.yaml](https://github.com/WyriHaximus/Makefiles/pull/96) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Remove markdown-check-links.yaml it has been folded into centralized workflows through ci.yaml](https://github.com/WyriHaximus/Makefiles/pull/95) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Remove composer-diff.yaml it has been folded into centralized workflows through ci.yaml](https://github.com/WyriHaximus/Makefiles/pull/94) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Move .github/workflows/ci.yml to .github/workflows/ci.yaml](https://github.com/WyriHaximus/Makefiles/pull/93) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Update to PHP8.4 and drop PSR-3 v2 and lower](https://github.com/WyriHaximus/php-psr-3-utilities/pull/61) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (today)
 
 ---
 
