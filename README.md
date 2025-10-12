@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Update to PHP8.4&#43; and PSR-3 v3&#43;](https://github.com/WyriHaximus/reactphp-psr-3-loggly/pull/59) on [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (today)
 - [Remove CI Workflow if its the old style PHP CI Workflow](https://github.com/WyriHaximus/Makefiles/pull/100) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Create CI Workflow if it doesn&#39;t exists at .github/workflows/ci.yaml](https://github.com/WyriHaximus/Makefiles/pull/99) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Create Release Management Workflow if it doesn&#39;t exists at .github/workflows/release-management.yaml](https://github.com/WyriHaximus/Makefiles/pull/98) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Update to PHP8.4&#43;](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler/pull/77) on [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (today)
 - [Make sure we have a PHPCS config file at etc/qa/phpcs.xml](https://github.com/WyriHaximus/Makefiles/pull/92) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Make sure we have a PHPUnit config file at etc/qa/phpunit.xml](https://github.com/WyriHaximus/Makefiles/pull/91) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Make sure we have a PHPStan config file at etc/qa/phpstan.neon](https://github.com/WyriHaximus/Makefiles/pull/90) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 
 ---
 
