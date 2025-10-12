@@ -93,6 +93,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Remove CI Workflow if its the old style PHP CI Workflow](https://github.com/WyriHaximus/Makefiles/pull/100) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Create CI Workflow if it doesn&#39;t exists at .github/workflows/ci.yaml](https://github.com/WyriHaximus/Makefiles/pull/99) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Create Release Management Workflow if it doesn&#39;t exists at .github/workflows/release-management.yaml](https://github.com/WyriHaximus/Makefiles/pull/98) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Remove set-milestone-on-pr.yaml it has been folded into centralized workflows through release-management.yaml](https://github.com/WyriHaximus/Makefiles/pull/97) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Remove craft-release.yaml it has been folded into centralized workflows through release-management.yaml](https://github.com/WyriHaximus/Makefiles/pull/96) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Remove markdown-check-links.yaml it has been folded into centralized workflows through ci.yaml](https://github.com/WyriHaximus/Makefiles/pull/95) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
@@ -103,9 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Make sure we have a PHPCS config file at etc/qa/phpcs.xml](https://github.com/WyriHaximus/Makefiles/pull/92) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Make sure we have a PHPUnit config file at etc/qa/phpunit.xml](https://github.com/WyriHaximus/Makefiles/pull/91) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Make sure we have a PHPStan config file at etc/qa/phpstan.neon](https://github.com/WyriHaximus/Makefiles/pull/90) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Create Infection config file if it doesn&#39;t exists at etc/qa/infection.json5](https://github.com/WyriHaximus/Makefiles/pull/89) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Create Composer Require Checker config file if it doesn&#39;t exists at e…](https://github.com/WyriHaximus/Makefiles/pull/88) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Update Composer Unused config file dropping a commented out line that is scattered cross my repos](https://github.com/WyriHaximus/Makefiles/pull/87) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 
 ---
 
