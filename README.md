@@ -93,6 +93,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Create Renovate Config if it doesn&#39;t exists at .github/renovate.json](https://github.com/WyriHaximus/Makefiles/pull/103) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Make sure we remove phpunit.xml.dist](https://github.com/WyriHaximus/Makefiles/pull/102) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Move psalm.xml to etc/qa/psalm.xml](https://github.com/WyriHaximus/Makefiles/pull/101) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Update to PHP8.4&#43; and PSR-3 v3&#43;](https://github.com/WyriHaximus/reactphp-psr-3-loggly/pull/59) on [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (today)
 - [Remove CI Workflow if its the old style PHP CI Workflow](https://github.com/WyriHaximus/Makefiles/pull/100) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Create CI Workflow if it doesn&#39;t exists at .github/workflows/ci.yaml](https://github.com/WyriHaximus/Makefiles/pull/99) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
@@ -103,9 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Remove composer-diff.yaml it has been folded into centralized workflows through ci.yaml](https://github.com/WyriHaximus/Makefiles/pull/94) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Move .github/workflows/ci.yml to .github/workflows/ci.yaml](https://github.com/WyriHaximus/Makefiles/pull/93) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Update to PHP8.4 and drop PSR-3 v2 and lower](https://github.com/WyriHaximus/php-psr-3-utilities/pull/61) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (today)
-- [Update to PHP8.4&#43;](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler/pull/77) on [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (today)
-- [Make sure we have a PHPCS config file at etc/qa/phpcs.xml](https://github.com/WyriHaximus/Makefiles/pull/92) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Make sure we have a PHPUnit config file at etc/qa/phpunit.xml](https://github.com/WyriHaximus/Makefiles/pull/91) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 
 ---
 
