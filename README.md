@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (today)
+- [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
+- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (today)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (today)
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (1 day ago)
-- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (1 day ago)
-- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (1 day ago)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 day ago)
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (1 day ago)
 - [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (1 day ago)
-- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (1 day ago)
-- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (2 days ago)
-- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (2 days ago)
+- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (1 day ago)
+- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (1 day ago)
+- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (2 days ago)
 
 ---
 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Update to PHP 8.4&#43;](https://github.com/WyriHaximus/php-get-in-packages-composer.json/pull/54) on [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (today)
 - [Make sure PHPCS has no tailing / on etc](https://github.com/WyriHaximus/Makefiles/pull/108) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Make sure PHPCS has no tailing / on tests](https://github.com/WyriHaximus/Makefiles/pull/107) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Make sure PHPCS has no tailing / on src](https://github.com/WyriHaximus/Makefiles/pull/106) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Move psalm.xml to etc/qa/psalm.xml](https://github.com/WyriHaximus/Makefiles/pull/101) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Update to PHP8.4&#43; and PSR-3 v3&#43;](https://github.com/WyriHaximus/reactphp-psr-3-loggly/pull/59) on [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (1 day ago)
 - [Remove CI Workflow if its the old style PHP CI Workflow](https://github.com/WyriHaximus/Makefiles/pull/100) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Create CI Workflow if it doesn&#39;t exists at .github/workflows/ci.yaml](https://github.com/WyriHaximus/Makefiles/pull/99) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 
 ---
 
