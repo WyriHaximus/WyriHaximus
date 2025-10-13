@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) ([3.0.0](https://github.com/WyriHaximus/php-psr-3-filter/releases/tag/3.0.0), today) - 
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.3.5](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.3.5), today) - Wrapper around renovatebot/github-action
 - [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) ([3.0.0](https://github.com/WyriHaximus/reactphp-psr-3-loggly/releases/tag/3.0.0), 1 day ago) - 
 - [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) ([4.0.0](https://github.com/WyriHaximus/reactphp-psr-3-stdio/releases/tag/4.0.0), 1 day ago) - 
@@ -87,7 +88,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.20.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.20.0), 5 days ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.34](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.34), 1 week ago) - 
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) ([5.3.0](https://github.com/WyriHaximus/reactphp-cron/releases/tag/5.3.0), 1 week ago) - Cronlike scheduler running inside a ReactPHP Event Loop
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r62](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r62), 1 week ago) - 
 
 ---
 
