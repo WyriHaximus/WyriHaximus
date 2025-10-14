@@ -10,9 +10,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 day ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
 - [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (1 day ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 day ago)
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.10](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.10), today) - Makefile building blocks
 - [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) ([2.3.0](https://github.com/WyriHaximus/php-get-in-packages-composer.json/releases/tag/2.3.0), 1 day ago) - Get a specific configuration setting from all installed composer packages
 - [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) ([3.0.0](https://github.com/WyriHaximus/php-psr-3-filter/releases/tag/3.0.0), 1 day ago) - 
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.3.5](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.3.5), 1 day ago) - Wrapper around renovatebot/github-action
@@ -82,7 +83,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) ([4.0.0](https://github.com/WyriHaximus/reactphp-psr-3-stdio/releases/tag/4.0.0), 2 days ago) - 
 - [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) ([2.3.0](https://github.com/WyriHaximus/php-psr-3-utilities/releases/tag/2.3.0), 2 days ago) - 
 - [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) ([3.2.0](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler/releases/tag/3.2.0), 2 days ago) - Formatted PSR-3 handler for Monolog
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.9](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.9), 3 days ago) - Makefile building blocks
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([5.2.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/5.2.0), 5 days ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.4.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.4.0), 6 days ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.5.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.5.0), 6 days ago) - 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t run all and on-install-or-update twice on failure in the first run](https://github.com/WyriHaximus/Makefiles/pull/109) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Update to PHP 8.4&#43;](https://github.com/WyriHaximus/php-get-in-packages-composer.json/pull/54) on [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (1 day ago)
 - [Make sure PHPCS has no tailing / on etc](https://github.com/WyriHaximus/Makefiles/pull/108) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Make sure PHPCS has no tailing / on tests](https://github.com/WyriHaximus/Makefiles/pull/107) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Make sure we remove phpunit.xml.dist](https://github.com/WyriHaximus/Makefiles/pull/102) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Move psalm.xml to etc/qa/psalm.xml](https://github.com/WyriHaximus/Makefiles/pull/101) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Update to PHP8.4&#43; and PSR-3 v3&#43;](https://github.com/WyriHaximus/reactphp-psr-3-loggly/pull/59) on [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (2 days ago)
-- [Remove CI Workflow if its the old style PHP CI Workflow](https://github.com/WyriHaximus/Makefiles/pull/100) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 
 ---
 
