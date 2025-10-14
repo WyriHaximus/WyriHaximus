@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (today)
+- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (today)
+- [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (today)
 - [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (today)
+- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (today)
 - [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (today)
+- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (today)
 - [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (today)
+- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (today)
+- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (today)
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (today)
 - [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (today)
-- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (today)
-- [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (today)
-- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (today)
-- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (today)
-- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (today)
+- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (today)
 
 ---
 
