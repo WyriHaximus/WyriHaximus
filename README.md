@@ -16,19 +16,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (today)
 - [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (today)
 - [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (today)
-- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (today)
-- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (today)
-- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (today)
-- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (today)
-- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (today)
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (today)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
+- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (1 day ago)
+- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (1 day ago)
+- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (1 day ago)
+- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (1 day ago)
+- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 day ago)
+- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (1 day ago)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
 
 ---
 
 ### 📜 My latest articles on [WyriHaximus.net](https://blog.wyrihaximus.net/)
 
-- [Unlock Composer Plugins by Self Hosting Renovate](https://blog.wyrihaximus.net/2025/10/unlock-composer-plugins-by-self-hosting-renovate/) (1 week ago)
+- [Unlock Composer Plugins by Self Hosting Renovate](https://blog.wyrihaximus.net/2025/10/unlock-composer-plugins-by-self-hosting-renovate/) (2 weeks ago)
 - [ReactPHP Parallel v2(.1)](https://blog.wyrihaximus.net/2025/06/reactphp-parallel-v2-/) (4 months ago)
 - [Announcing TestInfra Action](https://blog.wyrihaximus.net/2025/03/announcing-testinfra-action/) (6 months ago)
 - [Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Enclosure](https://blog.wyrihaximus.net/2024/12/building-a-kubernetes-homelab-with-raspberry-pies-and-lego-nodes-enclosure/) (10 months ago)
@@ -75,43 +75,43 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.10](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.10), today) - Makefile building blocks
-- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) ([2.3.0](https://github.com/WyriHaximus/php-get-in-packages-composer.json/releases/tag/2.3.0), 1 day ago) - Get a specific configuration setting from all installed composer packages
-- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) ([3.0.0](https://github.com/WyriHaximus/php-psr-3-filter/releases/tag/3.0.0), 1 day ago) - 
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.3.5](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.3.5), 1 day ago) - Wrapper around renovatebot/github-action
-- [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) ([3.0.0](https://github.com/WyriHaximus/reactphp-psr-3-loggly/releases/tag/3.0.0), 2 days ago) - 
-- [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) ([4.0.0](https://github.com/WyriHaximus/reactphp-psr-3-stdio/releases/tag/4.0.0), 2 days ago) - 
-- [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) ([2.3.0](https://github.com/WyriHaximus/php-psr-3-utilities/releases/tag/2.3.0), 2 days ago) - 
-- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) ([3.2.0](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler/releases/tag/3.2.0), 2 days ago) - Formatted PSR-3 handler for Monolog
-- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([5.2.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/5.2.0), 5 days ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.4.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.4.0), 6 days ago) - 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.5.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.5.0), 6 days ago) - 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.20.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.20.0), 6 days ago) - 🌯 PHPStan rules wrapper
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.10](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.10), 1 day ago) - Makefile building blocks
+- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) ([2.3.0](https://github.com/WyriHaximus/php-get-in-packages-composer.json/releases/tag/2.3.0), 2 days ago) - Get a specific configuration setting from all installed composer packages
+- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) ([3.0.0](https://github.com/WyriHaximus/php-psr-3-filter/releases/tag/3.0.0), 2 days ago) - 
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.3.5](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.3.5), 2 days ago) - Wrapper around renovatebot/github-action
+- [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) ([3.0.0](https://github.com/WyriHaximus/reactphp-psr-3-loggly/releases/tag/3.0.0), 3 days ago) - 
+- [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) ([4.0.0](https://github.com/WyriHaximus/reactphp-psr-3-stdio/releases/tag/4.0.0), 3 days ago) - 
+- [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) ([2.3.0](https://github.com/WyriHaximus/php-psr-3-utilities/releases/tag/2.3.0), 3 days ago) - 
+- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) ([3.2.0](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler/releases/tag/3.2.0), 3 days ago) - Formatted PSR-3 handler for Monolog
+- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([5.2.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/5.2.0), 6 days ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.4.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.4.0), 1 week ago) - 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.5.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.5.0), 1 week ago) - 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.20.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.20.0), 1 week ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.34](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.34), 1 week ago) - 
 
 ---
 
 #### 🔨 My recent Pull Requests
 
-- [Don&#39;t run all and on-install-or-update twice on failure in the first run](https://github.com/WyriHaximus/Makefiles/pull/109) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Update to PHP 8.4&#43;](https://github.com/WyriHaximus/php-get-in-packages-composer.json/pull/54) on [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (1 day ago)
-- [Make sure PHPCS has no tailing / on etc](https://github.com/WyriHaximus/Makefiles/pull/108) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Make sure PHPCS has no tailing / on tests](https://github.com/WyriHaximus/Makefiles/pull/107) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Make sure PHPCS has no tailing / on src](https://github.com/WyriHaximus/Makefiles/pull/106) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Update to PHP8.4&#43; and PSR-3 v3&#43;](https://github.com/WyriHaximus/php-psr-3-filter/pull/29) on [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (1 day ago)
-- [Fix composer require checker default config contents](https://github.com/WyriHaximus/Makefiles/pull/105) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Improve old CI detection](https://github.com/WyriHaximus/Makefiles/pull/104) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Update to PHP8.4&#43; and PSR-3 v3&#43;](https://github.com/WyriHaximus/reactphp-psr-3-stdio/pull/52) on [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) (2 days ago)
-- [Create Renovate Config if it doesn&#39;t exists at .github/renovate.json](https://github.com/WyriHaximus/Makefiles/pull/103) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Make sure we remove phpunit.xml.dist](https://github.com/WyriHaximus/Makefiles/pull/102) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Move psalm.xml to etc/qa/psalm.xml](https://github.com/WyriHaximus/Makefiles/pull/101) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Update to PHP8.4&#43; and PSR-3 v3&#43;](https://github.com/WyriHaximus/reactphp-psr-3-loggly/pull/59) on [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (2 days ago)
+- [Don&#39;t run all and on-install-or-update twice on failure in the first run](https://github.com/WyriHaximus/Makefiles/pull/109) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [Update to PHP 8.4&#43;](https://github.com/WyriHaximus/php-get-in-packages-composer.json/pull/54) on [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (2 days ago)
+- [Make sure PHPCS has no tailing / on etc](https://github.com/WyriHaximus/Makefiles/pull/108) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [Make sure PHPCS has no tailing / on tests](https://github.com/WyriHaximus/Makefiles/pull/107) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [Make sure PHPCS has no tailing / on src](https://github.com/WyriHaximus/Makefiles/pull/106) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [Update to PHP8.4&#43; and PSR-3 v3&#43;](https://github.com/WyriHaximus/php-psr-3-filter/pull/29) on [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (2 days ago)
+- [Fix composer require checker default config contents](https://github.com/WyriHaximus/Makefiles/pull/105) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [Improve old CI detection](https://github.com/WyriHaximus/Makefiles/pull/104) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Update to PHP8.4&#43; and PSR-3 v3&#43;](https://github.com/WyriHaximus/reactphp-psr-3-stdio/pull/52) on [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) (3 days ago)
+- [Create Renovate Config if it doesn&#39;t exists at .github/renovate.json](https://github.com/WyriHaximus/Makefiles/pull/103) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Make sure we remove phpunit.xml.dist](https://github.com/WyriHaximus/Makefiles/pull/102) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Move psalm.xml to etc/qa/psalm.xml](https://github.com/WyriHaximus/Makefiles/pull/101) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Update to PHP8.4&#43; and PSR-3 v3&#43;](https://github.com/WyriHaximus/reactphp-psr-3-loggly/pull/59) on [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (3 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [fabieu/sureflap-api](https://github.com/fabieu/sureflap-api) - SureHub API is a simple, yet powerful RESTful API for products from Sure Petcare (5 days ago)
+- [fabieu/sureflap-api](https://github.com/fabieu/sureflap-api) - SureHub API is a simple, yet powerful RESTful API for products from Sure Petcare (6 days ago)
 - [analogwhisper/slack-ground-colors](https://github.com/analogwhisper/slack-ground-colors) - Customize the background color of slack channels and private messages!  (1 week ago)
 - [ksimes/trainControl](https://github.com/ksimes/trainControl) - Simple control of a LEGO Train set 60197 using Bluetooth from a Rasp Pi A&#43; running Python using MQTT client and a website with an Angular front end and PHP MQTT publisher back end. (3 weeks ago)
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif (3 weeks ago)
