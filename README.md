@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (1 day ago)
-- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (today)
+- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (today)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
 - [WyriHaximus/reactphp-cache-json](https://github.com/WyriHaximus/reactphp-cache-json) (1 day ago)
+- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (1 day ago)
 - [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (1 day ago)
-- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
 - [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (1 day ago)
-- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 day ago)
+- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (1 day ago)
 
 ---
 
@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[3.x] Run tests on PHP 8.5](https://github.com/reactphp/cache/pull/66) on [reactphp/cache](https://github.com/reactphp/cache) (today)
+- [[1.x] Run tests on PHP 8.5](https://github.com/reactphp/cache/pull/65) on [reactphp/cache](https://github.com/reactphp/cache) (today)
 - [Use full package versions](https://github.com/WyriHaximus/reactphp-cache-json/pull/84) on [WyriHaximus/reactphp-cache-json](https://github.com/WyriHaximus/reactphp-cache-json) (1 day ago)
 - [Raise to PHP8.4](https://github.com/WyriHaximus/reactphp-cache-redis/pull/93) on [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (1 day ago)
 - [Don&#39;t run all and on-install-or-update twice on failure in the first run](https://github.com/WyriHaximus/Makefiles/pull/109) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Fix composer require checker default config contents](https://github.com/WyriHaximus/Makefiles/pull/105) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [Improve old CI detection](https://github.com/WyriHaximus/Makefiles/pull/104) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 - [Update to PHP8.4&#43; and PSR-3 v3&#43;](https://github.com/WyriHaximus/reactphp-psr-3-stdio/pull/52) on [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) (4 days ago)
-- [Create Renovate Config if it doesn&#39;t exists at .github/renovate.json](https://github.com/WyriHaximus/Makefiles/pull/103) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
-- [Make sure we remove phpunit.xml.dist](https://github.com/WyriHaximus/Makefiles/pull/102) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 
 ---
 
