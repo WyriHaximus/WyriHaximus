@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (today)
-- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 day ago)
+- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (1 day ago)
 - [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (1 day ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
-- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (2 days ago)
-- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (2 days ago)
 - [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (2 days ago)
+- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (2 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (2 days ago)
-- [WyriHaximus/reactphp-cache-json](https://github.com/WyriHaximus/reactphp-cache-json) (2 days ago)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (2 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
+- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (2 days ago)
+- [WyriHaximus/reactphp-cache-json](https://github.com/WyriHaximus/reactphp-cache-json) (2 days ago)
 
 ---
 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Move extra jobs above all other non-migrations](https://github.com/WyriHaximus/Makefiles/pull/110) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [[3.x] Run tests on PHP 8.5](https://github.com/reactphp/cache/pull/66) on [reactphp/cache](https://github.com/reactphp/cache) (1 day ago)
 - [[1.x] Run tests on PHP 8.5](https://github.com/reactphp/cache/pull/65) on [reactphp/cache](https://github.com/reactphp/cache) (1 day ago)
 - [Use full package versions](https://github.com/WyriHaximus/reactphp-cache-json/pull/84) on [WyriHaximus/reactphp-cache-json](https://github.com/WyriHaximus/reactphp-cache-json) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Update to PHP8.4&#43; and PSR-3 v3&#43;](https://github.com/WyriHaximus/php-psr-3-filter/pull/29) on [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (4 days ago)
 - [Fix composer require checker default config contents](https://github.com/WyriHaximus/Makefiles/pull/105) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 - [Improve old CI detection](https://github.com/WyriHaximus/Makefiles/pull/104) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
-- [Update to PHP8.4&#43; and PSR-3 v3&#43;](https://github.com/WyriHaximus/reactphp-psr-3-stdio/pull/52) on [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) (5 days ago)
 
 ---
 
