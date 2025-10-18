@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (today)
+- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (today)
+- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (today)
 - [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (today)
 - [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (1 day ago)
 - [WyriHaximus/reactphp-cache-json](https://github.com/WyriHaximus/reactphp-cache-json) (1 day ago)
-- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (2 days ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
 - [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (2 days ago)
+- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (2 days ago)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (2 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (3 days ago)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
-- [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (3 days ago)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (3 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
 
 ---
 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Raise the minimum PHP version to 8.4&#43;](https://github.com/MammatusPHP/cron-attributes/pull/21) on [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (today)
 - [Drop igorw/get-in and pull code into package](https://github.com/WyriHaximus/php-get-in-packages-composer.json/pull/56) on [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (today)
 - [Move extra jobs above all other non-migrations](https://github.com/WyriHaximus/Makefiles/pull/110) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [[3.x] Run tests on PHP 8.5](https://github.com/reactphp/cache/pull/66) on [reactphp/cache](https://github.com/reactphp/cache) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Make sure PHPCS has no tailing / on tests](https://github.com/WyriHaximus/Makefiles/pull/107) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 - [Make sure PHPCS has no tailing / on src](https://github.com/WyriHaximus/Makefiles/pull/106) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 - [Update to PHP8.4&#43; and PSR-3 v3&#43;](https://github.com/WyriHaximus/php-psr-3-filter/pull/29) on [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (5 days ago)
-- [Fix composer require checker default config contents](https://github.com/WyriHaximus/Makefiles/pull/105) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 
 ---
 
