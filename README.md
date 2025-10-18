@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Drop igorw/get-in and pull code into package](https://github.com/WyriHaximus/php-get-in-packages-composer.json/pull/56) on [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (today)
 - [Move extra jobs above all other non-migrations](https://github.com/WyriHaximus/Makefiles/pull/110) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [[3.x] Run tests on PHP 8.5](https://github.com/reactphp/cache/pull/66) on [reactphp/cache](https://github.com/reactphp/cache) (2 days ago)
 - [[1.x] Run tests on PHP 8.5](https://github.com/reactphp/cache/pull/65) on [reactphp/cache](https://github.com/reactphp/cache) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Make sure PHPCS has no tailing / on src](https://github.com/WyriHaximus/Makefiles/pull/106) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 - [Update to PHP8.4&#43; and PSR-3 v3&#43;](https://github.com/WyriHaximus/php-psr-3-filter/pull/29) on [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (5 days ago)
 - [Fix composer require checker default config contents](https://github.com/WyriHaximus/Makefiles/pull/105) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
-- [Improve old CI detection](https://github.com/WyriHaximus/Makefiles/pull/104) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
 
 ---
 
