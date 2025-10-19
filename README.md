@@ -111,6 +111,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [liskin/gh-linkchecker](https://github.com/liskin/gh-linkchecker) -  (today)
 - [fabieu/sureflap-api](https://github.com/fabieu/sureflap-api) - SureHub API is a simple, yet powerful RESTful API for products from Sure Petcare (1 week ago)
 - [analogwhisper/slack-ground-colors](https://github.com/analogwhisper/slack-ground-colors) - Customize the background color of slack channels and private messages!  (2 weeks ago)
 - [ksimes/trainControl](https://github.com/ksimes/trainControl) - Simple control of a LEGO Train set 60197 using Bluetooth from a Rasp Pi A&#43; running Python using MQTT client and a website with an Angular front end and PHP MQTT publisher back end. (3 weeks ago)
@@ -123,7 +124,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [actions/create-github-app-token](https://github.com/actions/create-github-app-token) - GitHub Action for creating a GitHub App Installation Access Token (1 month ago)
 - [MindFreeze/ha-sankey-chart](https://github.com/MindFreeze/ha-sankey-chart) - A Home Assistant lovelace card to display a sankey chart. For example for power consumption (2 months ago)
 - [php-amqp/php-amqp](https://github.com/php-amqp/php-amqp) - PHP extension to communicate with any AMQP compliant server (2 months ago)
-- [ikalnytskyi/action-setup-postgres](https://github.com/ikalnytskyi/action-setup-postgres) - Setup a PostgreSQL for Linux, macOS and Windows runner machines. (3 months ago)
 
 ---
 
