@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Introduce build command for build stage jobs](https://github.com/MammatusPHP/app/pull/58) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
 - [Build event that is triggered during build time, e.g. on Docker build time before the application is deployed](https://github.com/MammatusPHP/life-cycle-events/pull/63) on [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (today)
 - [Improve DI setup](https://github.com/MammatusPHP/app/pull/57) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
 - [Update WyriHaximus/Makefiles and Async Test Utilities to their latest versions](https://github.com/MammatusPHP/queue/pull/27) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Use full package versions](https://github.com/WyriHaximus/reactphp-cache-json/pull/84) on [WyriHaximus/reactphp-cache-json](https://github.com/WyriHaximus/reactphp-cache-json) (4 days ago)
 - [Raise to PHP8.4](https://github.com/WyriHaximus/reactphp-cache-redis/pull/93) on [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (4 days ago)
 - [Don&#39;t run all and on-install-or-update twice on failure in the first run](https://github.com/WyriHaximus/Makefiles/pull/109) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
-- [Update to PHP 8.4&#43;](https://github.com/WyriHaximus/php-get-in-packages-composer.json/pull/54) on [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (6 days ago)
 
 ---
 
