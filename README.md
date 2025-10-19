@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add Helm values file support](https://github.com/MammatusPHP/kubernetes-events/pull/22) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (today)
 - [Update to new container factory name](https://github.com/MammatusPHP/kubernetes/pull/16) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (today)
 - [Drop time from dev APP_VERSION](https://github.com/MammatusPHP/app/pull/59) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
 - [Switch to yielding definition sources](https://github.com/PHP-DI-Definitions/definitions-gatherer/pull/20) on [PHP-DI-Definitions/definitions-gatherer](https://github.com/PHP-DI-Definitions/definitions-gatherer) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Drop igorw/get-in and pull code into package](https://github.com/WyriHaximus/php-get-in-packages-composer.json/pull/56) on [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (1 day ago)
 - [Move extra jobs above all other non-migrations](https://github.com/WyriHaximus/Makefiles/pull/110) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [[3.x] Run tests on PHP 8.5](https://github.com/reactphp/cache/pull/66) on [reactphp/cache](https://github.com/reactphp/cache) (3 days ago)
-- [[1.x] Run tests on PHP 8.5](https://github.com/reactphp/cache/pull/65) on [reactphp/cache](https://github.com/reactphp/cache) (3 days ago)
 
 ---
 
