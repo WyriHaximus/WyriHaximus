@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (today)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
 - [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (today)
-- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (today)
-- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (1 day ago)
 - [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (1 day ago)
+- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (1 day ago)
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (1 day ago)
-- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (2 days ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (2 days ago)
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (2 days ago)
 - [WyriHaximus/reactphp-cache-json](https://github.com/WyriHaximus/reactphp-cache-json) (2 days ago)
-- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (3 days ago)
+- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (3 days ago)
 
 ---
 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Switch to yielding definition sources](https://github.com/PHP-DI-Definitions/definitions-gatherer/pull/20) on [PHP-DI-Definitions/definitions-gatherer](https://github.com/PHP-DI-Definitions/definitions-gatherer) (today)
 - [Introduce build command for build stage jobs](https://github.com/MammatusPHP/app/pull/58) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
 - [Build event that is triggered during build time, e.g. on Docker build time before the application is deployed](https://github.com/MammatusPHP/life-cycle-events/pull/63) on [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (today)
 - [Improve DI setup](https://github.com/MammatusPHP/app/pull/57) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [[1.x] Run tests on PHP 8.5](https://github.com/reactphp/cache/pull/65) on [reactphp/cache](https://github.com/reactphp/cache) (3 days ago)
 - [Use full package versions](https://github.com/WyriHaximus/reactphp-cache-json/pull/84) on [WyriHaximus/reactphp-cache-json](https://github.com/WyriHaximus/reactphp-cache-json) (4 days ago)
 - [Raise to PHP8.4](https://github.com/WyriHaximus/reactphp-cache-redis/pull/93) on [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (4 days ago)
-- [Don&#39;t run all and on-install-or-update twice on failure in the first run](https://github.com/WyriHaximus/Makefiles/pull/109) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 
 ---
 
