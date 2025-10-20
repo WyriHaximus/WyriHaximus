@@ -10,13 +10,13 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (today)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (today)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (today)
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
-- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (1 day ago)
 - [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (1 day ago)
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (1 day ago)
 - [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (2 days ago)
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (2 days ago)
 - [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (2 days ago)
