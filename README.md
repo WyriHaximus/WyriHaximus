@@ -111,6 +111,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (today)
+- [awalsh128/cache-apt-pkgs-action](https://github.com/awalsh128/cache-apt-pkgs-action) - Cache APT packages in GitHub Actions (today)
 - [liskin/gh-linkchecker](https://github.com/liskin/gh-linkchecker) -  (2 days ago)
 - [fabieu/sureflap-api](https://github.com/fabieu/sureflap-api) - SureHub API is a simple, yet powerful RESTful API for products from Sure Petcare (1 week ago)
 - [analogwhisper/slack-ground-colors](https://github.com/analogwhisper/slack-ground-colors) - Customize the background color of slack channels and private messages!  (2 weeks ago)
@@ -122,8 +124,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies and invalid licenses in your PRs (1 month ago)
 - [tssge/prometheus-devolo-exporter](https://github.com/tssge/prometheus-devolo-exporter) - Devolo ethernet over powerline adapter metrics exporter for Prometheus (1 month ago)
 - [actions/create-github-app-token](https://github.com/actions/create-github-app-token) - GitHub Action for creating a GitHub App Installation Access Token (1 month ago)
-- [MindFreeze/ha-sankey-chart](https://github.com/MindFreeze/ha-sankey-chart) - A Home Assistant lovelace card to display a sankey chart. For example for power consumption (2 months ago)
-- [php-amqp/php-amqp](https://github.com/php-amqp/php-amqp) - PHP extension to communicate with any AMQP compliant server (2 months ago)
 
 ---
 
