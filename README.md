@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (today)
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
-- [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 day ago)
+- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (today)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 day ago)
 - [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 day ago)
-- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (2 days ago)
+- [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 day ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
+- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
 - [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (2 days ago)
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (3 days ago)
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (2 days ago)
 - [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (3 days ago)
 
 ---
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.23](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.23), today) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([keda-0.0.4](https://github.com/MammatusPHP/helm-charts/releases/tag/keda-0.0.4), 1 day ago) - 
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.1.0](https://github.com/MammatusPHP/kubernetes/releases/tag/0.1.0), 1 day ago) - Kubernetes related tooling
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([2.0.0](https://github.com/MammatusPHP/kubernetes-events/releases/tag/2.0.0), 1 day ago) - 
@@ -87,12 +88,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.3.5](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.3.5), 1 week ago) - Wrapper around renovatebot/github-action
 - [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) ([3.0.0](https://github.com/WyriHaximus/reactphp-psr-3-loggly/releases/tag/3.0.0), 1 week ago) - 
 - [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) ([4.0.0](https://github.com/WyriHaximus/reactphp-psr-3-stdio/releases/tag/4.0.0), 1 week ago) - 
-- [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) ([2.3.0](https://github.com/WyriHaximus/php-psr-3-utilities/releases/tag/2.3.0), 1 week ago) - 
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [[New Version] Update versions file to PHP 8.4.14](https://github.com/WyriHaximus/php-fake-php-version/pull/160) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [Add support for grouped crons](https://github.com/MammatusPHP/cron-attributes/pull/23) on [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (today)
 - [[keda] Don&#39;t set trigger authentication when empty](https://github.com/MammatusPHP/helm-charts/pull/24) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 day ago)
 - [Update mammatus/app](https://github.com/MammatusPHP/queue/pull/29) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add Helm values file support](https://github.com/MammatusPHP/kubernetes-events/pull/22) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (2 days ago)
 - [Update to new container factory name](https://github.com/MammatusPHP/kubernetes/pull/16) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (2 days ago)
 - [Drop time from dev APP_VERSION](https://github.com/MammatusPHP/app/pull/59) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (2 days ago)
-- [Switch to yielding definition sources](https://github.com/PHP-DI-Definitions/definitions-gatherer/pull/20) on [PHP-DI-Definitions/definitions-gatherer](https://github.com/PHP-DI-Definitions/definitions-gatherer) (2 days ago)
 
 ---
 
