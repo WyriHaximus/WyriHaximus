@@ -111,6 +111,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [Hogster/BPS](https://github.com/Hogster/BPS) - A BLE positioning sytem for Homeassistant providing realtime tracking indoors. Dependent on the Bermuda component built by @agattins.  (today)
 - [FredrikM97/hass-surepetcare](https://github.com/FredrikM97/hass-surepetcare) - Home assistant HACS component to integrate with SurePetCare Api.  (today)
 - [plambrechtsen/pethublocal](https://github.com/plambrechtsen/pethublocal) - Local docker stack to replace the SurePetCare &#34;Connect&#34; cloud service. (today)
 - [benleb/surepy](https://github.com/benleb/surepy) - 🐾 Library &amp; CLI to monitor and control the Pet Door &amp; Cat Flap Connect 🚪 the Pet Feeder Connect 🍽 and the Felaqua 💦 sold by Sure Petcare (today)
@@ -123,7 +124,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif (1 month ago)
 - [contributte/rabbitmq](https://github.com/contributte/rabbitmq) - 🐰 RabbitMQ (AMQP, STOMP, MQTT) using BunnyPHP for Nette Framework (@nette). (1 month ago)
 - [jpetazzo/snakedeck](https://github.com/jpetazzo/snakedeck) - Elgato StreamDeck controller for Linux, in Python. (1 month ago)
-- [hikhvar/mqtt2prometheus](https://github.com/hikhvar/mqtt2prometheus) - MQTT to Prometheus gateway (1 month ago)
 
 ---
 
