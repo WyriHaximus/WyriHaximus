@@ -148,9 +148,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 - [theeMahmud](https://github.com/theeMahmud)
 - [theihasan](https://github.com/theihasan)
-- [trinhminhtriet](https://github.com/trinhminhtriet)
 - [emilycodestar](https://github.com/emilycodestar)
 - [chiefkarim](https://github.com/chiefkarim)
+- [KenyanRedwoods01](https://github.com/KenyanRedwoods01)
 
 ---
 
