@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (today)
+- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (2 days ago)
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
-- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (2 days ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (3 days ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (3 days ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (3 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
-- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (3 days ago)
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) (3 days ago)
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (3 days ago)
 - [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (4 days ago)
 
 ---
