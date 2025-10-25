@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (today)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (today)
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
-- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (today)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
-- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (today)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (today)
 - [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (today)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (today)
-- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (today)
+- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (today)
+- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (today)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (today)
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
+- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (today)
+- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (today)
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
 - [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (today)
 
 ---
@@ -75,11 +75,11 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([keda-0.0.5](https://github.com/MammatusPHP/helm-charts/releases/tag/keda-0.0.5), today) - 
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.5.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.5.0), today) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.6.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.6.0), 1 day ago) - 
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.3.6](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.3.6), 2 days ago) - Wrapper around renovatebot/github-action
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.23](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.23), 4 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
-- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([keda-0.0.4](https://github.com/MammatusPHP/helm-charts/releases/tag/keda-0.0.4), 5 days ago) - 
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.1.0](https://github.com/MammatusPHP/kubernetes/releases/tag/0.1.0), 5 days ago) - Kubernetes related tooling
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([2.0.0](https://github.com/MammatusPHP/kubernetes-events/releases/tag/2.0.0), 5 days ago) - 
 - [PHP-DI-Definitions/definitions-gatherer](https://github.com/PHP-DI-Definitions/definitions-gatherer) ([2.0.0](https://github.com/PHP-DI-Definitions/definitions-gatherer/releases/tag/2.0.0), 6 days ago) - 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[keda] Don&#39;t ref trigger auth when we don&#39;t create it](https://github.com/MammatusPHP/helm-charts/pull/25) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
 - [[0.6.x] Handle channel closing mid handling a message](https://github.com/jakubkulhan/bunny/pull/196) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [Vars into env](https://github.com/WyriHaximus/github-workflows/pull/130) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 - [[New Version] Update versions file to PHP 8.4.14](https://github.com/WyriHaximus/php-fake-php-version/pull/160) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (4 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Update to PHP8.4&#43;](https://github.com/MammatusPHP/kubernetes-events/pull/23) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (5 days ago)
 - [Helm values file support](https://github.com/MammatusPHP/kubernetes/pull/17) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (5 days ago)
 - [Support values files](https://github.com/MammatusPHP/helm-json-action/pull/8) on [MammatusPHP/helm-json-action](https://github.com/MammatusPHP/helm-json-action) (6 days ago)
-- [Add Helm values file support](https://github.com/MammatusPHP/kubernetes-events/pull/22) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (6 days ago)
 
 ---
 
