@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[0.6.x] Handle channel closing mid handling a message](https://github.com/jakubkulhan/bunny/pull/196) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [Vars into env](https://github.com/WyriHaximus/github-workflows/pull/130) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 - [[New Version] Update versions file to PHP 8.4.14](https://github.com/WyriHaximus/php-fake-php-version/pull/160) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (4 days ago)
 - [Add support for grouped crons](https://github.com/MammatusPHP/cron-attributes/pull/23) on [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (4 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Helm values file support](https://github.com/MammatusPHP/kubernetes/pull/17) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (5 days ago)
 - [Support values files](https://github.com/MammatusPHP/helm-json-action/pull/8) on [MammatusPHP/helm-json-action](https://github.com/MammatusPHP/helm-json-action) (6 days ago)
 - [Add Helm values file support](https://github.com/MammatusPHP/kubernetes-events/pull/22) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (6 days ago)
-- [Update to new container factory name](https://github.com/MammatusPHP/kubernetes/pull/16) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (6 days ago)
 
 ---
 
