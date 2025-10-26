@@ -93,7 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Move composer-require-checker.json to etc/qa/composer-require-checker…](https://github.com/WyriHaximus/Makefiles/pull/119) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Move composer-require-checker.json to etc/qa/composer-require-checker.json](https://github.com/WyriHaximus/Makefiles/pull/119) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Add missing file reading in: Add parameters to PHPStan config file at etc/qa/phpstan.neon if it&#39;s not present](https://github.com/WyriHaximus/Makefiles/pull/118) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Move phpcs.xml.dist to etc/qa/phpcs.xml](https://github.com/WyriHaximus/Makefiles/pull/117) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Move phpstan.neon to etc/qa/phpstan.neon](https://github.com/WyriHaximus/Makefiles/pull/116) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
