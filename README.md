@@ -93,6 +93,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Move composer-require-checker.json to etc/qa/composer-require-checker…](https://github.com/WyriHaximus/Makefiles/pull/119) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Add missing file reading in: Add parameters to PHPStan config file at etc/qa/phpstan.neon if it&#39;s not present](https://github.com/WyriHaximus/Makefiles/pull/118) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Move phpcs.xml.dist to etc/qa/phpcs.xml](https://github.com/WyriHaximus/Makefiles/pull/117) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Move phpstan.neon to etc/qa/phpstan.neon](https://github.com/WyriHaximus/Makefiles/pull/116) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Make sure var/.gitkeep exists](https://github.com/WyriHaximus/Makefiles/pull/115) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Make sure var/ exists](https://github.com/WyriHaximus/Makefiles/pull/114) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [[keda] Don&#39;t ref trigger auth when we don&#39;t create it](https://github.com/MammatusPHP/helm-charts/pull/25) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 day ago)
@@ -102,10 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add support for grouped crons](https://github.com/MammatusPHP/cron-attributes/pull/23) on [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (5 days ago)
 - [[keda] Don&#39;t set trigger authentication when empty](https://github.com/MammatusPHP/helm-charts/pull/24) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (6 days ago)
 - [Update mammatus/app](https://github.com/MammatusPHP/queue/pull/29) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (6 days ago)
-- [Update mammatus/app](https://github.com/MammatusPHP/cron/pull/104) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (6 days ago)
-- [v2 release readme update](https://github.com/MammatusPHP/kubernetes-events/pull/24) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (6 days ago)
-- [Add parameters to PHPStan config file at etc/qa/phpstan.neon if it&#39;s not present](https://github.com/WyriHaximus/Makefiles/pull/111) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
-- [Update to PHP8.4&#43;](https://github.com/MammatusPHP/kubernetes-events/pull/23) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (6 days ago)
 
 ---
 
