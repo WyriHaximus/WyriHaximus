@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (today)
-- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (today)
-- [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (today)
-- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (today)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (today)
-- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (today)
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
-- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (today)
-- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
+- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (1 day ago)
+- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (1 day ago)
+- [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (1 day ago)
+- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (1 day ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
+- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (1 day ago)
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (1 day ago)
+- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (1 day ago)
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 day ago)
 
 ---
 
@@ -75,15 +75,15 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([keda-0.0.5](https://github.com/MammatusPHP/helm-charts/releases/tag/keda-0.0.5), today) - 
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.5.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.5.0), today) - 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.6.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.6.0), 1 day ago) - 
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.3.6](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.3.6), 2 days ago) - Wrapper around renovatebot/github-action
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.23](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.23), 4 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.1.0](https://github.com/MammatusPHP/kubernetes/releases/tag/0.1.0), 5 days ago) - Kubernetes related tooling
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([2.0.0](https://github.com/MammatusPHP/kubernetes-events/releases/tag/2.0.0), 5 days ago) - 
-- [PHP-DI-Definitions/definitions-gatherer](https://github.com/PHP-DI-Definitions/definitions-gatherer) ([2.0.0](https://github.com/PHP-DI-Definitions/definitions-gatherer/releases/tag/2.0.0), 6 days ago) - 
-- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) ([2.3.0](https://github.com/MammatusPHP/life-cycle-events/releases/tag/2.3.0), 6 days ago) - 
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([keda-0.0.5](https://github.com/MammatusPHP/helm-charts/releases/tag/keda-0.0.5), 1 day ago) - 
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.5.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.5.0), 1 day ago) - 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.6.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.6.0), 2 days ago) - 
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.3.6](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.3.6), 3 days ago) - Wrapper around renovatebot/github-action
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.23](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.23), 5 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.1.0](https://github.com/MammatusPHP/kubernetes/releases/tag/0.1.0), 6 days ago) - Kubernetes related tooling
+- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([2.0.0](https://github.com/MammatusPHP/kubernetes-events/releases/tag/2.0.0), 6 days ago) - 
+- [PHP-DI-Definitions/definitions-gatherer](https://github.com/PHP-DI-Definitions/definitions-gatherer) ([2.0.0](https://github.com/PHP-DI-Definitions/definitions-gatherer/releases/tag/2.0.0), 1 week ago) - 
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) ([2.3.0](https://github.com/MammatusPHP/life-cycle-events/releases/tag/2.3.0), 1 week ago) - 
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.13.0](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.13.0), 1 week ago) - Kubernetes controller for GitHub Actions self-hosted runners
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.10](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.10), 1 week ago) - Makefile building blocks
 - [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) ([2.3.0](https://github.com/WyriHaximus/php-get-in-packages-composer.json/releases/tag/2.3.0), 1 week ago) - Get a specific configuration setting from all installed composer packages
@@ -93,32 +93,32 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [[keda] Don&#39;t ref trigger auth when we don&#39;t create it](https://github.com/MammatusPHP/helm-charts/pull/25) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
-- [[0.6.x] Handle channel closing mid handling a message](https://github.com/jakubkulhan/bunny/pull/196) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
-- [Vars into env](https://github.com/WyriHaximus/github-workflows/pull/130) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
-- [[New Version] Update versions file to PHP 8.4.14](https://github.com/WyriHaximus/php-fake-php-version/pull/160) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (4 days ago)
-- [Add support for grouped crons](https://github.com/MammatusPHP/cron-attributes/pull/23) on [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (4 days ago)
-- [[keda] Don&#39;t set trigger authentication when empty](https://github.com/MammatusPHP/helm-charts/pull/24) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (5 days ago)
-- [Update mammatus/app](https://github.com/MammatusPHP/queue/pull/29) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (5 days ago)
-- [Update mammatus/app](https://github.com/MammatusPHP/cron/pull/104) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (5 days ago)
-- [v2 release readme update](https://github.com/MammatusPHP/kubernetes-events/pull/24) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (5 days ago)
-- [Add parameters to PHPStan config file at etc/qa/phpstan.neon if it&#39;s not present](https://github.com/WyriHaximus/Makefiles/pull/111) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
-- [Update to PHP8.4&#43;](https://github.com/MammatusPHP/kubernetes-events/pull/23) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (5 days ago)
-- [Helm values file support](https://github.com/MammatusPHP/kubernetes/pull/17) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (5 days ago)
-- [Support values files](https://github.com/MammatusPHP/helm-json-action/pull/8) on [MammatusPHP/helm-json-action](https://github.com/MammatusPHP/helm-json-action) (6 days ago)
+- [[keda] Don&#39;t ref trigger auth when we don&#39;t create it](https://github.com/MammatusPHP/helm-charts/pull/25) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 day ago)
+- [[0.6.x] Handle channel closing mid handling a message](https://github.com/jakubkulhan/bunny/pull/196) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
+- [Vars into env](https://github.com/WyriHaximus/github-workflows/pull/130) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
+- [[New Version] Update versions file to PHP 8.4.14](https://github.com/WyriHaximus/php-fake-php-version/pull/160) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (5 days ago)
+- [Add support for grouped crons](https://github.com/MammatusPHP/cron-attributes/pull/23) on [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (5 days ago)
+- [[keda] Don&#39;t set trigger authentication when empty](https://github.com/MammatusPHP/helm-charts/pull/24) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (6 days ago)
+- [Update mammatus/app](https://github.com/MammatusPHP/queue/pull/29) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (6 days ago)
+- [Update mammatus/app](https://github.com/MammatusPHP/cron/pull/104) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (6 days ago)
+- [v2 release readme update](https://github.com/MammatusPHP/kubernetes-events/pull/24) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (6 days ago)
+- [Add parameters to PHPStan config file at etc/qa/phpstan.neon if it&#39;s not present](https://github.com/WyriHaximus/Makefiles/pull/111) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
+- [Update to PHP8.4&#43;](https://github.com/MammatusPHP/kubernetes-events/pull/23) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (6 days ago)
+- [Helm values file support](https://github.com/MammatusPHP/kubernetes/pull/17) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (6 days ago)
+- [Support values files](https://github.com/MammatusPHP/helm-json-action/pull/8) on [MammatusPHP/helm-json-action](https://github.com/MammatusPHP/helm-json-action) (1 week ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [taiki-e/checkout-action](https://github.com/taiki-e/checkout-action) - GitHub Action for checking out a repository. (Simplified actions/checkout alternative that does not depend on Node.js.) (2 days ago)
-- [Hogster/BPS](https://github.com/Hogster/BPS) - A BLE positioning sytem for Homeassistant providing realtime tracking indoors. Dependent on the Bermuda component built by @agattins.  (3 days ago)
-- [FredrikM97/hass-surepetcare](https://github.com/FredrikM97/hass-surepetcare) - Home assistant HACS component to integrate with SurePetCare Api.  (3 days ago)
-- [plambrechtsen/pethublocal](https://github.com/plambrechtsen/pethublocal) - Local docker stack to replace the SurePetCare &#34;Connect&#34; cloud service. (3 days ago)
-- [benleb/surepy](https://github.com/benleb/surepy) - 🐾 Library &amp; CLI to monitor and control the Pet Door &amp; Cat Flap Connect 🚪 the Pet Feeder Connect 🍽 and the Felaqua 💦 sold by Sure Petcare (3 days ago)
-- [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (4 days ago)
-- [awalsh128/cache-apt-pkgs-action](https://github.com/awalsh128/cache-apt-pkgs-action) - Cache APT packages in GitHub Actions (4 days ago)
-- [liskin/gh-linkchecker](https://github.com/liskin/gh-linkchecker) -  (6 days ago)
+- [taiki-e/checkout-action](https://github.com/taiki-e/checkout-action) - GitHub Action for checking out a repository. (Simplified actions/checkout alternative that does not depend on Node.js.) (3 days ago)
+- [Hogster/BPS](https://github.com/Hogster/BPS) - A BLE positioning sytem for Homeassistant providing realtime tracking indoors. Dependent on the Bermuda component built by @agattins.  (4 days ago)
+- [FredrikM97/hass-surepetcare](https://github.com/FredrikM97/hass-surepetcare) - Home assistant HACS component to integrate with SurePetCare Api.  (4 days ago)
+- [plambrechtsen/pethublocal](https://github.com/plambrechtsen/pethublocal) - Local docker stack to replace the SurePetCare &#34;Connect&#34; cloud service. (4 days ago)
+- [benleb/surepy](https://github.com/benleb/surepy) - 🐾 Library &amp; CLI to monitor and control the Pet Door &amp; Cat Flap Connect 🚪 the Pet Feeder Connect 🍽 and the Felaqua 💦 sold by Sure Petcare (4 days ago)
+- [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (5 days ago)
+- [awalsh128/cache-apt-pkgs-action](https://github.com/awalsh128/cache-apt-pkgs-action) - Cache APT packages in GitHub Actions (5 days ago)
+- [liskin/gh-linkchecker](https://github.com/liskin/gh-linkchecker) -  (1 week ago)
 - [fabieu/sureflap-api](https://github.com/fabieu/sureflap-api) - SureHub API is a simple, yet powerful RESTful API for products from Sure Petcare (2 weeks ago)
 - [analogwhisper/slack-ground-colors](https://github.com/analogwhisper/slack-ground-colors) - Customize the background color of slack channels and private messages!  (3 weeks ago)
 - [ksimes/trainControl](https://github.com/ksimes/trainControl) - Simple control of a LEGO Train set 60197 using Bluetooth from a Rasp Pi A&#43; running Python using MQTT client and a website with an Angular front end and PHP MQTT publisher back end. (1 month ago)
@@ -146,11 +146,11 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 👯 Check out some of my recent followers
 
+- [NamesMT](https://github.com/NamesMT)
 - [kassner](https://github.com/kassner)
 - [theeMahmud](https://github.com/theeMahmud)
 - [theihasan](https://github.com/theihasan)
 - [emilycodestar](https://github.com/emilycodestar)
-- [chiefkarim](https://github.com/chiefkarim)
 
 ---
 
