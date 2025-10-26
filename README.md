@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
-- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (1 day ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
+- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 day ago)
 - [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (1 day ago)
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (1 day ago)
 - [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (1 day ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (1 day ago)
-- [WyriHaximus/reactphp-cache-json](https://github.com/WyriHaximus/reactphp-cache-json) (1 day ago)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
 - [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (1 day ago)
+- [WyriHaximus/reactphp-cache-json](https://github.com/WyriHaximus/reactphp-cache-json) (1 day ago)
+- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (1 day ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
-- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (1 day ago)
+- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (1 day ago)
+- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (1 day ago)
 
 ---
 
@@ -93,6 +93,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Make sure PHPCS has ../../ prefixing tests/ to ensure correct absolute path](https://github.com/WyriHaximus/Makefiles/pull/122) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Make sure PHPCS has ../../ prefixing src/ to ensure correct absolute path](https://github.com/WyriHaximus/Makefiles/pull/121) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Make sure PHPCS has ../../ prefixing etc/ to ensure correct absolute …](https://github.com/WyriHaximus/Makefiles/pull/120) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Move composer-require-checker.json to etc/qa/composer-require-checker.json](https://github.com/WyriHaximus/Makefiles/pull/119) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Add missing file reading in: Add parameters to PHPStan config file at etc/qa/phpstan.neon if it&#39;s not present](https://github.com/WyriHaximus/Makefiles/pull/118) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Move phpcs.xml.dist to etc/qa/phpcs.xml](https://github.com/WyriHaximus/Makefiles/pull/117) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
@@ -103,9 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [[0.6.x] Handle channel closing mid handling a message](https://github.com/jakubkulhan/bunny/pull/196) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
 - [Vars into env](https://github.com/WyriHaximus/github-workflows/pull/130) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
 - [[New Version] Update versions file to PHP 8.4.14](https://github.com/WyriHaximus/php-fake-php-version/pull/160) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (5 days ago)
-- [Add support for grouped crons](https://github.com/MammatusPHP/cron-attributes/pull/23) on [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (5 days ago)
-- [[keda] Don&#39;t set trigger authentication when empty](https://github.com/MammatusPHP/helm-charts/pull/24) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (6 days ago)
-- [Update mammatus/app](https://github.com/MammatusPHP/queue/pull/29) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (6 days ago)
 
 ---
 
