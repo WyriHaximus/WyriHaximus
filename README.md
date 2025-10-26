@@ -12,17 +12,17 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
-- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (1 day ago)
-- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (1 day ago)
 - [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (1 day ago)
+- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (1 day ago)
+- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (1 day ago)
 - [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (1 day ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 day ago)
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
-- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (1 day ago)
+- [WyriHaximus/reactphp-cache-json](https://github.com/WyriHaximus/reactphp-cache-json) (1 day ago)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
+- [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (1 day ago)
+- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
+- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (1 day ago)
 
 ---
 
