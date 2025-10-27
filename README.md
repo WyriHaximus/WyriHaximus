@@ -93,6 +93,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Fix PHPCS config paths](https://github.com/WyriHaximus/Makefiles/pull/125) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Make sure PHPCS cache path is has ../../var/.phpcs.cache and not .phpcs.cache](https://github.com/WyriHaximus/Makefiles/pull/124) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Make sure PHPCS base path is has ../../ and not .](https://github.com/WyriHaximus/Makefiles/pull/123) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Make sure PHPCS has ../../ prefixing tests/ to ensure correct absolute path](https://github.com/WyriHaximus/Makefiles/pull/122) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Make sure PHPCS has ../../ prefixing src/ to ensure correct absolute path](https://github.com/WyriHaximus/Makefiles/pull/121) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Make sure PHPCS has ../../ prefixing etc/ to ensure correct absolute …](https://github.com/WyriHaximus/Makefiles/pull/120) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
@@ -103,9 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Make sure var/.gitkeep exists](https://github.com/WyriHaximus/Makefiles/pull/115) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Make sure var/ exists](https://github.com/WyriHaximus/Makefiles/pull/114) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [[keda] Don&#39;t ref trigger auth when we don&#39;t create it](https://github.com/MammatusPHP/helm-charts/pull/25) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
-- [[0.6.x] Handle channel closing mid handling a message](https://github.com/jakubkulhan/bunny/pull/196) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
-- [Vars into env](https://github.com/WyriHaximus/github-workflows/pull/130) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
-- [[New Version] Update versions file to PHP 8.4.14](https://github.com/WyriHaximus/php-fake-php-version/pull/160) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (6 days ago)
 
 ---
 
