@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Update to PHP 8.4](https://github.com/MammatusPHP/http-server-webroot/pull/7) on [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (today)
 - [Create correct directory when ensure .github exists](https://github.com/WyriHaximus/Makefiles/pull/132) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Make sure .github/workflows exists](https://github.com/WyriHaximus/Makefiles/pull/131) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Make sure .github/ exists](https://github.com/WyriHaximus/Makefiles/pull/130) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Make sure PHPCS cache path is has ../../var/.phpcs.cache and not .phpcs.cache](https://github.com/WyriHaximus/Makefiles/pull/124) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Make sure PHPCS base path is has ../../ and not .](https://github.com/WyriHaximus/Makefiles/pull/123) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Make sure PHPCS has ../../ prefixing tests/ to ensure correct absolute path](https://github.com/WyriHaximus/Makefiles/pull/122) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Make sure PHPCS has ../../ prefixing src/ to ensure correct absolute path](https://github.com/WyriHaximus/Makefiles/pull/121) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 
 ---
 
