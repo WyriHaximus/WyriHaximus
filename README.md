@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [PHPStan add ../../ to anything in a list that starts with vendor](https://github.com/WyriHaximus/Makefiles/pull/137) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Ensure infection&#39;s log.perMutator has config directive has the correct path](https://github.com/WyriHaximus/Makefiles/pull/136) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Ensure infection&#39;s log.json has config directive has the correct path](https://github.com/WyriHaximus/Makefiles/pull/135) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Ensure infection&#39;s log.summary has config director has the correct path](https://github.com/WyriHaximus/Makefiles/pull/134) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Introduce Route attribute](https://github.com/MammatusPHP/http-server-attributes/pull/2) on [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (today)
 - [Make sure .gitignore excludes var/.gitkeep](https://github.com/WyriHaximus/Makefiles/pull/128) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Make sure .gitignore ignores var/*](https://github.com/WyriHaximus/Makefiles/pull/127) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Make sure .gitignore](https://github.com/WyriHaximus/Makefiles/pull/126) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 
 ---
 
