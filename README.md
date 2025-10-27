@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Make sure .gitignore](https://github.com/WyriHaximus/Makefiles/pull/126) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Fix PHPCS config paths](https://github.com/WyriHaximus/Makefiles/pull/125) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Make sure PHPCS cache path is has ../../var/.phpcs.cache and not .phpcs.cache](https://github.com/WyriHaximus/Makefiles/pull/124) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Make sure PHPCS base path is has ../../ and not .](https://github.com/WyriHaximus/Makefiles/pull/123) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Move phpstan.neon to etc/qa/phpstan.neon](https://github.com/WyriHaximus/Makefiles/pull/116) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Make sure var/.gitkeep exists](https://github.com/WyriHaximus/Makefiles/pull/115) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Make sure var/ exists](https://github.com/WyriHaximus/Makefiles/pull/114) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [[keda] Don&#39;t ref trigger auth when we don&#39;t create it](https://github.com/MammatusPHP/helm-charts/pull/25) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
 
 ---
 
