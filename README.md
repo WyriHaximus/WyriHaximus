@@ -93,6 +93,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Create correct directory when ensure .github exists](https://github.com/WyriHaximus/Makefiles/pull/132) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Make sure .github/workflows exists](https://github.com/WyriHaximus/Makefiles/pull/131) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Make sure .github/ exists](https://github.com/WyriHaximus/Makefiles/pull/130) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Move infection.json.dist to etc/qa/infection.json5](https://github.com/WyriHaximus/Makefiles/pull/129) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Introduce Route attribute](https://github.com/MammatusPHP/http-server-attributes/pull/2) on [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (today)
 - [Make sure .gitignore excludes var/.gitkeep](https://github.com/WyriHaximus/Makefiles/pull/128) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
@@ -103,9 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Make sure PHPCS base path is has ../../ and not .](https://github.com/WyriHaximus/Makefiles/pull/123) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Make sure PHPCS has ../../ prefixing tests/ to ensure correct absolute path](https://github.com/WyriHaximus/Makefiles/pull/122) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Make sure PHPCS has ../../ prefixing src/ to ensure correct absolute path](https://github.com/WyriHaximus/Makefiles/pull/121) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Make sure PHPCS has ../../ prefixing etc/ to ensure correct absolute …](https://github.com/WyriHaximus/Makefiles/pull/120) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Move composer-require-checker.json to etc/qa/composer-require-checker.json](https://github.com/WyriHaximus/Makefiles/pull/119) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Add missing file reading in: Add parameters to PHPStan config file at etc/qa/phpstan.neon if it&#39;s not present](https://github.com/WyriHaximus/Makefiles/pull/118) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 
 ---
 
