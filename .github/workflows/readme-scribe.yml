@@ -24,7 +24,7 @@ jobs:
           mv output/light.svg images/breakout-light.svg
           mv output/dark.svg images/breakout-dark.svg
 
-      - uses: muesli/readme-scribe@master
+      - uses: muesli/readme-scribe@v0.1
         env:
           GITHUB_TOKEN: ${{ secrets.PET }}
         with:
