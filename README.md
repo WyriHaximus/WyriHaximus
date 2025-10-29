@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
-- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (2 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
-- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (2 days ago)
+- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (2 days ago)
 - [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (2 days ago)
 - [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (2 days ago)
+- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (2 days ago)
 - [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (2 days ago)
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (2 days ago)
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (2 days ago)
+- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (2 days ago)
+- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (2 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
+- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (2 days ago)
 - [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (2 days ago)
-- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (2 days ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 
 ---
 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add HassAtributes class filter](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/47) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [Add logical operator support](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/46) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [PHPStan add ../../ to anything in a list that starts with vendor](https://github.com/WyriHaximus/Makefiles/pull/137) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Ensure infection&#39;s log.perMutator has config directive has the correct path](https://github.com/WyriHaximus/Makefiles/pull/136) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Make sure .github/ exists](https://github.com/WyriHaximus/Makefiles/pull/130) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Move infection.json.dist to etc/qa/infection.json5](https://github.com/WyriHaximus/Makefiles/pull/129) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Introduce Route attribute](https://github.com/MammatusPHP/http-server-attributes/pull/2) on [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (2 days ago)
-- [Make sure .gitignore excludes var/.gitkeep](https://github.com/WyriHaximus/Makefiles/pull/128) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 
 ---
 
