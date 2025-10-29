@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add logical operator support](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/46) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [PHPStan add ../../ to anything in a list that starts with vendor](https://github.com/WyriHaximus/Makefiles/pull/137) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Ensure infection&#39;s log.perMutator has config directive has the correct path](https://github.com/WyriHaximus/Makefiles/pull/136) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Ensure infection&#39;s log.json has config directive has the correct path](https://github.com/WyriHaximus/Makefiles/pull/135) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Move infection.json.dist to etc/qa/infection.json5](https://github.com/WyriHaximus/Makefiles/pull/129) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Introduce Route attribute](https://github.com/MammatusPHP/http-server-attributes/pull/2) on [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (2 days ago)
 - [Make sure .gitignore excludes var/.gitkeep](https://github.com/WyriHaximus/Makefiles/pull/128) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Make sure .gitignore ignores var/*](https://github.com/WyriHaximus/Makefiles/pull/127) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 
 ---
 
