@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (2 days ago)
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (3 days ago)
-- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (3 days ago)
+- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (3 days ago)
 - [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (3 days ago)
-- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (3 days ago)
-- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (3 days ago)
+- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (3 days ago)
 - [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (3 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
-- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (3 days ago)
+- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (3 days ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (3 days ago)
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (3 days ago)
+- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (3 days ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (3 days ago)
+- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (3 days ago)
 
 ---
 
