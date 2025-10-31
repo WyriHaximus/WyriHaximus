@@ -86,3 +86,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - Website: [WyriHaximus.net](https://wyrihaximus.net/)
 - Email: [github@ceesjankiewiet.nl](mailto:github@ceesjankiewiet.nl)
 - The X formally known as Twitter: [@WyriHaximus](https://twitter.com/WyriHaximus)
+
+---
+
+[![An image of @wyrihaximus's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wyrihaximus)](https://holopin.io/@wyrihaximus)
