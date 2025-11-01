@@ -12,17 +12,17 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
 - [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (4 days ago)
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (5 days ago)
+- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (5 days ago)
 - [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (5 days ago)
 - [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (5 days ago)
-- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (5 days ago)
-- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (5 days ago)
+- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (5 days ago)
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (5 days ago)
-- [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (5 days ago)
 
 ---
 
@@ -75,10 +75,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.11](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.11), today) - 
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.3.7](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.3.7), 5 days ago) - Wrapper around renovatebot/github-action
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.14.1](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.14.1), 5 days ago) - Forked from https://github.com/k8s-at-home/charts
 - [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) ([1.4.0](https://github.com/WyriHaximus/php-json-psr7/releases/tag/1.4.0), 6 days ago) - JSON encode and decode PSR-7 requests and responses
-- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([keda-0.0.5](https://github.com/MammatusPHP/helm-charts/releases/tag/keda-0.0.5), 1 week ago) - 
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.5.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.5.0), 1 week ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.6.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.6.0), 1 week ago) - 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.23](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.23), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[mammatus] Add ports and probes helpers](https://github.com/MammatusPHP/helm-charts/pull/26) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
 - [Update to PHP 8.4](https://github.com/MammatusPHP/http-server/pull/190) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [Raise minimum PHP version to 8.4](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload/pull/109) on [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (today)
 - [Make sure we remove phpunit.xml](https://github.com/WyriHaximus/Makefiles/pull/139) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Ensure infection&#39;s log.summary has config director has the correct path](https://github.com/WyriHaximus/Makefiles/pull/134) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 - [Ensure infection&#39;s log.text has config director has the correct path](https://github.com/WyriHaximus/Makefiles/pull/133) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 - [Update to PHP 8.4](https://github.com/MammatusPHP/http-server-webroot/pull/7) on [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (5 days ago)
-- [Create correct directory when ensure .github exists](https://github.com/WyriHaximus/Makefiles/pull/132) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 
 ---
 
