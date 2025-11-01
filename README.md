@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (4 days ago)
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (5 days ago)
-- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (5 days ago)
 - [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (5 days ago)
 - [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (5 days ago)
 - [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (5 days ago)
-- [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (5 days ago)
+- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (5 days ago)
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (5 days ago)
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (5 days ago)
+- [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (5 days ago)
 
 ---
 
@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Make sure we remove phpunit.xml](https://github.com/WyriHaximus/Makefiles/pull/139) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Move phpcs.xml to etc/qa/phpcs.xml](https://github.com/WyriHaximus/Makefiles/pull/138) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Add HassAtributes class filter](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/47) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
 - [Add logical operator support](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/46) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
 - [PHPStan add ../../ to anything in a list that starts with vendor](https://github.com/WyriHaximus/Makefiles/pull/137) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Create correct directory when ensure .github exists](https://github.com/WyriHaximus/Makefiles/pull/132) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 - [Make sure .github/workflows exists](https://github.com/WyriHaximus/Makefiles/pull/131) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 - [Make sure .github/ exists](https://github.com/WyriHaximus/Makefiles/pull/130) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
-- [Move infection.json.dist to etc/qa/infection.json5](https://github.com/WyriHaximus/Makefiles/pull/129) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
-- [Introduce Route attribute](https://github.com/MammatusPHP/http-server-attributes/pull/2) on [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (5 days ago)
 
 ---
 
