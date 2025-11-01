@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Update to PHP 8.4](https://github.com/MammatusPHP/http-server/pull/190) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
+- [Raise minimum PHP version to 8.4](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload/pull/109) on [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (today)
 - [Make sure we remove phpunit.xml](https://github.com/WyriHaximus/Makefiles/pull/139) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Move phpcs.xml to etc/qa/phpcs.xml](https://github.com/WyriHaximus/Makefiles/pull/138) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Add HassAtributes class filter](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/47) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Ensure infection&#39;s log.text has config director has the correct path](https://github.com/WyriHaximus/Makefiles/pull/133) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 - [Update to PHP 8.4](https://github.com/MammatusPHP/http-server-webroot/pull/7) on [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (5 days ago)
 - [Create correct directory when ensure .github exists](https://github.com/WyriHaximus/Makefiles/pull/132) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
-- [Make sure .github/workflows exists](https://github.com/WyriHaximus/Makefiles/pull/131) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
-- [Make sure .github/ exists](https://github.com/WyriHaximus/Makefiles/pull/130) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 
 ---
 
