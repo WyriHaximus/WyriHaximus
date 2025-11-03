@@ -148,9 +148,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 - [softwareonair](https://github.com/softwareonair)
 - [rstar327](https://github.com/rstar327)
-- [trinhminhtriet](https://github.com/trinhminhtriet)
 - [kassner](https://github.com/kassner)
 - [theeMahmud](https://github.com/theeMahmud)
+- [theihasan](https://github.com/theihasan)
 
 ---
 
