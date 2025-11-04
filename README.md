@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 day ago)
-- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
 - [WyriHaximusNet/renovate](https://github.com/WyriHaximusNet/renovate) (1 day ago)
+- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (1 day ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (2 days ago)
 - [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (3 days ago)
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (3 days ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 
 ---
 
@@ -75,14 +75,14 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.7.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.7.0), today) - 
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.3.8](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.3.8), today) - Wrapper around renovatebot/github-action
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.21.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.21.0), 1 day ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.35.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.35.0), 1 day ago) - 
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.11](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.11), 3 days ago) - 
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.3.7](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.3.7), 1 week ago) - Wrapper around renovatebot/github-action
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.14.1](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.14.1), 1 week ago) - Forked from https://github.com/k8s-at-home/charts
 - [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) ([1.4.0](https://github.com/WyriHaximus/php-json-psr7/releases/tag/1.4.0), 1 week ago) - JSON encode and decode PSR-7 requests and responses
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.5.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.5.0), 1 week ago) - 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.6.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.6.0), 1 week ago) - 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.23](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.23), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.1.0](https://github.com/MammatusPHP/kubernetes/releases/tag/0.1.0), 2 weeks ago) - Kubernetes related tooling
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([2.0.0](https://github.com/MammatusPHP/kubernetes-events/releases/tag/2.0.0), 2 weeks ago) - 
