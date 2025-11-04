@@ -10,16 +10,16 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximusNet/renovate](https://github.com/WyriHaximusNet/renovate) (1 day ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 day ago)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 day ago)
+- [WyriHaximusNet/renovate](https://github.com/WyriHaximusNet/renovate) (1 day ago)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (1 day ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (2 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (3 days ago)
 - [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (3 days ago)
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (3 days ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Revive Debian builds](https://github.com/WyriHaximusNet/docker-php/pull/331) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
+- [[CI] Run &#34;Compile the matrix&#34; on Chaos runners](https://github.com/WyriHaximus/github-workflows/pull/132) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Make sure we don&#39;t commit the vendor directory](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/200) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
 - [Switch to centralized workflows](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/199) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
 - [8.5.0beta2 =&gt; 8.5.0RC3](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/74) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Make sure we remove phpunit.xml](https://github.com/WyriHaximus/Makefiles/pull/139) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [Move phpcs.xml to etc/qa/phpcs.xml](https://github.com/WyriHaximus/Makefiles/pull/138) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [Add HassAtributes class filter](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/47) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (6 days ago)
-- [Add logical operator support](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/46) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (6 days ago)
-- [PHPStan add ../../ to anything in a list that starts with vendor](https://github.com/WyriHaximus/Makefiles/pull/137) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 
 ---
 
