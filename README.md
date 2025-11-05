@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 day ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
-- [WyriHaximusNet/renovate](https://github.com/WyriHaximusNet/renovate) (1 day ago)
-- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
-- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (1 day ago)
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (2 days ago)
-- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (3 days ago)
-- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (3 days ago)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (2 days ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
+- [WyriHaximusNet/renovate](https://github.com/WyriHaximusNet/renovate) (2 days ago)
+- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 days ago)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 days ago)
+- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (2 days ago)
+- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (3 days ago)
+- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (4 days ago)
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (4 days ago)
 
 ---
 
@@ -75,11 +75,11 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.7.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.7.0), today) - 
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.3.8](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.3.8), today) - Wrapper around renovatebot/github-action
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.21.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.21.0), 1 day ago) - 🌯 PHPStan rules wrapper
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.35.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.35.0), 1 day ago) - 
-- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.11](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.11), 3 days ago) - 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.7.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.7.0), 1 day ago) - 
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.3.8](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.3.8), 1 day ago) - Wrapper around renovatebot/github-action
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.21.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.21.0), 2 days ago) - 🌯 PHPStan rules wrapper
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.35.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.35.0), 2 days ago) - 
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.11](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.11), 4 days ago) - 
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.14.1](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.14.1), 1 week ago) - Forked from https://github.com/k8s-at-home/charts
 - [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) ([1.4.0](https://github.com/WyriHaximus/php-json-psr7/releases/tag/1.4.0), 1 week ago) - JSON encode and decode PSR-7 requests and responses
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.5.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.5.0), 1 week ago) - 
@@ -93,34 +93,34 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Revive Debian builds](https://github.com/WyriHaximusNet/docker-php/pull/331) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
-- [[CI] Run &#34;Compile the matrix&#34; on Chaos runners](https://github.com/WyriHaximus/github-workflows/pull/132) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [Make sure we don&#39;t commit the vendor directory](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/200) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
-- [Switch to centralized workflows](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/199) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
-- [8.5.0beta2 =&gt; 8.5.0RC3](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/74) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
-- [Add ReplaceTestFunctionPrefixWithAttributeRector rule](https://github.com/WyriHaximus/php-test-utilities/pull/1135) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
-- [Switch section to enum](https://github.com/MammatusPHP/kubernetes-events/pull/29) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (2 days ago)
-- [[mammatus] Add ports and probes helpers](https://github.com/MammatusPHP/helm-charts/pull/26) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (3 days ago)
-- [Update to PHP 8.4](https://github.com/MammatusPHP/http-server/pull/190) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (3 days ago)
-- [Raise minimum PHP version to 8.4](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload/pull/109) on [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (3 days ago)
-- [Make sure we remove phpunit.xml](https://github.com/WyriHaximus/Makefiles/pull/139) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
-- [Move phpcs.xml to etc/qa/phpcs.xml](https://github.com/WyriHaximus/Makefiles/pull/138) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
-- [Add HassAtributes class filter](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/47) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (6 days ago)
+- [Revive Debian builds](https://github.com/WyriHaximusNet/docker-php/pull/331) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
+- [[CI] Run &#34;Compile the matrix&#34; on Chaos runners](https://github.com/WyriHaximus/github-workflows/pull/132) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [Make sure we don&#39;t commit the vendor directory](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/200) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
+- [Switch to centralized workflows](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/199) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
+- [8.5.0beta2 =&gt; 8.5.0RC3](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/74) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 days ago)
+- [Add ReplaceTestFunctionPrefixWithAttributeRector rule](https://github.com/WyriHaximus/php-test-utilities/pull/1135) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
+- [Switch section to enum](https://github.com/MammatusPHP/kubernetes-events/pull/29) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (3 days ago)
+- [[mammatus] Add ports and probes helpers](https://github.com/MammatusPHP/helm-charts/pull/26) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (4 days ago)
+- [Update to PHP 8.4](https://github.com/MammatusPHP/http-server/pull/190) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (4 days ago)
+- [Raise minimum PHP version to 8.4](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload/pull/109) on [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (4 days ago)
+- [Make sure we remove phpunit.xml](https://github.com/WyriHaximus/Makefiles/pull/139) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
+- [Move phpcs.xml to etc/qa/phpcs.xml](https://github.com/WyriHaximus/Makefiles/pull/138) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
+- [Add HassAtributes class filter](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/47) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 week ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [ciaranmcnulty/homeassistant-test-container](https://github.com/ciaranmcnulty/homeassistant-test-container) - A container for testing home assistant integrations (1 day ago)
-- [realodix/change-case](https://github.com/realodix/change-case) - ✏️ Convert strings between camelCase, PascalCase, Capital Case, snake_case and more. (5 days ago)
+- [ciaranmcnulty/homeassistant-test-container](https://github.com/ciaranmcnulty/homeassistant-test-container) - A container for testing home assistant integrations (2 days ago)
+- [realodix/change-case](https://github.com/realodix/change-case) - ✏️ Convert strings between camelCase, PascalCase, Capital Case, snake_case and more. (6 days ago)
 - [dermotduffy/hass-web-proxy-integration](https://github.com/dermotduffy/hass-web-proxy-integration) - Home Assistant Web Proxy (1 week ago)
 - [Andrew504s/weyland-home-assistant-theme](https://github.com/Andrew504s/weyland-home-assistant-theme) - A minimalist sci-fi CRT-inspired theme for Home Assistant (1 week ago)
 - [RohanAdwankar/oxdraw](https://github.com/RohanAdwankar/oxdraw) - Diagram as Code Tool Written in Rust with Draggable Editing (1 week ago)
 - [taiki-e/checkout-action](https://github.com/taiki-e/checkout-action) - GitHub Action for checking out a repository. (Simplified actions/checkout alternative that does not depend on Node.js.) (1 week ago)
-- [Hogster/BPS](https://github.com/Hogster/BPS) - A BLE positioning sytem for Homeassistant providing realtime tracking indoors. Dependent on the Bermuda component built by @agattins.  (1 week ago)
-- [FredrikM97/hass-surepetcare](https://github.com/FredrikM97/hass-surepetcare) - Home assistant HACS component to integrate with SurePetCare Api.  (1 week ago)
-- [plambrechtsen/pethublocal](https://github.com/plambrechtsen/pethublocal) - Local docker stack to replace the SurePetCare &#34;Connect&#34; cloud service. (1 week ago)
-- [benleb/surepy](https://github.com/benleb/surepy) - 🐾 Library &amp; CLI to monitor and control the Pet Door &amp; Cat Flap Connect 🚪 the Pet Feeder Connect 🍽 and the Felaqua 💦 sold by Sure Petcare (1 week ago)
+- [Hogster/BPS](https://github.com/Hogster/BPS) - A BLE positioning sytem for Homeassistant providing realtime tracking indoors. Dependent on the Bermuda component built by @agattins.  (2 weeks ago)
+- [FredrikM97/hass-surepetcare](https://github.com/FredrikM97/hass-surepetcare) - Home assistant HACS component to integrate with SurePetCare Api.  (2 weeks ago)
+- [plambrechtsen/pethublocal](https://github.com/plambrechtsen/pethublocal) - Local docker stack to replace the SurePetCare &#34;Connect&#34; cloud service. (2 weeks ago)
+- [benleb/surepy](https://github.com/benleb/surepy) - 🐾 Library &amp; CLI to monitor and control the Pet Door &amp; Cat Flap Connect 🚪 the Pet Feeder Connect 🍽 and the Felaqua 💦 sold by Sure Petcare (2 weeks ago)
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (2 weeks ago)
 - [awalsh128/cache-apt-pkgs-action](https://github.com/awalsh128/cache-apt-pkgs-action) - Cache APT packages in GitHub Actions (2 weeks ago)
 - [liskin/gh-linkchecker](https://github.com/liskin/gh-linkchecker) -  (2 weeks ago)
