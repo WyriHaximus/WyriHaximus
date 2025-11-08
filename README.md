@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[1.x] Support PHP8.5](https://github.com/reactphp/event-loop/pull/282) on [reactphp/event-loop](https://github.com/reactphp/event-loop) (today)
 - [[3.x] Support PHP8.5](https://github.com/reactphp/event-loop/pull/281) on [reactphp/event-loop](https://github.com/reactphp/event-loop) (today)
 - [Enforce .gitattributes contents](https://github.com/WyriHaximus/Makefiles/pull/143) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Split Git Migrations out of PHP Migrations](https://github.com/WyriHaximus/Makefiles/pull/142) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [8.5.0beta2 =&gt; 8.5.0RC3](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/74) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (5 days ago)
 - [Add ReplaceTestFunctionPrefixWithAttributeRector rule](https://github.com/WyriHaximus/php-test-utilities/pull/1135) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
 - [Switch section to enum](https://github.com/MammatusPHP/kubernetes-events/pull/29) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (6 days ago)
-- [[mammatus] Add ports and probes helpers](https://github.com/MammatusPHP/helm-charts/pull/26) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 week ago)
 
 ---
 
