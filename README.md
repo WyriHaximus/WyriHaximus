@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[3.x] Support PHP8.5](https://github.com/reactphp/event-loop/pull/281) on [reactphp/event-loop](https://github.com/reactphp/event-loop) (today)
 - [Enforce .gitattributes contents](https://github.com/WyriHaximus/Makefiles/pull/143) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Split Git Migrations out of PHP Migrations](https://github.com/WyriHaximus/Makefiles/pull/142) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Fix CI file replacement detection](https://github.com/WyriHaximus/Makefiles/pull/141) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add ReplaceTestFunctionPrefixWithAttributeRector rule](https://github.com/WyriHaximus/php-test-utilities/pull/1135) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
 - [Switch section to enum](https://github.com/MammatusPHP/kubernetes-events/pull/29) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (6 days ago)
 - [[mammatus] Add ports and probes helpers](https://github.com/MammatusPHP/helm-charts/pull/26) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 week ago)
-- [Update to PHP 8.4](https://github.com/MammatusPHP/http-server/pull/190) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 week ago)
 
 ---
 
