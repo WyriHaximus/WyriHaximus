@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Make sure after removing $PHPIZE_DEPS we still have git and make](https://github.com/WyriHaximusNet/docker-php/pull/335) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
+- [Test make exists on both ZTS and NTS builds](https://github.com/WyriHaximusNet/docker-php/pull/334) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Install make as early as possible](https://github.com/WyriHaximusNet/docker-php/pull/333) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [[1.x] Support PHP8.5](https://github.com/reactphp/event-loop/pull/282) on [reactphp/event-loop](https://github.com/reactphp/event-loop) (1 day ago)
 - [[3.x] Support PHP8.5](https://github.com/reactphp/event-loop/pull/281) on [reactphp/event-loop](https://github.com/reactphp/event-loop) (1 day ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [[CI] Run &#34;Compile the matrix&#34; on Chaos runners](https://github.com/WyriHaximus/github-workflows/pull/132) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
 - [Make sure we don&#39;t commit the vendor directory](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/200) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (6 days ago)
 - [Switch to centralized workflows](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/199) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (6 days ago)
-- [8.5.0beta2 =&gt; 8.5.0RC3](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/74) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (6 days ago)
-- [Add ReplaceTestFunctionPrefixWithAttributeRector rule](https://github.com/WyriHaximus/php-test-utilities/pull/1135) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 
 ---
 
