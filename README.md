@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (3 days ago)
-- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (4 days ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (4 days ago)
+- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (4 days ago)
 
 ---
 
