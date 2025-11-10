@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Whenever we delete $PHPIZE_DEPS, we install make right after again](https://github.com/WyriHaximusNet/docker-php/pull/337) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Stop removing APK cache, we&#39;re not using it anyway since we pass --no-cache everywhere](https://github.com/WyriHaximusNet/docker-php/pull/336) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [Make sure after removing $PHPIZE_DEPS we still have git and make](https://github.com/WyriHaximusNet/docker-php/pull/335) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [Test make exists on both ZTS and NTS builds](https://github.com/WyriHaximusNet/docker-php/pull/334) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Fix haya14busa/action-update-semver to v1.2.1](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/35) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (5 days ago)
 - [Revive Debian builds](https://github.com/WyriHaximusNet/docker-php/pull/331) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (6 days ago)
 - [[CI] Run &#34;Compile the matrix&#34; on Chaos runners](https://github.com/WyriHaximus/github-workflows/pull/132) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
-- [Make sure we don&#39;t commit the vendor directory](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/200) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 
 ---
 
