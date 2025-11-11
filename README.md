@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add pcov](https://github.com/WyriHaximusNet/docker-php/pull/338) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Add  --all flag to git add command](https://github.com/WyriHaximus/github-action-renovatebot/pull/21) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
 - [Whenever we delete $PHPIZE_DEPS, we install make right after again](https://github.com/WyriHaximusNet/docker-php/pull/337) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [Stop removing APK cache, we&#39;re not using it anyway since we pass --no-cache everywhere](https://github.com/WyriHaximusNet/docker-php/pull/336) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Split Git Migrations out of PHP Migrations](https://github.com/WyriHaximus/Makefiles/pull/142) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [Fix CI file replacement detection](https://github.com/WyriHaximus/Makefiles/pull/141) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [Fix haya14busa/action-update-semver to v1.2.1](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/35) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (6 days ago)
-- [Revive Debian builds](https://github.com/WyriHaximusNet/docker-php/pull/331) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 
 ---
 
