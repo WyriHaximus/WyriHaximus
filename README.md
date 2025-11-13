@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[3.x] Improve PHP8.5&#43; support ](https://github.com/reactphp/http/pull/548) on [reactphp/http](https://github.com/reactphp/http) (today)
 - [[1.x] Improve PHP8.5&#43; support](https://github.com/reactphp/http/pull/547) on [reactphp/http](https://github.com/reactphp/http) (1 day ago)
 - [[3.x] Run CI jobs on PHP8.5](https://github.com/reactphp/dns/pull/244) on [reactphp/dns](https://github.com/reactphp/dns) (1 day ago)
 - [[1.x] Improve PHP8.5&#43; support ](https://github.com/reactphp/dns/pull/243) on [reactphp/dns](https://github.com/reactphp/dns) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Install make as early as possible](https://github.com/WyriHaximusNet/docker-php/pull/333) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
 - [[1.x] Improve PHP8.5&#43; support](https://github.com/reactphp/event-loop/pull/282) on [reactphp/event-loop](https://github.com/reactphp/event-loop) (5 days ago)
 - [[3.x] Improve PHP8.5&#43; support](https://github.com/reactphp/event-loop/pull/281) on [reactphp/event-loop](https://github.com/reactphp/event-loop) (5 days ago)
-- [Enforce .gitattributes contents](https://github.com/WyriHaximus/Makefiles/pull/143) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 
 ---
 
