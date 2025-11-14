@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (today)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [WyriHaximusNet/renovate](https://github.com/WyriHaximusNet/renovate) (today)
+- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (today)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (3 days ago)
-- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (4 days ago)
-- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (4 days ago)
-- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (4 days ago)
+- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (4 days ago)
+- [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (4 days ago)
 - [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (4 days ago)
-- [reactphp-parallel/reactphp-parallel](https://github.com/reactphp-parallel/reactphp-parallel) (4 days ago)
-- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (4 days ago)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (4 days ago)
 
 ---
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Bump wyrihaximus/makefiles to 0.7.12](https://github.com/MammatusPHP/cron/pull/106) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [Only run PHPUnit with coverage when xdebug is available](https://github.com/WyriHaximus/Makefiles/pull/145) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Update migrations-git-enforce-gitattributes-contents to only exclude ci and qa in etc](https://github.com/WyriHaximus/Makefiles/pull/144) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [8.5.0RC3 =&gt; 8.5.0RC4](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/75) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Whenever we delete $PHPIZE_DEPS, we install make right after again](https://github.com/WyriHaximusNet/docker-php/pull/337) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
 - [Stop removing APK cache, we&#39;re not using it anyway since we pass --no-cache everywhere](https://github.com/WyriHaximusNet/docker-php/pull/336) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
 - [Make sure after removing $PHPIZE_DEPS we still have git and make](https://github.com/WyriHaximusNet/docker-php/pull/335) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
-- [Test make exists on both ZTS and NTS builds](https://github.com/WyriHaximusNet/docker-php/pull/334) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
 
 ---
 
