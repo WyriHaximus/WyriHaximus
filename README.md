@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add Group](https://github.com/MammatusPHP/kubernetes-attributes/pull/20) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (today)
+- [Add Groups support](https://github.com/MammatusPHP/kubernetes-events/pull/33) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (today)
 - [Bump wyrihaximus/makefiles to 0.7.12](https://github.com/MammatusPHP/cron/pull/106) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [Only run PHPUnit with coverage when xdebug is available](https://github.com/WyriHaximus/Makefiles/pull/145) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Update migrations-git-enforce-gitattributes-contents to only exclude ci and qa in etc](https://github.com/WyriHaximus/Makefiles/pull/144) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add pcov](https://github.com/WyriHaximusNet/docker-php/pull/338) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
 - [Add  --all flag to git add command](https://github.com/WyriHaximus/github-action-renovatebot/pull/21) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (4 days ago)
 - [Whenever we delete $PHPIZE_DEPS, we install make right after again](https://github.com/WyriHaximusNet/docker-php/pull/337) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
-- [Stop removing APK cache, we&#39;re not using it anyway since we pass --no-cache everywhere](https://github.com/WyriHaximusNet/docker-php/pull/336) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
-- [Make sure after removing $PHPIZE_DEPS we still have git and make](https://github.com/WyriHaximusNet/docker-php/pull/335) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
 
 ---
 
