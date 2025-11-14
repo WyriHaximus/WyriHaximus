@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (2 days ago)
-- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (3 days ago)
-- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (3 days ago)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (3 days ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (3 days ago)
-- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (3 days ago)
-- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (3 days ago)
-- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (3 days ago)
-- [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (3 days ago)
-- [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (3 days ago)
-- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (3 days ago)
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (3 days ago)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
+- [WyriHaximusNet/renovate](https://github.com/WyriHaximusNet/renovate) (today)
+- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (3 days ago)
+- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (4 days ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
+- [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (4 days ago)
+- [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (4 days ago)
+- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (4 days ago)
+- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (4 days ago)
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (4 days ago)
+- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (4 days ago)
+- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (4 days ago)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (4 days ago)
 
 ---
 
@@ -75,13 +75,13 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) ([v0.6.0-alpha.2](https://github.com/jakubkulhan/bunny/releases/tag/v0.6.0-alpha.2), 3 days ago) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.5.0](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.5.0), 3 days ago) - Wrapper around renovatebot/github-action
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.6.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.6.0), 4 days ago) - 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.11](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.11), 5 days ago) - Makefile building blocks
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.36.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.36.0), 1 day ago) - 
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) ([v0.6.0-alpha.2](https://github.com/jakubkulhan/bunny/releases/tag/v0.6.0-alpha.2), 4 days ago) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.5.0](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.5.0), 4 days ago) - Wrapper around renovatebot/github-action
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.6.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.6.0), 5 days ago) - 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.11](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.11), 6 days ago) - Makefile building blocks
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.7.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.7.0), 1 week ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.21.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.21.0), 1 week ago) - 🌯 PHPStan rules wrapper
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.35.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.35.0), 1 week ago) - 
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.11](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.11), 1 week ago) - 
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.14.1](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.14.1), 2 weeks ago) - Forked from https://github.com/k8s-at-home/charts
 - [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) ([1.4.0](https://github.com/WyriHaximus/php-json-psr7/releases/tag/1.4.0), 2 weeks ago) - JSON encode and decode PSR-7 requests and responses
@@ -93,25 +93,25 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [[3.x] Improve PHP8.5&#43; support ](https://github.com/reactphp/http/pull/548) on [reactphp/http](https://github.com/reactphp/http) (today)
-- [[1.x] Improve PHP8.5&#43; support](https://github.com/reactphp/http/pull/547) on [reactphp/http](https://github.com/reactphp/http) (1 day ago)
-- [[3.x] Run CI jobs on PHP8.5](https://github.com/reactphp/dns/pull/244) on [reactphp/dns](https://github.com/reactphp/dns) (1 day ago)
-- [[1.x] Improve PHP8.5&#43; support ](https://github.com/reactphp/dns/pull/243) on [reactphp/dns](https://github.com/reactphp/dns) (1 day ago)
-- [Add pcov](https://github.com/WyriHaximusNet/docker-php/pull/338) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
-- [Add  --all flag to git add command](https://github.com/WyriHaximus/github-action-renovatebot/pull/21) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (3 days ago)
-- [Whenever we delete $PHPIZE_DEPS, we install make right after again](https://github.com/WyriHaximusNet/docker-php/pull/337) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
-- [Stop removing APK cache, we&#39;re not using it anyway since we pass --no-cache everywhere](https://github.com/WyriHaximusNet/docker-php/pull/336) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
-- [Make sure after removing $PHPIZE_DEPS we still have git and make](https://github.com/WyriHaximusNet/docker-php/pull/335) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
-- [Test make exists on both ZTS and NTS builds](https://github.com/WyriHaximusNet/docker-php/pull/334) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
-- [Install make as early as possible](https://github.com/WyriHaximusNet/docker-php/pull/333) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
-- [[1.x] Improve PHP8.5&#43; support](https://github.com/reactphp/event-loop/pull/282) on [reactphp/event-loop](https://github.com/reactphp/event-loop) (5 days ago)
-- [[3.x] Improve PHP8.5&#43; support](https://github.com/reactphp/event-loop/pull/281) on [reactphp/event-loop](https://github.com/reactphp/event-loop) (5 days ago)
+- [8.5.0RC3 =&gt; 8.5.0RC4](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/75) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
+- [[3.x] Improve PHP8.5&#43; support ](https://github.com/reactphp/http/pull/548) on [reactphp/http](https://github.com/reactphp/http) (1 day ago)
+- [[1.x] Improve PHP8.5&#43; support](https://github.com/reactphp/http/pull/547) on [reactphp/http](https://github.com/reactphp/http) (2 days ago)
+- [[3.x] Run CI jobs on PHP8.5](https://github.com/reactphp/dns/pull/244) on [reactphp/dns](https://github.com/reactphp/dns) (2 days ago)
+- [[1.x] Improve PHP8.5&#43; support ](https://github.com/reactphp/dns/pull/243) on [reactphp/dns](https://github.com/reactphp/dns) (2 days ago)
+- [Add pcov](https://github.com/WyriHaximusNet/docker-php/pull/338) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
+- [Add  --all flag to git add command](https://github.com/WyriHaximus/github-action-renovatebot/pull/21) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (4 days ago)
+- [Whenever we delete $PHPIZE_DEPS, we install make right after again](https://github.com/WyriHaximusNet/docker-php/pull/337) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
+- [Stop removing APK cache, we&#39;re not using it anyway since we pass --no-cache everywhere](https://github.com/WyriHaximusNet/docker-php/pull/336) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
+- [Make sure after removing $PHPIZE_DEPS we still have git and make](https://github.com/WyriHaximusNet/docker-php/pull/335) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
+- [Test make exists on both ZTS and NTS builds](https://github.com/WyriHaximusNet/docker-php/pull/334) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
+- [Install make as early as possible](https://github.com/WyriHaximusNet/docker-php/pull/333) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
+- [[1.x] Improve PHP8.5&#43; support](https://github.com/reactphp/event-loop/pull/282) on [reactphp/event-loop](https://github.com/reactphp/event-loop) (6 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [asgrim/arson](https://github.com/asgrim/arson) - Asgrim&#39;s Rust-based JSON viewer tool. (4 days ago)
+- [asgrim/arson](https://github.com/asgrim/arson) - Asgrim&#39;s Rust-based JSON viewer tool. (5 days ago)
 - [ciaranmcnulty/homeassistant-test-container](https://github.com/ciaranmcnulty/homeassistant-test-container) - A container for testing home assistant integrations (1 week ago)
 - [realodix/change-case](https://github.com/realodix/change-case) - ✏️ Convert strings between camelCase, PascalCase, Capital Case, snake_case and more. (2 weeks ago)
 - [dermotduffy/hass-web-proxy-integration](https://github.com/dermotduffy/hass-web-proxy-integration) - Home Assistant Web Proxy (2 weeks ago)
