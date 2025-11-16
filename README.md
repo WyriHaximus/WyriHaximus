@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
+- [WyriHaximusNet/renovate](https://github.com/WyriHaximusNet/renovate) (today)
 - [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (2 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (2 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
 - [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (2 days ago)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 days ago)
+- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (2 days ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (2 days ago)
 - [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (2 days ago)
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 days ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 days ago)
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (2 days ago)
 
 ---
 
@@ -75,10 +75,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.37](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.37), today) - 
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.5.1](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.5.1), today) - Wrapper around renovatebot/github-action
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.1.0](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.1.0), 2 days ago) - Tooling for creating generative Composer Plugins
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.12](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.12), 2 days ago) - Makefile building blocks
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.36.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.36.0), 3 days ago) - 
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) ([v0.6.0-alpha.2](https://github.com/jakubkulhan/bunny/releases/tag/v0.6.0-alpha.2), 6 days ago) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.6.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.6.0), 1 week ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.7.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.7.0), 1 week ago) - 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [8.5.0RC4 =&gt; 8.5.0RC5](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/76) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
 - [Fix git add  --all flag position](https://github.com/WyriHaximus/github-action-renovatebot/pull/22) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
 - [Add Groups](https://github.com/MammatusPHP/kubernetes-contracts/pull/13) on [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (1 day ago)
 - [Add Group](https://github.com/MammatusPHP/kubernetes-attributes/pull/20) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [[1.x] Improve PHP8.5&#43; support](https://github.com/reactphp/http/pull/547) on [reactphp/http](https://github.com/reactphp/http) (4 days ago)
 - [[3.x] Run CI jobs on PHP8.5](https://github.com/reactphp/dns/pull/244) on [reactphp/dns](https://github.com/reactphp/dns) (4 days ago)
 - [[1.x] Improve PHP8.5&#43; support ](https://github.com/reactphp/dns/pull/243) on [reactphp/dns](https://github.com/reactphp/dns) (4 days ago)
-- [Add pcov](https://github.com/WyriHaximusNet/docker-php/pull/338) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
 
 ---
 
