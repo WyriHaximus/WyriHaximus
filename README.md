@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Disable RemoveExtraParametersRector rule](https://github.com/WyriHaximus/php-test-utilities/pull/1144) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [[New Version] Update versions file to PHP 8.5.0](https://github.com/WyriHaximus/php-fake-php-version/pull/164) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [8.5.0RC4 =&gt; 8.5.0RC5](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/76) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 days ago)
 - [Fix git add  --all flag position](https://github.com/WyriHaximus/github-action-renovatebot/pull/22) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [8.5.0RC3 =&gt; 8.5.0RC4](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/75) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (5 days ago)
 - [[3.x] Improve PHP8.5&#43; support ](https://github.com/reactphp/http/pull/548) on [reactphp/http](https://github.com/reactphp/http) (5 days ago)
 - [[1.x] Improve PHP8.5&#43; support](https://github.com/reactphp/http/pull/547) on [reactphp/http](https://github.com/reactphp/http) (6 days ago)
-- [[3.x] Update to run tests on PHP 8.5](https://github.com/reactphp/dns/pull/244) on [reactphp/dns](https://github.com/reactphp/dns) (6 days ago)
 
 ---
 
