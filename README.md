@@ -95,8 +95,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 - [Add Groups](https://github.com/MammatusPHP/cron/pull/107) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [[1.x] Update to run tests on PHP 8.5](https://github.com/reactphp/socket/pull/330) on [reactphp/socket](https://github.com/reactphp/socket) (today)
-- [[3.x] Improve PHP 8.5&#43; support by avoiding deprecated method calls](https://github.com/reactphp/stream/pull/186) on [reactphp/stream](https://github.com/reactphp/stream) (today)
-- [[1.x] Improve PHP 8.5&#43; support by avoiding deprecated method calls](https://github.com/reactphp/stream/pull/185) on [reactphp/stream](https://github.com/reactphp/stream) (today)
+- [[3.x] Improve PHP 8.5&#43; support by avoiding deprecated method calls in tests](https://github.com/reactphp/stream/pull/186) on [reactphp/stream](https://github.com/reactphp/stream) (today)
+- [[1.x] Improve PHP 8.5&#43; support by avoiding deprecated method calls in tests](https://github.com/reactphp/stream/pull/185) on [reactphp/stream](https://github.com/reactphp/stream) (today)
 - [Disable RemoveExtraParametersRector rule](https://github.com/WyriHaximus/php-test-utilities/pull/1144) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [[New Version] Update versions file to PHP 8.5.0](https://github.com/WyriHaximus/php-fake-php-version/pull/164) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [8.5.0RC4 =&gt; 8.5.0RC5](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/76) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 days ago)
