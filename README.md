@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 days ago)
 - [WyriHaximusNet/renovate](https://github.com/WyriHaximusNet/renovate) (2 days ago)
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (4 days ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (4 days ago)
-- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (4 days ago)
-- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (4 days ago)
-- [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (4 days ago)
-- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (4 days ago)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (4 days ago)
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (4 days ago)
-- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (4 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (4 days ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (4 days ago)
+- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (4 days ago)
+- [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (4 days ago)
+- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (4 days ago)
+- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (4 days ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
+- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (4 days ago)
 
 ---
 
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.24](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.24), today) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [reactphp/event-loop](https://github.com/reactphp/event-loop) ([v1.6.0](https://github.com/reactphp/event-loop/releases/tag/v1.6.0), 1 day ago) - ReactPHP&#39;s core reactor event loop that libraries can use for evented I/O.
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.37](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.37), 2 days ago) - 
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.5.1](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.5.1), 2 days ago) - Wrapper around renovatebot/github-action
@@ -87,12 +88,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.11](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.11), 2 weeks ago) - 
 - [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.14.1](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.14.1), 3 weeks ago) - Forked from https://github.com/k8s-at-home/charts
 - [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) ([1.4.0](https://github.com/WyriHaximus/php-json-psr7/releases/tag/1.4.0), 3 weeks ago) - JSON encode and decode PSR-7 requests and responses
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.23](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.23), 4 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [[New Version] Update versions file to PHP 8.5.0](https://github.com/WyriHaximus/php-fake-php-version/pull/164) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [8.5.0RC4 =&gt; 8.5.0RC5](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/76) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 days ago)
 - [Fix git add  --all flag position](https://github.com/WyriHaximus/github-action-renovatebot/pull/22) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
 - [Add Groups](https://github.com/MammatusPHP/kubernetes-contracts/pull/13) on [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (3 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [[3.x] Improve PHP8.5&#43; support ](https://github.com/reactphp/http/pull/548) on [reactphp/http](https://github.com/reactphp/http) (5 days ago)
 - [[1.x] Improve PHP8.5&#43; support](https://github.com/reactphp/http/pull/547) on [reactphp/http](https://github.com/reactphp/http) (6 days ago)
 - [[3.x] Update to run tests on PHP 8.5](https://github.com/reactphp/dns/pull/244) on [reactphp/dns](https://github.com/reactphp/dns) (6 days ago)
-- [[1.x] Update to run tests on PHP 8.5](https://github.com/reactphp/dns/pull/243) on [reactphp/dns](https://github.com/reactphp/dns) (6 days ago)
 
 ---
 
