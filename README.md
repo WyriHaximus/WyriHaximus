@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add Groups](https://github.com/MammatusPHP/cron/pull/107) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [[1.x] Update to run tests on PHP 8.5](https://github.com/reactphp/socket/pull/330) on [reactphp/socket](https://github.com/reactphp/socket) (today)
 - [[3.x] Improve PHP 8.5&#43; support by avoiding deprecated method calls](https://github.com/reactphp/stream/pull/186) on [reactphp/stream](https://github.com/reactphp/stream) (today)
 - [[1.x] Improve PHP 8.5&#43; support by avoiding deprecated method calls](https://github.com/reactphp/stream/pull/185) on [reactphp/stream](https://github.com/reactphp/stream) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add Groups support](https://github.com/MammatusPHP/kubernetes-events/pull/33) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (4 days ago)
 - [Bump wyrihaximus/makefiles to 0.7.12](https://github.com/MammatusPHP/cron/pull/106) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (4 days ago)
 - [Only run PHPUnit with coverage when xdebug is available](https://github.com/WyriHaximus/Makefiles/pull/145) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
-- [Update migrations-git-enforce-gitattributes-contents to only exclude ci and qa in etc](https://github.com/WyriHaximus/Makefiles/pull/144) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 
 ---
 
