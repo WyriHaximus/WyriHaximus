@@ -11,16 +11,16 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
-- [WyriHaximus/reactphp-cache-json](https://github.com/WyriHaximus/reactphp-cache-json) (today)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
+- [WyriHaximus/reactphp-cache-json](https://github.com/WyriHaximus/reactphp-cache-json) (today)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
-- [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (1 day ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (1 day ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (1 day ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
 - [WyriHaximusNet/renovate](https://github.com/WyriHaximusNet/renovate) (3 days ago)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (3 days ago)
 
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [reactphp/socket](https://github.com/reactphp/socket) ([v1.17.0](https://github.com/reactphp/socket/releases/tag/v1.17.0), today) - Async, streaming plaintext TCP/IP and secure TLS socket server and client connections for ReactPHP.
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.2.0](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.2.0), today) - Tooling for creating generative Composer Plugins
 - [reactphp/dns](https://github.com/reactphp/dns) ([v1.14.0](https://github.com/reactphp/dns/releases/tag/v1.14.0), 1 day ago) - Async DNS resolver for ReactPHP.
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.24](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.24), 1 day ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
@@ -87,7 +88,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.7.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.7.0), 2 weeks ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.21.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.21.0), 2 weeks ago) - 🌯 PHPStan rules wrapper
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.11](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.11), 2 weeks ago) - 
-- [mkilchhofer/unifi-chart](https://github.com/mkilchhofer/unifi-chart) ([unifi-1.14.1](https://github.com/mkilchhofer/unifi-chart/releases/tag/unifi-1.14.1), 3 weeks ago) - Forked from https://github.com/k8s-at-home/charts
 
 ---
 
@@ -146,11 +146,11 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 👯 Check out some of my recent followers
 
+- [ochui](https://github.com/ochui)
 - [XiaomingX](https://github.com/XiaomingX)
 - [MrBElga](https://github.com/MrBElga)
 - [Didarkari](https://github.com/Didarkari)
 - [softwareonair](https://github.com/softwareonair)
-- [rstar327](https://github.com/rstar327)
 
 ---
 
