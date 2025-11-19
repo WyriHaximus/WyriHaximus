@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add helper to render twig template files to files](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/52) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [Add Groups](https://github.com/MammatusPHP/queue/pull/34) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
 - [[3.x] Update to run tests on PHP 8.5](https://github.com/reactphp/socket/pull/331) on [reactphp/socket](https://github.com/reactphp/socket) (1 day ago)
 - [Add Groups](https://github.com/MammatusPHP/cron/pull/107) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Fix git add  --all flag position](https://github.com/WyriHaximus/github-action-renovatebot/pull/22) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (3 days ago)
 - [Add Groups](https://github.com/MammatusPHP/kubernetes-contracts/pull/13) on [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (4 days ago)
 - [Add Group](https://github.com/MammatusPHP/kubernetes-attributes/pull/20) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (5 days ago)
-- [Add Groups support](https://github.com/MammatusPHP/kubernetes-events/pull/33) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (5 days ago)
 
 ---
 
