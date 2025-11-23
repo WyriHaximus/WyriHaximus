@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
-- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 day ago)
-- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (1 day ago)
-- [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (1 day ago)
-- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 day ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
-- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (3 days ago)
-- [WyriHaximus/reactphp-cache-json](https://github.com/WyriHaximus/reactphp-cache-json) (3 days ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (4 days ago)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
+- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (2 days ago)
+- [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (2 days ago)
+- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (2 days ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (2 days ago)
+- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (2 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 days ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (4 days ago)
+- [WyriHaximus/reactphp-cache-json](https://github.com/WyriHaximus/reactphp-cache-json) (4 days ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (5 days ago)
 
 ---
 
@@ -75,17 +75,17 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.12](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.12), 1 day ago) - 
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.38.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.38.0), 1 day ago) - 
-- [reactphp/socket](https://github.com/reactphp/socket) ([v1.17.0](https://github.com/reactphp/socket/releases/tag/v1.17.0), 3 days ago) - Async, streaming plaintext TCP/IP and secure TLS socket server and client connections for ReactPHP.
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.2.0](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.2.0), 3 days ago) - Tooling for creating generative Composer Plugins
-- [reactphp/dns](https://github.com/reactphp/dns) ([v1.14.0](https://github.com/reactphp/dns/releases/tag/v1.14.0), 4 days ago) - Async DNS resolver for ReactPHP.
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.24](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.24), 4 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
-- [reactphp/event-loop](https://github.com/reactphp/event-loop) ([v1.6.0](https://github.com/reactphp/event-loop/releases/tag/v1.6.0), 5 days ago) - ReactPHP&#39;s core reactor event loop that libraries can use for evented I/O.
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.5.1](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.5.1), 6 days ago) - Wrapper around renovatebot/github-action
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.12](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.12), 2 days ago) - 
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.38.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.38.0), 2 days ago) - 
+- [reactphp/socket](https://github.com/reactphp/socket) ([v1.17.0](https://github.com/reactphp/socket/releases/tag/v1.17.0), 4 days ago) - Async, streaming plaintext TCP/IP and secure TLS socket server and client connections for ReactPHP.
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.2.0](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.2.0), 4 days ago) - Tooling for creating generative Composer Plugins
+- [reactphp/dns](https://github.com/reactphp/dns) ([v1.14.0](https://github.com/reactphp/dns/releases/tag/v1.14.0), 5 days ago) - Async DNS resolver for ReactPHP.
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.24](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.24), 5 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
+- [reactphp/event-loop](https://github.com/reactphp/event-loop) ([v1.6.0](https://github.com/reactphp/event-loop/releases/tag/v1.6.0), 6 days ago) - ReactPHP&#39;s core reactor event loop that libraries can use for evented I/O.
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.5.1](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.5.1), 1 week ago) - Wrapper around renovatebot/github-action
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.12](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.12), 1 week ago) - Makefile building blocks
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) ([v0.6.0-alpha.2](https://github.com/jakubkulhan/bunny/releases/tag/v0.6.0-alpha.2), 1 week ago) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.6.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.6.0), 1 week ago) - 
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.6.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.6.0), 2 weeks ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.7.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.7.0), 2 weeks ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([10.21.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/10.21.0), 2 weeks ago) - 🌯 PHPStan rules wrapper
 
@@ -93,30 +93,30 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Add File helper](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/54) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
-- [Make it possible to set 3 different probes](https://github.com/MammatusPHP/helm-charts/pull/30) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 day ago)
-- [Remove 8.5 from upcoming releases](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/79) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
-- [Switch to Twig helper for provider generating](https://github.com/WyriHaximus/php-broadcast/pull/321) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (3 days ago)
-- [Add helper to render twig template files to files](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/52) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
-- [Add Groups](https://github.com/MammatusPHP/queue/pull/34) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
-- [[3.x] Update to run tests on PHP 8.5](https://github.com/reactphp/socket/pull/331) on [reactphp/socket](https://github.com/reactphp/socket) (4 days ago)
-- [Add Groups](https://github.com/MammatusPHP/cron/pull/107) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (4 days ago)
-- [[1.x] Update to run tests on PHP 8.5](https://github.com/reactphp/socket/pull/330) on [reactphp/socket](https://github.com/reactphp/socket) (4 days ago)
-- [[3.x] Improve PHP 8.5&#43; support by avoiding deprecated method calls in tests](https://github.com/reactphp/stream/pull/186) on [reactphp/stream](https://github.com/reactphp/stream) (4 days ago)
-- [[1.x] Improve PHP 8.5&#43; support by avoiding deprecated method calls in tests](https://github.com/reactphp/stream/pull/185) on [reactphp/stream](https://github.com/reactphp/stream) (4 days ago)
-- [Disable RemoveExtraParametersRector rule](https://github.com/WyriHaximus/php-test-utilities/pull/1144) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
-- [[New Version] Update versions file to PHP 8.5.0](https://github.com/WyriHaximus/php-fake-php-version/pull/164) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (4 days ago)
+- [Add File helper](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/54) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
+- [Make it possible to set 3 different probes](https://github.com/MammatusPHP/helm-charts/pull/30) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
+- [Remove 8.5 from upcoming releases](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/79) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 days ago)
+- [Switch to Twig helper for provider generating](https://github.com/WyriHaximus/php-broadcast/pull/321) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (4 days ago)
+- [Add helper to render twig template files to files](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/52) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (4 days ago)
+- [Add Groups](https://github.com/MammatusPHP/queue/pull/34) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (5 days ago)
+- [[3.x] Update to run tests on PHP 8.5](https://github.com/reactphp/socket/pull/331) on [reactphp/socket](https://github.com/reactphp/socket) (5 days ago)
+- [Add Groups](https://github.com/MammatusPHP/cron/pull/107) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (5 days ago)
+- [[1.x] Update to run tests on PHP 8.5](https://github.com/reactphp/socket/pull/330) on [reactphp/socket](https://github.com/reactphp/socket) (5 days ago)
+- [[3.x] Improve PHP 8.5&#43; support by avoiding deprecated method calls in tests](https://github.com/reactphp/stream/pull/186) on [reactphp/stream](https://github.com/reactphp/stream) (5 days ago)
+- [[1.x] Improve PHP 8.5&#43; support by avoiding deprecated method calls in tests](https://github.com/reactphp/stream/pull/185) on [reactphp/stream](https://github.com/reactphp/stream) (5 days ago)
+- [Disable RemoveExtraParametersRector rule](https://github.com/WyriHaximus/php-test-utilities/pull/1144) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
+- [[New Version] Update versions file to PHP 8.5.0](https://github.com/WyriHaximus/php-fake-php-version/pull/164) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (5 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [asgrim/arson](https://github.com/asgrim/arson) - Asgrim&#39;s Rust-based JSON viewer tool. (1 week ago)
+- [asgrim/arson](https://github.com/asgrim/arson) - Asgrim&#39;s Rust-based JSON viewer tool. (2 weeks ago)
 - [ciaranmcnulty/homeassistant-test-container](https://github.com/ciaranmcnulty/homeassistant-test-container) - A container for testing home assistant integrations (2 weeks ago)
 - [realodix/change-case](https://github.com/realodix/change-case) - ✏️ Convert strings between camelCase, PascalCase, Capital Case, snake_case and more. (3 weeks ago)
 - [dermotduffy/hass-web-proxy-integration](https://github.com/dermotduffy/hass-web-proxy-integration) - Home Assistant Web Proxy (3 weeks ago)
 - [Andrew504s/weyland-home-assistant-theme](https://github.com/Andrew504s/weyland-home-assistant-theme) - A minimalist sci-fi CRT-inspired theme for Home Assistant (3 weeks ago)
-- [RohanAdwankar/oxdraw](https://github.com/RohanAdwankar/oxdraw) - Diagram as Code Tool Written in Rust with Draggable Editing (3 weeks ago)
+- [RohanAdwankar/oxdraw](https://github.com/RohanAdwankar/oxdraw) - Diagram as Code Tool Written in Rust with Draggable Editing (4 weeks ago)
 - [taiki-e/checkout-action](https://github.com/taiki-e/checkout-action) - GitHub Action for checking out a repository. (Simplified actions/checkout alternative that does not depend on Node.js.) (1 month ago)
 - [Hogster/BPS](https://github.com/Hogster/BPS) - A BLE positioning sytem for Homeassistant providing realtime tracking indoors. Dependent on the Bermuda component built by @agattins.  (1 month ago)
 - [FredrikM97/hass-surepetcare](https://github.com/FredrikM97/hass-surepetcare) - Home assistant HACS component to integrate with SurePetCare Api.  (1 month ago)
