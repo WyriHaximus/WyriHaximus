@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Create directory if it doesn&#39;t exist](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/55) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [Add File helper](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/54) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
 - [Make it possible to set 3 different probes](https://github.com/MammatusPHP/helm-charts/pull/30) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
 - [Remove 8.5 from upcoming releases](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/79) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 days ago)
@@ -105,12 +106,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [[3.x] Improve PHP 8.5&#43; support by avoiding deprecated method calls in tests](https://github.com/reactphp/stream/pull/186) on [reactphp/stream](https://github.com/reactphp/stream) (5 days ago)
 - [[1.x] Improve PHP 8.5&#43; support by avoiding deprecated method calls in tests](https://github.com/reactphp/stream/pull/185) on [reactphp/stream](https://github.com/reactphp/stream) (5 days ago)
 - [Disable RemoveExtraParametersRector rule](https://github.com/WyriHaximus/php-test-utilities/pull/1144) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
-- [[New Version] Update versions file to PHP 8.5.0](https://github.com/WyriHaximus/php-fake-php-version/pull/164) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (5 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
+- [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project (today)
 - [asgrim/arson](https://github.com/asgrim/arson) - Asgrim&#39;s Rust-based JSON viewer tool. (2 weeks ago)
 - [ciaranmcnulty/homeassistant-test-container](https://github.com/ciaranmcnulty/homeassistant-test-container) - A container for testing home assistant integrations (2 weeks ago)
 - [realodix/change-case](https://github.com/realodix/change-case) - ✏️ Convert strings between camelCase, PascalCase, Capital Case, snake_case and more. (3 weeks ago)
@@ -123,7 +124,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [plambrechtsen/pethublocal](https://github.com/plambrechtsen/pethublocal) - Local docker stack to replace the SurePetCare &#34;Connect&#34; cloud service. (1 month ago)
 - [benleb/surepy](https://github.com/benleb/surepy) - 🐾 Library &amp; CLI to monitor and control the Pet Door &amp; Cat Flap Connect 🚪 the Pet Feeder Connect 🍽 and the Felaqua 💦 sold by Sure Petcare (1 month ago)
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (1 month ago)
-- [awalsh128/cache-apt-pkgs-action](https://github.com/awalsh128/cache-apt-pkgs-action) - Cache APT packages in GitHub Actions (1 month ago)
 
 ---
 
