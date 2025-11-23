@@ -75,10 +75,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.3.0](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.3.0), today) - Tooling for creating generative Composer Plugins
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.12](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.12), 2 days ago) - 
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.38.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.38.0), 2 days ago) - 
 - [reactphp/socket](https://github.com/reactphp/socket) ([v1.17.0](https://github.com/reactphp/socket/releases/tag/v1.17.0), 4 days ago) - Async, streaming plaintext TCP/IP and secure TLS socket server and client connections for ReactPHP.
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.2.0](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.2.0), 4 days ago) - Tooling for creating generative Composer Plugins
 - [reactphp/dns](https://github.com/reactphp/dns) ([v1.14.0](https://github.com/reactphp/dns/releases/tag/v1.14.0), 5 days ago) - Async DNS resolver for ReactPHP.
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.24](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.24), 5 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [reactphp/event-loop](https://github.com/reactphp/event-loop) ([v1.6.0](https://github.com/reactphp/event-loop/releases/tag/v1.6.0), 6 days ago) - ReactPHP&#39;s core reactor event loop that libraries can use for evented I/O.
