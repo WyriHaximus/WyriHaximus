@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Switch to groups](https://github.com/MammatusPHP/life-cycle-events/pull/64) on [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (today)
 - [Create directory if it doesn&#39;t exist](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/55) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
 - [Add File helper](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/54) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
 - [Make it possible to set 3 different probes](https://github.com/MammatusPHP/helm-charts/pull/30) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (3 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [[1.x] Update to run tests on PHP 8.5](https://github.com/reactphp/socket/pull/330) on [reactphp/socket](https://github.com/reactphp/socket) (6 days ago)
 - [[3.x] Improve PHP 8.5&#43; support by avoiding deprecated method calls in tests](https://github.com/reactphp/stream/pull/186) on [reactphp/stream](https://github.com/reactphp/stream) (6 days ago)
 - [[1.x] Improve PHP 8.5&#43; support by avoiding deprecated method calls in tests](https://github.com/reactphp/stream/pull/185) on [reactphp/stream](https://github.com/reactphp/stream) (6 days ago)
-- [Disable RemoveExtraParametersRector rule](https://github.com/WyriHaximus/php-test-utilities/pull/1144) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
 
 ---
 
