@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Switch from sponge to hardcoded on generation time](https://github.com/WyriHaximus/Makefiles/pull/147) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Full Initial Implementation](https://github.com/MammatusPHP/groups/pull/4) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (2 days ago)
 - [Add helper remove files and empty directories](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/56) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
 - [Switch to groups](https://github.com/MammatusPHP/life-cycle-events/pull/64) on [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add Groups](https://github.com/MammatusPHP/queue/pull/34) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 week ago)
 - [[3.x] Update to run tests on PHP 8.5](https://github.com/reactphp/socket/pull/331) on [reactphp/socket](https://github.com/reactphp/socket) (1 week ago)
 - [Add Groups](https://github.com/MammatusPHP/cron/pull/107) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 week ago)
-- [[1.x] Update to run tests on PHP 8.5](https://github.com/reactphp/socket/pull/330) on [reactphp/socket](https://github.com/reactphp/socket) (1 week ago)
 
 ---
 
