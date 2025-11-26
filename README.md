@@ -10,14 +10,14 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
+- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (today)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (5 days ago)
 - [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (5 days ago)
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (5 days ago)
 - [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (5 days ago)
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.13](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.13), today) - Makefile building blocks
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.5.2](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.5.2), today) - Wrapper around renovatebot/github-action
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([3.0.0](https://github.com/MammatusPHP/kubernetes-events/releases/tag/3.0.0), 1 day ago) - 
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.1.0](https://github.com/MammatusPHP/groups/releases/tag/0.1.0), 1 day ago) - Group different components of you app into one process
@@ -85,7 +86,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [reactphp/dns](https://github.com/reactphp/dns) ([v1.14.0](https://github.com/reactphp/dns/releases/tag/v1.14.0), 1 week ago) - Async DNS resolver for ReactPHP.
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.24](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.24), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [reactphp/event-loop](https://github.com/reactphp/event-loop) ([v1.6.0](https://github.com/reactphp/event-loop/releases/tag/v1.6.0), 1 week ago) - ReactPHP&#39;s core reactor event loop that libraries can use for evented I/O.
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.12](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.12), 1 week ago) - Makefile building blocks
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) ([v0.6.0-alpha.2](https://github.com/jakubkulhan/bunny/releases/tag/v0.6.0-alpha.2), 2 weeks ago) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.6.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.6.0), 2 weeks ago) - 
 
