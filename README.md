@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[0.6.x] Test against upcoming releases](https://github.com/jakubkulhan/bunny/pull/197) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [Use wait for OCI tag action](https://github.com/WyriHaximus/github-workflows/pull/142) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Fix returning list of tasks instead of running them like an idiot](https://github.com/WyriHaximus/Makefiles/pull/149) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Hide deprecation warnings for directly on host OS composer calls](https://github.com/WyriHaximus/Makefiles/pull/148) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Make it possible to set 3 different probes](https://github.com/MammatusPHP/helm-charts/pull/30) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (6 days ago)
 - [Remove 8.5 from upcoming releases](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/79) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (6 days ago)
 - [Switch to Twig helper for provider generating](https://github.com/WyriHaximus/php-broadcast/pull/321) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
-- [Add helper to render twig template files to files](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/52) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 week ago)
 
 ---
 
