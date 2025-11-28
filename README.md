@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
+- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (2 days ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (2 days ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
 - [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (2 days ago)
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (2 days ago)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (3 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (4 days ago)
-- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 week ago)
 
 ---
 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Take composer-migration out of all and only during composer update and install](https://github.com/WyriHaximus/Makefiles/pull/151) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Updated expected permissions to upstream change](https://github.com/WyriHaximus/php-broadcast/pull/325) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
 - [Composer update --lock](https://github.com/WyriHaximus/php-broadcast/pull/324) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
 - [[0.6.x] Test against upcoming releases](https://github.com/jakubkulhan/bunny/pull/197) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Switch to groups](https://github.com/MammatusPHP/life-cycle-events/pull/64) on [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (4 days ago)
 - [Create directory if it doesn&#39;t exist](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/55) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (5 days ago)
 - [Add File helper](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/54) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (6 days ago)
-- [Make it possible to set 3 different probes](https://github.com/MammatusPHP/helm-charts/pull/30) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 week ago)
 
 ---
 
