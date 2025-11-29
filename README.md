@@ -10,26 +10,26 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
-- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (2 days ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
-- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (2 days ago)
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (2 days ago)
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (3 days ago)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (4 days ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
+- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (3 days ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
+- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (3 days ago)
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (3 days ago)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (3 days ago)
+- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (4 days ago)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (5 days ago)
 
 ---
 
 ### 📜 My latest articles on [WyriHaximus.net](https://blog.wyrihaximus.net/)
 
 - [Unlock Composer Plugins by Self Hosting Renovate](https://blog.wyrihaximus.net/2025/10/unlock-composer-plugins-by-self-hosting-renovate/) (1 month ago)
-- [ReactPHP Parallel v2(.1)](https://blog.wyrihaximus.net/2025/06/reactphp-parallel-v2-/) (5 months ago)
+- [ReactPHP Parallel v2(.1)](https://blog.wyrihaximus.net/2025/06/reactphp-parallel-v2-/) (6 months ago)
 - [Announcing TestInfra Action](https://blog.wyrihaximus.net/2025/03/announcing-testinfra-action/) (8 months ago)
 - [Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Enclosure](https://blog.wyrihaximus.net/2024/12/building-a-kubernetes-homelab-with-raspberry-pies-and-lego-nodes-enclosure/) (11 months ago)
 - [Building Secure Images with GitHub Actions](https://blog.wyrihaximus.net/2024/10/building-secure-images-with-github-actions/) (1 year ago)
@@ -75,11 +75,11 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.14](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.14), 2 days ago) - Makefile building blocks
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.5.2](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.5.2), 2 days ago) - Wrapper around renovatebot/github-action
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([3.0.0](https://github.com/MammatusPHP/kubernetes-events/releases/tag/3.0.0), 3 days ago) - 
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.1.0](https://github.com/MammatusPHP/groups/releases/tag/0.1.0), 3 days ago) - Group different components of you app into one process
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.4.0](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.4.0), 4 days ago) - Tooling for creating generative Composer Plugins
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.14](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.14), 3 days ago) - Makefile building blocks
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.5.2](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.5.2), 3 days ago) - Wrapper around renovatebot/github-action
+- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([3.0.0](https://github.com/MammatusPHP/kubernetes-events/releases/tag/3.0.0), 4 days ago) - 
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.1.0](https://github.com/MammatusPHP/groups/releases/tag/0.1.0), 4 days ago) - Group different components of you app into one process
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.4.0](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.4.0), 5 days ago) - Tooling for creating generative Composer Plugins
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.12](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.12), 1 week ago) - 
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.38.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.38.0), 1 week ago) - 
 - [reactphp/socket](https://github.com/reactphp/socket) ([v1.17.0](https://github.com/reactphp/socket/releases/tag/v1.17.0), 1 week ago) - Async, streaming plaintext TCP/IP and secure TLS socket server and client connections for ReactPHP.
@@ -93,31 +93,31 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Take composer-migration out of all and only during composer update and install](https://github.com/WyriHaximus/Makefiles/pull/151) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Updated expected permissions to upstream change](https://github.com/WyriHaximus/php-broadcast/pull/325) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
-- [Composer update --lock](https://github.com/WyriHaximus/php-broadcast/pull/324) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
-- [[0.6.x] Test against upcoming releases](https://github.com/jakubkulhan/bunny/pull/197) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
-- [Use wait for OCI tag action](https://github.com/WyriHaximus/github-workflows/pull/142) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
-- [Fix returning list of tasks instead of running them like an idiot](https://github.com/WyriHaximus/Makefiles/pull/149) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Hide deprecation warnings for directly on host OS composer calls](https://github.com/WyriHaximus/Makefiles/pull/148) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Switch from sponge to hardcoded on generation time](https://github.com/WyriHaximus/Makefiles/pull/147) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Full Initial Implementation](https://github.com/MammatusPHP/groups/pull/4) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (4 days ago)
-- [Add helper remove files and empty directories](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/56) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (4 days ago)
-- [Switch to groups](https://github.com/MammatusPHP/life-cycle-events/pull/64) on [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (4 days ago)
-- [Create directory if it doesn&#39;t exist](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/55) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (5 days ago)
-- [Add File helper](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/54) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (6 days ago)
+- [Take composer-migration out of all and only during composer update and install](https://github.com/WyriHaximus/Makefiles/pull/151) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [Updated expected permissions to upstream change](https://github.com/WyriHaximus/php-broadcast/pull/325) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
+- [Composer update --lock](https://github.com/WyriHaximus/php-broadcast/pull/324) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
+- [[0.6.x] Test against upcoming releases](https://github.com/jakubkulhan/bunny/pull/197) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
+- [Use wait for OCI tag action](https://github.com/WyriHaximus/github-workflows/pull/142) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
+- [Fix returning list of tasks instead of running them like an idiot](https://github.com/WyriHaximus/Makefiles/pull/149) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Hide deprecation warnings for directly on host OS composer calls](https://github.com/WyriHaximus/Makefiles/pull/148) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Switch from sponge to hardcoded on generation time](https://github.com/WyriHaximus/Makefiles/pull/147) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Full Initial Implementation](https://github.com/MammatusPHP/groups/pull/4) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (5 days ago)
+- [Add helper remove files and empty directories](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/56) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (5 days ago)
+- [Switch to groups](https://github.com/MammatusPHP/life-cycle-events/pull/64) on [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (5 days ago)
+- [Create directory if it doesn&#39;t exist](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/55) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (6 days ago)
+- [Add File helper](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/54) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 week ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
-- [int128/wait-for-docker-image-action](https://github.com/int128/wait-for-docker-image-action) - Action to wait until Docker image is available at current Git revision (1 day ago)
-- [GuySie/random-things](https://github.com/GuySie/random-things) -  (2 days ago)
-- [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project (5 days ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (2 days ago)
+- [int128/wait-for-docker-image-action](https://github.com/int128/wait-for-docker-image-action) - Action to wait until Docker image is available at current Git revision (2 days ago)
+- [GuySie/random-things](https://github.com/GuySie/random-things) -  (3 days ago)
+- [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project (6 days ago)
 - [asgrim/arson](https://github.com/asgrim/arson) - Asgrim&#39;s Rust-based JSON viewer tool. (2 weeks ago)
 - [ciaranmcnulty/homeassistant-test-container](https://github.com/ciaranmcnulty/homeassistant-test-container) - A container for testing home assistant integrations (3 weeks ago)
-- [realodix/change-case](https://github.com/realodix/change-case) - ✏️ Convert strings between camelCase, PascalCase, Capital Case, snake_case and more. (4 weeks ago)
+- [realodix/change-case](https://github.com/realodix/change-case) - ✏️ Convert strings between camelCase, PascalCase, Capital Case, snake_case and more. (1 month ago)
 - [dermotduffy/hass-web-proxy-integration](https://github.com/dermotduffy/hass-web-proxy-integration) - Home Assistant Web Proxy (1 month ago)
 - [Andrew504s/weyland-home-assistant-theme](https://github.com/Andrew504s/weyland-home-assistant-theme) - A minimalist sci-fi CRT-inspired theme for Home Assistant (1 month ago)
 - [RohanAdwankar/oxdraw](https://github.com/RohanAdwankar/oxdraw) - Diagram as Code Tool Written in Rust with Draggable Editing (1 month ago)
