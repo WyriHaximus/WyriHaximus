@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Update to PHP 8.4](https://github.com/MammatusPHP/healthz-vhost/pull/9) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
 - [Ensure data structures while generating classes](https://github.com/MammatusPHP/groups/pull/8) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
 - [Update lockfile for mammatus/http-server-contracts](https://github.com/MammatusPHP/http-server-webroot/pull/9) on [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (today)
 - [Correct contracts branch name](https://github.com/MammatusPHP/http-server-webroot/pull/8) on [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Use wait for OCI tag action](https://github.com/WyriHaximus/github-workflows/pull/142) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 - [Fix returning list of tasks instead of running them like an idiot](https://github.com/WyriHaximus/Makefiles/pull/149) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 - [Hide deprecation warnings for directly on host OS composer calls](https://github.com/WyriHaximus/Makefiles/pull/148) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
-- [Switch from sponge to hardcoded on generation time](https://github.com/WyriHaximus/Makefiles/pull/147) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 
 ---
 
