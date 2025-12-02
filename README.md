@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
 - [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (1 day ago)
-- [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (1 day ago)
-- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (1 day ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
-- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (1 day ago)
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 day ago)
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 day ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 day ago)
+- [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (1 day ago)
+- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (1 day ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
+- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (1 day ago)
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 day ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (4 days ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 
 ---
 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Update to fixed Rector (2.2.11), and remove NarrowObjectReturnTypeRector skip ](https://github.com/MammatusPHP/healthz-vhost/pull/17) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
 - [Add Groups support](https://github.com/MammatusPHP/kubernetes/pull/26) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 day ago)
 - [Update to PHP 8.4](https://github.com/MammatusPHP/healthz-vhost/pull/9) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (1 day ago)
 - [Ensure data structures while generating classes](https://github.com/MammatusPHP/groups/pull/8) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Composer update --lock](https://github.com/WyriHaximus/php-broadcast/pull/324) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (5 days ago)
 - [[0.6.x] Test against upcoming releases](https://github.com/jakubkulhan/bunny/pull/197) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
 - [Use wait for OCI tag action](https://github.com/WyriHaximus/github-workflows/pull/142) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
-- [Fix returning list of tasks instead of running them like an idiot](https://github.com/WyriHaximus/Makefiles/pull/149) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
 
 ---
 
