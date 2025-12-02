@@ -146,11 +146,11 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 👯 Check out some of my recent followers
 
-- [NamesMT](https://github.com/NamesMT)
 - [XiaomingX](https://github.com/XiaomingX)
 - [S4IL21](https://github.com/S4IL21)
 - [ochui](https://github.com/ochui)
 - [MrBElga](https://github.com/MrBElga)
+- [Didarkari](https://github.com/Didarkari)
 
 ---
 
