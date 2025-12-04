@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[0.6.x] Check if argv argument count meets expectations in bunny consumer](https://github.com/jakubkulhan/bunny/pull/204) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [Update to fixed Rector (2.2.11), and remove NarrowObjectReturnTypeRector skip ](https://github.com/MammatusPHP/healthz-vhost/pull/17) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (2 days ago)
 - [Add Groups support](https://github.com/MammatusPHP/kubernetes/pull/26) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (3 days ago)
 - [Update to PHP 8.4](https://github.com/MammatusPHP/healthz-vhost/pull/9) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (3 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Updated expected permissions to upstream change](https://github.com/WyriHaximus/php-broadcast/pull/325) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
 - [Composer update --lock](https://github.com/WyriHaximus/php-broadcast/pull/324) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
 - [[0.6.x] Test against upcoming releases](https://github.com/jakubkulhan/bunny/pull/197) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
-- [Use wait for OCI tag action](https://github.com/WyriHaximus/github-workflows/pull/142) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 
 ---
 
