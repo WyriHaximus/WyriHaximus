@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 days ago)
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (2 days ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
 - [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (3 days ago)
 - [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (5 days ago)
-- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (5 days ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (5 days ago)
-- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (5 days ago)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (5 days ago)
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (5 days ago)
 - [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (5 days ago)
+- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (5 days ago)
+- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (5 days ago)
+- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (5 days ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (5 days ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (6 days ago)
 
 ---
