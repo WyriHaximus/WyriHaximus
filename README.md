@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[0.6.x] Improve PHP 8.5&#43; support by replacing binary cast with string cast](https://github.com/reactphp/child-process/pull/119) on [reactphp/child-process](https://github.com/reactphp/child-process) (today)
 - [Use PIE to install Xdebug](https://github.com/WyriHaximusNet/docker-php/pull/347) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 - [[0.6.x] Check if argv argument count meets expectations in bunny consumer](https://github.com/jakubkulhan/bunny/pull/204) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (4 days ago)
 - [Update to fixed Rector (2.2.11), and remove NarrowObjectReturnTypeRector skip ](https://github.com/MammatusPHP/healthz-vhost/pull/17) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (6 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Updated to PHP 8.4](https://github.com/MammatusPHP/http-server-contracts/pull/9) on [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (1 week ago)
 - [Take composer-migration out of all and only during composer update and install](https://github.com/WyriHaximus/Makefiles/pull/151) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Updated expected permissions to upstream change](https://github.com/WyriHaximus/php-broadcast/pull/325) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
-- [Composer update --lock](https://github.com/WyriHaximus/php-broadcast/pull/324) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
 
 ---
 
