@@ -10,7 +10,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [WyriHaximusNet/renovate](https://github.com/WyriHaximusNet/renovate) (6 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
