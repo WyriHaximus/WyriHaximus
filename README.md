@@ -10,9 +10,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
-- [WyriHaximusNet/renovate](https://github.com/WyriHaximusNet/renovate) (5 days ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (6 days ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
+- [WyriHaximusNet/renovate](https://github.com/WyriHaximusNet/renovate) (6 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 week ago)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 week ago)
@@ -93,10 +93,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Put sleep between pushes to not overload GitHub](https://github.com/WyriHaximusNet/docker-php/pull/349) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
-- [Re-enable public webroot](https://github.com/MammatusPHP/healthz-vhost/pull/19) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
-- [[0.6.x] Improve PHP 8.5&#43; support by replacing binary cast with string cast](https://github.com/reactphp/child-process/pull/119) on [reactphp/child-process](https://github.com/reactphp/child-process) (4 days ago)
-- [Use PIE to install Xdebug](https://github.com/WyriHaximusNet/docker-php/pull/347) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (6 days ago)
+- [Put sleep between pushes to not overload GitHub](https://github.com/WyriHaximusNet/docker-php/pull/349) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
+- [Re-enable public webroot](https://github.com/MammatusPHP/healthz-vhost/pull/19) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (1 day ago)
+- [[0.6.x] Improve PHP 8.5&#43; support by replacing binary cast with string cast](https://github.com/reactphp/child-process/pull/119) on [reactphp/child-process](https://github.com/reactphp/child-process) (5 days ago)
+- [Use PIE to install Xdebug](https://github.com/WyriHaximusNet/docker-php/pull/347) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [[0.6.x] Check if argv argument count meets expectations in bunny consumer](https://github.com/jakubkulhan/bunny/pull/204) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
 - [Update to fixed Rector (2.2.11), and remove NarrowObjectReturnTypeRector skip ](https://github.com/MammatusPHP/healthz-vhost/pull/17) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (1 week ago)
 - [Add Groups support](https://github.com/MammatusPHP/kubernetes/pull/26) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 week ago)
