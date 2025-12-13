@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
+- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
+- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (today)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
 - [WyriHaximusNet/renovate](https://github.com/WyriHaximusNet/renovate) (6 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
-- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 week ago)
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 week ago)
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 week ago)
+- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 week ago)
 - [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (1 week ago)
-- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (1 week ago)
-- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (1 week ago)
+- [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (1 week ago)
+- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 week ago)
 
 ---
 
@@ -75,9 +75,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) ([3.0.0](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload/releases/tag/3.0.0), today) - 
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.5.3](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.5.3), today) - Wrapper around renovatebot/github-action
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.1.1](https://github.com/MammatusPHP/groups/releases/tag/0.1.1), 1 week ago) - Group different components of you app into one process
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.14](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.14), 2 weeks ago) - Makefile building blocks
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.5.2](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.5.2), 2 weeks ago) - Wrapper around renovatebot/github-action
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([3.0.0](https://github.com/MammatusPHP/kubernetes-events/releases/tag/3.0.0), 2 weeks ago) - 
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.4.0](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.4.0), 2 weeks ago) - Tooling for creating generative Composer Plugins
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.12](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.12), 3 weeks ago) - 
@@ -87,12 +88,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.24](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.24), 3 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [reactphp/event-loop](https://github.com/reactphp/event-loop) ([v1.6.0](https://github.com/reactphp/event-loop/releases/tag/v1.6.0), 3 weeks ago) - ReactPHP&#39;s core reactor event loop that libraries can use for evented I/O.
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) ([v0.6.0-alpha.2](https://github.com/jakubkulhan/bunny/releases/tag/v0.6.0-alpha.2), 1 month ago) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.6.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.6.0), 1 month ago) - 
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Update to PSR-7 v2](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload/pull/132) on [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (today)
 - [Add readme note about the stored object](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload/pull/131) on [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (today)
 - [Put sleep between pushes to not overload GitHub](https://github.com/WyriHaximusNet/docker-php/pull/349) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [Re-enable public webroot](https://github.com/MammatusPHP/healthz-vhost/pull/19) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Ensure data structures while generating classes](https://github.com/MammatusPHP/groups/pull/8) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 week ago)
 - [Update lockfile for mammatus/http-server-contracts](https://github.com/MammatusPHP/http-server-webroot/pull/9) on [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (1 week ago)
 - [Correct contracts branch name](https://github.com/MammatusPHP/http-server-webroot/pull/8) on [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (1 week ago)
-- [Introduce Probe attribute](https://github.com/MammatusPHP/http-server-attributes/pull/8) on [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (1 week ago)
 
 ---
 
