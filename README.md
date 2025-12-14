@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
-- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
-- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (today)
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
-- [WyriHaximusNet/renovate](https://github.com/WyriHaximusNet/renovate) (6 days ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
-- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 week ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
+- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (1 day ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 day ago)
+- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (1 day ago)
+- [WyriHaximusNet/renovate](https://github.com/WyriHaximusNet/renovate) (1 week ago)
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 week ago)
+- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 week ago)
+- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (1 week ago)
 - [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (1 week ago)
-- [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (1 week ago)
 
 ---
 
@@ -75,8 +75,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) ([3.0.0](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload/releases/tag/3.0.0), today) - 
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.5.3](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.5.3), today) - Wrapper around renovatebot/github-action
+- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) ([3.0.0](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload/releases/tag/3.0.0), 1 day ago) - 
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.5.3](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.5.3), 1 day ago) - Wrapper around renovatebot/github-action
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.1.1](https://github.com/MammatusPHP/groups/releases/tag/0.1.1), 1 week ago) - Group different components of you app into one process
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.14](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.14), 2 weeks ago) - Makefile building blocks
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([3.0.0](https://github.com/MammatusPHP/kubernetes-events/releases/tag/3.0.0), 2 weeks ago) - 
@@ -93,11 +93,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Update to PSR-7 v2](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload/pull/132) on [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (today)
-- [Add readme note about the stored object](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload/pull/131) on [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (today)
-- [Put sleep between pushes to not overload GitHub](https://github.com/WyriHaximusNet/docker-php/pull/349) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
-- [Re-enable public webroot](https://github.com/MammatusPHP/healthz-vhost/pull/19) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (1 day ago)
-- [[0.6.x] Improve PHP 8.5&#43; support by replacing binary cast with string cast](https://github.com/reactphp/child-process/pull/119) on [reactphp/child-process](https://github.com/reactphp/child-process) (5 days ago)
+- [[0.6.x] Add make generate and always run it before all other make commands](https://github.com/jakubkulhan/bunny/pull/209) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
+- [Update to PSR-7 v2](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload/pull/132) on [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (1 day ago)
+- [Add readme note about the stored object](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload/pull/131) on [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (1 day ago)
+- [Put sleep between pushes to not overload GitHub](https://github.com/WyriHaximusNet/docker-php/pull/349) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
+- [Re-enable public webroot](https://github.com/MammatusPHP/healthz-vhost/pull/19) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (2 days ago)
+- [[0.6.x] Improve PHP 8.5&#43; support by replacing binary cast with string cast](https://github.com/reactphp/child-process/pull/119) on [reactphp/child-process](https://github.com/reactphp/child-process) (6 days ago)
 - [Use PIE to install Xdebug](https://github.com/WyriHaximusNet/docker-php/pull/347) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [[0.6.x] Check if argv argument count meets expectations in bunny consumer](https://github.com/jakubkulhan/bunny/pull/204) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
 - [Update to fixed Rector (2.2.11), and remove NarrowObjectReturnTypeRector skip ](https://github.com/MammatusPHP/healthz-vhost/pull/17) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (1 week ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Update to PHP 8.4](https://github.com/MammatusPHP/healthz-vhost/pull/9) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (1 week ago)
 - [Ensure data structures while generating classes](https://github.com/MammatusPHP/groups/pull/8) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 week ago)
 - [Update lockfile for mammatus/http-server-contracts](https://github.com/MammatusPHP/http-server-webroot/pull/9) on [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (1 week ago)
-- [Correct contracts branch name](https://github.com/MammatusPHP/http-server-webroot/pull/8) on [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (1 week ago)
 
 ---
 
@@ -114,7 +114,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (2 weeks ago)
 - [int128/wait-for-docker-image-action](https://github.com/int128/wait-for-docker-image-action) - Action to wait until Docker image is available at current Git revision (2 weeks ago)
 - [GuySie/random-things](https://github.com/GuySie/random-things) -  (2 weeks ago)
-- [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project (2 weeks ago)
+- [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project (3 weeks ago)
 - [asgrim/arson](https://github.com/asgrim/arson) - Asgrim&#39;s Rust-based JSON viewer tool. (1 month ago)
 - [ciaranmcnulty/homeassistant-test-container](https://github.com/ciaranmcnulty/homeassistant-test-container) - A container for testing home assistant integrations (1 month ago)
 - [realodix/change-case](https://github.com/realodix/change-case) - ✏️ Convert strings between camelCase, PascalCase, Capital Case, snake_case and more. (1 month ago)
