@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add Order helper](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/59) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [Bump ancarda/psr7-string-stream down to 1.3.1](https://github.com/MammatusPHP/open-telemetry/pull/21) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
 - [[0.6.x] Add make generate and always run it before all other make commands](https://github.com/jakubkulhan/bunny/pull/209) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
 - [Update to PSR-7 v2](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload/pull/132) on [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (3 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Update to fixed Rector (2.2.11), and remove NarrowObjectReturnTypeRector skip ](https://github.com/MammatusPHP/healthz-vhost/pull/17) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (2 weeks ago)
 - [Add Groups support](https://github.com/MammatusPHP/kubernetes/pull/26) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (2 weeks ago)
 - [Update to PHP 8.4](https://github.com/MammatusPHP/healthz-vhost/pull/9) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (2 weeks ago)
-- [Ensure data structures while generating classes](https://github.com/MammatusPHP/groups/pull/8) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (2 weeks ago)
 
 ---
 
