@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Switch to JawaScript](https://github.com/WyriHaximus/github-action-set-milestone/pull/5) on [WyriHaximus/github-action-set-milestone](https://github.com/WyriHaximus/github-action-set-milestone) (today)
 - [Switch to Javascript and drop the usage of Docker containers](https://github.com/WyriHaximus/github-action-get-milestones/pull/8) on [WyriHaximus/github-action-get-milestones](https://github.com/WyriHaximus/github-action-get-milestones) (today)
 - [Add QA set up](https://github.com/WyriHaximus/github-action-get-milestones/pull/7) on [WyriHaximus/github-action-get-milestones](https://github.com/WyriHaximus/github-action-get-milestones) (today)
 - [[New Version] Update versions file to PHP 8.5.1](https://github.com/WyriHaximus/php-fake-php-version/pull/171) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Re-enable public webroot](https://github.com/MammatusPHP/healthz-vhost/pull/19) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (5 days ago)
 - [[0.6.x] Improve PHP 8.5&#43; support by replacing binary cast with string cast](https://github.com/reactphp/child-process/pull/119) on [reactphp/child-process](https://github.com/reactphp/child-process) (1 week ago)
 - [Use PIE to install Xdebug](https://github.com/WyriHaximusNet/docker-php/pull/347) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
-- [[0.6.x] Check if argv argument count meets expectations in bunny consumer](https://github.com/jakubkulhan/bunny/pull/204) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
 
 ---
 
