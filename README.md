@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Switch to Javascript and drop the usage of Docker containers](https://github.com/WyriHaximus/github-action-get-milestones/pull/8) on [WyriHaximus/github-action-get-milestones](https://github.com/WyriHaximus/github-action-get-milestones) (today)
+- [Add QA set up](https://github.com/WyriHaximus/github-action-get-milestones/pull/7) on [WyriHaximus/github-action-get-milestones](https://github.com/WyriHaximus/github-action-get-milestones) (today)
 - [[New Version] Update versions file to PHP 8.5.1](https://github.com/WyriHaximus/php-fake-php-version/pull/171) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
 - [Add Order helper](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/59) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
 - [Bump ancarda/psr7-string-stream down to 1.3.1](https://github.com/MammatusPHP/open-telemetry/pull/21) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (2 days ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [[0.6.x] Improve PHP 8.5&#43; support by replacing binary cast with string cast](https://github.com/reactphp/child-process/pull/119) on [reactphp/child-process](https://github.com/reactphp/child-process) (1 week ago)
 - [Use PIE to install Xdebug](https://github.com/WyriHaximusNet/docker-php/pull/347) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [[0.6.x] Check if argv argument count meets expectations in bunny consumer](https://github.com/jakubkulhan/bunny/pull/204) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
-- [Update to fixed Rector (2.2.11), and remove NarrowObjectReturnTypeRector skip ](https://github.com/MammatusPHP/healthz-vhost/pull/17) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (2 weeks ago)
-- [Add Groups support](https://github.com/MammatusPHP/kubernetes/pull/26) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (2 weeks ago)
 
 ---
 
