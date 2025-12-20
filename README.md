@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (today)
-- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (today)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
+- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (today)
+- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (today)
+- [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (today)
+- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (today)
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (today)
+- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (today)
 - [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (today)
-- [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (today)
-- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (today)
+- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (today)
+- [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (today)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
 
 ---
