@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Try: https://github.com/renovatebot/renovate/discussions/27906#discussioncomment-15052440](https://github.com/WyriHaximus/renovate-config/pull/5) on [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (today)
 - [Move do-not-update-php rule to base from next](https://github.com/WyriHaximus/renovate-config/pull/4) on [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (today)
 - [Switch to JawaScript](https://github.com/WyriHaximus/github-action-set-milestone/pull/5) on [WyriHaximus/github-action-set-milestone](https://github.com/WyriHaximus/github-action-set-milestone) (3 days ago)
 - [Switch to Javascript and drop the usage of Docker containers](https://github.com/WyriHaximus/github-action-get-milestones/pull/8) on [WyriHaximus/github-action-get-milestones](https://github.com/WyriHaximus/github-action-get-milestones) (3 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add readme note about the stored object](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload/pull/131) on [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (1 week ago)
 - [Put sleep between pushes to not overload GitHub](https://github.com/WyriHaximusNet/docker-php/pull/349) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [Re-enable public webroot](https://github.com/MammatusPHP/healthz-vhost/pull/19) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (1 week ago)
-- [[0.6.x] Improve PHP 8.5&#43; support by replacing binary cast with string cast](https://github.com/reactphp/child-process/pull/119) on [reactphp/child-process](https://github.com/reactphp/child-process) (1 week ago)
 
 ---
 
