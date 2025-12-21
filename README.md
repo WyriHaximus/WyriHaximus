@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Ensure we don&#39;t create duplicates due to union types](https://github.com/MammatusPHP/queue/pull/40) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [Correct composer.json description](https://github.com/MammatusPHP/kubernetes/pull/29) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (today)
 - [Add images as binaries to .gitattributes](https://github.com/WyriHaximus/Makefiles/pull/154) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Try: https://github.com/renovatebot/renovate/discussions/27906#discussioncomment-15052440](https://github.com/WyriHaximus/renovate-config/pull/5) on [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Bump ancarda/psr7-string-stream down to 1.3.1](https://github.com/MammatusPHP/open-telemetry/pull/21) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (6 days ago)
 - [[0.6.x] Add make generate and always run it before all other make commands](https://github.com/jakubkulhan/bunny/pull/209) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
 - [Update to PSR-7 v2](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload/pull/132) on [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (1 week ago)
-- [Add readme note about the stored object](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload/pull/131) on [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (1 week ago)
 
 ---
 
