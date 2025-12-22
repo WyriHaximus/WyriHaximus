@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Make sure we don&#39;t export etc/dev-app/](https://github.com/WyriHaximus/Makefiles/pull/155) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Ensure we don&#39;t create duplicates due to union types](https://github.com/MammatusPHP/queue/pull/40) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
 - [Correct composer.json description](https://github.com/MammatusPHP/kubernetes/pull/29) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 day ago)
 - [Add images as binaries to .gitattributes](https://github.com/WyriHaximus/Makefiles/pull/154) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add Order helper](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/59) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (6 days ago)
 - [Bump ancarda/psr7-string-stream down to 1.3.1](https://github.com/MammatusPHP/open-telemetry/pull/21) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 week ago)
 - [[0.6.x] Add make generate and always run it before all other make commands](https://github.com/jakubkulhan/bunny/pull/209) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
-- [Update to PSR-7 v2](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload/pull/132) on [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (1 week ago)
 
 ---
 
