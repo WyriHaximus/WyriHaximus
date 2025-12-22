@@ -10,17 +10,17 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
 - [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (1 day ago)
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 day ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
-- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (2 days ago)
-- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (2 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
+- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (2 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
 - [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (2 days ago)
-- [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (2 days ago)
-- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (2 days ago)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (2 days ago)
+- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (2 days ago)
+- [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (2 days ago)
 - [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (2 days ago)
 - [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (2 days ago)
 
@@ -75,12 +75,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.5.5](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.5.5), today) - Wrapper around renovatebot/github-action
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.2.0](https://github.com/MammatusPHP/kubernetes/releases/tag/0.2.0), 1 day ago) - Kubernetes related tooling
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.15](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.15), 2 days ago) - Makefile building blocks
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.7.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.7.0), 4 days ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.8.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.8.0), 4 days ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([11.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/11.0.0), 4 days ago) - 🌯 PHPStan rules wrapper
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.5.4](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.5.4), 5 days ago) - Wrapper around renovatebot/github-action
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.25](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.25), 6 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) ([3.0.0](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload/releases/tag/3.0.0), 1 week ago) - 
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.1.1](https://github.com/MammatusPHP/groups/releases/tag/0.1.1), 3 weeks ago) - Group different components of you app into one process
