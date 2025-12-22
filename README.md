@@ -10,15 +10,15 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (today)
-- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (today)
+- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (today)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (today)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
+- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
 - [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (today)
 - [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (1 day ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
