@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [reactphp/child-process](https://github.com/reactphp/child-process) ([v0.6.7](https://github.com/reactphp/child-process/releases/tag/v0.6.7), today) - Event-driven library for executing child processes with ReactPHP.
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.13.1](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.13.1), today) - Kubernetes controller for GitHub Actions self-hosted runners
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.16](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.16), 1 day ago) - Makefile building blocks
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.5.5](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.5.5), 1 day ago) - Wrapper around renovatebot/github-action
@@ -87,7 +88,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.1.1](https://github.com/MammatusPHP/groups/releases/tag/0.1.1), 3 weeks ago) - Group different components of you app into one process
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([3.0.0](https://github.com/MammatusPHP/kubernetes-events/releases/tag/3.0.0), 4 weeks ago) - 
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.4.0](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.4.0), 4 weeks ago) - Tooling for creating generative Composer Plugins
-- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.12](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.12), 1 month ago) - 
 
 ---
 
