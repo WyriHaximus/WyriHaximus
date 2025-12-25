@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Switch to fully typed addons (in tests)](https://github.com/MammatusPHP/kubernetes-events/pull/46) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (today)
 - [Generate GroupAddons for Helm values](https://github.com/MammatusPHP/queue/pull/42) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [Drop `echo $class-&gt;getName(), PHP_EOL;` from collector that slipped t…](https://github.com/MammatusPHP/groups/pull/14) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 day ago)
 - [Fix class filtering](https://github.com/MammatusPHP/groups/pull/13) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Move do-not-update-php rule to base from next](https://github.com/WyriHaximus/renovate-config/pull/4) on [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (5 days ago)
 - [Switch to JawaScript](https://github.com/WyriHaximus/github-action-set-milestone/pull/5) on [WyriHaximus/github-action-set-milestone](https://github.com/WyriHaximus/github-action-set-milestone) (1 week ago)
 - [Switch to Javascript and drop the usage of Docker containers](https://github.com/WyriHaximus/github-action-get-milestones/pull/8) on [WyriHaximus/github-action-get-milestones](https://github.com/WyriHaximus/github-action-get-milestones) (1 week ago)
-- [Add QA set up](https://github.com/WyriHaximus/github-action-get-milestones/pull/7) on [WyriHaximus/github-action-get-milestones](https://github.com/WyriHaximus/github-action-get-milestones) (1 week ago)
 
 ---
 
