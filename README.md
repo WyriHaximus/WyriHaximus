@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add Health Checks by default](https://github.com/MammatusPHP/app/pull/68) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
 - [Remove probe add-on from CronJobs](https://github.com/MammatusPHP/kubernetes-events/pull/47) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
 - [Switch to fully typed addons (in tests)](https://github.com/MammatusPHP/kubernetes-events/pull/46) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
 - [Generate GroupAddons for Helm values](https://github.com/MammatusPHP/queue/pull/42) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add images as binaries to .gitattributes](https://github.com/WyriHaximus/Makefiles/pull/154) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
 - [Try: https://github.com/renovatebot/renovate/discussions/27906#discussioncomment-15052440](https://github.com/WyriHaximus/renovate-config/pull/5) on [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (6 days ago)
 - [Move do-not-update-php rule to base from next](https://github.com/WyriHaximus/renovate-config/pull/4) on [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (6 days ago)
-- [Switch to JawaScript](https://github.com/WyriHaximus/github-action-set-milestone/pull/5) on [WyriHaximus/github-action-set-milestone](https://github.com/WyriHaximus/github-action-set-milestone) (1 week ago)
 
 ---
 
