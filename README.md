@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Clean up worker DTO](https://github.com/MammatusPHP/queue/pull/43) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [Correct webroot to public name](https://github.com/MammatusPHP/healthz-vhost/pull/25) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
 - [Fully switch to run on Groups](https://github.com/MammatusPHP/app/pull/69) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
 - [Anything running on Kubernetes must have healthchecks enabled out of the box](https://github.com/MammatusPHP/kubernetes/pull/31) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Fix TerraForm plan output diff comment](https://github.com/WyriHaximus/github-workflows/pull/150) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [Make sure we don&#39;t export etc/dev-app/](https://github.com/WyriHaximus/Makefiles/pull/155) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 - [Ensure we don&#39;t create duplicates due to union types](https://github.com/MammatusPHP/queue/pull/40) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (5 days ago)
-- [Correct composer.json description](https://github.com/MammatusPHP/kubernetes/pull/29) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (5 days ago)
 
 ---
 
