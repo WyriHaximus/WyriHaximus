@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 day ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
-- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (3 days ago)
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (3 days ago)
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (3 days ago)
-- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (3 days ago)
-- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (3 days ago)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (3 days ago)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (3 days ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
-- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (3 days ago)
+- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (today)
+- [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 day ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (2 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
+- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (4 days ago)
+- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (4 days ago)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (4 days ago)
+- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (4 days ago)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (4 days ago)
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (4 days ago)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (4 days ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 
 ---
 
@@ -30,7 +30,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 - [Unlock Composer Plugins by Self Hosting Renovate](https://blog.wyrihaximus.net/2025/10/unlock-composer-plugins-by-self-hosting-renovate/) (2 months ago)
 - [ReactPHP Parallel v2(.1)](https://blog.wyrihaximus.net/2025/06/reactphp-parallel-v2-/) (6 months ago)
-- [Announcing TestInfra Action](https://blog.wyrihaximus.net/2025/03/announcing-testinfra-action/) (8 months ago)
+- [Announcing TestInfra Action](https://blog.wyrihaximus.net/2025/03/announcing-testinfra-action/) (9 months ago)
 - [Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Enclosure](https://blog.wyrihaximus.net/2024/12/building-a-kubernetes-homelab-with-raspberry-pies-and-lego-nodes-enclosure/) (1 year ago)
 - [Building Secure Images with GitHub Actions](https://blog.wyrihaximus.net/2024/10/building-secure-images-with-github-actions/) (1 year ago)
 - [Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Power](https://blog.wyrihaximus.net/2024/09/building-a-kubernetes-homelab-with-raspberry-pies-and-lego-nodes-power/) (1 year ago)
@@ -75,61 +75,61 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.1.3](https://github.com/MammatusPHP/groups/releases/tag/0.1.3), 1 day ago) - Group different components of you app into one process
-- [reactphp/child-process](https://github.com/reactphp/child-process) ([v0.6.7](https://github.com/reactphp/child-process/releases/tag/v0.6.7), 2 days ago) - Event-driven library for executing child processes with ReactPHP.
-- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.13.1](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.13.1), 2 days ago) - Kubernetes controller for GitHub Actions self-hosted runners
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.16](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.16), 3 days ago) - Makefile building blocks
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.5.5](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.5.5), 3 days ago) - Wrapper around renovatebot/github-action
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.2.0](https://github.com/MammatusPHP/kubernetes/releases/tag/0.2.0), 4 days ago) - Kubernetes related tooling
+- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([3.0.1](https://github.com/MammatusPHP/kubernetes-events/releases/tag/3.0.1), today) - 
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.1.3](https://github.com/MammatusPHP/groups/releases/tag/0.1.3), 2 days ago) - Group different components of you app into one process
+- [reactphp/child-process](https://github.com/reactphp/child-process) ([v0.6.7](https://github.com/reactphp/child-process/releases/tag/v0.6.7), 3 days ago) - Event-driven library for executing child processes with ReactPHP.
+- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.13.1](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.13.1), 3 days ago) - Kubernetes controller for GitHub Actions self-hosted runners
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.16](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.16), 4 days ago) - Makefile building blocks
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.5.5](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.5.5), 4 days ago) - Wrapper around renovatebot/github-action
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.2.0](https://github.com/MammatusPHP/kubernetes/releases/tag/0.2.0), 5 days ago) - Kubernetes related tooling
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.7.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.7.0), 1 week ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.8.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.8.0), 1 week ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([11.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/11.0.0), 1 week ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.25](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.25), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) ([3.0.0](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload/releases/tag/3.0.0), 1 week ago) - 
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([3.0.0](https://github.com/MammatusPHP/kubernetes-events/releases/tag/3.0.0), 1 month ago) - 
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.4.0](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.4.0), 1 month ago) - Tooling for creating generative Composer Plugins
 
 ---
 
 #### 🔨 My recent Pull Requests
 
-- [Switch to fully typed addons (in tests)](https://github.com/MammatusPHP/kubernetes-events/pull/46) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (today)
-- [Generate GroupAddons for Helm values](https://github.com/MammatusPHP/queue/pull/42) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
-- [Drop `echo $class-&gt;getName(), PHP_EOL;` from collector that slipped t…](https://github.com/MammatusPHP/groups/pull/14) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 day ago)
-- [Fix class filtering](https://github.com/MammatusPHP/groups/pull/13) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 day ago)
-- [Fix TerraForm plan output diff comment](https://github.com/WyriHaximus/github-workflows/pull/150) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
-- [Make sure we don&#39;t export etc/dev-app/](https://github.com/WyriHaximus/Makefiles/pull/155) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
-- [Ensure we don&#39;t create duplicates due to union types](https://github.com/MammatusPHP/queue/pull/40) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
-- [Correct composer.json description](https://github.com/MammatusPHP/kubernetes/pull/29) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (4 days ago)
-- [Add images as binaries to .gitattributes](https://github.com/WyriHaximus/Makefiles/pull/154) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
-- [Try: https://github.com/renovatebot/renovate/discussions/27906#discussioncomment-15052440](https://github.com/WyriHaximus/renovate-config/pull/5) on [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (5 days ago)
-- [Move do-not-update-php rule to base from next](https://github.com/WyriHaximus/renovate-config/pull/4) on [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (5 days ago)
+- [Remove probe add-on from CronJobs](https://github.com/MammatusPHP/kubernetes-events/pull/47) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
+- [Switch to fully typed addons (in tests)](https://github.com/MammatusPHP/kubernetes-events/pull/46) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
+- [Generate GroupAddons for Helm values](https://github.com/MammatusPHP/queue/pull/42) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
+- [Drop `echo $class-&gt;getName(), PHP_EOL;` from collector that slipped t…](https://github.com/MammatusPHP/groups/pull/14) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (2 days ago)
+- [Fix class filtering](https://github.com/MammatusPHP/groups/pull/13) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (2 days ago)
+- [Fix TerraForm plan output diff comment](https://github.com/WyriHaximus/github-workflows/pull/150) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
+- [Make sure we don&#39;t export etc/dev-app/](https://github.com/WyriHaximus/Makefiles/pull/155) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
+- [Ensure we don&#39;t create duplicates due to union types](https://github.com/MammatusPHP/queue/pull/40) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (5 days ago)
+- [Correct composer.json description](https://github.com/MammatusPHP/kubernetes/pull/29) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (5 days ago)
+- [Add images as binaries to .gitattributes](https://github.com/WyriHaximus/Makefiles/pull/154) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
+- [Try: https://github.com/renovatebot/renovate/discussions/27906#discussioncomment-15052440](https://github.com/WyriHaximus/renovate-config/pull/5) on [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (6 days ago)
+- [Move do-not-update-php rule to base from next](https://github.com/WyriHaximus/renovate-config/pull/4) on [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (6 days ago)
 - [Switch to JawaScript](https://github.com/WyriHaximus/github-action-set-milestone/pull/5) on [WyriHaximus/github-action-set-milestone](https://github.com/WyriHaximus/github-action-set-milestone) (1 week ago)
-- [Switch to Javascript and drop the usage of Docker containers](https://github.com/WyriHaximus/github-action-get-milestones/pull/8) on [WyriHaximus/github-action-get-milestones](https://github.com/WyriHaximus/github-action-get-milestones) (1 week ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [koosoli/ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - Design ESPHome displays right inside Home Assistant. This HACS integration offers a drag-and-drop editor with direct access to your sensor library via an intuitive entity picker. (3 days ago)
+- [koosoli/ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - Design ESPHome displays right inside Home Assistant. This HACS integration offers a drag-and-drop editor with direct access to your sensor library via an intuitive entity picker. (4 days ago)
 - [runs-on/action](https://github.com/runs-on/action) - The official RunsOn action (1 week ago)
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (1 week ago)
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator (1 week ago)
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (4 weeks ago)
 - [int128/wait-for-docker-image-action](https://github.com/int128/wait-for-docker-image-action) - Action to wait until Docker image is available at current Git revision (4 weeks ago)
-- [GuySie/random-things](https://github.com/GuySie/random-things) -  (4 weeks ago)
+- [GuySie/random-things](https://github.com/GuySie/random-things) -  (1 month ago)
 - [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project (1 month ago)
 - [asgrim/arson](https://github.com/asgrim/arson) - Asgrim&#39;s Rust-based JSON viewer tool. (1 month ago)
 - [ciaranmcnulty/homeassistant-test-container](https://github.com/ciaranmcnulty/homeassistant-test-container) - A container for testing home assistant integrations (1 month ago)
 - [realodix/change-case](https://github.com/realodix/change-case) - ✏️ Convert strings between camelCase, PascalCase, Capital Case, snake_case and more. (1 month ago)
 - [dermotduffy/hass-web-proxy-integration](https://github.com/dermotduffy/hass-web-proxy-integration) - Home Assistant Web Proxy (1 month ago)
-- [Andrew504s/weyland-home-assistant-theme](https://github.com/Andrew504s/weyland-home-assistant-theme) - A minimalist sci-fi CRT-inspired theme for Home Assistant (1 month ago)
+- [Andrew504s/weyland-home-assistant-theme](https://github.com/Andrew504s/weyland-home-assistant-theme) - A minimalist sci-fi CRT-inspired theme for Home Assistant (2 months ago)
 
 ---
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [matthiasCP](https://github.com/matthiasCP) (5 days ago)
+- [matthiasCP](https://github.com/matthiasCP) (6 days ago)
 - [challgren](https://github.com/challgren) (8 months ago)
 - [edorian](https://github.com/edorian) (2 years ago)
 - [codecov](https://github.com/codecov) (2 years ago)
