@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add NodeSelector pod addon](https://github.com/MammatusPHP/kubernetes-attributes/pull/23) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (today)
 - [Add PriorityClassName pod addon](https://github.com/MammatusPHP/kubernetes-attributes/pull/22) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (today)
 - [Raise minimum PHP version to PHP8.4](https://github.com/MammatusPHP/kubernetes-attributes/pull/21) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (today)
 - [Add Pod, CronJob, and StatefulSet marker interfaces](https://github.com/MammatusPHP/kubernetes-contracts/pull/14) on [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Switch to fully typed addons (in tests)](https://github.com/MammatusPHP/kubernetes-events/pull/46) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (2 days ago)
 - [Generate GroupAddons for Helm values](https://github.com/MammatusPHP/queue/pull/42) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
 - [Drop `echo $class-&gt;getName(), PHP_EOL;` from collector that slipped t…](https://github.com/MammatusPHP/groups/pull/14) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (3 days ago)
-- [Fix class filtering](https://github.com/MammatusPHP/groups/pull/13) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (3 days ago)
 
 ---
 
