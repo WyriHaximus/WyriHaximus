@@ -21,7 +21,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (2 days ago)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (4 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
-- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (6 days ago)
+- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (6 days ago)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (6 days ago)
 
 ---
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Remove .dockerignore](https://github.com/MammatusPHP/http-server/pull/204) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [Drop server as everything is now handle by groups](https://github.com/MammatusPHP/http-server/pull/203) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [Ensure servers only start once](https://github.com/MammatusPHP/http-server/pull/202) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [Fix silly mistakes in pod addons](https://github.com/MammatusPHP/helm-charts/pull/32) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Correct webroot to public name](https://github.com/MammatusPHP/healthz-vhost/pull/25) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (2 days ago)
 - [Fully switch to run on Groups](https://github.com/MammatusPHP/app/pull/69) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (2 days ago)
 - [Anything running on Kubernetes must have healthchecks enabled out of the box](https://github.com/MammatusPHP/kubernetes/pull/31) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (2 days ago)
-- [Add Health Checks by default](https://github.com/MammatusPHP/app/pull/68) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (2 days ago)
 
 ---
 
