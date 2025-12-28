@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Ensure servers only start once](https://github.com/MammatusPHP/http-server/pull/202) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [Fix silly mistakes in pod addons](https://github.com/MammatusPHP/helm-charts/pull/32) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
 - [Add pod addons nodeSelector and priorityClassName](https://github.com/MammatusPHP/helm-charts/pull/31) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
 - [Add NodeSelector pod addon](https://github.com/MammatusPHP/kubernetes-attributes/pull/23) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Anything running on Kubernetes must have healthchecks enabled out of the box](https://github.com/MammatusPHP/kubernetes/pull/31) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (2 days ago)
 - [Add Health Checks by default](https://github.com/MammatusPHP/app/pull/68) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (2 days ago)
 - [Remove probe add-on from CronJobs](https://github.com/MammatusPHP/kubernetes-events/pull/47) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (3 days ago)
-- [Switch to fully typed addons (in tests)](https://github.com/MammatusPHP/kubernetes-events/pull/46) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (3 days ago)
 
 ---
 
