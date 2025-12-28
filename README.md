@@ -10,17 +10,17 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (1 day ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 day ago)
-- [MammatusPHP/app](https://github.com/MammatusPHP/app) (2 days ago)
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (2 days ago)
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (2 days ago)
 - [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (2 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
+- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (2 days ago)
+- [MammatusPHP/app](https://github.com/MammatusPHP/app) (2 days ago)
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (2 days ago)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (4 days ago)
-- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (6 days ago)
-- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (6 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (6 days ago)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (6 days ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
 
@@ -75,6 +75,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.14](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.14), today) - 
+- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) ([1.1.0](https://github.com/MammatusPHP/kubernetes-attributes/releases/tag/1.1.0), today) - 
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) ([1.1.0](https://github.com/MammatusPHP/kubernetes-contracts/releases/tag/1.1.0), 1 day ago) - Contracts for Kubernetes related attributes
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.3.0](https://github.com/MammatusPHP/kubernetes/releases/tag/0.3.0), 2 days ago) - Kubernetes related tooling
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([3.0.1](https://github.com/MammatusPHP/kubernetes-events/releases/tag/3.0.1), 2 days ago) - 
@@ -86,13 +88,13 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.7.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.7.0), 1 week ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.8.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.8.0), 1 week ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([11.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/11.0.0), 1 week ago) - 🌯 PHPStan rules wrapper
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.25](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.25), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
-- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) ([3.0.0](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload/releases/tag/3.0.0), 2 weeks ago) - 
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Fix silly mistakes in pod addons](https://github.com/MammatusPHP/helm-charts/pull/32) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
+- [Add pod addons nodeSelector and priorityClassName](https://github.com/MammatusPHP/helm-charts/pull/31) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
 - [Add NodeSelector pod addon](https://github.com/MammatusPHP/kubernetes-attributes/pull/23) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 day ago)
 - [Add PriorityClassName pod addon](https://github.com/MammatusPHP/kubernetes-attributes/pull/22) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 day ago)
 - [Raise minimum PHP version to PHP8.4](https://github.com/MammatusPHP/kubernetes-attributes/pull/21) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 day ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add Health Checks by default](https://github.com/MammatusPHP/app/pull/68) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (2 days ago)
 - [Remove probe add-on from CronJobs](https://github.com/MammatusPHP/kubernetes-events/pull/47) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (3 days ago)
 - [Switch to fully typed addons (in tests)](https://github.com/MammatusPHP/kubernetes-events/pull/46) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (3 days ago)
-- [Generate GroupAddons for Helm values](https://github.com/MammatusPHP/queue/pull/42) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
-- [Drop `echo $class-&gt;getName(), PHP_EOL;` from collector that slipped t…](https://github.com/MammatusPHP/groups/pull/14) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (4 days ago)
 
 ---
 
