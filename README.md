@@ -14,15 +14,15 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (today)
 - [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (1 day ago)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 day ago)
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (3 days ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (4 days ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (4 days ago)
-- [MammatusPHP/app](https://github.com/MammatusPHP/app) (5 days ago)
-- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (5 days ago)
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (5 days ago)
 
 ---
 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add barebones .gitignore](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/57) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (today)
 - [Remove .dockerignore](https://github.com/MammatusPHP/http-server/pull/204) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (3 days ago)
 - [Drop server as everything is now handle by groups](https://github.com/MammatusPHP/http-server/pull/203) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (3 days ago)
 - [Ensure servers only start once](https://github.com/MammatusPHP/http-server/pull/202) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (3 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Clean up worker DTO](https://github.com/MammatusPHP/queue/pull/43) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (5 days ago)
 - [Correct webroot to public name](https://github.com/MammatusPHP/healthz-vhost/pull/25) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (5 days ago)
 - [Fully switch to run on Groups](https://github.com/MammatusPHP/app/pull/69) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (5 days ago)
-- [Anything running on Kubernetes must have healthchecks enabled out of the box](https://github.com/MammatusPHP/kubernetes/pull/31) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (5 days ago)
 
 ---
 
