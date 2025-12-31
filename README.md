@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (today)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
 - [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (today)
+- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (today)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 day ago)
 - [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 day ago)
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (3 days ago)
-- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (4 days ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (4 days ago)
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (5 days ago)
+- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (4 days ago)
 
 ---
 
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) ([v1.16.0](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/releases/tag/v1.16.0), today) - GitHub Action that gets the PHP versions in range from composer.json
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.14](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.14), 3 days ago) - 
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) ([1.1.0](https://github.com/MammatusPHP/kubernetes-attributes/releases/tag/1.1.0), 3 days ago) - 
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) ([1.1.0](https://github.com/MammatusPHP/kubernetes-contracts/releases/tag/1.1.0), 4 days ago) - Contracts for Kubernetes related attributes
@@ -87,12 +88,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.5.5](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.5.5), 1 week ago) - Wrapper around renovatebot/github-action
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.7.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.7.0), 1 week ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.8.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.8.0), 1 week ago) - 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([11.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/11.0.0), 1 week ago) - 🌯 PHPStan rules wrapper
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Move 8.5 to stable versions list](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/59) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (today)
 - [Add barebones .gitignore](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/57) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (today)
 - [Remove .dockerignore](https://github.com/MammatusPHP/http-server/pull/204) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (3 days ago)
 - [Drop server as everything is now handle by groups](https://github.com/MammatusPHP/http-server/pull/203) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (3 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add Pod, CronJob, and StatefulSet marker interfaces](https://github.com/MammatusPHP/kubernetes-contracts/pull/14) on [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (4 days ago)
 - [Clean up worker DTO](https://github.com/MammatusPHP/queue/pull/43) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (5 days ago)
 - [Correct webroot to public name](https://github.com/MammatusPHP/healthz-vhost/pull/25) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (5 days ago)
-- [Fully switch to run on Groups](https://github.com/MammatusPHP/app/pull/69) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (5 days ago)
 
 ---
 
