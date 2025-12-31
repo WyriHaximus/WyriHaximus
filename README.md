@@ -111,7 +111,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
-- [koosoli/ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - Design ESPHome displays right inside Home Assistant. This HACS integration offers a drag-and-drop editor with direct access to your sensor library via an intuitive entity picker. (1 week ago)
+- [koosoli/ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app. (1 week ago)
 - [runs-on/action](https://github.com/runs-on/action) - The official RunsOn action (1 week ago)
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (1 week ago)
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator (2 weeks ago)
