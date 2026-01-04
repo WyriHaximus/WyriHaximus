@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (2 days ago)
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (3 days ago)
-- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (4 days ago)
-- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (4 days ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (4 days ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
+- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (4 days ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
+- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (4 days ago)
 - [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (5 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
-- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (5 days ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 week ago)
-- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (1 week ago)
-- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 week ago)
 
 ---
 
@@ -75,6 +75,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([3.0.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/3.0.0), today) - PHP Coding Standard
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.5.6](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.5.6), today) - Wrapper around renovatebot/github-action
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([12.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/12.0.0), today) - 🌯 PHPStan rules wrapper
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([keda-0.0.8](https://github.com/MammatusPHP/helm-charts/releases/tag/keda-0.0.8), 3 days ago) - 
 - [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) ([v1.16.0](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/releases/tag/v1.16.0), 4 days ago) - GitHub Action that gets the PHP versions in range from composer.json
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) ([1.1.0](https://github.com/MammatusPHP/kubernetes-attributes/releases/tag/1.1.0), 1 week ago) - 
@@ -85,14 +88,15 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [reactphp/child-process](https://github.com/reactphp/child-process) ([v0.6.7](https://github.com/reactphp/child-process/releases/tag/v0.6.7), 1 week ago) - Event-driven library for executing child processes with ReactPHP.
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.13.1](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.13.1), 1 week ago) - Kubernetes controller for GitHub Actions self-hosted runners
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.16](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.16), 1 week ago) - Makefile building blocks
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.5.5](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.5.5), 1 week ago) - Wrapper around renovatebot/github-action
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([10.7.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/10.7.0), 2 weeks ago) - 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([8.8.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/8.8.0), 2 weeks ago) - 
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Require PHP8.4&#43;](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/210) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
+- [Add symplify/phpstan-extensions](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/209) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
+- [Disable forbidding checked exceptions in callables and generators](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/208) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
+- [Add composer show](https://github.com/WyriHaximus/Makefiles/pull/157) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [[keda] Drop dropping to one on dev from chart](https://github.com/MammatusPHP/helm-charts/pull/35) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (3 days ago)
 - [[keda] Add missing .mammatus prefix](https://github.com/MammatusPHP/helm-charts/pull/34) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (3 days ago)
 - [[keda] Only scale to one max pod on dev](https://github.com/MammatusPHP/helm-charts/pull/33) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (3 days ago)
@@ -102,10 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Drop server as everything is now handle by groups](https://github.com/MammatusPHP/http-server/pull/203) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 week ago)
 - [Ensure servers only start once](https://github.com/MammatusPHP/http-server/pull/202) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 week ago)
 - [Fix silly mistakes in pod addons](https://github.com/MammatusPHP/helm-charts/pull/32) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 week ago)
-- [Add pod addons nodeSelector and priorityClassName](https://github.com/MammatusPHP/helm-charts/pull/31) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 week ago)
-- [Add NodeSelector pod addon](https://github.com/MammatusPHP/kubernetes-attributes/pull/23) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 week ago)
-- [Add PriorityClassName pod addon](https://github.com/MammatusPHP/kubernetes-attributes/pull/22) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 week ago)
-- [Raise minimum PHP version to PHP8.4](https://github.com/MammatusPHP/kubernetes-attributes/pull/21) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 week ago)
 
 ---
 
