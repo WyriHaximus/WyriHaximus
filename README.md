@@ -114,7 +114,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [koosoli/ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app. (2 weeks ago)
 - [runs-on/action](https://github.com/runs-on/action) - The official RunsOn action (2 weeks ago)
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (2 weeks ago)
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator (2 weeks ago)
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator (unofficial) (2 weeks ago)
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 month ago)
 - [int128/wait-for-docker-image-action](https://github.com/int128/wait-for-docker-image-action) - Action to wait until Docker image is available at current Git revision (1 month ago)
 - [GuySie/random-things](https://github.com/GuySie/random-things) -  (1 month ago)
