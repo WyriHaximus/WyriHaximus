@@ -111,6 +111,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [xLightsSequencer/xLights](https://github.com/xLightsSequencer/xLights) - xLights is a sequencer for Lights. xLights has usb and E1.31 drivers. You can create sequences in this object oriented program. You can create playlists, schedule them, test your hardware, convert between different sequencers.  (today)
 - [szado/reactphp-mailer](https://github.com/szado/reactphp-mailer) - A simple, asynchronous email sending library built on top of Symfony Mailer and ReactPHP. (1 day ago)
 - [koosoli/ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app. (2 weeks ago)
 - [runs-on/action](https://github.com/runs-on/action) - The official RunsOn action (3 weeks ago)
@@ -123,7 +124,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [asgrim/arson](https://github.com/asgrim/arson) - Asgrim&#39;s Rust-based JSON viewer tool. (2 months ago)
 - [ciaranmcnulty/homeassistant-test-container](https://github.com/ciaranmcnulty/homeassistant-test-container) - A container for testing home assistant integrations (2 months ago)
 - [realodix/change-case](https://github.com/realodix/change-case) - ✏️ Convert strings between camelCase, PascalCase, Capital Case, snake_case and more. (2 months ago)
-- [dermotduffy/hass-web-proxy-integration](https://github.com/dermotduffy/hass-web-proxy-integration) - Home Assistant Web Proxy (2 months ago)
 
 ---
 
