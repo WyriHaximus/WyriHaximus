@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Drop set-milestone-on-pr and have release-management handle milestones](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/205) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
+- [Drop set-milestone-on-pr and have release-management handle milestones](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/27) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
 - [Align serialize with hydrator picking up nested DTOs when](https://github.com/EventSaucePHP/ObjectHydrator/pull/93) on [EventSaucePHP/ObjectHydrator](https://github.com/EventSaucePHP/ObjectHydrator) (1 day ago)
 - [Update coding standard deps into a compatible set for squizlabs/php_codesniffer v4](https://github.com/WyriHaximus/php-test-utilities/pull/1170) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [Require PHP8.4&#43;](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/210) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [[keda] Only scale to one max pod on dev](https://github.com/MammatusPHP/helm-charts/pull/33) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 week ago)
 - [Move 8.5 to stable versions list](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/59) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (1 week ago)
 - [Add barebones .gitignore](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/57) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (1 week ago)
-- [Remove .dockerignore](https://github.com/MammatusPHP/http-server/pull/204) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (2 weeks ago)
-- [Drop server as everything is now handle by groups](https://github.com/MammatusPHP/http-server/pull/203) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (2 weeks ago)
 
 ---
 
