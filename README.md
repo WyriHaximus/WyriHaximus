@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([9.0.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/9.0.0), today) - 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.26](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.26), today) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) ([v1.0.0](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/releases/tag/v1.0.0), today) - 
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.5.7](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.5.7), 1 day ago) - Wrapper around renovatebot/github-action
@@ -87,7 +88,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.3.0](https://github.com/MammatusPHP/kubernetes/releases/tag/0.3.0), 2 weeks ago) - Kubernetes related tooling
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([3.0.1](https://github.com/MammatusPHP/kubernetes-events/releases/tag/3.0.1), 2 weeks ago) - 
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.1.3](https://github.com/MammatusPHP/groups/releases/tag/0.1.3), 2 weeks ago) - Group different components of you app into one process
-- [reactphp/child-process](https://github.com/reactphp/child-process) ([v0.6.7](https://github.com/reactphp/child-process/releases/tag/v0.6.7), 3 weeks ago) - Event-driven library for executing child processes with ReactPHP.
 
 ---
 
