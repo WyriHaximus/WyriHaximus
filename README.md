@@ -10,15 +10,15 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
 - [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (3 days ago)
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 week ago)
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (4 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 week ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 week ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 week ago)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 week ago)
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 week ago)
 - [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (1 week ago)
@@ -75,7 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.5.7](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.5.7), today) - Wrapper around renovatebot/github-action
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.5.7](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.5.7), 1 day ago) - Wrapper around renovatebot/github-action
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([3.0.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/3.0.0), 1 week ago) - PHP Coding Standard
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([12.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/12.0.0), 1 week ago) - 🌯 PHPStan rules wrapper
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([keda-0.0.8](https://github.com/MammatusPHP/helm-charts/releases/tag/keda-0.0.8), 1 week ago) - 
@@ -85,17 +85,17 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.3.0](https://github.com/MammatusPHP/kubernetes/releases/tag/0.3.0), 2 weeks ago) - Kubernetes related tooling
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([3.0.1](https://github.com/MammatusPHP/kubernetes-events/releases/tag/3.0.1), 2 weeks ago) - 
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.1.3](https://github.com/MammatusPHP/groups/releases/tag/0.1.3), 2 weeks ago) - Group different components of you app into one process
-- [reactphp/child-process](https://github.com/reactphp/child-process) ([v0.6.7](https://github.com/reactphp/child-process/releases/tag/v0.6.7), 2 weeks ago) - Event-driven library for executing child processes with ReactPHP.
-- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.13.1](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.13.1), 2 weeks ago) - Kubernetes controller for GitHub Actions self-hosted runners
+- [reactphp/child-process](https://github.com/reactphp/child-process) ([v0.6.7](https://github.com/reactphp/child-process/releases/tag/v0.6.7), 3 weeks ago) - Event-driven library for executing child processes with ReactPHP.
+- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ([gha-runner-scale-set-0.13.1](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.13.1), 3 weeks ago) - Kubernetes controller for GitHub Actions self-hosted runners
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.7.16](https://github.com/WyriHaximus/Makefiles/releases/tag/0.7.16), 3 weeks ago) - Makefile building blocks
 
 ---
 
 #### 🔨 My recent Pull Requests
 
-- [Drop set-milestone-on-pr and have release-management handle milestones](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/205) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
-- [Drop set-milestone-on-pr and have release-management handle milestones](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/27) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
-- [Align serialize with hydrator picking up nested DTOs when](https://github.com/EventSaucePHP/ObjectHydrator/pull/93) on [EventSaucePHP/ObjectHydrator](https://github.com/EventSaucePHP/ObjectHydrator) (1 day ago)
+- [Drop set-milestone-on-pr and have release-management handle milestones](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/205) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
+- [Drop set-milestone-on-pr and have release-management handle milestones](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/27) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (1 day ago)
+- [Align serialize with hydrator picking up nested DTOs when](https://github.com/EventSaucePHP/ObjectHydrator/pull/93) on [EventSaucePHP/ObjectHydrator](https://github.com/EventSaucePHP/ObjectHydrator) (2 days ago)
 - [Update coding standard deps into a compatible set for squizlabs/php_codesniffer v4](https://github.com/WyriHaximus/php-test-utilities/pull/1170) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [Require PHP8.4&#43;](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/210) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [Add symplify/phpstan-extensions](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/209) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
@@ -111,12 +111,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
-- [xLightsSequencer/xLights](https://github.com/xLightsSequencer/xLights) - xLights is a sequencer for Lights. xLights has usb and E1.31 drivers. You can create sequences in this object oriented program. You can create playlists, schedule them, test your hardware, convert between different sequencers.  (4 days ago)
-- [szado/reactphp-mailer](https://github.com/szado/reactphp-mailer) - A simple, asynchronous email sending library built on top of Symfony Mailer and ReactPHP. (5 days ago)
+- [xLightsSequencer/xLights](https://github.com/xLightsSequencer/xLights) - xLights is a sequencer for Lights. xLights has usb and E1.31 drivers. You can create sequences in this object oriented program. You can create playlists, schedule them, test your hardware, convert between different sequencers.  (5 days ago)
+- [szado/reactphp-mailer](https://github.com/szado/reactphp-mailer) - A simple, asynchronous email sending library built on top of Symfony Mailer and ReactPHP. (6 days ago)
 - [koosoli/ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app. (3 weeks ago)
 - [runs-on/action](https://github.com/runs-on/action) - The official RunsOn action (3 weeks ago)
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (3 weeks ago)
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator (unofficial) (3 weeks ago)
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator (unofficial) (4 weeks ago)
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 month ago)
 - [int128/wait-for-docker-image-action](https://github.com/int128/wait-for-docker-image-action) - Action to wait until Docker image is available at current Git revision (1 month ago)
 - [GuySie/random-things](https://github.com/GuySie/random-things) -  (1 month ago)
