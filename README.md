@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Always keep renovate&#39;s constraints.php in sync with composer.json&#39;s config.platform.php](https://github.com/WyriHaximus/Makefiles/pull/160) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [We update path to be relative to etc/qa/infection.json5 as of 0.32](https://github.com/WyriHaximus/Makefiles/pull/159) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Drop @api from forbidden annotations](https://github.com/WyriHaximus/php-coding-standard/pull/111) on [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
 - [[New Version] Update versions file to PHP 8.5.2](https://github.com/WyriHaximus/php-fake-php-version/pull/173) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Require PHP8.4&#43;](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/210) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [Add symplify/phpstan-extensions](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/209) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 - [Disable forbidding checked exceptions in callables and generators](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/208) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
-- [Add composer show](https://github.com/WyriHaximus/Makefiles/pull/157) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 
 ---
 
