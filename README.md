@@ -12,10 +12,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (today)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 day ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 day ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (2 days ago)
