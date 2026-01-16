@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (today)
+- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (2 days ago)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (2 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (2 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (3 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (2 days ago)
+- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (3 days ago)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (3 days ago)
 
 ---
 
@@ -93,6 +93,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Remove all lines that contain @phpstan-ignore-next-line](https://github.com/WyriHaximus/Makefiles/pull/164) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Make sure PHPCS runs through examples when it exists](https://github.com/WyriHaximus/Makefiles/pull/163) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Update to PHP 8.4&#43;](https://github.com/WyriHaximus/TickingPromise/pull/97) on [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (today)
 - [Add *.blp as binary to .gitattributes](https://github.com/WyriHaximus/Makefiles/pull/162) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Delete .idea directory](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger/pull/81) on [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (1 day ago)
 - [Always keep renovate&#39;s constraints.composer at 2.x](https://github.com/WyriHaximus/Makefiles/pull/161) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
@@ -103,9 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Drop mustCreateCommit from release config](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/29) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (3 days ago)
 - [Set reTagOCIImage to false as this Action doesn&#39;t use Docker](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/28) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (3 days ago)
 - [Drop set-milestone-on-pr and have release-management handle milestones](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/205) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (4 days ago)
-- [Drop set-milestone-on-pr and have release-management handle milestones](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/27) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (4 days ago)
-- [Align serialize with hydrator picking up nested DTOs when](https://github.com/EventSaucePHP/ObjectHydrator/pull/93) on [EventSaucePHP/ObjectHydrator](https://github.com/EventSaucePHP/ObjectHydrator) (5 days ago)
-- [Update coding standard deps into a compatible set for squizlabs/php_codesniffer v4](https://github.com/WyriHaximus/php-test-utilities/pull/1170) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 
 ---
 
