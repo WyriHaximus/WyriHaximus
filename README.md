@@ -10,8 +10,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (2 days ago)
 - [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (2 days ago)
@@ -75,8 +75,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([11.0.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/11.0.0), today) - 
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.8.0](https://github.com/WyriHaximus/Makefiles/releases/tag/0.8.0), 4 days ago) - Makefile building blocks
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([10.0.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/10.0.0), 4 days ago) - 
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([4.0.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/4.0.0), 4 days ago) - PHP Coding Standard
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.26](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.26), 5 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) ([v1.0.0](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/releases/tag/v1.0.0), 5 days ago) - 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Pin Rector to 2.2.1 as it causes trouble for icanhazstring/composer-unused](https://github.com/WyriHaximus/php-test-utilities/pull/1176) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [Remove all lines that contain @psalm-suppress](https://github.com/WyriHaximus/Makefiles/pull/165) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Remove all lines that contain @phpstan-ignore-next-line](https://github.com/WyriHaximus/Makefiles/pull/164) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Make sure PHPCS runs through examples when it exists](https://github.com/WyriHaximus/Makefiles/pull/163) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Drop @api from forbidden annotations](https://github.com/WyriHaximus/php-coding-standard/pull/111) on [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (4 days ago)
 - [[New Version] Update versions file to PHP 8.5.2](https://github.com/WyriHaximus/php-fake-php-version/pull/173) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (5 days ago)
 - [Drop mustCreateCommit from release config](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/29) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (5 days ago)
-- [Set reTagOCIImage to false as this Action doesn&#39;t use Docker](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/pull/28) on [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (5 days ago)
 
 ---
 
