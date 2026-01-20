@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (3 days ago)
-- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (3 days ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (3 days ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (4 days ago)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (4 days ago)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (5 days ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (5 days ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (4 days ago)
+- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (4 days ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
+- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (4 days ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (5 days ago)
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (5 days ago)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (6 days ago)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (6 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (6 days ago)
 
 ---
 
@@ -75,13 +75,13 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.8.1](https://github.com/WyriHaximus/Makefiles/releases/tag/0.8.1), today) - Makefile building blocks
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.6.0](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.6.0), today) - Wrapper around renovatebot/github-action
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([11.0.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/11.0.0), today) - 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([11.0.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/11.0.0), 1 day ago) - 
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([4.0.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/4.0.0), 5 days ago) - PHP Coding Standard
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.26](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.26), 6 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
-- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) ([v1.0.0](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/releases/tag/v1.0.0), 6 days ago) - 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.8.1](https://github.com/WyriHaximus/Makefiles/releases/tag/0.8.1), 1 day ago) - Makefile building blocks
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.6.0](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.6.0), 1 day ago) - Wrapper around renovatebot/github-action
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([11.0.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/11.0.0), 1 day ago) - 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([11.0.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/11.0.0), 2 days ago) - 
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([4.0.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/4.0.0), 6 days ago) - PHP Coding Standard
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.26](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.26), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
+- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) ([v1.0.0](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/releases/tag/v1.0.0), 1 week ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([12.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/12.0.0), 2 weeks ago) - 🌯 PHPStan rules wrapper
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([keda-0.0.8](https://github.com/MammatusPHP/helm-charts/releases/tag/keda-0.0.8), 2 weeks ago) - 
 - [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) ([v1.16.0](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/releases/tag/v1.16.0), 2 weeks ago) - GitHub Action that gets the PHP versions in range from composer.json
@@ -93,19 +93,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Add Update lockfile](https://github.com/WyriHaximus/Makefiles/pull/167) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Add several (possible) hidden files on upgrade](https://github.com/WyriHaximus/github-action-renovatebot/pull/32) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
-- [Pin Rector to 2.2.1 as it causes trouble for icanhazstring/composer-unused](https://github.com/WyriHaximus/php-test-utilities/pull/1176) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [Remove all lines that contain @psalm-suppress](https://github.com/WyriHaximus/Makefiles/pull/165) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Remove all lines that contain @phpstan-ignore-next-line](https://github.com/WyriHaximus/Makefiles/pull/164) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
-- [Make sure PHPCS runs through examples when it exists](https://github.com/WyriHaximus/Makefiles/pull/163) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
-- [Update to PHP 8.4&#43;](https://github.com/WyriHaximus/TickingPromise/pull/97) on [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (3 days ago)
-- [Add *.blp as binary to .gitattributes](https://github.com/WyriHaximus/Makefiles/pull/162) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
-- [Delete .idea directory](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger/pull/81) on [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (4 days ago)
-- [Always keep renovate&#39;s constraints.composer at 2.x](https://github.com/WyriHaximus/Makefiles/pull/161) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
-- [Always keep renovate&#39;s constraints.php in sync with composer.json&#39;s config.platform.php](https://github.com/WyriHaximus/Makefiles/pull/160) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
-- [We update path to be relative to etc/qa/infection.json5 as of 0.32](https://github.com/WyriHaximus/Makefiles/pull/159) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
-- [Drop @api from forbidden annotations](https://github.com/WyriHaximus/php-coding-standard/pull/111) on [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (5 days ago)
+- [Add Update lockfile](https://github.com/WyriHaximus/Makefiles/pull/167) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [Add several (possible) hidden files on upgrade](https://github.com/WyriHaximus/github-action-renovatebot/pull/32) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
+- [Pin Rector to 2.2.1 as it causes trouble for icanhazstring/composer-unused](https://github.com/WyriHaximus/php-test-utilities/pull/1176) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
+- [Remove all lines that contain @psalm-suppress](https://github.com/WyriHaximus/Makefiles/pull/165) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [Remove all lines that contain @phpstan-ignore-next-line](https://github.com/WyriHaximus/Makefiles/pull/164) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
+- [Make sure PHPCS runs through examples when it exists](https://github.com/WyriHaximus/Makefiles/pull/163) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
+- [Update to PHP 8.4&#43;](https://github.com/WyriHaximus/TickingPromise/pull/97) on [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (4 days ago)
+- [Add *.blp as binary to .gitattributes](https://github.com/WyriHaximus/Makefiles/pull/162) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
+- [Delete .idea directory](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger/pull/81) on [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (5 days ago)
+- [Always keep renovate&#39;s constraints.composer at 2.x](https://github.com/WyriHaximus/Makefiles/pull/161) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
+- [Always keep renovate&#39;s constraints.php in sync with composer.json&#39;s config.platform.php](https://github.com/WyriHaximus/Makefiles/pull/160) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
+- [We update path to be relative to etc/qa/infection.json5 as of 0.32](https://github.com/WyriHaximus/Makefiles/pull/159) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
+- [Drop @api from forbidden annotations](https://github.com/WyriHaximus/php-coding-standard/pull/111) on [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (6 days ago)
 
 ---
 
@@ -137,7 +137,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [kristos80](https://github.com/kristos80) (3 years ago)
 - [getflights](https://github.com/getflights) (3 years ago)
 - [csev](https://github.com/csev) (4 years ago)
-- [erikaheidi](https://github.com/erikaheidi) (5 years ago)
+- [erikaheidi](https://github.com/erikaheidi) (6 years ago)
 - [AllenJB](https://github.com/AllenJB) (6 years ago)
 - [lcobucci](https://github.com/lcobucci) (6 years ago)
 - [Ocramius](https://github.com/Ocramius) (6 years ago)
