@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Fix Composer UNused Issue 717](https://github.com/composer-unused/symbol-parser/pull/202) on [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) (today)
 - [Add Update lockfile](https://github.com/WyriHaximus/Makefiles/pull/167) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [Add several (possible) hidden files on upgrade](https://github.com/WyriHaximus/github-action-renovatebot/pull/32) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (3 days ago)
 - [Pin Rector to 2.2.1 as it causes trouble for icanhazstring/composer-unused](https://github.com/WyriHaximus/php-test-utilities/pull/1176) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Always keep renovate&#39;s constraints.composer at 2.x](https://github.com/WyriHaximus/Makefiles/pull/161) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Always keep renovate&#39;s constraints.php in sync with composer.json&#39;s config.platform.php](https://github.com/WyriHaximus/Makefiles/pull/160) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [We update path to be relative to etc/qa/infection.json5 as of 0.32](https://github.com/WyriHaximus/Makefiles/pull/159) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [Drop @api from forbidden annotations](https://github.com/WyriHaximus/php-coding-standard/pull/111) on [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 week ago)
 
 ---
 
