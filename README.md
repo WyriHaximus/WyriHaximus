@@ -111,6 +111,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [andrewrk/poop](https://github.com/andrewrk/poop) - Performance Optimizer Observation Platform (today)
 - [xLightsSequencer/xLights](https://github.com/xLightsSequencer/xLights) - xLights is a sequencer for Lights. xLights has usb and E1.31 drivers. You can create sequences in this object oriented program. You can create playlists, schedule them, test your hardware, convert between different sequencers.  (2 weeks ago)
 - [szado/reactphp-mailer](https://github.com/szado/reactphp-mailer) - A simple, asynchronous email sending library built on top of Symfony Mailer and ReactPHP. (2 weeks ago)
 - [koosoli/ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app. (1 month ago)
@@ -123,7 +124,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project (2 months ago)
 - [asgrim/arson](https://github.com/asgrim/arson) - Asgrim&#39;s Rust-based JSON viewer tool. (2 months ago)
 - [ciaranmcnulty/homeassistant-test-container](https://github.com/ciaranmcnulty/homeassistant-test-container) - A container for testing home assistant integrations (2 months ago)
-- [realodix/change-case](https://github.com/realodix/change-case) - ✏️ Convert strings between camelCase, PascalCase, Capital Case, snake_case and more. (2 months ago)
 
 ---
 
