@@ -19,8 +19,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 - [MammatusPHP/helm-json-action](https://github.com/MammatusPHP/helm-json-action) (4 days ago)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 week ago)
-- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (1 week ago)
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 week ago)
+- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (1 week ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 week ago)
 
