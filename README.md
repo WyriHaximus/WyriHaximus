@@ -10,16 +10,16 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
-- [WyriHaximusNet/renovate](https://github.com/WyriHaximusNet/renovate) (1 day ago)
-- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (2 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (6 days ago)
-- [MammatusPHP/helm-json-action](https://github.com/MammatusPHP/helm-json-action) (6 days ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 day ago)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
+- [WyriHaximusNet/renovate](https://github.com/WyriHaximusNet/renovate) (2 days ago)
+- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (3 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
+- [MammatusPHP/helm-json-action](https://github.com/MammatusPHP/helm-json-action) (1 week ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 week ago)
 - [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (1 week ago)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 week ago)
@@ -75,10 +75,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.6.1](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.6.1), today) - Wrapper around renovatebot/github-action
-- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) ([v1.16.1](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/releases/tag/v1.16.1), 2 days ago) - GitHub Action that gets the PHP versions in range from composer.json
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.8.1](https://github.com/WyriHaximus/Makefiles/releases/tag/0.8.1), 6 days ago) - Makefile building blocks
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([11.0.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/11.0.0), 6 days ago) - 
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.6.1](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.6.1), 1 day ago) - Wrapper around renovatebot/github-action
+- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) ([v1.16.1](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/releases/tag/v1.16.1), 3 days ago) - GitHub Action that gets the PHP versions in range from composer.json
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.8.1](https://github.com/WyriHaximus/Makefiles/releases/tag/0.8.1), 1 week ago) - Makefile building blocks
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([11.0.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/11.0.0), 1 week ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([11.0.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/11.0.0), 1 week ago) - 
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([4.0.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/4.0.0), 1 week ago) - PHP Coding Standard
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.26](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.26), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
@@ -86,21 +86,21 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([12.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/12.0.0), 3 weeks ago) - 🌯 PHPStan rules wrapper
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([keda-0.0.8](https://github.com/MammatusPHP/helm-charts/releases/tag/keda-0.0.8), 3 weeks ago) - 
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) ([1.1.0](https://github.com/MammatusPHP/kubernetes-attributes/releases/tag/1.1.0), 4 weeks ago) - 
-- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) ([1.1.0](https://github.com/MammatusPHP/kubernetes-contracts/releases/tag/1.1.0), 4 weeks ago) - Contracts for Kubernetes related attributes
+- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) ([1.1.0](https://github.com/MammatusPHP/kubernetes-contracts/releases/tag/1.1.0), 1 month ago) - Contracts for Kubernetes related attributes
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.3.0](https://github.com/MammatusPHP/kubernetes/releases/tag/0.3.0), 1 month ago) - Kubernetes related tooling
 
 ---
 
 #### 🔨 My recent Pull Requests
 
-- [Add `|| true` so they fail gracefully](https://github.com/WyriHaximus/github-action-renovatebot/pull/34) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
-- [Revert &#34;.github/workflows: Migrate workflows to Blacksmith runners&#34;](https://github.com/WyriHaximusNet/docker-php/pull/361) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
-- [Update license year to 2026](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/63) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (2 days ago)
-- [Auto detect PHP version matrix](https://github.com/composer-unused/symbol-parser/pull/203) on [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) (2 days ago)
-- [[0.6.x] Moved mocked connection interface into MockConnectionInterface](https://github.com/jakubkulhan/bunny/pull/212) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
-- [Fix Composer Unused Issue 717](https://github.com/composer-unused/symbol-parser/pull/202) on [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) (3 days ago)
-- [Add Update lockfile](https://github.com/WyriHaximus/Makefiles/pull/167) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
-- [Add several (possible) hidden files on upgrade](https://github.com/WyriHaximus/github-action-renovatebot/pull/32) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (6 days ago)
+- [Add `|| true` so they fail gracefully](https://github.com/WyriHaximus/github-action-renovatebot/pull/34) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
+- [Revert &#34;.github/workflows: Migrate workflows to Blacksmith runners&#34;](https://github.com/WyriHaximusNet/docker-php/pull/361) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
+- [Update license year to 2026](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/63) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (3 days ago)
+- [Auto detect PHP version matrix](https://github.com/composer-unused/symbol-parser/pull/203) on [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) (3 days ago)
+- [[0.6.x] Moved mocked connection interface into MockConnectionInterface](https://github.com/jakubkulhan/bunny/pull/212) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
+- [Fix Composer Unused Issue 717](https://github.com/composer-unused/symbol-parser/pull/202) on [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) (4 days ago)
+- [Add Update lockfile](https://github.com/WyriHaximus/Makefiles/pull/167) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
+- [Add several (possible) hidden files on upgrade](https://github.com/WyriHaximus/github-action-renovatebot/pull/32) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 week ago)
 - [Pin Rector to 2.2.1 as it causes trouble for icanhazstring/composer-unused](https://github.com/WyriHaximus/php-test-utilities/pull/1176) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [Remove all lines that contain @psalm-suppress](https://github.com/WyriHaximus/Makefiles/pull/165) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Remove all lines that contain @phpstan-ignore-next-line](https://github.com/WyriHaximus/Makefiles/pull/164) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
@@ -111,15 +111,15 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
-- [andrewrk/poop](https://github.com/andrewrk/poop) - Performance Optimizer Observation Platform (2 days ago)
+- [andrewrk/poop](https://github.com/andrewrk/poop) - Performance Optimizer Observation Platform (3 days ago)
 - [xLightsSequencer/xLights](https://github.com/xLightsSequencer/xLights) - xLights is a sequencer for Lights. xLights has usb and E1.31 drivers. You can create sequences in this object oriented program. You can create playlists, schedule them, test your hardware, convert between different sequencers.  (2 weeks ago)
 - [szado/reactphp-mailer](https://github.com/szado/reactphp-mailer) - A simple, asynchronous email sending library built on top of Symfony Mailer and ReactPHP. (2 weeks ago)
 - [koosoli/ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app. (1 month ago)
 - [runs-on/action](https://github.com/runs-on/action) - The official RunsOn action (1 month ago)
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (1 month ago)
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial) (1 month ago)
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 month ago)
-- [int128/wait-for-docker-image-action](https://github.com/int128/wait-for-docker-image-action) - Action to wait until Docker image is available at current Git revision (1 month ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (2 months ago)
+- [int128/wait-for-docker-image-action](https://github.com/int128/wait-for-docker-image-action) - Action to wait until Docker image is available at current Git revision (2 months ago)
 - [GuySie/random-things](https://github.com/GuySie/random-things) -  (2 months ago)
 - [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project (2 months ago)
 - [asgrim/arson](https://github.com/asgrim/arson) - Asgrim&#39;s Rust-based JSON viewer tool. (2 months ago)
@@ -129,7 +129,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [challgren](https://github.com/challgren) (9 months ago)
+- [challgren](https://github.com/challgren) (10 months ago)
 - [edorian](https://github.com/edorian) (2 years ago)
 - [codecov](https://github.com/codecov) (2 years ago)
 - [mangkepwing143](https://github.com/mangkepwing143) (3 years ago)
