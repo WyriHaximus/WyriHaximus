@@ -10,17 +10,17 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
+- [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (today)
+- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
+- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (2 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
 - [WyriHaximusNet/renovate](https://github.com/WyriHaximusNet/renovate) (3 days ago)
-- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (4 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
-- [MammatusPHP/helm-json-action](https://github.com/MammatusPHP/helm-json-action) (1 week ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 week ago)
 
@@ -76,7 +76,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 #### 🔭 Latest releases I've contributed to
 
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.6.2](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.6.2), today) - Wrapper around renovatebot/github-action
-- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) ([v1.16.1](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/releases/tag/v1.16.1), 4 days ago) - GitHub Action that gets the PHP versions in range from composer.json
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.8.1](https://github.com/WyriHaximus/Makefiles/releases/tag/0.8.1), 1 week ago) - Makefile building blocks
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([11.0.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/11.0.0), 1 week ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([11.0.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/11.0.0), 1 week ago) - 
@@ -88,11 +87,14 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) ([1.1.0](https://github.com/MammatusPHP/kubernetes-attributes/releases/tag/1.1.0), 1 month ago) - 
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) ([1.1.0](https://github.com/MammatusPHP/kubernetes-contracts/releases/tag/1.1.0), 1 month ago) - Contracts for Kubernetes related attributes
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.3.0](https://github.com/MammatusPHP/kubernetes/releases/tag/0.3.0), 1 month ago) - Kubernetes related tooling
+- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([3.0.1](https://github.com/MammatusPHP/kubernetes-events/releases/tag/3.0.1), 1 month ago) - 
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Switch to centralized Release Management workflow](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/73) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (today)
+- [Switch to centralized Release Management workflow](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/65) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (today)
 - [Use `ubuntu-slim` for small/setup tasks](https://github.com/WyriHaximus/github-workflows/pull/157) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [Bump PHP version to 8.5](https://github.com/WyriHaximus/github-workflows/pull/156) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [Add `|| true` so they fail gracefully](https://github.com/WyriHaximus/github-action-renovatebot/pull/34) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add Update lockfile](https://github.com/WyriHaximus/Makefiles/pull/167) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Add several (possible) hidden files on upgrade](https://github.com/WyriHaximus/github-action-renovatebot/pull/32) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 week ago)
 - [Pin Rector to 2.2.1 as it causes trouble for icanhazstring/composer-unused](https://github.com/WyriHaximus/php-test-utilities/pull/1176) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
-- [Remove all lines that contain @psalm-suppress](https://github.com/WyriHaximus/Makefiles/pull/165) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [Remove all lines that contain @phpstan-ignore-next-line](https://github.com/WyriHaximus/Makefiles/pull/164) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 
 ---
 
