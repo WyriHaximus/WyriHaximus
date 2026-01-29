@@ -111,6 +111,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud (today)
+- [hetznercloud/terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) - Terraform Hetzner Cloud provider (today)
 - [hcloud-talos/terraform-hcloud-talos](https://github.com/hcloud-talos/terraform-hcloud-talos) - This repository contains a Terraform module for creating a Kubernetes cluster with Talos in the Hetzner Cloud. (1 day ago)
 - [hetzner/cert-manager-webhook-hetzner](https://github.com/hetzner/cert-manager-webhook-hetzner) - cert-manager ACME webhook for Hetzner (1 day ago)
 - [hetzner/external-dns-hetzner-webhook](https://github.com/hetzner/external-dns-hetzner-webhook) - External DNS Webhook for Hetzner (1 day ago)
@@ -122,8 +124,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [runs-on/action](https://github.com/runs-on/action) - The official RunsOn action (1 month ago)
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (1 month ago)
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial) (1 month ago)
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (2 months ago)
-- [int128/wait-for-docker-image-action](https://github.com/int128/wait-for-docker-image-action) - Action to wait until Docker image is available at current Git revision (2 months ago)
 
 ---
 
