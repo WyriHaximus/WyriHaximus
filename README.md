@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
-- [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (1 day ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 day ago)
+- [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (1 day ago)
 - [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (2 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [repository-situations/github-action-with-x.y-and-x-tags-referring-to-x.y.z-tags-commit](https://github.com/repository-situations/github-action-with-x.y-and-x-tags-referring-to-x.y.z-tags-commit) (2 days ago)
-- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (2 days ago)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
+- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (2 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
 - [WyriHaximusNet/renovate](https://github.com/WyriHaximusNet/renovate) (5 days ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 
 ---
 
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([12.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/12.1.0), today) - 🌯 PHPStan rules wrapper
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.3.3](https://github.com/composer-unused/symbol-parser/releases/tag/0.3.3), today) - Toolkit to parse symbols from a composer package
 - [repository-situations/github-action-with-x.y-and-x-tags-referring-to-x.y.z-tags-commit](https://github.com/repository-situations/github-action-with-x.y-and-x-tags-referring-to-x.y.z-tags-commit) ([v1.0.1](https://github.com/repository-situations/github-action-with-x.y-and-x-tags-referring-to-x.y.z-tags-commit/releases/tag/v1.0.1), 2 days ago) - 
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.6.2](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.6.2), 2 days ago) - Wrapper around renovatebot/github-action
@@ -84,7 +85,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([4.0.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/4.0.0), 2 weeks ago) - PHP Coding Standard
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.26](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.26), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) ([v1.0.0](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/releases/tag/v1.0.0), 2 weeks ago) - 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([12.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/12.0.0), 3 weeks ago) - 🌯 PHPStan rules wrapper
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([keda-0.0.8](https://github.com/MammatusPHP/helm-charts/releases/tag/keda-0.0.8), 4 weeks ago) - 
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) ([1.1.0](https://github.com/MammatusPHP/kubernetes-attributes/releases/tag/1.1.0), 1 month ago) - 
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) ([1.1.0](https://github.com/MammatusPHP/kubernetes-contracts/releases/tag/1.1.0), 1 month ago) - Contracts for Kubernetes related attributes
@@ -93,6 +93,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Disable: ergebnis.noPhpstanIgnore](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/212) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
+- [Unpin RectorPHP](https://github.com/WyriHaximus/php-test-utilities/pull/1190) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [Mark composer-unused/symbol-parser versions before 0.3.3 as conflicting](https://github.com/WyriHaximus/php-test-utilities/pull/1189) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [Test Get Previous Tag against GitHub Action for expected order of tags](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/74) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (2 days ago)
 - [Switch to centralized Release Management workflow](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/73) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (2 days ago)
 - [Switch to centralized Release Management workflow](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/65) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (2 days ago)
@@ -103,9 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add `|| true` so they fail gracefully](https://github.com/WyriHaximus/github-action-renovatebot/pull/34) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (4 days ago)
 - [Revert &#34;.github/workflows: Migrate workflows to Blacksmith runners&#34;](https://github.com/WyriHaximusNet/docker-php/pull/361) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
 - [Update license year to 2026](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/63) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (6 days ago)
-- [Auto detect PHP version matrix](https://github.com/composer-unused/symbol-parser/pull/203) on [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) (6 days ago)
-- [[0.6.x] Moved mocked connection interface into MockConnectionInterface](https://github.com/jakubkulhan/bunny/pull/212) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (6 days ago)
-- [Fix Composer Unused Issue 717](https://github.com/composer-unused/symbol-parser/pull/202) on [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) (1 week ago)
 
 ---
 
