@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.3.2](https://github.com/composer-unused/symbol-parser/releases/tag/0.3.2), today) - Toolkit to parse symbols from a composer package
 - [repository-situations/github-action-with-x.y-and-x-tags-referring-to-x.y.z-tags-commit](https://github.com/repository-situations/github-action-with-x.y-and-x-tags-referring-to-x.y.z-tags-commit) ([v1.0.1](https://github.com/repository-situations/github-action-with-x.y-and-x-tags-referring-to-x.y.z-tags-commit/releases/tag/v1.0.1), 2 days ago) - 
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.6.2](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.6.2), 2 days ago) - Wrapper around renovatebot/github-action
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.8.1](https://github.com/WyriHaximus/Makefiles/releases/tag/0.8.1), 1 week ago) - Makefile building blocks
@@ -87,7 +88,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([keda-0.0.8](https://github.com/MammatusPHP/helm-charts/releases/tag/keda-0.0.8), 4 weeks ago) - 
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) ([1.1.0](https://github.com/MammatusPHP/kubernetes-attributes/releases/tag/1.1.0), 1 month ago) - 
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) ([1.1.0](https://github.com/MammatusPHP/kubernetes-contracts/releases/tag/1.1.0), 1 month ago) - Contracts for Kubernetes related attributes
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.3.0](https://github.com/MammatusPHP/kubernetes/releases/tag/0.3.0), 1 month ago) - Kubernetes related tooling
 
 ---
 
