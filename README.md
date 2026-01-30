@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add PHPStan services starting with ShipMonk DeadCode](https://github.com/WyriHaximus/php-broadcast/pull/335) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
 - [Bump to PHP8.4](https://github.com/MammatusPHP/kubernetes-contracts/pull/17) on [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (1 day ago)
 - [Rework public API](https://github.com/MammatusPHP/kubernetes-events/pull/51) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
 - [Disable: ergebnis.noPhpstanIgnore](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/212) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add reasoning for repo to README.md](https://github.com/repository-situations/github-action-with-x.y-and-x-tags-referring-to-x.y.z-tags-commit/pull/1) on [repository-situations/github-action-with-x.y-and-x-tags-referring-to-x.y.z-tags-commit](https://github.com/repository-situations/github-action-with-x.y-and-x-tags-referring-to-x.y.z-tags-commit) (3 days ago)
 - [Use `ubuntu-slim` for small/setup tasks](https://github.com/WyriHaximus/github-workflows/pull/157) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 - [Bump PHP version to 8.5](https://github.com/WyriHaximus/github-workflows/pull/156) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
-- [Add `|| true` so they fail gracefully](https://github.com/WyriHaximus/github-action-renovatebot/pull/34) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (5 days ago)
 
 ---
 
