@@ -111,6 +111,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [davepl/vector](https://github.com/davepl/vector) -  (today)
 - [DaveLiddament/phpstan-php-language-extensions](https://github.com/DaveLiddament/phpstan-php-language-extensions) - PHPStan extension for validating php-language-extensions (3 days ago)
 - [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud (4 days ago)
 - [hetznercloud/terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) - Terraform Hetzner Cloud provider (4 days ago)
@@ -123,7 +124,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [szado/reactphp-mailer](https://github.com/szado/reactphp-mailer) - A simple, asynchronous email sending library built on top of Symfony Mailer and ReactPHP. (3 weeks ago)
 - [koosoli/ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app. (1 month ago)
 - [runs-on/action](https://github.com/runs-on/action) - The official RunsOn action (1 month ago)
-- [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (1 month ago)
 
 ---
 
