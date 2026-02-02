@@ -75,7 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.11.0](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.11.0), today) - Wrapper around renovatebot/github-action
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.12.0](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.12.0), today) - Wrapper around renovatebot/github-action
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.6](https://github.com/composer-unused/composer-unused/releases/tag/0.9.6), 3 days ago) - Show unused composer dependencies by scanning your code
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([12.0.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/12.0.0), 4 days ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([12.0.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/12.0.0), 4 days ago) - 
