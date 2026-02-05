@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
-- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 day ago)
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (4 days ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (4 days ago)
-- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (5 days ago)
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (5 days ago)
-- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (5 days ago)
-- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (6 days ago)
+- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
+- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 days ago)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (2 days ago)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (3 days ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (5 days ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (5 days ago)
+- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (6 days ago)
+- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (6 days ago)
+- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (6 days ago)
+- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (1 week ago)
 
 ---
 
@@ -75,13 +75,13 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.8.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.8.3), today) - Makefile building blocks
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.14.0](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.14.0), 2 days ago) - Wrapper around renovatebot/github-action
-- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.6](https://github.com/composer-unused/composer-unused/releases/tag/0.9.6), 5 days ago) - Show unused composer dependencies by scanning your code
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([12.0.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/12.0.0), 6 days ago) - 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([12.0.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/12.0.0), 6 days ago) - 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([12.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/12.1.0), 6 days ago) - 🌯 PHPStan rules wrapper
-- [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.3.3](https://github.com/composer-unused/symbol-parser/releases/tag/0.3.3), 6 days ago) - Toolkit to parse symbols from a composer package
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.8.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.8.3), 1 day ago) - Makefile building blocks
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.14.0](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.14.0), 3 days ago) - Wrapper around renovatebot/github-action
+- [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.6](https://github.com/composer-unused/composer-unused/releases/tag/0.9.6), 6 days ago) - Show unused composer dependencies by scanning your code
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([12.0.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/12.0.0), 1 week ago) - 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([12.0.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/12.0.0), 1 week ago) - 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([12.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/12.1.0), 1 week ago) - 🌯 PHPStan rules wrapper
+- [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.3.3](https://github.com/composer-unused/symbol-parser/releases/tag/0.3.3), 1 week ago) - Toolkit to parse symbols from a composer package
 - [repository-situations/github-action-with-x.y-and-x-tags-referring-to-x.y.z-tags-commit](https://github.com/repository-situations/github-action-with-x.y-and-x-tags-referring-to-x.y.z-tags-commit) ([v1.0.1](https://github.com/repository-situations/github-action-with-x.y-and-x-tags-referring-to-x.y.z-tags-commit/releases/tag/v1.0.1), 1 week ago) - 
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([4.0.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/4.0.0), 3 weeks ago) - PHP Coding Standard
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.26](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.26), 3 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
@@ -93,35 +93,35 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Run on-install-or-update in a single docker container instead of each task in it&#39;s own](https://github.com/WyriHaximus/Makefiles/pull/174) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Reposes UID 1000](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/51) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
-- [Modify RENOVATE_POST_UPGRADE_TASKS file filters](https://github.com/WyriHaximus/github-action-renovatebot/pull/48) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
-- [Drop `|| true` from git add --all](https://github.com/WyriHaximus/github-action-renovatebot/pull/47) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
-- [Set RENOVATE_ALLOW_SHELL_EXECUTOR_FOR_POST_UPGRADE_COMMANDS to true](https://github.com/WyriHaximus/github-action-renovatebot/pull/46) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
-- [Refactor RENOVATE_ALLOWED_COMMANDS and POST_UPGRADE_TASKS](https://github.com/WyriHaximus/github-action-renovatebot/pull/45) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
-- [Remove rest of line for all lines that contain @phpstan-ignore-line](https://github.com/WyriHaximus/Makefiles/pull/173) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Composer require passed dependencies](https://github.com/WyriHaximus/Makefiles/pull/172) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Run tests with specified filter](https://github.com/WyriHaximus/Makefiles/pull/171) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Add all dotfiles to file filters](https://github.com/WyriHaximus/github-action-renovatebot/pull/44) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
-- [Expand file filters with **/*](https://github.com/WyriHaximus/github-action-renovatebot/pull/43) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
-- [Update to 2026](https://github.com/WyriHaximus/reactphp-simple-orm/pull/160) on [WyriHaximus/reactphp-simple-orm](https://github.com/WyriHaximus/reactphp-simple-orm) (2 days ago)
-- [Upgrade Renovate GitHub Action version](https://github.com/WyriHaximus/github-action-renovatebot/pull/41) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (3 days ago)
+- [Run on-install-or-update in a single docker container instead of each task in it&#39;s own](https://github.com/WyriHaximus/Makefiles/pull/174) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [Reposes UID 1000](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/51) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (2 days ago)
+- [Modify RENOVATE_POST_UPGRADE_TASKS file filters](https://github.com/WyriHaximus/github-action-renovatebot/pull/48) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (3 days ago)
+- [Drop `|| true` from git add --all](https://github.com/WyriHaximus/github-action-renovatebot/pull/47) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (3 days ago)
+- [Set RENOVATE_ALLOW_SHELL_EXECUTOR_FOR_POST_UPGRADE_COMMANDS to true](https://github.com/WyriHaximus/github-action-renovatebot/pull/46) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (3 days ago)
+- [Refactor RENOVATE_ALLOWED_COMMANDS and POST_UPGRADE_TASKS](https://github.com/WyriHaximus/github-action-renovatebot/pull/45) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (3 days ago)
+- [Remove rest of line for all lines that contain @phpstan-ignore-line](https://github.com/WyriHaximus/Makefiles/pull/173) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Composer require passed dependencies](https://github.com/WyriHaximus/Makefiles/pull/172) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Run tests with specified filter](https://github.com/WyriHaximus/Makefiles/pull/171) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Add all dotfiles to file filters](https://github.com/WyriHaximus/github-action-renovatebot/pull/44) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (3 days ago)
+- [Expand file filters with **/*](https://github.com/WyriHaximus/github-action-renovatebot/pull/43) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (3 days ago)
+- [Update to 2026](https://github.com/WyriHaximus/reactphp-simple-orm/pull/160) on [WyriHaximus/reactphp-simple-orm](https://github.com/WyriHaximus/reactphp-simple-orm) (3 days ago)
+- [Upgrade Renovate GitHub Action version](https://github.com/WyriHaximus/github-action-renovatebot/pull/41) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (4 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [Giorgio866/lumina-energy-card](https://github.com/Giorgio866/lumina-energy-card) - Ultra Modern 3D Home Assistant dashboard card for monitoring electricity. It includes house usage, Battery States. EV Charging and multiple solar arrays (today)
-- [davepl/vector](https://github.com/davepl/vector) -  (2 days ago)
-- [DaveLiddament/phpstan-php-language-extensions](https://github.com/DaveLiddament/phpstan-php-language-extensions) - PHPStan extension for validating php-language-extensions (5 days ago)
-- [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud (6 days ago)
-- [hetznercloud/terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) - Terraform Hetzner Cloud provider (6 days ago)
+- [Giorgio866/lumina-energy-card](https://github.com/Giorgio866/lumina-energy-card) - Ultra Modern 3D Home Assistant dashboard card for monitoring electricity. It includes house usage, Battery States. EV Charging and multiple solar arrays (1 day ago)
+- [davepl/vector](https://github.com/davepl/vector) -  (3 days ago)
+- [DaveLiddament/phpstan-php-language-extensions](https://github.com/DaveLiddament/phpstan-php-language-extensions) - PHPStan extension for validating php-language-extensions (6 days ago)
+- [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud (1 week ago)
+- [hetznercloud/terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) - Terraform Hetzner Cloud provider (1 week ago)
 - [hcloud-talos/terraform-hcloud-talos](https://github.com/hcloud-talos/terraform-hcloud-talos) - This repository contains a Terraform module for creating a Kubernetes cluster with Talos in the Hetzner Cloud. (1 week ago)
 - [hetzner/cert-manager-webhook-hetzner](https://github.com/hetzner/cert-manager-webhook-hetzner) - cert-manager ACME webhook for Hetzner (1 week ago)
 - [hetzner/external-dns-hetzner-webhook](https://github.com/hetzner/external-dns-hetzner-webhook) - External DNS Webhook for Hetzner (1 week ago)
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes (1 week ago)
 - [andrewrk/poop](https://github.com/andrewrk/poop) - Performance Optimizer Observation Platform (1 week ago)
-- [xLightsSequencer/xLights](https://github.com/xLightsSequencer/xLights) - xLights is a sequencer for Lights. xLights has usb and E1.31 drivers. You can create sequences in this object oriented program. You can create playlists, schedule them, test your hardware, convert between different sequencers.  (3 weeks ago)
+- [xLightsSequencer/xLights](https://github.com/xLightsSequencer/xLights) - xLights is a sequencer for Lights. xLights has usb and E1.31 drivers. You can create sequences in this object oriented program. You can create playlists, schedule them, test your hardware, convert between different sequencers.  (4 weeks ago)
 - [szado/reactphp-mailer](https://github.com/szado/reactphp-mailer) - A simple, asynchronous email sending library built on top of Symfony Mailer and ReactPHP. (4 weeks ago)
 - [koosoli/ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app. (1 month ago)
 
