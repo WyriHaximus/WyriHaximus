@@ -111,7 +111,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
-- [xez7082/spa-card](https://github.com/xez7082/spa-card) - Une carte Home Assistant inspirée du style Lumina Energy pour gérer votre spa. (1 day ago)
+- [xez7082/spa-card](https://github.com/xez7082/spa-card) - 🛁 Une carte Lovelace élégante et moderne pour piloter votre Spa ou Jacuzzi. Compatible avec le design Glassmorphism et les effets Néon. 🌊 (1 day ago)
 - [unwrntd/peek](https://github.com/unwrntd/peek) -  (2 days ago)
 - [cfinke/EpsteIn](https://github.com/cfinke/EpsteIn) - See which of your LinkedIn connections appear in the Epstein files. (2 days ago)
 - [Giorgio866/lumina-energy-card](https://github.com/Giorgio866/lumina-energy-card) - Ultra Modern 3D Home Assistant dashboard card for monitoring electricity. It includes house usage, Battery States. EV Charging and multiple solar arrays (3 days ago)
