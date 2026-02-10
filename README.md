@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (4 days ago)
-- [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (4 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
+- [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (4 days ago)
 - [repository-situations/project-with-monotonicly-increasing-integer-as-version](https://github.com/repository-situations/project-with-monotonicly-increasing-integer-as-version) (5 days ago)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (6 days ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 week ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 week ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
 
 ---
 
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.27](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.27), today) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.14.1](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.14.1), 1 day ago) - Wrapper around renovatebot/github-action
 - [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) ([v2.0.0](https://github.com/WyriHaximus/github-action-get-previous-tag/releases/tag/v2.0.0), 4 days ago) - Get the previous tag
 - [repository-situations/project-with-monotonicly-increasing-integer-as-version](https://github.com/repository-situations/project-with-monotonicly-increasing-integer-as-version) ([twee](https://github.com/repository-situations/project-with-monotonicly-increasing-integer-as-version/releases/tag/twee), 5 days ago) - Project with Monotonicly increasing Integer as Version
@@ -86,13 +87,13 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.3.3](https://github.com/composer-unused/symbol-parser/releases/tag/0.3.3), 1 week ago) - Toolkit to parse symbols from a composer package
 - [repository-situations/github-action-with-x.y-and-x-tags-referring-to-x.y.z-tags-commit](https://github.com/repository-situations/github-action-with-x.y-and-x-tags-referring-to-x.y.z-tags-commit) ([v1.0.1](https://github.com/repository-situations/github-action-with-x.y-and-x-tags-referring-to-x.y.z-tags-commit/releases/tag/v1.0.1), 2 weeks ago) - 
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([4.0.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/4.0.0), 3 weeks ago) - PHP Coding Standard
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.26](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.26), 4 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) ([v1.0.0](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms/releases/tag/v1.0.0), 4 weeks ago) - 
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [[New Version] Update versions file to PHP 8.5.3](https://github.com/WyriHaximus/php-fake-php-version/pull/178) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [Add SpringBoot](https://github.com/WyriHaximusNet/docker-redirect/pull/181) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (4 days ago)
 - [Upgrade to node24](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/78) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (4 days ago)
 - [Absolve `prefix` into `pattern`](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/77) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (5 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Set RENOVATE_ALLOW_SHELL_EXECUTOR_FOR_POST_UPGRADE_COMMANDS to true](https://github.com/WyriHaximus/github-action-renovatebot/pull/46) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 week ago)
 - [Refactor RENOVATE_ALLOWED_COMMANDS and POST_UPGRADE_TASKS](https://github.com/WyriHaximus/github-action-renovatebot/pull/45) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 week ago)
 - [Remove rest of line for all lines that contain @phpstan-ignore-line](https://github.com/WyriHaximus/Makefiles/pull/173) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [Composer require passed dependencies](https://github.com/WyriHaximus/Makefiles/pull/172) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 
 ---
 
