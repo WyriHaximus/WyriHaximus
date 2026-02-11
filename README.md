@@ -11,6 +11,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
@@ -19,7 +20,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (5 days ago)
 - [repository-situations/project-with-monotonicly-increasing-integer-as-version](https://github.com/repository-situations/project-with-monotonicly-increasing-integer-as-version) (6 days ago)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 week ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 week ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 week ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
@@ -75,11 +75,11 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.9.0](https://github.com/WyriHaximus/Makefiles/releases/tag/0.9.0), today) - Makefile building blocks
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.27](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.27), 1 day ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.14.1](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.14.1), 2 days ago) - Wrapper around renovatebot/github-action
 - [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) ([v2.0.0](https://github.com/WyriHaximus/github-action-get-previous-tag/releases/tag/v2.0.0), 5 days ago) - Get the previous tag
 - [repository-situations/project-with-monotonicly-increasing-integer-as-version](https://github.com/repository-situations/project-with-monotonicly-increasing-integer-as-version) ([twee](https://github.com/repository-situations/project-with-monotonicly-increasing-integer-as-version/releases/tag/twee), 6 days ago) - Project with Monotonicly increasing Integer as Version
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.8.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.8.3), 1 week ago) - Makefile building blocks
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.6](https://github.com/composer-unused/composer-unused/releases/tag/0.9.6), 1 week ago) - Show unused composer dependencies by scanning your code
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([12.0.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/12.0.0), 1 week ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([12.0.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/12.0.0), 1 week ago) - 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Split DOCKER_RUN into DOCKER_RUN and DOCKER_SHELL](https://github.com/WyriHaximus/Makefiles/pull/175) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Clean up untagged versions](https://github.com/WyriHaximusNet/docker-php/pull/362) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [[New Version] Update versions file to PHP 8.5.3](https://github.com/WyriHaximus/php-fake-php-version/pull/178) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
 - [Add SpringBoot](https://github.com/WyriHaximusNet/docker-redirect/pull/181) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (5 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Modify RENOVATE_POST_UPGRADE_TASKS file filters](https://github.com/WyriHaximus/github-action-renovatebot/pull/48) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 week ago)
 - [Drop `|| true` from git add --all](https://github.com/WyriHaximus/github-action-renovatebot/pull/47) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 week ago)
 - [Set RENOVATE_ALLOW_SHELL_EXECUTOR_FOR_POST_UPGRADE_COMMANDS to true](https://github.com/WyriHaximus/github-action-renovatebot/pull/46) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 week ago)
-- [Refactor RENOVATE_ALLOWED_COMMANDS and POST_UPGRADE_TASKS](https://github.com/WyriHaximus/github-action-renovatebot/pull/45) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 week ago)
 
 ---
 
