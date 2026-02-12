@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add initial PHPStan Extension hooks: ShipMonk Dead Code](https://github.com/MammatusPHP/cron/pull/117) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
+- [Add initial PHPStan Extension hooks: ShipMonk Dead Code](https://github.com/MammatusPHP/queue/pull/46) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [Split DOCKER_RUN into DOCKER_RUN and DOCKER_SHELL](https://github.com/WyriHaximus/Makefiles/pull/175) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Clean up untagged versions](https://github.com/WyriHaximusNet/docker-php/pull/362) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [[New Version] Update versions file to PHP 8.5.3](https://github.com/WyriHaximus/php-fake-php-version/pull/178) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Run on-install-or-update in a single docker container instead of each task in it&#39;s own](https://github.com/WyriHaximus/Makefiles/pull/174) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Reposes UID 1000](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/51) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 week ago)
 - [Modify RENOVATE_POST_UPGRADE_TASKS file filters](https://github.com/WyriHaximus/github-action-renovatebot/pull/48) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 week ago)
-- [Drop `|| true` from git add --all](https://github.com/WyriHaximus/github-action-renovatebot/pull/47) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 week ago)
-- [Set RENOVATE_ALLOW_SHELL_EXECUTOR_FOR_POST_UPGRADE_COMMANDS to true](https://github.com/WyriHaximus/github-action-renovatebot/pull/46) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 week ago)
 
 ---
 
