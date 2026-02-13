@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Update workflow name and fix YAML formatting](https://github.com/WyriHaximusNet/docker-php/pull/363) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Add initial PHPStan Extension hooks: ShipMonk Dead Code](https://github.com/MammatusPHP/cron/pull/117) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 day ago)
 - [Add initial PHPStan Extension hooks: ShipMonk Dead Code](https://github.com/MammatusPHP/queue/pull/46) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
 - [Split DOCKER_RUN into DOCKER_RUN and DOCKER_SHELL](https://github.com/WyriHaximus/Makefiles/pull/175) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Support tag pattern matching](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/75) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (1 week ago)
 - [Run on-install-or-update in a single docker container instead of each task in it&#39;s own](https://github.com/WyriHaximus/Makefiles/pull/174) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Reposes UID 1000](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/51) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 week ago)
-- [Modify RENOVATE_POST_UPGRADE_TASKS file filters](https://github.com/WyriHaximus/github-action-renovatebot/pull/48) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 week ago)
 
 ---
 
