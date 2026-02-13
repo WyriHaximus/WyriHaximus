@@ -10,16 +10,16 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (today)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 day ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 day ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (2 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (4 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (4 days ago)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 week ago)
 - [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (1 week ago)
@@ -75,9 +75,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.15.0](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.15.0), today) - Wrapper around renovatebot/github-action
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.9.0](https://github.com/WyriHaximus/Makefiles/releases/tag/0.9.0), 2 days ago) - Makefile building blocks
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.27](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.27), 3 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.14.1](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.14.1), 4 days ago) - Wrapper around renovatebot/github-action
 - [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) ([v2.0.0](https://github.com/WyriHaximus/github-action-get-previous-tag/releases/tag/v2.0.0), 1 week ago) - Get the previous tag
 - [repository-situations/project-with-monotonicly-increasing-integer-as-version](https://github.com/repository-situations/project-with-monotonicly-increasing-integer-as-version) ([twee](https://github.com/repository-situations/project-with-monotonicly-increasing-integer-as-version/releases/tag/twee), 1 week ago) - Project with Monotonicly increasing Integer as Version
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.6](https://github.com/composer-unused/composer-unused/releases/tag/0.9.6), 2 weeks ago) - Show unused composer dependencies by scanning your code
@@ -93,6 +93,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Revert &#34;Downgrade Renovate GitHub Action version to v43.0.20&#34;](https://github.com/MammatusPHP/renovate-runner/pull/35) on [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (today)
+- [Downgrade Renovate GitHub Action version to v43.0.20](https://github.com/MammatusPHP/renovate-runner/pull/34) on [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (today)
+- [Downgrade Renovate GitHub Action version to v43.0.20](https://github.com/WyriHaximus/github-action-renovatebot/pull/51) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
 - [Fix package owner casing in clean-up workflow](https://github.com/WyriHaximusNet/docker-php/pull/364) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Update workflow name and fix YAML formatting](https://github.com/WyriHaximusNet/docker-php/pull/363) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Add initial PHPStan Extension hooks: ShipMonk Dead Code](https://github.com/MammatusPHP/cron/pull/117) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 day ago)
@@ -103,9 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add SpringBoot](https://github.com/WyriHaximusNet/docker-redirect/pull/181) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (1 week ago)
 - [Upgrade to node24](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/78) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (1 week ago)
 - [Absolve `prefix` into `pattern`](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/77) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (1 week ago)
-- [Fix errors](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/76) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (1 week ago)
-- [Support tag pattern matching](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/75) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (1 week ago)
-- [Run on-install-or-update in a single docker container instead of each task in it&#39;s own](https://github.com/WyriHaximus/Makefiles/pull/174) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 
 ---
 
