@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Switch to generating most logic into AbstractListenerProvider so the rest becomes simpler](https://github.com/WyriHaximus/php-broadcast/pull/337) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
 - [Revert &#34;Downgrade Renovate GitHub Action version to v43.0.20&#34;](https://github.com/MammatusPHP/renovate-runner/pull/35) on [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (today)
 - [Downgrade Renovate GitHub Action version to v43.0.20](https://github.com/MammatusPHP/renovate-runner/pull/34) on [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (today)
 - [Downgrade Renovate GitHub Action version to v43.0.20](https://github.com/WyriHaximus/github-action-renovatebot/pull/51) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [[New Version] Update versions file to PHP 8.5.3](https://github.com/WyriHaximus/php-fake-php-version/pull/178) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
 - [Add SpringBoot](https://github.com/WyriHaximusNet/docker-redirect/pull/181) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (1 week ago)
 - [Upgrade to node24](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/78) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (1 week ago)
-- [Absolve `prefix` into `pattern`](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/77) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (1 week ago)
 
 ---
 
