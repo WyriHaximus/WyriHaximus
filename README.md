@@ -22,7 +22,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (5 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (6 days ago)
-- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 week ago)
+- [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (1 week ago)
 
 ---
 
