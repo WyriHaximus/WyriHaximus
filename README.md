@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Update wyrihaximus/broadcast to 2.6.0](https://github.com/MammatusPHP/app/pull/76) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
 - [Switch to generating most logic into AbstractListenerProvider so the rest becomes simpler](https://github.com/WyriHaximus/php-broadcast/pull/337) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (3 days ago)
 - [Revert &#34;Downgrade Renovate GitHub Action version to v43.0.20&#34;](https://github.com/MammatusPHP/renovate-runner/pull/35) on [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (3 days ago)
 - [Downgrade Renovate GitHub Action version to v43.0.20](https://github.com/MammatusPHP/renovate-runner/pull/34) on [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (3 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Clean up untagged versions](https://github.com/WyriHaximusNet/docker-php/pull/362) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
 - [[New Version] Update versions file to PHP 8.5.3](https://github.com/WyriHaximus/php-fake-php-version/pull/178) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (6 days ago)
 - [Add SpringBoot](https://github.com/WyriHaximusNet/docker-redirect/pull/181) on [WyriHaximusNet/docker-redirect](https://github.com/WyriHaximusNet/docker-redirect) (1 week ago)
-- [Upgrade to node24](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/78) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (1 week ago)
 
 ---
 
