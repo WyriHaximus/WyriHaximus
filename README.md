@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (4 days ago)
+- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (1 day ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (4 days ago)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (4 days ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (4 days ago)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (5 days ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
 
 ---
 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add PHPstan Deadcode Extension](https://github.com/MammatusPHP/groups/pull/23) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
 - [Support groupped consumers for addon sharing](https://github.com/MammatusPHP/queue/pull/49) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
 - [Fix dead code errors](https://github.com/MammatusPHP/app/pull/77) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 day ago)
 - [Only allow existing objects as events](https://github.com/WyriHaximus/php-broadcast/pull/338) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Update workflow name and fix YAML formatting](https://github.com/WyriHaximusNet/docker-php/pull/363) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
 - [Add initial PHPStan Extension hooks: ShipMonk Dead Code](https://github.com/MammatusPHP/cron/pull/117) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (5 days ago)
 - [Add initial PHPStan Extension hooks: ShipMonk Dead Code](https://github.com/MammatusPHP/queue/pull/46) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (5 days ago)
-- [Split DOCKER_RUN into DOCKER_RUN and DOCKER_SHELL](https://github.com/WyriHaximus/Makefiles/pull/175) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
 
 ---
 
