@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) ([0.2.0](https://github.com/MammatusPHP/queue-attributes/releases/tag/0.2.0), today) - 
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.1.4](https://github.com/MammatusPHP/groups/releases/tag/0.1.4), 3 days ago) - Group different components of you app into one process
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) ([2.6.1](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.6.1), 4 days ago) - PSR-14 Event Processing and Notification package
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.15.0](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.15.0), 1 week ago) - Wrapper around renovatebot/github-action
@@ -87,7 +88,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([12.0.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/12.0.0), 3 weeks ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([12.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/12.1.0), 3 weeks ago) - 🌯 PHPStan rules wrapper
 - [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.3.3](https://github.com/composer-unused/symbol-parser/releases/tag/0.3.3), 3 weeks ago) - Toolkit to parse symbols from a composer package
-- [repository-situations/github-action-with-x.y-and-x-tags-referring-to-x.y.z-tags-commit](https://github.com/repository-situations/github-action-with-x.y-and-x-tags-referring-to-x.y.z-tags-commit) ([v1.0.1](https://github.com/repository-situations/github-action-with-x.y-and-x-tags-referring-to-x.y.z-tags-commit/releases/tag/v1.0.1), 3 weeks ago) - 
 
 ---
 
