@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add Docker to dev image](https://github.com/WyriHaximusNet/docker-php/pull/366) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Add Terraform to dev image](https://github.com/WyriHaximusNet/docker-php/pull/365) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [Correct bug in code generation](https://github.com/MammatusPHP/cron/pull/121) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 day ago)
 - [Group consumers to share addons](https://github.com/MammatusPHP/queue-attributes/pull/29) on [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Switch to generating most logic into AbstractListenerProvider so the rest becomes simpler](https://github.com/WyriHaximus/php-broadcast/pull/337) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
 - [Revert &#34;Downgrade Renovate GitHub Action version to v43.0.20&#34;](https://github.com/MammatusPHP/renovate-runner/pull/35) on [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (1 week ago)
 - [Downgrade Renovate GitHub Action version to v43.0.20](https://github.com/MammatusPHP/renovate-runner/pull/34) on [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (1 week ago)
-- [Downgrade Renovate GitHub Action version to v43.0.20](https://github.com/WyriHaximus/github-action-renovatebot/pull/51) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 week ago)
 
 ---
 
