@@ -14,15 +14,15 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (1 day ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
-- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (2 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (2 days ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 days ago)
+- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (2 days ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (3 days ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (4 days ago)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (5 days ago)
-- [MammatusPHP/app](https://github.com/MammatusPHP/app) (6 days ago)
+- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (6 days ago)
 
 ---
 
