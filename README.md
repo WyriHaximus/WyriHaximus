@@ -10,15 +10,15 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (2 days ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (3 days ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (3 days ago)
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (3 days ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (4 days ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (5 days ago)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (6 days ago)
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Run unit and mutation testing with docker socket](https://github.com/WyriHaximus/Makefiles/pull/179) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Only use docker socket when we need it](https://github.com/WyriHaximus/Makefiles/pull/178) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Make docker socket available](https://github.com/WyriHaximus/Makefiles/pull/177) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Add Docker to dev image](https://github.com/WyriHaximusNet/docker-php/pull/366) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Fix dead code errors](https://github.com/MammatusPHP/app/pull/77) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 week ago)
 - [Only allow existing objects as events](https://github.com/WyriHaximus/php-broadcast/pull/338) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
 - [Update wyrihaximus/broadcast to 2.6.0](https://github.com/MammatusPHP/app/pull/76) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 week ago)
-- [Switch to generating most logic into AbstractListenerProvider so the rest becomes simpler](https://github.com/WyriHaximus/php-broadcast/pull/337) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
 
 ---
 
