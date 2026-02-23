@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Only use docker socket when we need it](https://github.com/WyriHaximus/Makefiles/pull/178) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Make docker socket available](https://github.com/WyriHaximus/Makefiles/pull/177) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Add Docker to dev image](https://github.com/WyriHaximusNet/docker-php/pull/366) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [Add Terraform to dev image](https://github.com/WyriHaximusNet/docker-php/pull/365) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 - [Correct bug in code generation](https://github.com/MammatusPHP/cron/pull/121) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 days ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Only allow existing objects as events](https://github.com/WyriHaximus/php-broadcast/pull/338) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
 - [Update wyrihaximus/broadcast to 2.6.0](https://github.com/MammatusPHP/app/pull/76) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 week ago)
 - [Switch to generating most logic into AbstractListenerProvider so the rest becomes simpler](https://github.com/WyriHaximus/php-broadcast/pull/337) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
-- [Revert &#34;Downgrade Renovate GitHub Action version to v43.0.20&#34;](https://github.com/MammatusPHP/renovate-runner/pull/35) on [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (1 week ago)
-- [Downgrade Renovate GitHub Action version to v43.0.20](https://github.com/MammatusPHP/renovate-runner/pull/34) on [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (1 week ago)
 
 ---
 
