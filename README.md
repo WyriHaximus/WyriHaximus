@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Switch to pre-generated decisions on composer install or update](https://github.com/WyriHaximus/Makefiles/pull/180) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Switch to using invokeTestMethod](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/pull/52) on [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (today)
 - [Run unit and mutation testing with docker socket](https://github.com/WyriHaximus/Makefiles/pull/179) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Only use docker socket when we need it](https://github.com/WyriHaximus/Makefiles/pull/178) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add PHPstan Deadcode Extension](https://github.com/MammatusPHP/groups/pull/23) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 week ago)
 - [Support groupped consumers for addon sharing](https://github.com/MammatusPHP/queue/pull/49) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 week ago)
 - [Fix dead code errors](https://github.com/MammatusPHP/app/pull/77) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 week ago)
-- [Only allow existing objects as events](https://github.com/WyriHaximus/php-broadcast/pull/338) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
 
 ---
 
