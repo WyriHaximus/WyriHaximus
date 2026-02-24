@@ -12,17 +12,17 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (today)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 - [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (3 days ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (4 days ago)
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (4 days ago)
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (4 days ago)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (4 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (5 days ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (6 days ago)
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 week ago)
 
 ---
 
