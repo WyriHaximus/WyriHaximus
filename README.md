@@ -13,14 +13,14 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (2 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
-- [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (5 days ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (5 days ago)
+- [friends-of-reactphp/mysql](https://github.com/friends-of-reactphp/mysql) (5 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (6 days ago)
 
@@ -75,7 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.10.0](https://github.com/WyriHaximus/Makefiles/releases/tag/0.10.0), 1 day ago) - Makefile building blocks
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.10.1](https://github.com/WyriHaximus/Makefiles/releases/tag/0.10.1), today) - Makefile building blocks
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) ([0.2.0](https://github.com/MammatusPHP/queue-attributes/releases/tag/0.2.0), 6 days ago) - 
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.1.4](https://github.com/MammatusPHP/groups/releases/tag/0.1.4), 1 week ago) - Group different components of you app into one process
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) ([2.6.1](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.6.1), 1 week ago) - PSR-14 Event Processing and Notification package
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [unit-testing-filter should also be ran with Docker socket when applicable](https://github.com/WyriHaximus/Makefiles/pull/182) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [expand requirements list beyond direct required packages and extensions](https://github.com/WyriHaximus/Makefiles/pull/181) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Switch to pre-generated decisions on composer install or update](https://github.com/WyriHaximus/Makefiles/pull/180) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Switch to using invokeTestMethod](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/pull/52) on [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Group consumers to share addons](https://github.com/MammatusPHP/queue-attributes/pull/29) on [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (6 days ago)
 - [[PHP][Infection] Drop echoing the logs when it fails](https://github.com/WyriHaximus/Makefiles/pull/176) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
 - [Add PHPstan Deadcode Extension](https://github.com/MammatusPHP/groups/pull/23) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 week ago)
-- [Support groupped consumers for addon sharing](https://github.com/MammatusPHP/queue/pull/49) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 week ago)
 
 ---
 
