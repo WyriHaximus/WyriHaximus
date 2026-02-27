@@ -12,17 +12,17 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (today)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (today)
+- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (today)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (today)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
+- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (today)
 
 ---
 
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) ([1.2.0](https://github.com/WyriHaximus/reactphp-awaitable-observable/releases/tag/1.2.0), today) - Make observables foreachable using async &amp; await
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([12.2.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/12.2.0), 1 day ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.10.2](https://github.com/WyriHaximus/Makefiles/releases/tag/0.10.2), 1 day ago) - Makefile building blocks
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) ([0.2.0](https://github.com/MammatusPHP/queue-attributes/releases/tag/0.2.0), 1 week ago) - 
@@ -87,12 +88,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.6](https://github.com/composer-unused/composer-unused/releases/tag/0.9.6), 4 weeks ago) - Show unused composer dependencies by scanning your code
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([12.0.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/12.0.0), 4 weeks ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([12.0.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/12.0.0), 4 weeks ago) - 
-- [composer-unused/symbol-parser](https://github.com/composer-unused/symbol-parser) ([0.3.3](https://github.com/composer-unused/symbol-parser/releases/tag/0.3.3), 4 weeks ago) - Toolkit to parse symbols from a composer package
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Add `wyrihaximus/react-event-loop-rx-scheduler-hook-up` for always having an Event Loop hooked up to the scheduler](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/79) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (today)
 - [Drop support for `react/promise` v2](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/78) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (today)
 - [Raise to PHP8.4&#43;](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/77) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (today)
 - [Awaiting observables should always have been lazy](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/76) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Run unit and mutation testing with docker socket](https://github.com/WyriHaximus/Makefiles/pull/179) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 - [Only use docker socket when we need it](https://github.com/WyriHaximus/Makefiles/pull/178) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 - [Make docker socket available](https://github.com/WyriHaximus/Makefiles/pull/177) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
-- [Add Docker to dev image](https://github.com/WyriHaximusNet/docker-php/pull/366) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
 
 ---
 
