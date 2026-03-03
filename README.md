@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (today)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
-- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (today)
-- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (today)
-- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (2 days ago)
-- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (3 days ago)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (3 days ago)
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (3 days ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
+- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (1 day ago)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
+- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (1 day ago)
+- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (1 day ago)
+- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (3 days ago)
+- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (4 days ago)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (4 days ago)
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (4 days ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (4 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
 
 ---
 
@@ -75,15 +75,15 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) ([1.0.1](https://github.com/WyriHaximus/reactphp-opportunistic-tls/releases/tag/1.0.1), 1 day ago) - 
-- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) ([1.2.1](https://github.com/WyriHaximus/reactphp-awaitable-observable/releases/tag/1.2.1), 2 days ago) - Make observables foreachable using async &amp; await
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([12.2.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/12.2.0), 4 days ago) - 🌯 PHPStan rules wrapper
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.10.2](https://github.com/WyriHaximus/Makefiles/releases/tag/0.10.2), 4 days ago) - Makefile building blocks
+- [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) ([1.0.1](https://github.com/WyriHaximus/reactphp-opportunistic-tls/releases/tag/1.0.1), 2 days ago) - 
+- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) ([1.2.1](https://github.com/WyriHaximus/reactphp-awaitable-observable/releases/tag/1.2.1), 3 days ago) - Make observables foreachable using async &amp; await
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([12.2.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/12.2.0), 5 days ago) - 🌯 PHPStan rules wrapper
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.10.2](https://github.com/WyriHaximus/Makefiles/releases/tag/0.10.2), 5 days ago) - Makefile building blocks
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) ([0.2.0](https://github.com/MammatusPHP/queue-attributes/releases/tag/0.2.0), 1 week ago) - 
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.1.4](https://github.com/MammatusPHP/groups/releases/tag/0.1.4), 1 week ago) - Group different components of you app into one process
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.1.4](https://github.com/MammatusPHP/groups/releases/tag/0.1.4), 2 weeks ago) - Group different components of you app into one process
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) ([2.6.1](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.6.1), 2 weeks ago) - PSR-14 Event Processing and Notification package
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.15.0](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.15.0), 2 weeks ago) - Wrapper around renovatebot/github-action
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.27](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.27), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.27](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.27), 3 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) ([v2.0.0](https://github.com/WyriHaximus/github-action-get-previous-tag/releases/tag/v2.0.0), 3 weeks ago) - Get the previous tag
 - [repository-situations/project-with-monotonicly-increasing-integer-as-version](https://github.com/repository-situations/project-with-monotonicly-increasing-integer-as-version) ([twee](https://github.com/repository-situations/project-with-monotonicly-increasing-integer-as-version/releases/tag/twee), 3 weeks ago) - Project with Monotonicly increasing Integer as Version
 - [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) ([0.9.6](https://github.com/composer-unused/composer-unused/releases/tag/0.9.6), 1 month ago) - Show unused composer dependencies by scanning your code
@@ -93,26 +93,26 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [PHP8.5 compat](https://github.com/WyriHaximus/reactphp-opportunistic-tls/pull/27) on [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) (1 day ago)
-- [Make sure we see all the warnings, deprecations, etc etc that will make `PHPunit` do a non-happy exit](https://github.com/WyriHaximus/Makefiles/pull/185) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Ensure valid will only ever return a bool](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/81) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (2 days ago)
-- [Add template type to valid Deferred](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/80) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (2 days ago)
-- [Add `wyrihaximus/react-event-loop-rx-scheduler-hook-up` for always having an Event Loop hooked up to the scheduler](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/79) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (3 days ago)
-- [Drop support for `react/promise` v2](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/78) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (3 days ago)
-- [Raise to PHP8.4&#43;](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/77) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (3 days ago)
-- [Awaiting observables should always have been lazy](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/76) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (3 days ago)
-- [Remove all lines that contain @internal](https://github.com/WyriHaximus/Makefiles/pull/184) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
-- [`make all` should run with Docker socket when appropriate](https://github.com/WyriHaximus/Makefiles/pull/183) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
-- [unit-testing-filter should also be ran with Docker socket when applicable](https://github.com/WyriHaximus/Makefiles/pull/182) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
-- [expand requirements list beyond direct required packages and extensions](https://github.com/WyriHaximus/Makefiles/pull/181) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
-- [Switch to pre-generated decisions on composer install or update](https://github.com/WyriHaximus/Makefiles/pull/180) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
+- [PHP8.5 compat](https://github.com/WyriHaximus/reactphp-opportunistic-tls/pull/27) on [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) (2 days ago)
+- [Make sure we see all the warnings, deprecations, etc etc that will make `PHPunit` do a non-happy exit](https://github.com/WyriHaximus/Makefiles/pull/185) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [Ensure valid will only ever return a bool](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/81) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (3 days ago)
+- [Add template type to valid Deferred](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/80) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (3 days ago)
+- [Add `wyrihaximus/react-event-loop-rx-scheduler-hook-up` for always having an Event Loop hooked up to the scheduler](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/79) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (4 days ago)
+- [Drop support for `react/promise` v2](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/78) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (4 days ago)
+- [Raise to PHP8.4&#43;](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/77) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (4 days ago)
+- [Awaiting observables should always have been lazy](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/76) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (4 days ago)
+- [Remove all lines that contain @internal](https://github.com/WyriHaximus/Makefiles/pull/184) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
+- [`make all` should run with Docker socket when appropriate](https://github.com/WyriHaximus/Makefiles/pull/183) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
+- [unit-testing-filter should also be ran with Docker socket when applicable](https://github.com/WyriHaximus/Makefiles/pull/182) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
+- [expand requirements list beyond direct required packages and extensions](https://github.com/WyriHaximus/Makefiles/pull/181) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
+- [Switch to pre-generated decisions on composer install or update](https://github.com/WyriHaximus/Makefiles/pull/180) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [frenck/home-assistant-doom](https://github.com/frenck/home-assistant-doom) - But... Can Home Assistant run DOOM? Yes it can! (1 day ago)
-- [patchlevel/rango](https://github.com/patchlevel/rango) - Rango is a high-performance PHP library that reimplements the MongoDB PHP API on top of PostgreSQL using the power of JSONB (4 days ago)
+- [frenck/home-assistant-doom](https://github.com/frenck/home-assistant-doom) - But... Can Home Assistant run DOOM? Yes it can! (2 days ago)
+- [patchlevel/rango](https://github.com/patchlevel/rango) - Rango is a high-performance PHP library that reimplements the MongoDB PHP API on top of PostgreSQL using the power of JSONB (5 days ago)
 - [allape/openkvm](https://github.com/allape/openkvm) - DIY KVM for remote-controlling a computer even in BIOS (1 week ago)
 - [xez7082/spa-card](https://github.com/xez7082/spa-card) - 🛁 Une carte Lovelace élégante et moderne pour piloter votre Spa ou Jacuzzi. Compatible avec le design Glassmorphism et les effets Néon. 🌊 (3 weeks ago)
 - [unwrntd/peek](https://github.com/unwrntd/peek) -  (3 weeks ago)
