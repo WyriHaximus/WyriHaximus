@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[0.6.x] Remove slipped in debug line](https://github.com/jakubkulhan/bunny/pull/213) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [Fix clearing directory errors when it doesn&#39;t exists](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/75) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
 - [PHP8.5 compat](https://github.com/WyriHaximus/reactphp-opportunistic-tls/pull/27) on [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) (1 week ago)
 - [Make sure we see all the warnings, deprecations, etc etc that will make `PHPunit` do a non-happy exit](https://github.com/WyriHaximus/Makefiles/pull/185) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Remove all lines that contain @internal](https://github.com/WyriHaximus/Makefiles/pull/184) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [`make all` should run with Docker socket when appropriate](https://github.com/WyriHaximus/Makefiles/pull/183) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [unit-testing-filter should also be ran with Docker socket when applicable](https://github.com/WyriHaximus/Makefiles/pull/182) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [expand requirements list beyond direct required packages and extensions](https://github.com/WyriHaximus/Makefiles/pull/181) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 
 ---
 
