@@ -111,6 +111,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  (today)
 - [frenck/home-assistant-doom](https://github.com/frenck/home-assistant-doom) - But... Can Home Assistant run DOOM? Yes it can! (1 week ago)
 - [patchlevel/rango](https://github.com/patchlevel/rango) - Rango is a high-performance PHP library that reimplements the MongoDB PHP API on top of PostgreSQL using the power of JSONB (1 week ago)
 - [allape/openkvm](https://github.com/allape/openkvm) - DIY KVM for remote-controlling a computer even in BIOS (2 weeks ago)
@@ -123,7 +124,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud (1 month ago)
 - [hetznercloud/terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) - Terraform Hetzner Cloud provider (1 month ago)
 - [hcloud-talos/terraform-hcloud-talos](https://github.com/hcloud-talos/terraform-hcloud-talos) - This repository contains a Terraform module for creating a Kubernetes cluster with Talos in the Hetzner Cloud. (1 month ago)
-- [hetzner/cert-manager-webhook-hetzner](https://github.com/hetzner/cert-manager-webhook-hetzner) - cert-manager ACME webhook for Hetzner (1 month ago)
 
 ---
 
