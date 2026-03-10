@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Resolve PHP 8.5 deprecation errors](https://github.com/ReactiveX/RxPHP/pull/226) on [ReactiveX/RxPHP](https://github.com/ReactiveX/RxPHP) (today)
+- [Fix PHP 8.5 deprecations](https://github.com/voryx/PgAsync/pull/57) on [voryx/PgAsync](https://github.com/voryx/PgAsync) (today)
 - [[0.6.x] Remove slipped in debug line](https://github.com/jakubkulhan/bunny/pull/213) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
 - [Fix clearing directory errors when it doesn&#39;t exists](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/75) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
 - [PHP8.5 compat](https://github.com/WyriHaximus/reactphp-opportunistic-tls/pull/27) on [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) (1 week ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Raise to PHP8.4&#43;](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/77) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (1 week ago)
 - [Awaiting observables should always have been lazy](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/76) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (1 week ago)
 - [Remove all lines that contain @internal](https://github.com/WyriHaximus/Makefiles/pull/184) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [`make all` should run with Docker socket when appropriate](https://github.com/WyriHaximus/Makefiles/pull/183) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [unit-testing-filter should also be ran with Docker socket when applicable](https://github.com/WyriHaximus/Makefiles/pull/182) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 
 ---
 
