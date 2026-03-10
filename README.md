@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[0.6.x] Add mock client and channel objects](https://github.com/jakubkulhan/bunny/pull/215) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [[0.6.x] Make connection take ClientInterface](https://github.com/jakubkulhan/bunny/pull/214) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [Introduce action that automates CI version matrix](https://github.com/ReactiveX/RxPHP/pull/227) on [ReactiveX/RxPHP](https://github.com/ReactiveX/RxPHP) (today)
 - [Resolve PHP 8.5 deprecation errors](https://github.com/ReactiveX/RxPHP/pull/226) on [ReactiveX/RxPHP](https://github.com/ReactiveX/RxPHP) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add template type to valid Deferred](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/80) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (1 week ago)
 - [Add `wyrihaximus/react-event-loop-rx-scheduler-hook-up` for always having an Event Loop hooked up to the scheduler](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/79) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (1 week ago)
 - [Drop support for `react/promise` v2](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/78) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (1 week ago)
-- [Raise to PHP8.4&#43;](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/77) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (1 week ago)
 
 ---
 
