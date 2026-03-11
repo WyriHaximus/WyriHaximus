@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [PHP8.5 compat - Part II](https://github.com/WyriHaximus/reactphp-opportunistic-tls/pull/28) on [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) (today)
 - [[New Version] Update versions file to PHP 8.5.4](https://github.com/WyriHaximus/php-fake-php-version/pull/180) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
 - [[0.6.x] Add mock client and channel objects](https://github.com/jakubkulhan/bunny/pull/215) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
 - [[0.6.x] Make connection take ClientInterface](https://github.com/jakubkulhan/bunny/pull/214) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Make sure we see all the warnings, deprecations, etc etc that will make `PHPunit` do a non-happy exit](https://github.com/WyriHaximus/Makefiles/pull/185) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Ensure valid will only ever return a bool](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/81) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (1 week ago)
 - [Add template type to valid Deferred](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/80) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (1 week ago)
-- [Add `wyrihaximus/react-event-loop-rx-scheduler-hook-up` for always having an Event Loop hooked up to the scheduler](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/79) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (1 week ago)
 
 ---
 
