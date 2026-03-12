@@ -111,7 +111,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
-- [BlkLeg/CircuitBreaker](https://github.com/BlkLeg/CircuitBreaker) - Self-hosted IPAM with a beautiful visual layout of your hardware and service in multiple topology options.  (2 days ago)
+- [BlkLeg/CircuitBreaker](https://github.com/BlkLeg/CircuitBreaker) - Bring your homelab to life. A self-hosted IPAM and service mapper that visualizes complex hardware, compute, and network relationships in real-time. (2 days ago)
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  (3 days ago)
 - [frenck/home-assistant-doom](https://github.com/frenck/home-assistant-doom) - But... Can Home Assistant run DOOM? Yes it can! (1 week ago)
 - [patchlevel/rango](https://github.com/patchlevel/rango) - Rango is a high-performance PHP library that reimplements the MongoDB PHP API on top of PostgreSQL using the power of JSONB (2 weeks ago)
