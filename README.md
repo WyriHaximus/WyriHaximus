@@ -111,6 +111,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [Nicxe/f1-sensor-live-data-card](https://github.com/Nicxe/f1-sensor-live-data-card) - Custom Lovelace card for the F1 Sensor integration in Home Assistant — live race data, tyre statistics, and more. (today)
 - [BlkLeg/CircuitBreaker](https://github.com/BlkLeg/CircuitBreaker) - Bring your homelab to life. A self-hosted IPAM and service mapper that visualizes complex hardware, compute, and network relationships in real-time. (6 days ago)
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  (1 week ago)
 - [frenck/home-assistant-doom](https://github.com/frenck/home-assistant-doom) - But... Can Home Assistant run DOOM? Yes it can! (2 weeks ago)
@@ -123,7 +124,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [davepl/vector](https://github.com/davepl/vector) -  (1 month ago)
 - [DaveLiddament/phpstan-php-language-extensions](https://github.com/DaveLiddament/phpstan-php-language-extensions) - PHPStan extension for validating php-language-extensions (1 month ago)
 - [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud (1 month ago)
-- [hetznercloud/terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) - Terraform Hetzner Cloud provider (1 month ago)
 
 ---
 
