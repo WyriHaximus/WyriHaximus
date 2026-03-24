@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (today)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
+- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (today)
+- [WyriHaximus/github-action-get-milestones](https://github.com/WyriHaximus/github-action-get-milestones) (today)
 - [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 day ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (6 days ago)
-- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (1 week ago)
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 week ago)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 week ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 week ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 week ago)
 
 ---
@@ -111,6 +111,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (today)
 - [Nicxe/f1-sensor-live-data-card](https://github.com/Nicxe/f1-sensor-live-data-card) - Custom Lovelace card for the F1 Sensor integration in Home Assistant — live race data, tyre statistics, and more. (1 week ago)
 - [BlkLeg/CircuitBreaker](https://github.com/BlkLeg/CircuitBreaker) - Bring your homelab to life. A self-hosted IPAM and service mapper that visualizes complex hardware, compute, and network relationships in real-time. (2 weeks ago)
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  (2 weeks ago)
@@ -123,7 +124,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Giorgio866/lumina-energy-card](https://github.com/Giorgio866/lumina-energy-card) - Ultra Modern 3D Home Assistant dashboard card for monitoring electricity. It includes house usage, Battery States. EV Charging and multiple solar arrays (1 month ago)
 - [davepl/vector](https://github.com/davepl/vector) -  (1 month ago)
 - [DaveLiddament/phpstan-php-language-extensions](https://github.com/DaveLiddament/phpstan-php-language-extensions) - PHPStan extension for validating php-language-extensions (1 month ago)
-- [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud (1 month ago)
 
 ---
 
