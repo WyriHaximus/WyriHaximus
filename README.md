@@ -10,17 +10,17 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
-- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (1 day ago)
-- [WyriHaximus/github-action-get-milestones](https://github.com/WyriHaximus/github-action-get-milestones) (2 days ago)
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (2 days ago)
-- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (2 days ago)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (3 days ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
+- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
+- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (2 days ago)
+- [WyriHaximus/github-action-get-milestones](https://github.com/WyriHaximus/github-action-get-milestones) (3 days ago)
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (3 days ago)
+- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (3 days ago)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (4 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (6 days ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 week ago)
 - [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (1 week ago)
 
@@ -75,7 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) ([v2.0.0](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/releases/tag/v2.0.0), 1 day ago) - GitHub Action that gets the PHP versions in range from composer.json
+- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) ([v2.0.0](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/releases/tag/v2.0.0), 2 days ago) - GitHub Action that gets the PHP versions in range from composer.json
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.10.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.10.3), 2 weeks ago) - Makefile building blocks
 - [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) ([1.0.2](https://github.com/WyriHaximus/reactphp-opportunistic-tls/releases/tag/1.0.2), 2 weeks ago) - 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.28](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.28), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
@@ -93,8 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Update Node version from 20 to 24](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/69) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (1 day ago)
-- [[0.6.x] Add simple wait for RabbitMQ build with Bunny](https://github.com/jakubkulhan/bunny/pull/216) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
+- [Update Node version from 20 to 24](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/69) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (2 days ago)
+- [[0.6.x] Add simple wait for RabbitMQ build with Bunny](https://github.com/jakubkulhan/bunny/pull/216) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 weeks ago)
 - [Mark *.db2 as binary](https://github.com/WyriHaximus/Makefiles/pull/186) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 weeks ago)
 - [PHP8.5 compat - Part II](https://github.com/WyriHaximus/reactphp-opportunistic-tls/pull/28) on [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) (2 weeks ago)
 - [[New Version] Update versions file to PHP 8.5.4](https://github.com/WyriHaximus/php-fake-php-version/pull/180) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 weeks ago)
@@ -111,8 +111,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
-- [aukedejong/lovelace-windrose-card](https://github.com/aukedejong/lovelace-windrose-card) - Home Assistant Lovelace Windrose Card (1 day ago)
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (2 days ago)
+- [aukedejong/lovelace-windrose-card](https://github.com/aukedejong/lovelace-windrose-card) - Home Assistant Lovelace Windrose Card (2 days ago)
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (3 days ago)
 - [Nicxe/f1-sensor-live-data-card](https://github.com/Nicxe/f1-sensor-live-data-card) - Custom Lovelace card for the F1 Sensor integration in Home Assistant — live race data, tyre statistics, and more. (1 week ago)
 - [BlkLeg/CircuitBreaker](https://github.com/BlkLeg/CircuitBreaker) - Bring your homelab to life. A self-hosted IPAM and service mapper that visualizes complex hardware, compute, and network relationships in real-time. (2 weeks ago)
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  (2 weeks ago)
@@ -129,7 +129,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [challgren](https://github.com/challgren) (11 months ago)
+- [challgren](https://github.com/challgren) (1 year ago)
 - [edorian](https://github.com/edorian) (2 years ago)
 - [codecov](https://github.com/codecov) (2 years ago)
 - [mangkepwing143](https://github.com/mangkepwing143) (3 years ago)
