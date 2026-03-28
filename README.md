@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Use platforms from `wyrihaximus/github-action-oci-image-supported-platforms` when setting up buildx](https://github.com/WyriHaximus/github-workflows/pull/188) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [[CI] make QA runs on configurable](https://github.com/WyriHaximus/github-workflows/pull/187) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Update Node version from 20 to 24](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/69) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (3 days ago)
 - [[0.6.x] Add simple wait for RabbitMQ build with Bunny](https://github.com/jakubkulhan/bunny/pull/216) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 weeks ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Resolve PHP 8.5 deprecation errors](https://github.com/ReactiveX/RxPHP/pull/226) on [ReactiveX/RxPHP](https://github.com/ReactiveX/RxPHP) (2 weeks ago)
 - [Fix PHP 8.5 deprecations](https://github.com/voryx/PgAsync/pull/57) on [voryx/PgAsync](https://github.com/voryx/PgAsync) (2 weeks ago)
 - [[0.6.x] Remove slipped in debug line](https://github.com/jakubkulhan/bunny/pull/213) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 weeks ago)
-- [Fix clearing directory errors when it doesn&#39;t exists](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/75) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 weeks ago)
 
 ---
 
