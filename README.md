@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Ensure lower case is done before retagging](https://github.com/WyriHaximus/github-workflows/pull/190) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Support spreading OCI build over multiple runners](https://github.com/WyriHaximus/github-workflows/pull/189) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Use platforms from `wyrihaximus/github-action-oci-image-supported-platforms` when setting up buildx](https://github.com/WyriHaximus/github-workflows/pull/188) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [[CI] make QA runs on configurable](https://github.com/WyriHaximus/github-workflows/pull/187) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [[0.6.x] Make connection take ClientInterface](https://github.com/jakubkulhan/bunny/pull/214) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 weeks ago)
 - [Introduce action that automates CI version matrix](https://github.com/ReactiveX/RxPHP/pull/227) on [ReactiveX/RxPHP](https://github.com/ReactiveX/RxPHP) (2 weeks ago)
 - [Resolve PHP 8.5 deprecation errors](https://github.com/ReactiveX/RxPHP/pull/226) on [ReactiveX/RxPHP](https://github.com/ReactiveX/RxPHP) (2 weeks ago)
-- [Fix PHP 8.5 deprecations](https://github.com/voryx/PgAsync/pull/57) on [voryx/PgAsync](https://github.com/voryx/PgAsync) (2 weeks ago)
 
 ---
 
