@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[0.6.x] Solve PHP 8.5 `chr` PHPStan out of bounds warning](https://github.com/jakubkulhan/bunny/pull/221) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [[0.6.x] Always clear heartbeat timer](https://github.com/jakubkulhan/bunny/pull/220) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
 - [Ensure lower case is done before retagging](https://github.com/WyriHaximus/github-workflows/pull/190) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [Support spreading OCI build over multiple runners](https://github.com/WyriHaximus/github-workflows/pull/189) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [[New Version] Update versions file to PHP 8.5.4](https://github.com/WyriHaximus/php-fake-php-version/pull/180) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 weeks ago)
 - [[0.6.x] Add mock client and channel objects](https://github.com/jakubkulhan/bunny/pull/215) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 weeks ago)
 - [[0.6.x] Make connection take ClientInterface](https://github.com/jakubkulhan/bunny/pull/214) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 weeks ago)
-- [Introduce action that automates CI version matrix](https://github.com/ReactiveX/RxPHP/pull/227) on [ReactiveX/RxPHP](https://github.com/ReactiveX/RxPHP) (3 weeks ago)
 
 ---
 
