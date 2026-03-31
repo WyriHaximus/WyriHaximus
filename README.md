@@ -111,6 +111,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [seblindfors/ConsolePort](https://github.com/seblindfors/ConsolePort) - ConsolePort - Game Controller Addon for World of Warcraft (today)
 - [aukedejong/lovelace-windrose-card](https://github.com/aukedejong/lovelace-windrose-card) - Home Assistant Lovelace Windrose Card (6 days ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 week ago)
 - [Nicxe/f1-sensor-live-data-card](https://github.com/Nicxe/f1-sensor-live-data-card) - Custom Lovelace card for the F1 Sensor integration in Home Assistant — live race data, tyre statistics, and more. (2 weeks ago)
@@ -123,7 +124,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [unwrntd/peek](https://github.com/unwrntd/peek) -  (1 month ago)
 - [cfinke/EpsteIn](https://github.com/cfinke/EpsteIn) - See which of your LinkedIn connections appear in the Epstein files. (1 month ago)
 - [Giorgio866/lumina-energy-card](https://github.com/Giorgio866/lumina-energy-card) - Ultra Modern 3D Home Assistant dashboard card for monitoring electricity. It includes house usage, Battery States. EV Charging and multiple solar arrays (1 month ago)
-- [davepl/vector](https://github.com/davepl/vector) -  (1 month ago)
 
 ---
 
