@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Drop intervention/image v3](https://github.com/WyriHaximus/php-tile-stitcher/pull/54) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (today)
 - [Disable MarkDown link checking for now](https://github.com/WyriHaximus/github-workflows/pull/193) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [[0.6.x] Add return type `int` ranges to Buffer::consume*int*/read*int* methods](https://github.com/jakubkulhan/bunny/pull/222) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
 - [[0.6.x] Solve PHP 8.5 `chr` PHPStan out of bounds warning](https://github.com/jakubkulhan/bunny/pull/221) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [[0.6.x] Add simple wait for RabbitMQ build with Bunny](https://github.com/jakubkulhan/bunny/pull/216) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 weeks ago)
 - [Mark *.db2 as binary](https://github.com/WyriHaximus/Makefiles/pull/186) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 weeks ago)
 - [PHP8.5 compat - Part II](https://github.com/WyriHaximus/reactphp-opportunistic-tls/pull/28) on [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) (3 weeks ago)
-- [[New Version] Update versions file to PHP 8.5.4](https://github.com/WyriHaximus/php-fake-php-version/pull/180) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 weeks ago)
 
 ---
 
