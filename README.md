@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (2 days ago)
-- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (2 days ago)
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (2 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (2 days ago)
-- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (2 days ago)
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (2 days ago)
 - [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (2 days ago)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (2 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (2 days ago)
+- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (2 days ago)
+- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (2 days ago)
+- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (2 days ago)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
 
 ---
 
@@ -75,12 +75,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.29](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.29), today) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([12.1.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/12.1.0), 3 days ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([12.1.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/12.1.0), 3 days ago) - 
 - [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) ([v2.0.0](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/releases/tag/v2.0.0), 1 week ago) - GitHub Action that gets the PHP versions in range from composer.json
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.10.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.10.3), 3 weeks ago) - Makefile building blocks
 - [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) ([1.0.2](https://github.com/WyriHaximus/reactphp-opportunistic-tls/releases/tag/1.0.2), 3 weeks ago) - 
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.28](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.28), 4 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.5.0](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.5.0), 1 month ago) - Tooling for creating generative Composer Plugins
 - [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) ([1.2.1](https://github.com/WyriHaximus/reactphp-awaitable-observable/releases/tag/1.2.1), 1 month ago) - Make observables foreachable using async &amp; await
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([12.2.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/12.2.0), 1 month ago) - 🌯 PHPStan rules wrapper
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[New Version] Update versions file to PHP 8.5.5](https://github.com/WyriHaximus/php-fake-php-version/pull/182) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [Drop intervention/image v3](https://github.com/WyriHaximus/php-tile-stitcher/pull/54) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (2 days ago)
 - [Disable MarkDown link checking for now](https://github.com/WyriHaximus/github-workflows/pull/193) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 - [[0.6.x] Add return type `int` ranges to Buffer::consume*int*/read*int* methods](https://github.com/jakubkulhan/bunny/pull/222) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Update Node version from 20 to 24](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/69) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (1 week ago)
 - [[0.6.x] Add simple wait for RabbitMQ build with Bunny](https://github.com/jakubkulhan/bunny/pull/216) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 weeks ago)
 - [Mark *.db2 as binary](https://github.com/WyriHaximus/Makefiles/pull/186) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 weeks ago)
-- [PHP8.5 compat - Part II](https://github.com/WyriHaximus/reactphp-opportunistic-tls/pull/28) on [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) (3 weeks ago)
 
 ---
 
