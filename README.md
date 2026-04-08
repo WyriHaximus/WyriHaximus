@@ -14,11 +14,11 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (3 days ago)
+- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (3 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (3 days ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (3 days ago)
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (3 days ago)
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (3 days ago)
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (3 days ago)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (3 days ago)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (3 days ago)
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) ([2.0.0](https://github.com/WyriHaximus/php-tile-stitcher/releases/tag/2.0.0), today) - 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.29](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.29), 1 day ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([12.1.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/12.1.0), 4 days ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([12.1.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/12.1.0), 4 days ago) - 
@@ -87,7 +88,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) ([0.2.0](https://github.com/MammatusPHP/queue-attributes/releases/tag/0.2.0), 1 month ago) - 
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.1.4](https://github.com/MammatusPHP/groups/releases/tag/0.1.4), 1 month ago) - Group different components of you app into one process
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) ([2.6.1](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.6.1), 1 month ago) - PSR-14 Event Processing and Notification package
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.15.0](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.15.0), 1 month ago) - Wrapper around renovatebot/github-action
 
 ---
 
