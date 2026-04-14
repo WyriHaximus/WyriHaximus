@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Update Trivy database scanning step names and commands](https://github.com/WyriHaximusNet/docker-php/pull/379) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Revert &#34;Update actions/cache action to v5.0.4&#34;](https://github.com/WyriHaximusNet/docker-php/pull/378) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Userland PHP way to track across fibers](https://github.com/MammatusPHP/open-telemetry/pull/32) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
 - [Ensure default InfectionPHP mutations are enabled](https://github.com/WyriHaximus/StaticMap/pull/129) on [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Ensure lower case is done before retagging](https://github.com/WyriHaximus/github-workflows/pull/190) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 weeks ago)
 - [Support spreading OCI build over multiple runners](https://github.com/WyriHaximus/github-workflows/pull/189) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 weeks ago)
 - [Use platforms from `wyrihaximus/github-action-oci-image-supported-platforms` when setting up buildx](https://github.com/WyriHaximus/github-workflows/pull/188) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 weeks ago)
-- [[CI] make QA runs on configurable](https://github.com/WyriHaximus/github-workflows/pull/187) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 weeks ago)
 
 ---
 
