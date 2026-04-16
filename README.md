@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
-- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (3 days ago)
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (3 days ago)
-- [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (3 days ago)
-- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (3 days ago)
-- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (3 days ago)
-- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (3 days ago)
-- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (3 days ago)
-- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (3 days ago)
-- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (3 days ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (3 days ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
+- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (4 days ago)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (4 days ago)
+- [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (4 days ago)
+- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (4 days ago)
+- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (4 days ago)
+- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (4 days ago)
+- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (4 days ago)
+- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (4 days ago)
+- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (4 days ago)
 
 ---
 
@@ -75,10 +75,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) ([1.3.0](https://github.com/WyriHaximus/php-metrics-tactician/releases/tag/1.3.0), 3 days ago) - Metrics middleware for Tactician
-- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) ([0.3.0](https://github.com/WyriHaximus/StaticMap/releases/tag/0.3.0), 3 days ago) - Static Google Maps clone in PHP
-- [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) ([3.2.0](https://github.com/WyriHaximus/TickingPromise/releases/tag/3.2.0), 3 days ago) - Wrapping ticks into a promise
-- [voryx/PgAsync](https://github.com/voryx/PgAsync) ([2.2.0](https://github.com/voryx/PgAsync/releases/tag/2.2.0), 5 days ago) - Asynchronous Reactive Postgres Library in Pure PHP
+- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) ([1.3.0](https://github.com/WyriHaximus/php-metrics-tactician/releases/tag/1.3.0), 4 days ago) - Metrics middleware for Tactician
+- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) ([0.3.0](https://github.com/WyriHaximus/StaticMap/releases/tag/0.3.0), 4 days ago) - Static Google Maps clone in PHP
+- [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) ([3.2.0](https://github.com/WyriHaximus/TickingPromise/releases/tag/3.2.0), 4 days ago) - Wrapping ticks into a promise
+- [voryx/PgAsync](https://github.com/voryx/PgAsync) ([2.2.0](https://github.com/voryx/PgAsync/releases/tag/2.2.0), 6 days ago) - Asynchronous Reactive Postgres Library in Pure PHP
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) ([2.0.0](https://github.com/WyriHaximus/php-tile-stitcher/releases/tag/2.0.0), 1 week ago) - 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.29](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.29), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([12.1.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/12.1.0), 1 week ago) - 
@@ -93,10 +93,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Update Trivy database scanning step names and commands](https://github.com/WyriHaximusNet/docker-php/pull/379) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
-- [Revert &#34;Update actions/cache action to v5.0.4&#34;](https://github.com/WyriHaximusNet/docker-php/pull/378) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
-- [Userland PHP way to track across fibers](https://github.com/MammatusPHP/open-telemetry/pull/32) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
-- [Ensure default InfectionPHP mutations are enabled](https://github.com/WyriHaximus/StaticMap/pull/129) on [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (2 days ago)
+- [Update Trivy database scanning step names and commands](https://github.com/WyriHaximusNet/docker-php/pull/379) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
+- [Revert &#34;Update actions/cache action to v5.0.4&#34;](https://github.com/WyriHaximusNet/docker-php/pull/378) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
+- [Userland PHP way to track across fibers](https://github.com/MammatusPHP/open-telemetry/pull/32) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (2 days ago)
+- [Ensure default InfectionPHP mutations are enabled](https://github.com/WyriHaximus/StaticMap/pull/129) on [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (3 days ago)
 - [[New Version] Update versions file to PHP 8.5.5](https://github.com/WyriHaximus/php-fake-php-version/pull/182) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [Drop intervention/image v3](https://github.com/WyriHaximus/php-tile-stitcher/pull/54) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 week ago)
 - [Disable MarkDown link checking for now](https://github.com/WyriHaximus/github-workflows/pull/193) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
