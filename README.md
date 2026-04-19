@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (today)
+- [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (today)
+- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (today)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (today)
+- [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (today)
+- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (1 day ago)
+- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (today)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 day ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
-- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (1 day ago)
-- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (1 day ago)
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
-- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (1 day ago)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
-- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 day ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 
 ---
 
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([12.2.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/12.2.0), today) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([12.2.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/12.2.0), today) - 
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.10.4](https://github.com/WyriHaximus/Makefiles/releases/tag/0.10.4), 1 day ago) - Makefile building blocks
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.6.0](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.6.0), 2 days ago) - Tooling for creating generative Composer Plugins
@@ -84,7 +85,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [voryx/PgAsync](https://github.com/voryx/PgAsync) ([2.2.0](https://github.com/voryx/PgAsync/releases/tag/2.2.0), 1 week ago) - Asynchronous Reactive Postgres Library in Pure PHP
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) ([2.0.0](https://github.com/WyriHaximus/php-tile-stitcher/releases/tag/2.0.0), 1 week ago) - 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.29](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.29), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([12.1.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/12.1.0), 2 weeks ago) - 
 - [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) ([v2.0.0](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/releases/tag/v2.0.0), 3 weeks ago) - GitHub Action that gets the PHP versions in range from composer.json
 - [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) ([1.0.2](https://github.com/WyriHaximus/reactphp-opportunistic-tls/releases/tag/1.0.2), 1 month ago) - 
 - [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) ([1.2.1](https://github.com/WyriHaximus/reactphp-awaitable-observable/releases/tag/1.2.1), 1 month ago) - Make observables foreachable using async &amp; await
