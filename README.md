@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (1 day ago)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 day ago)
-- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 day ago)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (1 day ago)
 - [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (1 day ago)
-- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (1 day ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
 - [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (1 day ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
+- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 day ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 
 ---
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t prefix classmap items for root package](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/83) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [Set ulimit to 1m when calling Docker run](https://github.com/WyriHaximus/Makefiles/pull/190) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Add filter to require a specific package](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/80) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
 - [Update Trivy database scanning step names and commands](https://github.com/WyriHaximusNet/docker-php/pull/379) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [[0.6.x] Add return type `int` ranges to Buffer::consume*int*/read*int* methods](https://github.com/jakubkulhan/bunny/pull/222) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 weeks ago)
 - [[0.6.x] Solve PHP 8.5 `chr` PHPStan out of bounds warning](https://github.com/jakubkulhan/bunny/pull/221) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 weeks ago)
 - [[0.6.x] Always clear heartbeat timer](https://github.com/jakubkulhan/bunny/pull/220) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 weeks ago)
-- [Ensure lower case is done before retagging](https://github.com/WyriHaximus/github-workflows/pull/190) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 weeks ago)
 
 ---
 
