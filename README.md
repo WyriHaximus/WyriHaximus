@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (today)
 - [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (today)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (today)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (today)
 - [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (1 day ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (1 day ago)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 day ago)
 - [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (1 day ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (1 day ago)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 
 ---
@@ -94,7 +94,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 #### 🔨 My recent Pull Requests
 
 - [Add Chromium for link checking](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/54) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
-- [Improve performance](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/87) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
+- [Improve performance by introducing two more singletons to keep state across plugins](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/87) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [Don&#39;t bother to autoload if it doesn&#39;t contain a namespace separator](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/86) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
 - [Introduce Failed Reflections Store Singleton](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/84) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
 - [Don&#39;t prefix classmap items for root package](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/83) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
