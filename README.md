@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (today)
-- [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (today)
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
-- [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (today)
-- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (today)
-- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (today)
-- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (today)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
-- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (today)
-- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (1 day ago)
+- [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (1 day ago)
+- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
+- [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (1 day ago)
+- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (1 day ago)
+- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (1 day ago)
+- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (1 day ago)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
+- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 day ago)
+- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (2 days ago)
 
 ---
 
@@ -75,10 +75,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([12.2.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/12.2.0), today) - 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([12.2.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/12.2.0), today) - 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.10.4](https://github.com/WyriHaximus/Makefiles/releases/tag/0.10.4), 1 day ago) - Makefile building blocks
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.6.0](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.6.0), 2 days ago) - Tooling for creating generative Composer Plugins
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([12.2.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/12.2.0), 1 day ago) - 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([12.2.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/12.2.0), 1 day ago) - 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.10.4](https://github.com/WyriHaximus/Makefiles/releases/tag/0.10.4), 2 days ago) - Makefile building blocks
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.6.0](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.6.0), 3 days ago) - Tooling for creating generative Composer Plugins
 - [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) ([1.3.0](https://github.com/WyriHaximus/php-metrics-tactician/releases/tag/1.3.0), 1 week ago) - Metrics middleware for Tactician
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) ([0.3.0](https://github.com/WyriHaximus/StaticMap/releases/tag/0.3.0), 1 week ago) - Static Google Maps clone in PHP
 - [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) ([3.2.0](https://github.com/WyriHaximus/TickingPromise/releases/tag/3.2.0), 1 week ago) - Wrapping ticks into a promise
@@ -93,15 +93,15 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Don&#39;t bother to autoload if it doesn&#39;t contain a namespace separator](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/86) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
-- [Introduce Failed Reflections Store Singleton](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/84) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
-- [Don&#39;t prefix classmap items for root package](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/83) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
-- [Set ulimit to 1m when calling Docker run](https://github.com/WyriHaximus/Makefiles/pull/190) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Add filter to require a specific package](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/80) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
-- [Update Trivy database scanning step names and commands](https://github.com/WyriHaximusNet/docker-php/pull/379) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
-- [Revert &#34;Update actions/cache action to v5.0.4&#34;](https://github.com/WyriHaximusNet/docker-php/pull/378) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
-- [Userland PHP way to track across fibers](https://github.com/MammatusPHP/open-telemetry/pull/32) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (5 days ago)
-- [Ensure default InfectionPHP mutations are enabled](https://github.com/WyriHaximus/StaticMap/pull/129) on [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (6 days ago)
+- [Don&#39;t bother to autoload if it doesn&#39;t contain a namespace separator](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/86) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
+- [Introduce Failed Reflections Store Singleton](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/84) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
+- [Don&#39;t prefix classmap items for root package](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/83) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
+- [Set ulimit to 1m when calling Docker run](https://github.com/WyriHaximus/Makefiles/pull/190) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [Add filter to require a specific package](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/80) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
+- [Update Trivy database scanning step names and commands](https://github.com/WyriHaximusNet/docker-php/pull/379) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (6 days ago)
+- [Revert &#34;Update actions/cache action to v5.0.4&#34;](https://github.com/WyriHaximusNet/docker-php/pull/378) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (6 days ago)
+- [Userland PHP way to track across fibers](https://github.com/MammatusPHP/open-telemetry/pull/32) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (6 days ago)
+- [Ensure default InfectionPHP mutations are enabled](https://github.com/WyriHaximus/StaticMap/pull/129) on [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 week ago)
 - [[New Version] Update versions file to PHP 8.5.5](https://github.com/WyriHaximus/php-fake-php-version/pull/182) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [Drop intervention/image v3](https://github.com/WyriHaximus/php-tile-stitcher/pull/54) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (2 weeks ago)
 - [Disable MarkDown link checking for now](https://github.com/WyriHaximus/github-workflows/pull/193) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 weeks ago)
@@ -111,7 +111,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
-- [PhiTux/DailyTxT](https://github.com/PhiTux/DailyTxT) - Encrypted Diary Web-App (3 days ago)
+- [PhiTux/DailyTxT](https://github.com/PhiTux/DailyTxT) - Encrypted Diary Web-App (4 days ago)
 - [OpenDisplay/Home_Assistant_Integration](https://github.com/OpenDisplay/Home_Assistant_Integration) - Home Assistant Integration for OpenDisplay (1 week ago)
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser (1 week ago)
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives. (2 weeks ago)
