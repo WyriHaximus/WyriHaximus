@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Improve performance](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/87) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [Don&#39;t bother to autoload if it doesn&#39;t contain a namespace separator](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/86) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
 - [Introduce Failed Reflections Store Singleton](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/84) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
 - [Don&#39;t prefix classmap items for root package](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/83) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [[New Version] Update versions file to PHP 8.5.5](https://github.com/WyriHaximus/php-fake-php-version/pull/182) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 week ago)
 - [Drop intervention/image v3](https://github.com/WyriHaximus/php-tile-stitcher/pull/54) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (2 weeks ago)
 - [Disable MarkDown link checking for now](https://github.com/WyriHaximus/github-workflows/pull/193) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 weeks ago)
-- [[0.6.x] Add return type `int` ranges to Buffer::consume*int*/read*int* methods](https://github.com/jakubkulhan/bunny/pull/222) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 weeks ago)
 
 ---
 
