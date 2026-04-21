@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Update generative-composer-plugin-tooling to use the new helpers](https://github.com/WyriHaximus/php-broadcast/pull/347) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
 - [Add Chromium for link checking](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/54) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
 - [Improve performance by introducing two more singletons to keep state across plugins](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/87) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
 - [Don&#39;t bother to autoload if it doesn&#39;t contain a namespace separator](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/86) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Userland PHP way to track across fibers](https://github.com/MammatusPHP/open-telemetry/pull/32) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 week ago)
 - [Ensure default InfectionPHP mutations are enabled](https://github.com/WyriHaximus/StaticMap/pull/129) on [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 week ago)
 - [[New Version] Update versions file to PHP 8.5.5](https://github.com/WyriHaximus/php-fake-php-version/pull/182) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 weeks ago)
-- [Drop intervention/image v3](https://github.com/WyriHaximus/php-tile-stitcher/pull/54) on [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (2 weeks ago)
 
 ---
 
