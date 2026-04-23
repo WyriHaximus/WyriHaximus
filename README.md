@@ -13,16 +13,16 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (2 days ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (3 days ago)
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (2 days ago)
 - [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (3 days ago)
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (3 days ago)
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (3 days ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
+- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (4 days ago)
+- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (4 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (4 days ago)
-- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (4 days ago)
-- [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (4 days ago)
+- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (4 days ago)
 
 ---
 
