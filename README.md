@@ -10,6 +10,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (2 days ago)
@@ -19,7 +20,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (3 days ago)
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (3 days ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
-- [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (4 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (4 days ago)
 - [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (4 days ago)
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (4 days ago)
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.15](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.15), today) - 
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([12.2.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/12.2.0), 4 days ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([12.2.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/12.2.0), 4 days ago) - 
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.10.4](https://github.com/WyriHaximus/Makefiles/releases/tag/0.10.4), 5 days ago) - Makefile building blocks
@@ -87,12 +88,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.29](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.29), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) ([v2.0.0](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/releases/tag/v2.0.0), 4 weeks ago) - GitHub Action that gets the PHP versions in range from composer.json
 - [WyriHaximus/reactphp-opportunistic-tls](https://github.com/WyriHaximus/reactphp-opportunistic-tls) ([1.0.2](https://github.com/WyriHaximus/reactphp-opportunistic-tls/releases/tag/1.0.2), 1 month ago) - 
-- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) ([1.2.1](https://github.com/WyriHaximus/reactphp-awaitable-observable/releases/tag/1.2.1), 1 month ago) - Make observables foreachable using async &amp; await
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [[mammatus] Add timezone to CronJobs](https://github.com/MammatusPHP/helm-charts/pull/37) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
 - [[WIP][3.x] Drop passing the event loop around](https://github.com/reactphp/socket/pull/333) on [reactphp/socket](https://github.com/reactphp/socket) (today)
 - [[WIP][3.x] Add native types](https://github.com/reactphp/socket/pull/332) on [reactphp/socket](https://github.com/reactphp/socket) (today)
 - [Update readme to use contracts package instead of `composer.json` extra](https://github.com/WyriHaximus/php-broadcast/pull/349) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Don&#39;t prefix classmap items for root package](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/83) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (4 days ago)
 - [Set ulimit to 1m when calling Docker run](https://github.com/WyriHaximus/Makefiles/pull/190) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 - [Add filter to require a specific package](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/80) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (6 days ago)
-- [Update Trivy database scanning step names and commands](https://github.com/WyriHaximusNet/docker-php/pull/379) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 
 ---
 
