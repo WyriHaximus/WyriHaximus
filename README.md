@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[WIP][3.x] Add native types](https://github.com/reactphp/socket/pull/332) on [reactphp/socket](https://github.com/reactphp/socket) (today)
 - [Update readme to use contracts package instead of `composer.json` extra](https://github.com/WyriHaximus/php-broadcast/pull/349) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
 - [Correct package we want as requirement](https://github.com/WyriHaximus/php-broadcast/pull/348) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
 - [Update generative-composer-plugin-tooling to use the new helpers](https://github.com/WyriHaximus/php-broadcast/pull/347) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add filter to require a specific package](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/80) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (6 days ago)
 - [Update Trivy database scanning step names and commands](https://github.com/WyriHaximusNet/docker-php/pull/379) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [Revert &#34;Update actions/cache action to v5.0.4&#34;](https://github.com/WyriHaximusNet/docker-php/pull/378) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
-- [Userland PHP way to track across fibers](https://github.com/MammatusPHP/open-telemetry/pull/32) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 week ago)
 
 ---
 
