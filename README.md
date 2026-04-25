@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (4 days ago)
+- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (5 days ago)
 - [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (5 days ago)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (5 days ago)
-- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (5 days ago)
-- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (6 days ago)
-- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (6 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (6 days ago)
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (6 days ago)
+- [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (6 days ago)
+- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (6 days ago)
 
 ---
 
@@ -93,19 +93,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[1.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/promise-timer/pull/73) on [reactphp/promise-timer](https://github.com/reactphp/promise-timer) (today)
+- [[1.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/promise-stream/pull/43) on [reactphp/promise-stream](https://github.com/reactphp/promise-stream) (today)
+- [[3.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/promise/pull/275) on [reactphp/promise](https://github.com/reactphp/promise) (today)
+- [[3.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/stream/pull/187) on [reactphp/stream](https://github.com/reactphp/stream) (today)
+- [[3.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/http/pull/550) on [reactphp/http](https://github.com/reactphp/http) (today)
+- [[3.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/cache/pull/67) on [reactphp/cache](https://github.com/reactphp/cache) (today)
+- [[3.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/dns/pull/247) on [reactphp/dns](https://github.com/reactphp/dns) (today)
+- [[1.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/datagram/pull/61) on [reactphp/datagram](https://github.com/reactphp/datagram) (today)
+- [[3.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/socket/pull/334) on [reactphp/socket](https://github.com/reactphp/socket) (today)
 - [[3.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/event-loop/pull/284) on [reactphp/event-loop](https://github.com/reactphp/event-loop) (1 day ago)
 - [[1.x] Support PSR-7 v2 along side v1](https://github.com/reactphp/http/pull/549) on [reactphp/http](https://github.com/reactphp/http) (1 day ago)
 - [[mammatus] Correct default timezone](https://github.com/MammatusPHP/helm-charts/pull/38) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
 - [[mammatus] Add timezone to CronJobs](https://github.com/MammatusPHP/helm-charts/pull/37) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
-- [[WIP][3.x] Drop passing the event loop around](https://github.com/reactphp/socket/pull/333) on [reactphp/socket](https://github.com/reactphp/socket) (2 days ago)
-- [[WIP][3.x] Add native types](https://github.com/reactphp/socket/pull/332) on [reactphp/socket](https://github.com/reactphp/socket) (2 days ago)
-- [Update readme to use contracts package instead of `composer.json` extra](https://github.com/WyriHaximus/php-broadcast/pull/349) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (4 days ago)
-- [Correct package we want as requirement](https://github.com/WyriHaximus/php-broadcast/pull/348) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (4 days ago)
-- [Update generative-composer-plugin-tooling to use the new helpers](https://github.com/WyriHaximus/php-broadcast/pull/347) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (4 days ago)
-- [Add Chromium for link checking](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/54) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (5 days ago)
-- [Improve performance by introducing two more singletons to keep state across plugins](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/87) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (5 days ago)
-- [Don&#39;t bother to autoload if it doesn&#39;t contain a namespace separator](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/86) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (6 days ago)
-- [Introduce Failed Reflections Store Singleton](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/84) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (6 days ago)
 
 ---
 
