@@ -10,10 +10,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
