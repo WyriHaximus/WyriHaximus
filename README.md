@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.2.0](https://github.com/MammatusPHP/groups/releases/tag/0.2.0), today) - Group different components of you app into one process
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) ([2.7.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.7.0), 3 days ago) - PSR-14 Event Processing and Notification package
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([13.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/13.0.0), 3 days ago) - 🌯 PHPStan rules wrapper
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.16](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.16), 4 days ago) - 
@@ -87,7 +88,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) ([3.2.0](https://github.com/WyriHaximus/TickingPromise/releases/tag/3.2.0), 2 weeks ago) - Wrapping ticks into a promise
 - [voryx/PgAsync](https://github.com/voryx/PgAsync) ([2.2.0](https://github.com/voryx/PgAsync/releases/tag/2.2.0), 2 weeks ago) - Asynchronous Reactive Postgres Library in Pure PHP
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) ([2.0.0](https://github.com/WyriHaximus/php-tile-stitcher/releases/tag/2.0.0), 2 weeks ago) - 
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.29](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.29), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 
 ---
 
