@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 day ago)
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 day ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (3 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (4 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (6 days ago)
 - [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (1 week ago)
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 week ago)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 week ago)
 - [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (1 week ago)
-- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (1 week ago)
 
 ---
 
@@ -93,6 +93,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Move generated code out of generated](https://github.com/MammatusPHP/groups/pull/38) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
+- [Add cs-fix-debug for when we need to debug it](https://github.com/WyriHaximus/Makefiles/pull/193) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Make `cs-fix` fail into make `cs` so we see what we must fix](https://github.com/WyriHaximus/Makefiles/pull/192) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [[1.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/promise-timer/pull/73) on [reactphp/promise-timer](https://github.com/reactphp/promise-timer) (2 days ago)
 - [[1.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/promise-stream/pull/43) on [reactphp/promise-stream](https://github.com/reactphp/promise-stream) (2 days ago)
 - [[3.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/promise/pull/275) on [reactphp/promise](https://github.com/reactphp/promise) (2 days ago)
@@ -103,9 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [[1.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/datagram/pull/61) on [reactphp/datagram](https://github.com/reactphp/datagram) (2 days ago)
 - [[3.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/socket/pull/334) on [reactphp/socket](https://github.com/reactphp/socket) (2 days ago)
 - [[3.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/event-loop/pull/284) on [reactphp/event-loop](https://github.com/reactphp/event-loop) (3 days ago)
-- [[1.x] Support PSR-7 v2 along side v1](https://github.com/reactphp/http/pull/549) on [reactphp/http](https://github.com/reactphp/http) (3 days ago)
-- [[mammatus] Correct default timezone](https://github.com/MammatusPHP/helm-charts/pull/38) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (4 days ago)
-- [[mammatus] Add timezone to CronJobs](https://github.com/MammatusPHP/helm-charts/pull/37) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (4 days ago)
 
 ---
 
