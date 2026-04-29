@@ -10,25 +10,25 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
-- [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 day ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (1 day ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (4 days ago)
-- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (5 days ago)
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 day ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 day ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
+- [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 day ago)
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (2 days ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (2 days ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (5 days ago)
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (6 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 week ago)
 
 ---
 
 ### 📜 My latest articles on [WyriHaximus.net](https://blog.wyrihaximus.net/)
 
-- [Unlock Composer Plugins by Self Hosting Renovate](https://blog.wyrihaximus.net/2025/10/unlock-composer-plugins-by-self-hosting-renovate/) (6 months ago)
+- [Unlock Composer Plugins by Self Hosting Renovate](https://blog.wyrihaximus.net/2025/10/unlock-composer-plugins-by-self-hosting-renovate/) (7 months ago)
 - [ReactPHP Parallel v2(.1)](https://blog.wyrihaximus.net/2025/06/reactphp-parallel-v2-/) (11 months ago)
 - [Announcing TestInfra Action](https://blog.wyrihaximus.net/2025/03/announcing-testinfra-action/) (1 year ago)
 - [Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Enclosure](https://blog.wyrihaximus.net/2024/12/building-a-kubernetes-homelab-with-raspberry-pies-and-lego-nodes-enclosure/) (1 year ago)
@@ -75,10 +75,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.2.0](https://github.com/MammatusPHP/groups/releases/tag/0.2.0), 1 day ago) - Group different components of you app into one process
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) ([2.7.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.7.0), 4 days ago) - PSR-14 Event Processing and Notification package
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([13.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/13.0.0), 4 days ago) - 🌯 PHPStan rules wrapper
-- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.16](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.16), 5 days ago) - 
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.2.0](https://github.com/MammatusPHP/groups/releases/tag/0.2.0), 2 days ago) - Group different components of you app into one process
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) ([2.7.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.7.0), 5 days ago) - PSR-14 Event Processing and Notification package
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([13.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/13.0.0), 5 days ago) - 🌯 PHPStan rules wrapper
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.16](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.16), 6 days ago) - 
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([12.2.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/12.2.0), 1 week ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([12.2.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/12.2.0), 1 week ago) - 
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.10.4](https://github.com/WyriHaximus/Makefiles/releases/tag/0.10.4), 1 week ago) - Makefile building blocks
@@ -87,40 +87,40 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) ([0.3.0](https://github.com/WyriHaximus/StaticMap/releases/tag/0.3.0), 2 weeks ago) - Static Google Maps clone in PHP
 - [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) ([3.2.0](https://github.com/WyriHaximus/TickingPromise/releases/tag/3.2.0), 2 weeks ago) - Wrapping ticks into a promise
 - [voryx/PgAsync](https://github.com/voryx/PgAsync) ([2.2.0](https://github.com/voryx/PgAsync/releases/tag/2.2.0), 2 weeks ago) - Asynchronous Reactive Postgres Library in Pure PHP
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) ([2.0.0](https://github.com/WyriHaximus/php-tile-stitcher/releases/tag/2.0.0), 2 weeks ago) - 
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) ([2.0.0](https://github.com/WyriHaximus/php-tile-stitcher/releases/tag/2.0.0), 3 weeks ago) - 
 
 ---
 
 #### 🔨 My recent Pull Requests
 
-- [Move generated code out of generated](https://github.com/MammatusPHP/cron/pull/129) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 day ago)
-- [Move generated code out of generated](https://github.com/MammatusPHP/queue/pull/56) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
-- [Move generated code out of generated](https://github.com/MammatusPHP/groups/pull/38) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 day ago)
-- [Add cs-fix-debug for when we need to debug it](https://github.com/WyriHaximus/Makefiles/pull/193) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Make `cs-fix` fail into make `cs` so we see what we must fix](https://github.com/WyriHaximus/Makefiles/pull/192) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [[1.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/promise-timer/pull/73) on [reactphp/promise-timer](https://github.com/reactphp/promise-timer) (3 days ago)
-- [[1.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/promise-stream/pull/43) on [reactphp/promise-stream](https://github.com/reactphp/promise-stream) (3 days ago)
-- [[3.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/promise/pull/275) on [reactphp/promise](https://github.com/reactphp/promise) (3 days ago)
-- [[3.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/stream/pull/187) on [reactphp/stream](https://github.com/reactphp/stream) (3 days ago)
-- [[3.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/http/pull/550) on [reactphp/http](https://github.com/reactphp/http) (3 days ago)
-- [[3.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/cache/pull/67) on [reactphp/cache](https://github.com/reactphp/cache) (3 days ago)
-- [[3.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/dns/pull/247) on [reactphp/dns](https://github.com/reactphp/dns) (3 days ago)
-- [[1.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/datagram/pull/61) on [reactphp/datagram](https://github.com/reactphp/datagram) (3 days ago)
+- [Move generated code out of generated](https://github.com/MammatusPHP/cron/pull/129) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 days ago)
+- [Move generated code out of generated](https://github.com/MammatusPHP/queue/pull/56) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
+- [Move generated code out of generated](https://github.com/MammatusPHP/groups/pull/38) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (2 days ago)
+- [Add cs-fix-debug for when we need to debug it](https://github.com/WyriHaximus/Makefiles/pull/193) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [Make `cs-fix` fail into make `cs` so we see what we must fix](https://github.com/WyriHaximus/Makefiles/pull/192) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [[1.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/promise-timer/pull/73) on [reactphp/promise-timer](https://github.com/reactphp/promise-timer) (4 days ago)
+- [[1.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/promise-stream/pull/43) on [reactphp/promise-stream](https://github.com/reactphp/promise-stream) (4 days ago)
+- [[3.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/promise/pull/275) on [reactphp/promise](https://github.com/reactphp/promise) (4 days ago)
+- [[3.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/stream/pull/187) on [reactphp/stream](https://github.com/reactphp/stream) (4 days ago)
+- [[3.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/http/pull/550) on [reactphp/http](https://github.com/reactphp/http) (4 days ago)
+- [[3.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/cache/pull/67) on [reactphp/cache](https://github.com/reactphp/cache) (4 days ago)
+- [[3.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/dns/pull/247) on [reactphp/dns](https://github.com/reactphp/dns) (4 days ago)
+- [[1.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/datagram/pull/61) on [reactphp/datagram](https://github.com/reactphp/datagram) (4 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [likeablob/cydintosh](https://github.com/likeablob/cydintosh) - Cydintosh: Little 68k Brother is watching your Smart Home 👀 (today)
-- [adizanni/hydrao](https://github.com/adizanni/hydrao) - Home Assistant Custom Integration for Hydrao shower head (1 day ago)
-- [indifferentbroccoli/windrose-server-docker](https://github.com/indifferentbroccoli/windrose-server-docker) - This is a Dockerized version of the Windrose dedicated server. (3 days ago)
-- [spaze/security-txt](https://github.com/spaze/security-txt) - security.txt (RFC 9116) generator, parser, validator (4 days ago)
+- [likeablob/cydintosh](https://github.com/likeablob/cydintosh) - Cydintosh: Little 68k Brother is watching your Smart Home 👀 (1 day ago)
+- [adizanni/hydrao](https://github.com/adizanni/hydrao) - Home Assistant Custom Integration for Hydrao shower head (2 days ago)
+- [indifferentbroccoli/windrose-server-docker](https://github.com/indifferentbroccoli/windrose-server-docker) - This is a Dockerized version of the Windrose dedicated server. (4 days ago)
+- [spaze/security-txt](https://github.com/spaze/security-txt) - security.txt (RFC 9116) generator, parser, validator (5 days ago)
 - [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway) - The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible. (1 week ago)
 - [UmbrellaDocs/action-linkspector](https://github.com/UmbrellaDocs/action-linkspector) - Uncover broken links in your content using Linkspector GitHub action. (1 week ago)
 - [PhiTux/DailyTxT](https://github.com/PhiTux/DailyTxT) - Encrypted Diary Web-App (1 week ago)
-- [OpenDisplay/Home_Assistant_Integration](https://github.com/OpenDisplay/Home_Assistant_Integration) - Home Assistant Integration for OpenDisplay (2 weeks ago)
+- [OpenDisplay/Home_Assistant_Integration](https://github.com/OpenDisplay/Home_Assistant_Integration) - Home Assistant Integration for OpenDisplay (3 weeks ago)
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser (3 weeks ago)
-- [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives. (3 weeks ago)
+- [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives. (4 weeks ago)
 - [seblindfors/ConsolePort](https://github.com/seblindfors/ConsolePort) - ConsolePort - Game Controller Addon for World of Warcraft (4 weeks ago)
 - [aukedejong/lovelace-windrose-card](https://github.com/aukedejong/lovelace-windrose-card) - Home Assistant Lovelace Windrose Card (1 month ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 month ago)
