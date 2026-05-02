@@ -75,7 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.10.5](https://github.com/WyriHaximus/Makefiles/releases/tag/0.10.5), today) - Makefile building blocks
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.10.6](https://github.com/WyriHaximus/Makefiles/releases/tag/0.10.6), today) - Makefile building blocks
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.2.0](https://github.com/MammatusPHP/groups/releases/tag/0.2.0), 5 days ago) - Group different components of you app into one process
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) ([2.7.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.7.0), 1 week ago) - PSR-14 Event Processing and Notification package
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([13.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/13.0.0), 1 week ago) - 🌯 PHPStan rules wrapper
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Drop double quotes for OTEL_PHP_FIBERS_ENABLED](https://github.com/WyriHaximus/Makefiles/pull/195) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Set OTEL_PHP_FIBERS_ENABLED to false when on ZTS](https://github.com/WyriHaximus/Makefiles/pull/194) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Move generated code out of generated](https://github.com/MammatusPHP/cron/pull/129) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (5 days ago)
 - [Move generated code out of generated](https://github.com/MammatusPHP/queue/pull/56) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (5 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [[3.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/stream/pull/187) on [reactphp/stream](https://github.com/reactphp/stream) (1 week ago)
 - [[3.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/http/pull/550) on [reactphp/http](https://github.com/reactphp/http) (1 week ago)
 - [[3.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/cache/pull/67) on [reactphp/cache](https://github.com/reactphp/cache) (1 week ago)
-- [[3.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/dns/pull/247) on [reactphp/dns](https://github.com/reactphp/dns) (1 week ago)
 
 ---
 
