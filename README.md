@@ -11,13 +11,13 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (today)
-- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (today)
+- [reactphp-parallel/renovate-runner](https://github.com/reactphp-parallel/renovate-runner) (today)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (today)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
+- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (today)
 - [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (today)
-- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 day ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
+- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (1 day ago)
+- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (1 day ago)
 - [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (1 day ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([6.0.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/6.0.0), today) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.10.6](https://github.com/WyriHaximus/Makefiles/releases/tag/0.10.6), 1 day ago) - Makefile building blocks
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.2.0](https://github.com/MammatusPHP/groups/releases/tag/0.2.0), 6 days ago) - Group different components of you app into one process
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) ([2.7.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.7.0), 1 week ago) - PSR-14 Event Processing and Notification package
@@ -87,7 +88,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) ([0.3.0](https://github.com/WyriHaximus/StaticMap/releases/tag/0.3.0), 3 weeks ago) - Static Google Maps clone in PHP
 - [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) ([3.2.0](https://github.com/WyriHaximus/TickingPromise/releases/tag/3.2.0), 3 weeks ago) - Wrapping ticks into a promise
 - [voryx/PgAsync](https://github.com/voryx/PgAsync) ([2.2.0](https://github.com/voryx/PgAsync/releases/tag/2.2.0), 3 weeks ago) - Asynchronous Reactive Postgres Library in Pure PHP
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) ([2.0.0](https://github.com/WyriHaximus/php-tile-stitcher/releases/tag/2.0.0), 3 weeks ago) - 
 
 ---
 
