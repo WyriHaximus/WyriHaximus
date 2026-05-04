@@ -14,15 +14,15 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [reactphp-parallel/renovate-runner](https://github.com/reactphp-parallel/renovate-runner) (today)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (today)
 - [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (today)
-- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (today)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
-- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (1 day ago)
-- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (1 day ago)
-- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (1 day ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
+- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 day ago)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 day ago)
+- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (2 days ago)
+- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (2 days ago)
+- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (2 days ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
 
 ---
 
@@ -75,9 +75,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([6.0.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/6.0.0), today) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.10.6](https://github.com/WyriHaximus/Makefiles/releases/tag/0.10.6), 1 day ago) - Makefile building blocks
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.2.0](https://github.com/MammatusPHP/groups/releases/tag/0.2.0), 6 days ago) - Group different components of you app into one process
+- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([6.0.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/6.0.0), 1 day ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.10.6](https://github.com/WyriHaximus/Makefiles/releases/tag/0.10.6), 2 days ago) - Makefile building blocks
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.2.0](https://github.com/MammatusPHP/groups/releases/tag/0.2.0), 1 week ago) - Group different components of you app into one process
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) ([2.7.0](https://github.com/WyriHaximus/php-broadcast/releases/tag/2.7.0), 1 week ago) - PSR-14 Event Processing and Notification package
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([13.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/13.0.0), 1 week ago) - 🌯 PHPStan rules wrapper
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.16](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.16), 1 week ago) - 
@@ -93,14 +93,14 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Clean upo generation move leftovers](https://github.com/MammatusPHP/cron/pull/131) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 day ago)
-- [Drop double quotes for OTEL_PHP_FIBERS_ENABLED](https://github.com/WyriHaximus/Makefiles/pull/195) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Set OTEL_PHP_FIBERS_ENABLED to false when on ZTS](https://github.com/WyriHaximus/Makefiles/pull/194) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Move generated code out of generated](https://github.com/MammatusPHP/cron/pull/129) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (6 days ago)
-- [Move generated code out of generated](https://github.com/MammatusPHP/queue/pull/56) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (6 days ago)
-- [Move generated code out of generated](https://github.com/MammatusPHP/groups/pull/38) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (6 days ago)
-- [Add cs-fix-debug for when we need to debug it](https://github.com/WyriHaximus/Makefiles/pull/193) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
-- [Make `cs-fix` fail into make `cs` so we see what we must fix](https://github.com/WyriHaximus/Makefiles/pull/192) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
+- [Clean upo generation move leftovers](https://github.com/MammatusPHP/cron/pull/131) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 days ago)
+- [Drop double quotes for OTEL_PHP_FIBERS_ENABLED](https://github.com/WyriHaximus/Makefiles/pull/195) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [Set OTEL_PHP_FIBERS_ENABLED to false when on ZTS](https://github.com/WyriHaximus/Makefiles/pull/194) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [Move generated code out of generated](https://github.com/MammatusPHP/cron/pull/129) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 week ago)
+- [Move generated code out of generated](https://github.com/MammatusPHP/queue/pull/56) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 week ago)
+- [Move generated code out of generated](https://github.com/MammatusPHP/groups/pull/38) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 week ago)
+- [Add cs-fix-debug for when we need to debug it](https://github.com/WyriHaximus/Makefiles/pull/193) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
+- [Make `cs-fix` fail into make `cs` so we see what we must fix](https://github.com/WyriHaximus/Makefiles/pull/192) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [[1.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/promise-timer/pull/73) on [reactphp/promise-timer](https://github.com/reactphp/promise-timer) (1 week ago)
 - [[1.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/promise-stream/pull/43) on [reactphp/promise-stream](https://github.com/reactphp/promise-stream) (1 week ago)
 - [[3.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/promise/pull/275) on [reactphp/promise](https://github.com/reactphp/promise) (1 week ago)
@@ -111,12 +111,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
-- [likeablob/cydintosh](https://github.com/likeablob/cydintosh) - Cydintosh: Little 68k Brother is watching your Smart Home 👀 (5 days ago)
-- [adizanni/hydrao](https://github.com/adizanni/hydrao) - Home Assistant Custom Integration for Hydrao shower head (6 days ago)
+- [likeablob/cydintosh](https://github.com/likeablob/cydintosh) - Cydintosh: Little 68k Brother is watching your Smart Home 👀 (6 days ago)
+- [adizanni/hydrao](https://github.com/adizanni/hydrao) - Home Assistant Custom Integration for Hydrao shower head (1 week ago)
 - [indifferentbroccoli/windrose-server-docker](https://github.com/indifferentbroccoli/windrose-server-docker) - This is a Dockerized version of the Windrose dedicated server. (1 week ago)
 - [spaze/security-txt](https://github.com/spaze/security-txt) - security.txt (RFC 9116) generator, parser, validator (1 week ago)
-- [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway) - The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible. (1 week ago)
-- [UmbrellaDocs/action-linkspector](https://github.com/UmbrellaDocs/action-linkspector) - Uncover broken links in your content using Linkspector GitHub action. (1 week ago)
+- [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway) - The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible. (2 weeks ago)
+- [UmbrellaDocs/action-linkspector](https://github.com/UmbrellaDocs/action-linkspector) - Uncover broken links in your content using Linkspector GitHub action. (2 weeks ago)
 - [PhiTux/DailyTxT](https://github.com/PhiTux/DailyTxT) - Encrypted Diary Web-App (2 weeks ago)
 - [OpenDisplay/Home_Assistant_Integration](https://github.com/OpenDisplay/Home_Assistant_Integration) - Home Assistant Integration for OpenDisplay (3 weeks ago)
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser (3 weeks ago)
