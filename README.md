@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
-- [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (today)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (1 day ago)
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
-- [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) (1 day ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (1 day ago)
+- [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (today)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (1 day ago)
+- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (1 day ago)
+- [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (1 day ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (1 day ago)
 - [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (1 day ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
 
 ---
 
@@ -111,6 +111,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [coderforlife/lego-lcd](https://github.com/coderforlife/lego-lcd) - Giant 3D Printed Lego with LCD Clock using a Raspberry Pi (today)
 - [likeablob/cydintosh](https://github.com/likeablob/cydintosh) - Cydintosh: Little 68k Brother is watching your Smart Home 👀 (1 week ago)
 - [adizanni/hydrao](https://github.com/adizanni/hydrao) - Home Assistant Custom Integration for Hydrao shower head (1 week ago)
 - [indifferentbroccoli/windrose-server-docker](https://github.com/indifferentbroccoli/windrose-server-docker) - This is a Dockerized version of the Windrose dedicated server. (1 week ago)
@@ -123,7 +124,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives. (1 month ago)
 - [seblindfors/ConsolePort](https://github.com/seblindfors/ConsolePort) - ConsolePort - Game Controller Addon for World of Warcraft (1 month ago)
 - [aukedejong/lovelace-windrose-card](https://github.com/aukedejong/lovelace-windrose-card) - Home Assistant Lovelace Windrose Card (1 month ago)
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 month ago)
 
 ---
 
