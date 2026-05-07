@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (today)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (today)
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (1 day ago)
 - [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (1 day ago)
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (1 day ago)
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
 - [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) (1 day ago)
-- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (1 day ago)
-- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (1 day ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
+- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (1 day ago)
+- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (1 day ago)
+- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (1 day ago)
+- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (1 day ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
-- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (3 days ago)
 
 ---
 
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.7.0](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.7.0), today) - Tooling for creating generative Composer Plugins
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([4.0.0](https://github.com/MammatusPHP/kubernetes-events/releases/tag/4.0.0), today) - 
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.3.1](https://github.com/MammatusPHP/kubernetes/releases/tag/0.3.1), 1 day ago) - Kubernetes related tooling
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.30](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.30), 2 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
@@ -86,13 +87,14 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.16](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.16), 2 weeks ago) - 
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([12.2.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/12.2.0), 2 weeks ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([12.2.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/12.2.0), 2 weeks ago) - 
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.6.0](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.6.0), 2 weeks ago) - Tooling for creating generative Composer Plugins
 - [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) ([1.3.0](https://github.com/WyriHaximus/php-metrics-tactician/releases/tag/1.3.0), 3 weeks ago) - Metrics middleware for Tactician
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Use new OnlyIfItExists Remove methods](https://github.com/MammatusPHP/cron/pull/133) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
+- [Add onlyIfItExists variants to Remove](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/90) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [[New Version] Update versions file to PHP 8.5.6](https://github.com/WyriHaximus/php-fake-php-version/pull/184) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
 - [Clean upo generation move leftovers](https://github.com/MammatusPHP/cron/pull/131) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (5 days ago)
 - [Drop double quotes for OTEL_PHP_FIBERS_ENABLED](https://github.com/WyriHaximus/Makefiles/pull/195) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Make `cs-fix` fail into make `cs` so we see what we must fix](https://github.com/WyriHaximus/Makefiles/pull/192) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [[1.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/promise-timer/pull/73) on [reactphp/promise-timer](https://github.com/reactphp/promise-timer) (1 week ago)
 - [[1.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/promise-stream/pull/43) on [reactphp/promise-stream](https://github.com/reactphp/promise-stream) (1 week ago)
-- [[3.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/promise/pull/275) on [reactphp/promise](https://github.com/reactphp/promise) (1 week ago)
-- [[3.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/stream/pull/187) on [reactphp/stream](https://github.com/reactphp/stream) (1 week ago)
 
 ---
 
