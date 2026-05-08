@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
 - [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (1 day ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 day ago)
-- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (2 days ago)
-- [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) (2 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (2 days ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
-- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (2 days ago)
-- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (2 days ago)
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (2 days ago)
+- [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) (2 days ago)
+- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (2 days ago)
+- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (2 days ago)
+- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (2 days ago)
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (2 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 
 ---
 
@@ -111,6 +111,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) -  (today)
+- [jaytaph/oprf-php](https://github.com/jaytaph/oprf-php) - Oblivious Pseudorandom Function (OPRF) library for PHP, based on RFC 9497 (today)
+- [scosman/cursed_browser](https://github.com/scosman/cursed_browser) - A web browser with no rendering engine — the VLM reads the HTML and hallucinates the page. (today)
 - [coderforlife/lego-lcd](https://github.com/coderforlife/lego-lcd) - Giant 3D Printed Lego with LCD Clock using a Raspberry Pi (1 day ago)
 - [likeablob/cydintosh](https://github.com/likeablob/cydintosh) - Cydintosh: Little 68k Brother is watching your Smart Home 👀 (1 week ago)
 - [adizanni/hydrao](https://github.com/adizanni/hydrao) - Home Assistant Custom Integration for Hydrao shower head (1 week ago)
@@ -121,9 +124,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [PhiTux/DailyTxT](https://github.com/PhiTux/DailyTxT) - Encrypted Diary Web-App (3 weeks ago)
 - [OpenDisplay/Home_Assistant_Integration](https://github.com/OpenDisplay/Home_Assistant_Integration) - Home Assistant Integration for OpenDisplay (1 month ago)
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser (1 month ago)
-- [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives. (1 month ago)
-- [seblindfors/ConsolePort](https://github.com/seblindfors/ConsolePort) - ConsolePort - Game Controller Addon for World of Warcraft (1 month ago)
-- [aukedejong/lovelace-windrose-card](https://github.com/aukedejong/lovelace-windrose-card) - Home Assistant Lovelace Windrose Card (1 month ago)
 
 ---
 
