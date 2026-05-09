@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (today)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
-- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (1 day ago)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 day ago)
 - [WyriHaximus/github-action-supported-debian-linux-versions](https://github.com/WyriHaximus/github-action-supported-debian-linux-versions) (1 day ago)
+- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (1 day ago)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
 - [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (2 days ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (2 days ago)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 days ago)
-- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (3 days ago)
+- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (3 days ago)
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (3 days ago)
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (3 days ago)
 
 ---
 
