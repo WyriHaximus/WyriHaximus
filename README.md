@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (today)
 - [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 day ago)
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 day ago)
-- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (2 days ago)
-- [WyriHaximus/github-action-supported-debian-linux-versions](https://github.com/WyriHaximus/github-action-supported-debian-linux-versions) (2 days ago)
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (2 days ago)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 day ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (2 days ago)
+- [WyriHaximus/github-action-supported-debian-linux-versions](https://github.com/WyriHaximus/github-action-supported-debian-linux-versions) (2 days ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (3 days ago)
 - [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (3 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
-- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (4 days ago)
+- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (4 days ago)
 
 ---
 
