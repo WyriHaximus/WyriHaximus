@@ -12,16 +12,16 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (3 days ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (3 days ago)
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (3 days ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (3 days ago)
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (3 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (4 days ago)
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (6 days ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (1 week ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 week ago)
 - [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (1 week ago)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 week ago)
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 week ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 week ago)
 
 ---
