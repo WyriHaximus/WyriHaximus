@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (2 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [WyriHaximus/php-json-utilities](https://github.com/WyriHaximus/php-json-utilities) (2 days ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (5 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (5 days ago)
+- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (2 days ago)
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (5 days ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (5 days ago)
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (5 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (6 days ago)
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 week ago)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 week ago)
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (1 week ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (1 week ago)
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (1 week ago)
 
 ---
 
@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Create license when it doesn&#39;t exists](https://github.com/WyriHaximus/Makefiles/pull/198) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Update readme copyright year to current](https://github.com/WyriHaximus/Makefiles/pull/197) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Update readme copyright year to current](https://github.com/WyriHaximus/Makefiles/pull/196) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Split out CDN S3 upload into sub sub workflow](https://github.com/WyriHaximus/github-workflows/pull/212) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
 - [Add support for AWS endpoint URL](https://github.com/WyriHaximus/github-workflows/pull/211) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Drop older groups and k8s events](https://github.com/MammatusPHP/queue/pull/60) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 week ago)
 - [Move generated code out of Generated](https://github.com/MammatusPHP/http-server/pull/216) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 week ago)
 - [Use new OnlyIfItExists Remove methods](https://github.com/MammatusPHP/cron/pull/133) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 week ago)
-- [Add onlyIfItExists variants to Remove](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/90) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 week ago)
-- [[New Version] Update versions file to PHP 8.5.6](https://github.com/WyriHaximus/php-fake-php-version/pull/184) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 weeks ago)
 
 ---
 
