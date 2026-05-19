@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Update readme copyright year to current](https://github.com/WyriHaximus/Makefiles/pull/196) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Split out CDN S3 upload into sub sub workflow](https://github.com/WyriHaximus/github-workflows/pull/212) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
 - [Add support for AWS endpoint URL](https://github.com/WyriHaximus/github-workflows/pull/211) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
 - [Fix node selector](https://github.com/MammatusPHP/helm-charts/pull/40) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (5 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Use new OnlyIfItExists Remove methods](https://github.com/MammatusPHP/cron/pull/133) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 week ago)
 - [Add onlyIfItExists variants to Remove](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/90) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 week ago)
 - [[New Version] Update versions file to PHP 8.5.6](https://github.com/WyriHaximus/php-fake-php-version/pull/184) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 weeks ago)
-- [Clean upo generation move leftovers](https://github.com/MammatusPHP/cron/pull/131) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 weeks ago)
 
 ---
 
