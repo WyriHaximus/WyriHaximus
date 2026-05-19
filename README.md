@@ -10,13 +10,13 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [WyriHaximus/php-json-utilities](https://github.com/WyriHaximus/php-json-utilities) (2 days ago)
 - [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (2 days ago)
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (5 days ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (5 days ago)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (5 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (6 days ago)
@@ -111,6 +111,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger) - PSR-3 compliant test logger based on psr/log v1&#39;s (today)
 - [hasanharman/isomiddleearth](https://github.com/hasanharman/isomiddleearth) - An isometric world‑builder set in Tolkien’s Middle‑earth, where you create and shape your own landscapes inspired by its iconic lands and lore. (1 week ago)
 - [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) -  (1 week ago)
 - [jaytaph/oprf-php](https://github.com/jaytaph/oprf-php) - Oblivious Pseudorandom Function (OPRF) library for PHP, based on RFC 9497 (1 week ago)
@@ -123,7 +124,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway) - The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible. (4 weeks ago)
 - [UmbrellaDocs/action-linkspector](https://github.com/UmbrellaDocs/action-linkspector) - Uncover broken links in your content using Linkspector GitHub action. (4 weeks ago)
 - [PhiTux/DailyTxT](https://github.com/PhiTux/DailyTxT) - Encrypted Diary Web-App (1 month ago)
-- [OpenDisplay/Home_Assistant_Integration](https://github.com/OpenDisplay/Home_Assistant_Integration) - Home Assistant Integration for OpenDisplay (1 month ago)
 
 ---
 
