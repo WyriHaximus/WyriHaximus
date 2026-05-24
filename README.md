@@ -11,17 +11,17 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
-- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (2 days ago)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (2 days ago)
+- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (2 days ago)
+- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (2 days ago)
 - [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (2 days ago)
 - [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) (2 days ago)
-- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (2 days ago)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (2 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
 - [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (2 days ago)
-- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (2 days ago)
 - [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (2 days ago)
+- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (2 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
-- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (2 days ago)
+- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (2 days ago)
 - [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (2 days ago)
 
 ---
