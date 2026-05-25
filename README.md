@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add copyright year updaters with out the `(c)`](https://github.com/WyriHaximus/Makefiles/pull/199) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Support multiple CDN application types](https://github.com/WyriHaximus/github-workflows/pull/221) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [Add `Security 🕵️‍♀️` as one of the required labels](https://github.com/WyriHaximus/github-workflows/pull/216) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
 - [Update dependency twig/twig to v3.26.0 [SECURITY]](https://github.com/WyriHaximus/php-simple-twig/pull/89) on [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (3 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [[mammatus] Set default timezone, and always set it](https://github.com/MammatusPHP/helm-charts/pull/39) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 week ago)
 - [Fetching a reflection from the store should yield it 🤦](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/91) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 week ago)
 - [Drop older groups and k8s events](https://github.com/MammatusPHP/kubernetes/pull/36) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (2 weeks ago)
-- [Drop older groups and k8s events](https://github.com/MammatusPHP/cron/pull/134) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 weeks ago)
 
 ---
 
