@@ -10,8 +10,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (1 day ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 day ago)
@@ -21,7 +21,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (5 days ago)
 - [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (5 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (5 days ago)
-- [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (5 days ago)
+- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (5 days ago)
 - [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (5 days ago)
 
 ---
