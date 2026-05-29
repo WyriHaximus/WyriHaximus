@@ -10,25 +10,25 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (today)
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
-- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (1 day ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
-- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (1 day ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (2 days ago)
-- [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (2 days ago)
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (2 days ago)
-- [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (6 days ago)
-- [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (6 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (2 days ago)
+- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (2 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
+- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (2 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (3 days ago)
+- [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (3 days ago)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (3 days ago)
+- [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (1 week ago)
+- [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (1 week ago)
 
 ---
 
 ### 📜 My latest articles on [WyriHaximus.net](https://blog.wyrihaximus.net/)
 
-- [Unlock Composer Plugins by Self Hosting Renovate](https://blog.wyrihaximus.net/2025/10/unlock-composer-plugins-by-self-hosting-renovate/) (7 months ago)
+- [Unlock Composer Plugins by Self Hosting Renovate](https://blog.wyrihaximus.net/2025/10/unlock-composer-plugins-by-self-hosting-renovate/) (8 months ago)
 - [ReactPHP Parallel v2(.1)](https://blog.wyrihaximus.net/2025/06/reactphp-parallel-v2-/) (1 year ago)
 - [Announcing TestInfra Action](https://blog.wyrihaximus.net/2025/03/announcing-testinfra-action/) (1 year ago)
 - [Building a kubernetes homelab with Raspberry Pi and Lego: Nodes: Enclosure](https://blog.wyrihaximus.net/2024/12/building-a-kubernetes-homelab-with-raspberry-pies-and-lego-nodes-enclosure/) (1 year ago)
@@ -75,12 +75,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) ([v2.1.0](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/releases/tag/v2.1.0), 1 day ago) - GitHub Action that gets the PHP versions in range from composer.json
-- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) ([2.1.0](https://github.com/WyriHaximus/php-monolog-factory/releases/tag/2.1.0), 2 days ago) - Opinionated Monolog factory
-- [WyriHaximus/php-monolog-processors](https://github.com/WyriHaximus/php-monolog-processors) ([3.1.0](https://github.com/WyriHaximus/php-monolog-processors/releases/tag/3.1.0), 2 days ago) - A set of processors for Monolog
-- [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) ([2.4.0](https://github.com/WyriHaximus/php-psr-3-utilities/releases/tag/2.4.0), 3 days ago) - 
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.7.2](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.7.2), 6 days ago) - Tooling for creating generative Composer Plugins
-- [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) ([2.3.0](https://github.com/WyriHaximus/php-simple-twig/releases/tag/2.3.0), 6 days ago) - Wrapper around Twig making rendering a string template trivial.
+- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) ([v2.1.0](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/releases/tag/v2.1.0), 2 days ago) - GitHub Action that gets the PHP versions in range from composer.json
+- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) ([2.1.0](https://github.com/WyriHaximus/php-monolog-factory/releases/tag/2.1.0), 3 days ago) - Opinionated Monolog factory
+- [WyriHaximus/php-monolog-processors](https://github.com/WyriHaximus/php-monolog-processors) ([3.1.0](https://github.com/WyriHaximus/php-monolog-processors/releases/tag/3.1.0), 3 days ago) - A set of processors for Monolog
+- [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) ([2.4.0](https://github.com/WyriHaximus/php-psr-3-utilities/releases/tag/2.4.0), 4 days ago) - 
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.7.2](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.7.2), 1 week ago) - Tooling for creating generative Composer Plugins
+- [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) ([2.3.0](https://github.com/WyriHaximus/php-simple-twig/releases/tag/2.3.0), 1 week ago) - Wrapper around Twig making rendering a string template trivial.
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.18](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.18), 2 weeks ago) - 
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.3.3](https://github.com/MammatusPHP/kubernetes/releases/tag/0.3.3), 2 weeks ago) - Kubernetes related tooling
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([4.0.0](https://github.com/MammatusPHP/kubernetes-events/releases/tag/4.0.0), 3 weeks ago) - 
@@ -93,16 +93,16 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Add support for additional extensions](https://github.com/WyriHaximus/php-simple-twig/pull/90) on [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (1 day ago)
-- [Use central location to store version data](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/72) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (2 days ago)
-- [Add `composer validate`](https://github.com/WyriHaximus/Makefiles/pull/201) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Add ProcessPlaceHoldersLogger](https://github.com/WyriHaximus/php-psr-3-utilities/pull/77) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (3 days ago)
-- [Update documentation with nightly and upcoming dynamically](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/71) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (3 days ago)
-- [Add copyright year updaters for readme templates in `etc/`](https://github.com/WyriHaximus/Makefiles/pull/200) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
-- [Add copyright year updaters with out the `(c)`](https://github.com/WyriHaximus/Makefiles/pull/199) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
-- [Support multiple CDN application types](https://github.com/WyriHaximus/github-workflows/pull/221) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
-- [Add `Security 🕵️‍♀️` as one of the required labels](https://github.com/WyriHaximus/github-workflows/pull/216) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
-- [Update dependency twig/twig to v3.26.0 [SECURITY]](https://github.com/WyriHaximus/php-simple-twig/pull/89) on [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (6 days ago)
+- [Add support for additional extensions](https://github.com/WyriHaximus/php-simple-twig/pull/90) on [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (2 days ago)
+- [Use central location to store version data](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/72) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (3 days ago)
+- [Add `composer validate`](https://github.com/WyriHaximus/Makefiles/pull/201) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Add ProcessPlaceHoldersLogger](https://github.com/WyriHaximus/php-psr-3-utilities/pull/77) on [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (4 days ago)
+- [Update documentation with nightly and upcoming dynamically](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/71) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (4 days ago)
+- [Add copyright year updaters for readme templates in `etc/`](https://github.com/WyriHaximus/Makefiles/pull/200) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
+- [Add copyright year updaters with out the `(c)`](https://github.com/WyriHaximus/Makefiles/pull/199) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
+- [Support multiple CDN application types](https://github.com/WyriHaximus/github-workflows/pull/221) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
+- [Add `Security 🕵️‍♀️` as one of the required labels](https://github.com/WyriHaximus/github-workflows/pull/216) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
+- [Update dependency twig/twig to v3.26.0 [SECURITY]](https://github.com/WyriHaximus/php-simple-twig/pull/89) on [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (1 week ago)
 - [Create license when it doesn&#39;t exists](https://github.com/WyriHaximus/Makefiles/pull/198) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Update readme copyright year to current](https://github.com/WyriHaximus/Makefiles/pull/197) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Update readme copyright year to current](https://github.com/WyriHaximus/Makefiles/pull/196) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
@@ -111,12 +111,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
-- [actions/upload-code-coverage](https://github.com/actions/upload-code-coverage) - Upload code coverage report from your GitHub Actions workflow (today)
+- [actions/upload-code-coverage](https://github.com/actions/upload-code-coverage) - Upload code coverage report from your GitHub Actions workflow (1 day ago)
 - [colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger) - PSR-3 compliant test logger based on psr/log v1&#39;s (1 week ago)
 - [hasanharman/isomiddleearth](https://github.com/hasanharman/isomiddleearth) - An isometric world‑builder set in Tolkien’s Middle‑earth, where you create and shape your own landscapes inspired by its iconic lands and lore. (2 weeks ago)
-- [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) -  (2 weeks ago)
-- [jaytaph/oprf-php](https://github.com/jaytaph/oprf-php) - Oblivious Pseudorandom Function (OPRF) library for PHP, based on RFC 9497 (2 weeks ago)
-- [scosman/cursed_browser](https://github.com/scosman/cursed_browser) - True AI-Native Browser — a VLM reads the HTML and hallucinates the page. (2 weeks ago)
+- [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) -  (3 weeks ago)
+- [jaytaph/oprf-php](https://github.com/jaytaph/oprf-php) - Oblivious Pseudorandom Function (OPRF) library for PHP, based on RFC 9497 (3 weeks ago)
+- [scosman/cursed_browser](https://github.com/scosman/cursed_browser) - True AI-Native Browser — a VLM reads the HTML and hallucinates the page. (3 weeks ago)
 - [coderforlife/lego-lcd](https://github.com/coderforlife/lego-lcd) - Giant 3D Printed Lego with LCD Clock using a Raspberry Pi (3 weeks ago)
 - [likeablob/cydintosh](https://github.com/likeablob/cydintosh) - Cydintosh: Little 68k Brother is watching your Smart Home 👀 (1 month ago)
 - [adizanni/hydrao](https://github.com/adizanni/hydrao) - Home Assistant Custom Integration for Hydrao shower head (1 month ago)
