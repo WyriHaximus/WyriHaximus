@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (2 days ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (2 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
+- [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (2 days ago)
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (2 days ago)
 - [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (2 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (3 days ago)
-- [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (3 days ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (3 days ago)
-- [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (1 week ago)
-- [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (1 week ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (3 days ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (3 days ago)
 
 ---
 
@@ -75,12 +75,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) ([2.4.0](https://github.com/WyriHaximus/php-simple-twig/releases/tag/2.4.0), today) - Wrapper around Twig making rendering a string template trivial.
 - [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) ([v2.1.0](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/releases/tag/v2.1.0), 2 days ago) - GitHub Action that gets the PHP versions in range from composer.json
 - [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) ([2.1.0](https://github.com/WyriHaximus/php-monolog-factory/releases/tag/2.1.0), 3 days ago) - Opinionated Monolog factory
 - [WyriHaximus/php-monolog-processors](https://github.com/WyriHaximus/php-monolog-processors) ([3.1.0](https://github.com/WyriHaximus/php-monolog-processors/releases/tag/3.1.0), 3 days ago) - A set of processors for Monolog
 - [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) ([2.4.0](https://github.com/WyriHaximus/php-psr-3-utilities/releases/tag/2.4.0), 4 days ago) - 
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.7.2](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.7.2), 1 week ago) - Tooling for creating generative Composer Plugins
-- [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) ([2.3.0](https://github.com/WyriHaximus/php-simple-twig/releases/tag/2.3.0), 1 week ago) - Wrapper around Twig making rendering a string template trivial.
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.18](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.18), 2 weeks ago) - 
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.3.3](https://github.com/MammatusPHP/kubernetes/releases/tag/0.3.3), 2 weeks ago) - Kubernetes related tooling
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([4.0.0](https://github.com/MammatusPHP/kubernetes-events/releases/tag/4.0.0), 3 weeks ago) - 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Update twig to 3.27](https://github.com/WyriHaximus/php-simple-twig/pull/91) on [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (today)
 - [Add support for additional extensions](https://github.com/WyriHaximus/php-simple-twig/pull/90) on [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (2 days ago)
 - [Use central location to store version data](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/72) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (3 days ago)
 - [Add `composer validate`](https://github.com/WyriHaximus/Makefiles/pull/201) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Update dependency twig/twig to v3.26.0 [SECURITY]](https://github.com/WyriHaximus/php-simple-twig/pull/89) on [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (1 week ago)
 - [Create license when it doesn&#39;t exists](https://github.com/WyriHaximus/Makefiles/pull/198) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Update readme copyright year to current](https://github.com/WyriHaximus/Makefiles/pull/197) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [Update readme copyright year to current](https://github.com/WyriHaximus/Makefiles/pull/196) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 
 ---
 
