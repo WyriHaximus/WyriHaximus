@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (2 days ago)
-- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (3 days ago)
-- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (3 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (3 days ago)
+- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (3 days ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (3 days ago)
-- [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (4 days ago)
+- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (3 days ago)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (4 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (4 days ago)
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (4 days ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
-- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (1 week ago)
+- [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (4 days ago)
 
 ---
 
