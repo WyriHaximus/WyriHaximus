@@ -131,7 +131,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 - [challgren](https://github.com/challgren) (1 year ago)
 - [edorian](https://github.com/edorian) (2 years ago)
-- [codecov](https://github.com/codecov) (2 years ago)
 - [mangkepwing143](https://github.com/mangkepwing143) (3 years ago)
 - [jeromegamez](https://github.com/jeromegamez) (3 years ago)
 - [kristos80](https://github.com/kristos80) (3 years ago)
