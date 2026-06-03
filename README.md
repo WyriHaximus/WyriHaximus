@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) (3 days ago)
 - [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (5 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (6 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
+- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (1 week ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (1 week ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 week ago)
-- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (1 week ago)
-- [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (1 week ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 
 ---
 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Interactive shell commands should always  run on non-slim images so you can require packages that need extensions in those image types](https://github.com/WyriHaximus/Makefiles/pull/203) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [[New Version] Update versions file to PHP 8.5.7](https://github.com/WyriHaximus/php-fake-php-version/pull/187) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
 - [Always run shell in ZTS](https://github.com/WyriHaximus/Makefiles/pull/202) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Remove event loop parameter from logger creation](https://github.com/WyriHaximus/reactphp-psr-3-stdio/pull/75) on [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) (3 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Switch from exposing an Observable to an iterable](https://github.com/WyriHaximus/reactphp-env-notifier/pull/64) on [WyriHaximus/reactphp-env-notifier](https://github.com/WyriHaximus/reactphp-env-notifier) (4 days ago)
 - [Update to PHP 8.4&#43;](https://github.com/WyriHaximus/reactphp-env-notifier/pull/63) on [WyriHaximus/reactphp-env-notifier](https://github.com/WyriHaximus/reactphp-env-notifier) (5 days ago)
 - [Update twig to 3.27](https://github.com/WyriHaximus/php-simple-twig/pull/91) on [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (5 days ago)
-- [Add support for additional extensions](https://github.com/WyriHaximus/php-simple-twig/pull/90) on [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (1 week ago)
 
 ---
 
