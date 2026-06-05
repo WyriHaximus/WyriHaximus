@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add `protobuf` extension](https://github.com/WyriHaximusNet/docker-php/pull/387) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Interactive shell commands should always  run on non-slim images so you can require packages that need extensions in those image types](https://github.com/WyriHaximus/Makefiles/pull/203) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [[New Version] Update versions file to PHP 8.5.7](https://github.com/WyriHaximus/php-fake-php-version/pull/187) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
 - [Always run shell in ZTS](https://github.com/WyriHaximus/Makefiles/pull/202) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [[1.x] Update test environment for PHP 7.2 to compatible PHPUnit version](https://github.com/reactphp/event-loop/pull/285) on [reactphp/event-loop](https://github.com/reactphp/event-loop) (6 days ago)
 - [Switch from exposing an Observable to an iterable](https://github.com/WyriHaximus/reactphp-env-notifier/pull/64) on [WyriHaximus/reactphp-env-notifier](https://github.com/WyriHaximus/reactphp-env-notifier) (6 days ago)
 - [Update to PHP 8.4&#43;](https://github.com/WyriHaximus/reactphp-env-notifier/pull/63) on [WyriHaximus/reactphp-env-notifier](https://github.com/WyriHaximus/reactphp-env-notifier) (1 week ago)
-- [Update twig to 3.27](https://github.com/WyriHaximus/php-simple-twig/pull/91) on [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (1 week ago)
 
 ---
 
