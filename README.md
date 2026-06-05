@@ -12,17 +12,17 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
 - [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) (5 days ago)
 - [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (1 week ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 week ago)
-- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 week ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (1 week ago)
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 week ago)
 - [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (1 week ago)
-- [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (1 week ago)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 week ago)
 
 ---
 
