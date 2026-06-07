@@ -21,8 +21,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 week ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (1 week ago)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 week ago)
+- [WyriHaximus/github-action-testinfra](https://github.com/WyriHaximus/github-action-testinfra) (1 week ago)
 - [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (1 week ago)
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 week ago)
 
 ---
 
