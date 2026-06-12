@@ -111,6 +111,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for Grocy (today)
+- [georgegebbett/recipe-buddy](https://github.com/georgegebbett/recipe-buddy) - Recipe Buddy is a tool that enables the easy adding of recipes to Grocy through web scraping.  (today)
 - [composer/api-surface-check](https://github.com/composer/api-surface-check) - GitHub Action that detect when the public API surface of the project changes and comments on PRs with a summary of changes. (2 days ago)
 - [actions/upload-code-coverage](https://github.com/actions/upload-code-coverage) - Upload code coverage report from your GitHub Actions workflow (2 weeks ago)
 - [colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger) - PSR-3 compliant test logger based on psr/log v1&#39;s (3 weeks ago)
@@ -122,8 +124,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [likeablob/cydintosh](https://github.com/likeablob/cydintosh) - Cydintosh: Little 68k Brother is watching your Smart Home 👀 (1 month ago)
 - [adizanni/hydrao](https://github.com/adizanni/hydrao) - Home Assistant Custom Integration for Hydrao shower head (1 month ago)
 - [indifferentbroccoli/windrose-server-docker](https://github.com/indifferentbroccoli/windrose-server-docker) - This is a Dockerized version of the Windrose dedicated server. (1 month ago)
-- [spaze/security-txt](https://github.com/spaze/security-txt) - security.txt (RFC 9116) generator, parser, validator (1 month ago)
-- [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway) - The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible. (1 month ago)
 
 ---
 
