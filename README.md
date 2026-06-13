@@ -13,13 +13,13 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [WyriHaximus/reactphp-stream-json](https://github.com/WyriHaximus/reactphp-stream-json) (today)
 - [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (4 days ago)
-- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (4 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (4 days ago)
-- [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (4 days ago)
+- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (4 days ago)
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (4 days ago)
+- [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (4 days ago)
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (4 days ago)
-- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (4 days ago)
 - [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (4 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
 - [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (4 days ago)
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Harden security](https://github.com/WyriHaximus/Makefiles/pull/214) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Ensure we remove the PHPCSS config file when code-style isn&#39;t enabled](https://github.com/WyriHaximus/Makefiles/pull/213) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Ensure we remove the RectorPHP config file when code-style isn&#39;t enabled](https://github.com/WyriHaximus/Makefiles/pull/212) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Drop `\n` from `migrations-php-set-phpstan-drop-include-async-test-utilities-rules` replace](https://github.com/WyriHaximus/Makefiles/pull/211) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add `examples` to `RectorConfig` to run against](https://github.com/WyriHaximus/php-test-utilities/pull/1274) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
 - [RectorConfig only uses existing paths](https://github.com/WyriHaximus/php-test-utilities/pull/1272) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
 - [Switch to `pecl` `protobuf`](https://github.com/WyriHaximusNet/docker-php/pull/388) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
-- [Add supported features from `composer.json`](https://github.com/WyriHaximus/Makefiles/pull/204) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 
 ---
 
