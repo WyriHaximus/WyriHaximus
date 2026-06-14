@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (today)
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
-- [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) (today)
-- [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (today)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
-- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (today)
-- [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [WyriHaximus/php-json-utilities](https://github.com/WyriHaximus/php-json-utilities) (today)
+- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 day ago)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 day ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
+- [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) (1 day ago)
+- [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (1 day ago)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
+- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (1 day ago)
+- [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/php-json-utilities](https://github.com/WyriHaximus/php-json-utilities) (1 day ago)
 
 ---
 
@@ -75,11 +75,11 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.11.1](https://github.com/WyriHaximus/Makefiles/releases/tag/0.11.1), today) - Makefile building blocks
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.1.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.1.0), 4 days ago) - 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.1.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.1.0), 5 days ago) - 
-- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) ([4.0.0](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/releases/tag/4.0.0), 5 days ago) - Trait to run all tests in a fiber
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([13.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/13.1.0), 5 days ago) - 🌯 PHPStan rules wrapper
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.11.1](https://github.com/WyriHaximus/Makefiles/releases/tag/0.11.1), 1 day ago) - Makefile building blocks
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.1.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.1.0), 5 days ago) - 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.1.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.1.0), 6 days ago) - 
+- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) ([4.0.0](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/releases/tag/4.0.0), 6 days ago) - Trait to run all tests in a fiber
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([13.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/13.1.0), 6 days ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.31](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.31), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) ([3.1.0](https://github.com/ecoAPM/php-libyear/releases/tag/3.1.0), 1 week ago) - A simple measure of dependency freshness
 - [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) ([2.4.0](https://github.com/WyriHaximus/php-simple-twig/releases/tag/2.4.0), 2 weeks ago) - Wrapper around Twig making rendering a string template trivial.
@@ -93,27 +93,27 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Harden security](https://github.com/WyriHaximus/Makefiles/pull/214) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Ensure we remove the PHPCSS config file when code-style isn&#39;t enabled](https://github.com/WyriHaximus/Makefiles/pull/213) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Ensure we remove the RectorPHP config file when code-style isn&#39;t enabled](https://github.com/WyriHaximus/Makefiles/pull/212) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Drop `\n` from `migrations-php-set-phpstan-drop-include-async-test-utilities-rules` replace](https://github.com/WyriHaximus/Makefiles/pull/211) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Add no `unit-tests` support to `migrations-php-set-phpstan-paths-in-config`](https://github.com/WyriHaximus/Makefiles/pull/210) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Ensure we remove the InfectionPHP config file when unit-tests aren&#39;t enabled](https://github.com/WyriHaximus/Makefiles/pull/209) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Ensure we remove the PHPUnit config file when unit-tests aren&#39;t enabled](https://github.com/WyriHaximus/Makefiles/pull/208) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Ensure we only staticly analyse tests/ with PHPStan if unit-tests is enabled](https://github.com/WyriHaximus/Makefiles/pull/207) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
-- [Ensure we only cs check/fix if unit-tests is enabled](https://github.com/WyriHaximus/Makefiles/pull/206) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
-- [Add feature toggles to disable certain features for certain packages](https://github.com/WyriHaximus/github-workflows/pull/234) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
-- [Add `examples` to `RectorConfig` to run against](https://github.com/WyriHaximus/php-test-utilities/pull/1274) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
-- [RectorConfig only uses existing paths](https://github.com/WyriHaximus/php-test-utilities/pull/1272) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
+- [Harden security](https://github.com/WyriHaximus/Makefiles/pull/214) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [Ensure we remove the PHPCSS config file when code-style isn&#39;t enabled](https://github.com/WyriHaximus/Makefiles/pull/213) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [Ensure we remove the RectorPHP config file when code-style isn&#39;t enabled](https://github.com/WyriHaximus/Makefiles/pull/212) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [Drop `\n` from `migrations-php-set-phpstan-drop-include-async-test-utilities-rules` replace](https://github.com/WyriHaximus/Makefiles/pull/211) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [Add no `unit-tests` support to `migrations-php-set-phpstan-paths-in-config`](https://github.com/WyriHaximus/Makefiles/pull/210) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [Ensure we remove the InfectionPHP config file when unit-tests aren&#39;t enabled](https://github.com/WyriHaximus/Makefiles/pull/209) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Ensure we remove the PHPUnit config file when unit-tests aren&#39;t enabled](https://github.com/WyriHaximus/Makefiles/pull/208) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Ensure we only staticly analyse tests/ with PHPStan if unit-tests is enabled](https://github.com/WyriHaximus/Makefiles/pull/207) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
+- [Ensure we only cs check/fix if unit-tests is enabled](https://github.com/WyriHaximus/Makefiles/pull/206) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
+- [Add feature toggles to disable certain features for certain packages](https://github.com/WyriHaximus/github-workflows/pull/234) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
+- [Add `examples` to `RectorConfig` to run against](https://github.com/WyriHaximus/php-test-utilities/pull/1274) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
+- [RectorConfig only uses existing paths](https://github.com/WyriHaximus/php-test-utilities/pull/1272) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
 - [Switch to `pecl` `protobuf`](https://github.com/WyriHaximusNet/docker-php/pull/388) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for Grocy (1 day ago)
-- [georgegebbett/recipe-buddy](https://github.com/georgegebbett/recipe-buddy) - Recipe Buddy is a tool that enables the easy adding of recipes to Grocy through web scraping.  (1 day ago)
-- [composer/api-surface-check](https://github.com/composer/api-surface-check) - GitHub Action that detect when the public API surface of the project changes and comments on PRs with a summary of changes. (3 days ago)
+- [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for Grocy (2 days ago)
+- [georgegebbett/recipe-buddy](https://github.com/georgegebbett/recipe-buddy) - Recipe Buddy is a tool that enables the easy adding of recipes to Grocy through web scraping.  (2 days ago)
+- [composer/api-surface-check](https://github.com/composer/api-surface-check) - GitHub Action that detect when the public API surface of the project changes and comments on PRs with a summary of changes. (4 days ago)
 - [actions/upload-code-coverage](https://github.com/actions/upload-code-coverage) - Upload code coverage report from your GitHub Actions workflow (2 weeks ago)
 - [colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger) - PSR-3 compliant test logger based on psr/log v1&#39;s (3 weeks ago)
 - [hasanharman/isomiddleearth](https://github.com/hasanharman/isomiddleearth) - An isometric world‑builder set in Tolkien’s Middle‑earth, where you create and shape your own landscapes inspired by its iconic lands and lore. (1 month ago)
