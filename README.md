@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Support non-static handlers](https://github.com/MammatusPHP/http-server/pull/223) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [Add support for shipmonk/dead-code-detector](https://github.com/MammatusPHP/http-server/pull/222) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [Harden security](https://github.com/WyriHaximus/Makefiles/pull/214) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Ensure we remove the PHPCSS config file when code-style isn&#39;t enabled](https://github.com/WyriHaximus/Makefiles/pull/213) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Ensure we only cs check/fix if unit-tests is enabled](https://github.com/WyriHaximus/Makefiles/pull/206) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 - [Add feature toggles to disable certain features for certain packages](https://github.com/WyriHaximus/github-workflows/pull/234) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
 - [Add `examples` to `RectorConfig` to run against](https://github.com/WyriHaximus/php-test-utilities/pull/1274) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
-- [RectorConfig only uses existing paths](https://github.com/WyriHaximus/php-test-utilities/pull/1272) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 
 ---
 
