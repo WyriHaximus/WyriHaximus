@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
-- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (1 day ago)
-- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (3 days ago)
-- [WyriHaximus/reactphp-stream-json](https://github.com/WyriHaximus/reactphp-stream-json) (3 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (3 days ago)
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (3 days ago)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
-- [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (3 days ago)
-- [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) (3 days ago)
-- [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (3 days ago)
-- [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (3 days ago)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 day ago)
+- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (2 days ago)
+- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (4 days ago)
+- [WyriHaximus/reactphp-stream-json](https://github.com/WyriHaximus/reactphp-stream-json) (4 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (4 days ago)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (4 days ago)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (4 days ago)
+- [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (4 days ago)
+- [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) (4 days ago)
+- [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (4 days ago)
+- [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (4 days ago)
 
 ---
 
@@ -75,7 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.11.1](https://github.com/WyriHaximus/Makefiles/releases/tag/0.11.1), 3 days ago) - Makefile building blocks
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.11.1](https://github.com/WyriHaximus/Makefiles/releases/tag/0.11.1), 4 days ago) - Makefile building blocks
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.1.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.1.0), 1 week ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.1.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.1.0), 1 week ago) - 
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) ([4.0.0](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/releases/tag/4.0.0), 1 week ago) - Trait to run all tests in a fiber
@@ -83,7 +83,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.31](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.31), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) ([3.1.0](https://github.com/ecoAPM/php-libyear/releases/tag/3.1.0), 2 weeks ago) - A simple measure of dependency freshness
 - [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) ([2.4.0](https://github.com/WyriHaximus/php-simple-twig/releases/tag/2.4.0), 2 weeks ago) - Wrapper around Twig making rendering a string template trivial.
-- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) ([v2.1.0](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/releases/tag/v2.1.0), 2 weeks ago) - GitHub Action that gets the PHP versions in range from composer.json
+- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) ([v2.1.0](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/releases/tag/v2.1.0), 3 weeks ago) - GitHub Action that gets the PHP versions in range from composer.json
 - [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) ([2.1.0](https://github.com/WyriHaximus/php-monolog-factory/releases/tag/2.1.0), 3 weeks ago) - Opinionated Monolog factory
 - [WyriHaximus/php-monolog-processors](https://github.com/WyriHaximus/php-monolog-processors) ([3.1.0](https://github.com/WyriHaximus/php-monolog-processors/releases/tag/3.1.0), 3 weeks ago) - A set of processors for Monolog
 - [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) ([2.4.0](https://github.com/WyriHaximus/php-psr-3-utilities/releases/tag/2.4.0), 3 weeks ago) - 
@@ -93,28 +93,28 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Add Handler Input](https://github.com/MammatusPHP/http-server-contracts/pull/23) on [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (today)
-- [Ignore extensions-from-dev-requirements-in-vendor](https://github.com/WyriHaximus/Makefiles/pull/217) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Auto detect certain features](https://github.com/WyriHaximus/Makefiles/pull/216) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Display supported feature matrix when generating makefile](https://github.com/WyriHaximus/Makefiles/pull/215) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Support non-static handlers](https://github.com/MammatusPHP/http-server/pull/223) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 day ago)
-- [Add support for shipmonk/dead-code-detector](https://github.com/MammatusPHP/http-server/pull/222) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 day ago)
-- [Harden security](https://github.com/WyriHaximus/Makefiles/pull/214) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
-- [Ensure we remove the PHPCSS config file when code-style isn&#39;t enabled](https://github.com/WyriHaximus/Makefiles/pull/213) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
-- [Ensure we remove the RectorPHP config file when code-style isn&#39;t enabled](https://github.com/WyriHaximus/Makefiles/pull/212) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
-- [Drop `\n` from `migrations-php-set-phpstan-drop-include-async-test-utilities-rules` replace](https://github.com/WyriHaximus/Makefiles/pull/211) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
-- [Add no `unit-tests` support to `migrations-php-set-phpstan-paths-in-config`](https://github.com/WyriHaximus/Makefiles/pull/210) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
-- [Ensure we remove the InfectionPHP config file when unit-tests aren&#39;t enabled](https://github.com/WyriHaximus/Makefiles/pull/209) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
-- [Ensure we remove the PHPUnit config file when unit-tests aren&#39;t enabled](https://github.com/WyriHaximus/Makefiles/pull/208) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
+- [Add Handler Input](https://github.com/MammatusPHP/http-server-contracts/pull/23) on [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (1 day ago)
+- [Ignore extensions-from-dev-requirements-in-vendor](https://github.com/WyriHaximus/Makefiles/pull/217) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [Auto detect certain features](https://github.com/WyriHaximus/Makefiles/pull/216) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [Display supported feature matrix when generating makefile](https://github.com/WyriHaximus/Makefiles/pull/215) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [Support non-static handlers](https://github.com/MammatusPHP/http-server/pull/223) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (2 days ago)
+- [Add support for shipmonk/dead-code-detector](https://github.com/MammatusPHP/http-server/pull/222) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (2 days ago)
+- [Harden security](https://github.com/WyriHaximus/Makefiles/pull/214) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
+- [Ensure we remove the PHPCSS config file when code-style isn&#39;t enabled](https://github.com/WyriHaximus/Makefiles/pull/213) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
+- [Ensure we remove the RectorPHP config file when code-style isn&#39;t enabled](https://github.com/WyriHaximus/Makefiles/pull/212) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
+- [Drop `\n` from `migrations-php-set-phpstan-drop-include-async-test-utilities-rules` replace](https://github.com/WyriHaximus/Makefiles/pull/211) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
+- [Add no `unit-tests` support to `migrations-php-set-phpstan-paths-in-config`](https://github.com/WyriHaximus/Makefiles/pull/210) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
+- [Ensure we remove the InfectionPHP config file when unit-tests aren&#39;t enabled](https://github.com/WyriHaximus/Makefiles/pull/209) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
+- [Ensure we remove the PHPUnit config file when unit-tests aren&#39;t enabled](https://github.com/WyriHaximus/Makefiles/pull/208) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 day ago)
-- [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for Grocy (4 days ago)
-- [georgegebbett/recipe-buddy](https://github.com/georgegebbett/recipe-buddy) - Recipe Buddy is a tool that enables the easy adding of recipes to Grocy through web scraping.  (4 days ago)
-- [composer/api-surface-check](https://github.com/composer/api-surface-check) - GitHub Action that detect when the public API surface of the project changes and comments on PRs with a summary of changes. (6 days ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (2 days ago)
+- [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for Grocy (5 days ago)
+- [georgegebbett/recipe-buddy](https://github.com/georgegebbett/recipe-buddy) - Recipe Buddy is a tool that enables the easy adding of recipes to Grocy through web scraping.  (5 days ago)
+- [composer/api-surface-check](https://github.com/composer/api-surface-check) - GitHub Action that detect when the public API surface of the project changes and comments on PRs with a summary of changes. (1 week ago)
 - [actions/upload-code-coverage](https://github.com/actions/upload-code-coverage) - Upload code coverage report from your GitHub Actions workflow (2 weeks ago)
 - [colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger) - PSR-3 compliant test logger based on psr/log v1&#39;s (4 weeks ago)
 - [hasanharman/isomiddleearth](https://github.com/hasanharman/isomiddleearth) - An isometric world‑builder set in Tolkien’s Middle‑earth, where you create and shape your own landscapes inspired by its iconic lands and lore. (1 month ago)
