@@ -10,6 +10,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
+- [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (today)
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
@@ -17,11 +19,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (3 days ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (4 days ago)
-- [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (6 days ago)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (6 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (6 days ago)
 - [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (6 days ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (6 days ago)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (6 days ago)
 - [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) (6 days ago)
 
 ---
@@ -75,11 +75,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.0.0), today) - 🌯 PHPStan rules wrapper
+- [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) ([1.0.0](https://github.com/WyriHaximus/phpstan-no-safe/releases/tag/1.0.0), today) - PHPStan extension that detects and blocks any usage of `thecodingmachine/safe`
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.11.1](https://github.com/WyriHaximus/Makefiles/releases/tag/0.11.1), 6 days ago) - Makefile building blocks
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.1.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.1.0), 1 week ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.1.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.1.0), 1 week ago) - 
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) ([4.0.0](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/releases/tag/4.0.0), 1 week ago) - Trait to run all tests in a fiber
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([13.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/13.1.0), 1 week ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.31](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.31), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) ([3.1.0](https://github.com/ecoAPM/php-libyear/releases/tag/3.1.0), 2 weeks ago) - A simple measure of dependency freshness
 - [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) ([2.4.0](https://github.com/WyriHaximus/php-simple-twig/releases/tag/2.4.0), 3 weeks ago) - Wrapper around Twig making rendering a string template trivial.
@@ -87,12 +88,13 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) ([2.1.0](https://github.com/WyriHaximus/php-monolog-factory/releases/tag/2.1.0), 3 weeks ago) - Opinionated Monolog factory
 - [WyriHaximus/php-monolog-processors](https://github.com/WyriHaximus/php-monolog-processors) ([3.1.0](https://github.com/WyriHaximus/php-monolog-processors/releases/tag/3.1.0), 3 weeks ago) - A set of processors for Monolog
 - [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) ([2.4.0](https://github.com/WyriHaximus/php-psr-3-utilities/releases/tag/2.4.0), 3 weeks ago) - 
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.7.2](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.7.2), 4 weeks ago) - Tooling for creating generative Composer Plugins
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Add `wyrihaximus/phpstan-no-safe`](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/235) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
+- [Hulk smash some bugs](https://github.com/WyriHaximus/phpstan-no-safe/pull/4) on [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (today)
 - [Add documentation](https://github.com/WyriHaximus/phpstan-no-safe/pull/3) on [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (today)
 - [Add note about `phpstan/extension-installer`](https://github.com/WyriHaximus/phpstan-reactphp/pull/55) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
 - [In initial implementation](https://github.com/WyriHaximus/phpstan-no-safe/pull/1) on [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (today)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Display supported feature matrix when generating makefile](https://github.com/WyriHaximus/Makefiles/pull/215) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [Support non-static handlers](https://github.com/MammatusPHP/http-server/pull/223) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (4 days ago)
 - [Add support for shipmonk/dead-code-detector](https://github.com/MammatusPHP/http-server/pull/222) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (4 days ago)
-- [Harden security](https://github.com/WyriHaximus/Makefiles/pull/214) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
-- [Ensure we remove the PHPCSS config file when code-style isn&#39;t enabled](https://github.com/WyriHaximus/Makefiles/pull/213) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
 
 ---
 
