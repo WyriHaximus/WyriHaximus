@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add fallback group for when everything is a daemon](https://github.com/MammatusPHP/groups/pull/47) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
 - [Revert &#34;Update dependency maglnet/composer-require-checker to ^4.24.0&#34;](https://github.com/WyriHaximus/php-test-utilities/pull/1279) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [Add `wyrihaximus/phpstan-no-safe`](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/235) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
 - [Hulk smash some bugs](https://github.com/WyriHaximus/phpstan-no-safe/pull/4) on [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Ignore extensions-from-dev-requirements-in-vendor](https://github.com/WyriHaximus/Makefiles/pull/217) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 - [Auto detect certain features](https://github.com/WyriHaximus/Makefiles/pull/216) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 - [Display supported feature matrix when generating makefile](https://github.com/WyriHaximus/Makefiles/pull/215) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
-- [Support non-static handlers](https://github.com/MammatusPHP/http-server/pull/223) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (5 days ago)
 
 ---
 
