@@ -13,15 +13,15 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (today)
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 day ago)
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
-- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (4 days ago)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (4 days ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (4 days ago)
+- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (4 days ago)
 - [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (5 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
 - [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (1 week ago)
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 week ago)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 week ago)
 - [reactphp-inspector/cache](https://github.com/reactphp-inspector/cache) (1 week ago)
 
 ---
@@ -75,11 +75,11 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.2.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.2.0), today) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.0.0), 1 day ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) ([1.0.0](https://github.com/WyriHaximus/phpstan-no-safe/releases/tag/1.0.0), 1 day ago) - PHPStan extension that detects and blocks any usage of `thecodingmachine/safe`
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.11.1](https://github.com/WyriHaximus/Makefiles/releases/tag/0.11.1), 1 week ago) - Makefile building blocks
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.1.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.1.0), 1 week ago) - 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.1.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.1.0), 1 week ago) - 
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) ([4.0.0](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/releases/tag/4.0.0), 1 week ago) - Trait to run all tests in a fiber
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.31](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.31), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) ([3.1.0](https://github.com/ecoAPM/php-libyear/releases/tag/3.1.0), 2 weeks ago) - A simple measure of dependency freshness
