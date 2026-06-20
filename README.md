@@ -111,6 +111,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [Evidlo/picklecast](https://github.com/Evidlo/picklecast) - Share your screen to a TV/projector with only a browser (today)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (5 days ago)
 - [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for Grocy (1 week ago)
 - [georgegebbett/recipe-buddy](https://github.com/georgegebbett/recipe-buddy) - Recipe Buddy is a tool that enables the easy adding of recipes to Grocy through web scraping.  (1 week ago)
@@ -123,7 +124,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [scosman/cursed_browser](https://github.com/scosman/cursed_browser) - True AI-Native Browser — a VLM reads the HTML and hallucinates the page. (1 month ago)
 - [coderforlife/lego-lcd](https://github.com/coderforlife/lego-lcd) - Giant 3D Printed Lego with LCD Clock using a Raspberry Pi (1 month ago)
 - [likeablob/cydintosh](https://github.com/likeablob/cydintosh) - Cydintosh: Little 68k Brother is watching your Smart Home 👀 (1 month ago)
-- [adizanni/hydrao](https://github.com/adizanni/hydrao) - Home Assistant Custom Integration for Hydrao shower head (1 month ago)
 
 ---
 
