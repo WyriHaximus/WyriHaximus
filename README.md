@@ -10,17 +10,17 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
-- [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (today)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 day ago)
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (4 days ago)
-- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (4 days ago)
-- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (5 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 day ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
+- [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (1 day ago)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (2 days ago)
+- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (2 days ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (5 days ago)
+- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (5 days ago)
+- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (6 days ago)
 - [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (1 week ago)
 - [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (1 week ago)
 
@@ -75,10 +75,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.2.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.2.0), today) - 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.2.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.2.0), today) - 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.0.0), 1 day ago) - 🌯 PHPStan rules wrapper
-- [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) ([1.0.0](https://github.com/WyriHaximus/phpstan-no-safe/releases/tag/1.0.0), 1 day ago) - PHPStan extension that detects and blocks any usage of `thecodingmachine/safe`
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.2.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.2.0), 1 day ago) - 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.2.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.2.0), 1 day ago) - 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.0.0), 2 days ago) - 🌯 PHPStan rules wrapper
+- [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) ([1.0.0](https://github.com/WyriHaximus/phpstan-no-safe/releases/tag/1.0.0), 2 days ago) - PHPStan extension that detects and blocks any usage of `thecodingmachine/safe`
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.11.1](https://github.com/WyriHaximus/Makefiles/releases/tag/0.11.1), 1 week ago) - Makefile building blocks
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) ([4.0.0](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/releases/tag/4.0.0), 1 week ago) - Trait to run all tests in a fiber
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.31](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.31), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
@@ -93,26 +93,26 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Update to PHP 8.4&#43;](https://github.com/WyriHaximus/php-msgpack/pull/27) on [WyriHaximus/php-msgpack](https://github.com/WyriHaximus/php-msgpack) (today)
-- [Add fallback group for when everything is a daemon](https://github.com/MammatusPHP/groups/pull/47) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
-- [Revert &#34;Update dependency maglnet/composer-require-checker to ^4.24.0&#34;](https://github.com/WyriHaximus/php-test-utilities/pull/1279) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [Add `wyrihaximus/phpstan-no-safe`](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/235) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
-- [Hulk smash some bugs](https://github.com/WyriHaximus/phpstan-no-safe/pull/4) on [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (1 day ago)
-- [Add documentation](https://github.com/WyriHaximus/phpstan-no-safe/pull/3) on [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (1 day ago)
-- [Add note about `phpstan/extension-installer`](https://github.com/WyriHaximus/phpstan-reactphp/pull/55) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
-- [In initial implementation](https://github.com/WyriHaximus/phpstan-no-safe/pull/1) on [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (1 day ago)
-- [Fix include path in the documentation](https://github.com/WyriHaximus/phpstan-reactphp/pull/54) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
-- [Update to PHP8.4&#43;](https://github.com/WyriHaximus/reactphp-http-middleware-session/pull/82) on [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (1 day ago)
-- [Add Handler Input](https://github.com/MammatusPHP/http-server-contracts/pull/23) on [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (4 days ago)
-- [Ignore extensions-from-dev-requirements-in-vendor](https://github.com/WyriHaximus/Makefiles/pull/217) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
-- [Auto detect certain features](https://github.com/WyriHaximus/Makefiles/pull/216) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
+- [Update to PHP 8.4&#43;](https://github.com/WyriHaximus/php-msgpack/pull/27) on [WyriHaximus/php-msgpack](https://github.com/WyriHaximus/php-msgpack) (1 day ago)
+- [Add fallback group for when everything is a daemon](https://github.com/MammatusPHP/groups/pull/47) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 day ago)
+- [Revert &#34;Update dependency maglnet/composer-require-checker to ^4.24.0&#34;](https://github.com/WyriHaximus/php-test-utilities/pull/1279) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [Add `wyrihaximus/phpstan-no-safe`](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/235) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
+- [Hulk smash some bugs](https://github.com/WyriHaximus/phpstan-no-safe/pull/4) on [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (2 days ago)
+- [Add documentation](https://github.com/WyriHaximus/phpstan-no-safe/pull/3) on [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (2 days ago)
+- [Add note about `phpstan/extension-installer`](https://github.com/WyriHaximus/phpstan-reactphp/pull/55) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (2 days ago)
+- [In initial implementation](https://github.com/WyriHaximus/phpstan-no-safe/pull/1) on [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (2 days ago)
+- [Fix include path in the documentation](https://github.com/WyriHaximus/phpstan-reactphp/pull/54) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (2 days ago)
+- [Update to PHP8.4&#43;](https://github.com/WyriHaximus/reactphp-http-middleware-session/pull/82) on [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (2 days ago)
+- [Add Handler Input](https://github.com/MammatusPHP/http-server-contracts/pull/23) on [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (5 days ago)
+- [Ignore extensions-from-dev-requirements-in-vendor](https://github.com/WyriHaximus/Makefiles/pull/217) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
+- [Auto detect certain features](https://github.com/WyriHaximus/Makefiles/pull/216) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [Evidlo/picklecast](https://github.com/Evidlo/picklecast) - Share your screen to a TV/projector with only a browser (today)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (5 days ago)
+- [Evidlo/picklecast](https://github.com/Evidlo/picklecast) - Share your screen to a TV/projector with only a browser (1 day ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (6 days ago)
 - [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for Grocy (1 week ago)
 - [georgegebbett/recipe-buddy](https://github.com/georgegebbett/recipe-buddy) - Recipe Buddy is a tool that enables the easy adding of recipes to Grocy through web scraping.  (1 week ago)
 - [composer/api-surface-check](https://github.com/composer/api-surface-check) - GitHub Action that detect when the public API surface of the project changes and comments on PRs with a summary of changes. (1 week ago)
