@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/reactphp-stream-json](https://github.com/WyriHaximus/reactphp-stream-json) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (today)
+- [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (today)
+- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (today)
+- [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) (today)
+- [WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up](https://github.com/WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up) (today)
+- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 day ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
 - [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (1 day ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (2 days ago)
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (2 days ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (5 days ago)
-- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (5 days ago)
-- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (6 days ago)
-- [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (1 week ago)
-- [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (1 week ago)
 
 ---
 
@@ -111,6 +111,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [helmforgedev/charts](https://github.com/helmforgedev/charts) - Open-source Helm charts, forged to last. The alternative to Bitnami — official upstream images, Apache 2.0 licensed, Cosign signed. (today)
 - [Evidlo/picklecast](https://github.com/Evidlo/picklecast) - Share your screen to a TV/projector with only a browser (1 day ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (6 days ago)
 - [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for Grocy (1 week ago)
@@ -123,7 +124,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [jaytaph/oprf-php](https://github.com/jaytaph/oprf-php) - Oblivious Pseudorandom Function (OPRF) library for PHP, based on RFC 9497 (1 month ago)
 - [scosman/cursed_browser](https://github.com/scosman/cursed_browser) - True AI-Native Browser — a VLM reads the HTML and hallucinates the page. (1 month ago)
 - [coderforlife/lego-lcd](https://github.com/coderforlife/lego-lcd) - Giant 3D Printed Lego with LCD Clock using a Raspberry Pi (1 month ago)
-- [likeablob/cydintosh](https://github.com/likeablob/cydintosh) - Cydintosh: Little 68k Brother is watching your Smart Home 👀 (1 month ago)
 
 ---
 
