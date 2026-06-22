@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
+- [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (today)
+- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (today)
+- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (today)
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
+- [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (today)
 - [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (today)
-- [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (1 day ago)
-- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 day ago)
-- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 day ago)
-- [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) (1 day ago)
-- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (1 day ago)
-- [WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up](https://github.com/WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up) (1 day ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
-- [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (2 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (today)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (today)
 
 ---
 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Drop extra checks from DOS](https://github.com/WyriHaximus/github-workflows/pull/240) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Add composer why support](https://github.com/WyriHaximus/Makefiles/pull/219) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Add support for passing DTO&#39;s to handlers](https://github.com/MammatusPHP/http-server/pull/226) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [Wrap PSR-15 middleware](https://github.com/MammatusPHP/http-server/pull/225) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add note about `phpstan/extension-installer`](https://github.com/WyriHaximus/phpstan-reactphp/pull/55) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (3 days ago)
 - [In initial implementation](https://github.com/WyriHaximus/phpstan-no-safe/pull/1) on [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (3 days ago)
 - [Fix include path in the documentation](https://github.com/WyriHaximus/phpstan-reactphp/pull/54) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (3 days ago)
-- [Update to PHP8.4&#43;](https://github.com/WyriHaximus/reactphp-http-middleware-session/pull/82) on [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (3 days ago)
 
 ---
 
