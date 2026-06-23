@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (today)
+- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (today)
 - [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (today)
-- [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (today)
-- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (today)
 - [WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up](https://github.com/WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up) (today)
+- [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (today)
+- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (today)
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (today)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 day ago)
-- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (1 day ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 day ago)
+- [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) (today)
+- [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (today)
+- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
+- [WyriHaximus/github-action-supported-debian-linux-versions](https://github.com/WyriHaximus/github-action-supported-debian-linux-versions) (today)
 
 ---
 
