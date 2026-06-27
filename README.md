@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
-- [WyriHaximus/github-action-supported-debian-linux-versions](https://github.com/WyriHaximus/github-action-supported-debian-linux-versions) (3 days ago)
-- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (3 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
-- [WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up](https://github.com/WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up) (3 days ago)
-- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (3 days ago)
-- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (3 days ago)
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (3 days ago)
-- [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) (3 days ago)
-- [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (3 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
-- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (3 days ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
+- [WyriHaximus/github-action-supported-debian-linux-versions](https://github.com/WyriHaximus/github-action-supported-debian-linux-versions) (4 days ago)
+- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (4 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
+- [WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up](https://github.com/WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up) (4 days ago)
+- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (4 days ago)
+- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (4 days ago)
+- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (4 days ago)
+- [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) (4 days ago)
+- [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (4 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
+- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (4 days ago)
 
 ---
 
@@ -75,11 +75,11 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.12.1](https://github.com/WyriHaximus/Makefiles/releases/tag/0.12.1), today) - Makefile building blocks
-- [WyriHaximus/php-msgpack](https://github.com/WyriHaximus/php-msgpack) ([1.2.0](https://github.com/WyriHaximus/php-msgpack/releases/tag/1.2.0), 2 days ago) - ext-msgpack polyfill using rybakit/msgpack
-- [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) ([3.1.1](https://github.com/ecoAPM/php-libyear/releases/tag/3.1.1), 4 days ago) - A simple measure of dependency freshness
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.2.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.2.0), 6 days ago) - 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.2.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.2.0), 6 days ago) - 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.12.1](https://github.com/WyriHaximus/Makefiles/releases/tag/0.12.1), 1 day ago) - Makefile building blocks
+- [WyriHaximus/php-msgpack](https://github.com/WyriHaximus/php-msgpack) ([1.2.0](https://github.com/WyriHaximus/php-msgpack/releases/tag/1.2.0), 3 days ago) - ext-msgpack polyfill using rybakit/msgpack
+- [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) ([3.1.1](https://github.com/ecoAPM/php-libyear/releases/tag/3.1.1), 5 days ago) - A simple measure of dependency freshness
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.2.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.2.0), 1 week ago) - 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.2.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.2.0), 1 week ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.0.0), 1 week ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) ([1.0.0](https://github.com/WyriHaximus/phpstan-no-safe/releases/tag/1.0.0), 1 week ago) - PHPStan extension that detects and blocks any usage of `thecodingmachine/safe`
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) ([4.0.0](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/releases/tag/4.0.0), 2 weeks ago) - Trait to run all tests in a fiber
@@ -93,33 +93,33 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Don&#39;t create LICENSE file when license is set to `proprietary` in `composer.json`](https://github.com/WyriHaximus/Makefiles/pull/223) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Make sure we remove appveyor.yml](https://github.com/WyriHaximus/Makefiles/pull/222) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Make sure we remove .scrutinizer.yml](https://github.com/WyriHaximus/Makefiles/pull/221) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Make sure we remove .php_cs](https://github.com/WyriHaximus/Makefiles/pull/220) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Swap internal for daemon when a consumer isn&#39;t split out into its own deployment](https://github.com/MammatusPHP/queue/pull/63) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
-- [Don&#39;t bother with DOS if there is nothing to run](https://github.com/WyriHaximus/github-workflows/pull/241) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
-- [Drop extra checks from DOS](https://github.com/WyriHaximus/github-workflows/pull/240) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
-- [Add composer why support](https://github.com/WyriHaximus/Makefiles/pull/219) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
-- [Add support for passing DTO&#39;s to handlers](https://github.com/MammatusPHP/http-server/pull/226) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (4 days ago)
-- [Wrap PSR-15 middleware](https://github.com/MammatusPHP/http-server/pull/225) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (4 days ago)
-- [Update to PHP 8.4&#43;](https://github.com/WyriHaximus/php-msgpack/pull/27) on [WyriHaximus/php-msgpack](https://github.com/WyriHaximus/php-msgpack) (6 days ago)
-- [Add fallback group for when everything is a daemon](https://github.com/MammatusPHP/groups/pull/47) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (6 days ago)
-- [Revert &#34;Update dependency maglnet/composer-require-checker to ^4.24.0&#34;](https://github.com/WyriHaximus/php-test-utilities/pull/1279) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
+- [Don&#39;t create LICENSE file when license is set to `proprietary` in `composer.json`](https://github.com/WyriHaximus/Makefiles/pull/223) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [Make sure we remove appveyor.yml](https://github.com/WyriHaximus/Makefiles/pull/222) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Make sure we remove .scrutinizer.yml](https://github.com/WyriHaximus/Makefiles/pull/221) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Make sure we remove .php_cs](https://github.com/WyriHaximus/Makefiles/pull/220) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Swap internal for daemon when a consumer isn&#39;t split out into its own deployment](https://github.com/MammatusPHP/queue/pull/63) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
+- [Don&#39;t bother with DOS if there is nothing to run](https://github.com/WyriHaximus/github-workflows/pull/241) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
+- [Drop extra checks from DOS](https://github.com/WyriHaximus/github-workflows/pull/240) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
+- [Add composer why support](https://github.com/WyriHaximus/Makefiles/pull/219) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
+- [Add support for passing DTO&#39;s to handlers](https://github.com/MammatusPHP/http-server/pull/226) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (5 days ago)
+- [Wrap PSR-15 middleware](https://github.com/MammatusPHP/http-server/pull/225) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (5 days ago)
+- [Update to PHP 8.4&#43;](https://github.com/WyriHaximus/php-msgpack/pull/27) on [WyriHaximus/php-msgpack](https://github.com/WyriHaximus/php-msgpack) (1 week ago)
+- [Add fallback group for when everything is a daemon](https://github.com/MammatusPHP/groups/pull/47) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 week ago)
+- [Revert &#34;Update dependency maglnet/composer-require-checker to ^4.24.0&#34;](https://github.com/WyriHaximus/php-test-utilities/pull/1279) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [home-operations/chaski](https://github.com/home-operations/chaski) - A small, stateless, webhook relay (2 days ago)
-- [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI (3 days ago)
-- [helmforgedev/charts](https://github.com/helmforgedev/charts) - Open-source Helm charts, forged to last. The alternative to Bitnami — official upstream images, Apache 2.0 licensed, Cosign signed. (5 days ago)
-- [Evidlo/picklecast](https://github.com/Evidlo/picklecast) - Share your screen to a TV/projector with only a browser (6 days ago)
+- [home-operations/chaski](https://github.com/home-operations/chaski) - A small, stateless, webhook relay (3 days ago)
+- [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI (4 days ago)
+- [helmforgedev/charts](https://github.com/helmforgedev/charts) - Open-source Helm charts, forged to last. The alternative to Bitnami — official upstream images, Apache 2.0 licensed, Cosign signed. (6 days ago)
+- [Evidlo/picklecast](https://github.com/Evidlo/picklecast) - Share your screen to a TV/projector with only a browser (1 week ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 week ago)
 - [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for Grocy (2 weeks ago)
 - [georgegebbett/recipe-buddy](https://github.com/georgegebbett/recipe-buddy) - Recipe Buddy is a tool that enables the easy adding of recipes to Grocy through web scraping.  (2 weeks ago)
 - [composer/api-surface-check](https://github.com/composer/api-surface-check) - GitHub Action that detect when the public API surface of the project changes and comments on PRs with a summary of changes. (2 weeks ago)
-- [actions/upload-code-coverage](https://github.com/actions/upload-code-coverage) - Upload code coverage report from your GitHub Actions workflow (4 weeks ago)
+- [actions/upload-code-coverage](https://github.com/actions/upload-code-coverage) - Upload code coverage report from your GitHub Actions workflow (1 month ago)
 - [colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger) - PSR-3 compliant test logger based on psr/log v1&#39;s (1 month ago)
 - [hasanharman/isomiddleearth](https://github.com/hasanharman/isomiddleearth) - An isometric world‑builder set in Tolkien’s Middle‑earth, where you create and shape your own landscapes inspired by its iconic lands and lore. (1 month ago)
 - [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) -  (1 month ago)
