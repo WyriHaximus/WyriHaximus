@@ -12,7 +12,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
+- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (today)
 - [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (today)
@@ -75,14 +75,14 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([4.1.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/4.1.0), today) - PHP Coding Standard
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.3.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.3.0), today) - 
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([4.2.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/4.2.0), today) - PHP Coding Standard
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([5.0.0](https://github.com/MammatusPHP/kubernetes-events/releases/tag/5.0.0), today) - 
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.3.0](https://github.com/MammatusPHP/groups/releases/tag/0.3.0), today) - Group different components of you app into one process
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.12.1](https://github.com/WyriHaximus/Makefiles/releases/tag/0.12.1), 1 day ago) - Makefile building blocks
 - [WyriHaximus/php-msgpack](https://github.com/WyriHaximus/php-msgpack) ([1.2.0](https://github.com/WyriHaximus/php-msgpack/releases/tag/1.2.0), 3 days ago) - ext-msgpack polyfill using rybakit/msgpack
 - [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) ([3.1.1](https://github.com/ecoAPM/php-libyear/releases/tag/3.1.1), 5 days ago) - A simple measure of dependency freshness
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.2.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.2.0), 1 week ago) - 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.2.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.2.0), 1 week ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.0.0), 1 week ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) ([1.0.0](https://github.com/WyriHaximus/phpstan-no-safe/releases/tag/1.0.0), 1 week ago) - PHPStan extension that detects and blocks any usage of `thecodingmachine/safe`
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) ([4.0.0](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/releases/tag/4.0.0), 2 weeks ago) - Trait to run all tests in a fiber
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Disable: SlevomatCodingStandard.PHP.RequireExplicitAssertion](https://github.com/WyriHaximus/php-coding-standard/pull/124) on [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
 - [Add `wyrihaximus/makefiles` for easy make commands](https://github.com/WyriHaximus/php-coding-standard/pull/123) on [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
 - [[WIP] Add transaction support](https://github.com/voryx/PgAsync/pull/58) on [voryx/PgAsync](https://github.com/voryx/PgAsync) (today)
 - [Don&#39;t create LICENSE file when license is set to `proprietary` in `composer.json`](https://github.com/WyriHaximus/Makefiles/pull/223) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add composer why support](https://github.com/WyriHaximus/Makefiles/pull/219) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 - [Add support for passing DTO&#39;s to handlers](https://github.com/MammatusPHP/http-server/pull/226) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (5 days ago)
 - [Wrap PSR-15 middleware](https://github.com/MammatusPHP/http-server/pull/225) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (5 days ago)
-- [Update to PHP 8.4&#43;](https://github.com/WyriHaximus/php-msgpack/pull/27) on [WyriHaximus/php-msgpack](https://github.com/WyriHaximus/php-msgpack) (1 week ago)
 
 ---
 
