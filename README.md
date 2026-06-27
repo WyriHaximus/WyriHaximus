@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) (today)
+- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/reactphp-stream-json](https://github.com/WyriHaximus/reactphp-stream-json) (today)
-- [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (today)
-- [WyriHaximus/php-json-utilities](https://github.com/WyriHaximus/php-json-utilities) (today)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
-- [WyriHaximus/php-monolog-processors](https://github.com/WyriHaximus/php-monolog-processors) (today)
-- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (today)
-- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (today)
-- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (today)
-- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (today)
 - [WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up](https://github.com/WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up) (today)
-- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
+- [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (today)
+- [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) (today)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [WyriHaximus/reactphp-http-middleware-with-headers](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers) (today)
+- [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (today)
+- [WyriHaximus/reactphp-stream-json](https://github.com/WyriHaximus/reactphp-stream-json) (today)
+- [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (today)
+- [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (today)
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (today)
+- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (today)
 
 ---
 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[WIP] Add transaction support](https://github.com/voryx/PgAsync/pull/58) on [voryx/PgAsync](https://github.com/voryx/PgAsync) (today)
 - [Don&#39;t create LICENSE file when license is set to `proprietary` in `composer.json`](https://github.com/WyriHaximus/Makefiles/pull/223) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Make sure we remove appveyor.yml](https://github.com/WyriHaximus/Makefiles/pull/222) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [Make sure we remove .scrutinizer.yml](https://github.com/WyriHaximus/Makefiles/pull/221) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Wrap PSR-15 middleware](https://github.com/MammatusPHP/http-server/pull/225) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (5 days ago)
 - [Update to PHP 8.4&#43;](https://github.com/WyriHaximus/php-msgpack/pull/27) on [WyriHaximus/php-msgpack](https://github.com/WyriHaximus/php-msgpack) (1 week ago)
 - [Add fallback group for when everything is a daemon](https://github.com/MammatusPHP/groups/pull/47) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 week ago)
-- [Revert &#34;Update dependency maglnet/composer-require-checker to ^4.24.0&#34;](https://github.com/WyriHaximus/php-test-utilities/pull/1279) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 
 ---
 
