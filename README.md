@@ -15,14 +15,14 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
-- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (1 day ago)
-- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (1 day ago)
-- [WyriHaximus/reactphp-http-middleware-with-headers](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers) (1 day ago)
-- [WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up](https://github.com/WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up) (1 day ago)
-- [WyriHaximus/reactphp-stream-json](https://github.com/WyriHaximus/reactphp-stream-json) (1 day ago)
 - [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (1 day ago)
 - [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (1 day ago)
-- [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (1 day ago)
+- [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (1 day ago)
+- [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (1 day ago)
+- [WyriHaximus/php-json-utilities](https://github.com/WyriHaximus/php-json-utilities) (1 day ago)
+- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (1 day ago)
+- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (1 day ago)
+- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (1 day ago)
 
 ---
 
