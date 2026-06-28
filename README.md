@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (today)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
-- [WyriHaximus/php-monolog-processors](https://github.com/WyriHaximus/php-monolog-processors) (today)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
-- [WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up](https://github.com/WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up) (today)
-- [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) (today)
-- [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (today)
 - [WyriHaximus/reactphp-stream-json](https://github.com/WyriHaximus/reactphp-stream-json) (today)
-- [WyriHaximus/reactphp-http-middleware-with-headers](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (today)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
+- [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (today)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (today)
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
+- [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
+- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (today)
 
 ---
 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add `composer outdated`](https://github.com/WyriHaximus/Makefiles/pull/226) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Migrate Compose Unused from composer.json extra unused to etc/qa/composer-unused.php](https://github.com/WyriHaximus/Makefiles/pull/225) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Disable: SlevomatCodingStandard.PHP.RequireExplicitAssertion](https://github.com/WyriHaximus/php-coding-standard/pull/124) on [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 day ago)
 - [Add `wyrihaximus/makefiles` for easy make commands](https://github.com/WyriHaximus/php-coding-standard/pull/123) on [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Don&#39;t bother with DOS if there is nothing to run](https://github.com/WyriHaximus/github-workflows/pull/241) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
 - [Drop extra checks from DOS](https://github.com/WyriHaximus/github-workflows/pull/240) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
 - [Add composer why support](https://github.com/WyriHaximus/Makefiles/pull/219) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
-- [Add support for passing DTO&#39;s to handlers](https://github.com/MammatusPHP/http-server/pull/226) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (6 days ago)
 
 ---
 
