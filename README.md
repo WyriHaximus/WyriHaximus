@@ -111,6 +111,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [vmactions/freebsd-vm](https://github.com/vmactions/freebsd-vm) - Use FreeBSD in github actions (today)
 - [home-operations/chaski](https://github.com/home-operations/chaski) - A small, stateless, webhook relay (5 days ago)
 - [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI (6 days ago)
 - [helmforgedev/charts](https://github.com/helmforgedev/charts) - Open-source Helm charts, forged to last. The alternative to Bitnami — official upstream images, Apache 2.0 licensed, Cosign signed. (1 week ago)
@@ -123,7 +124,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger) - PSR-3 compliant test logger based on psr/log v1&#39;s (1 month ago)
 - [hasanharman/isomiddleearth](https://github.com/hasanharman/isomiddleearth) - An isometric world‑builder set in Tolkien’s Middle‑earth, where you create and shape your own landscapes inspired by its iconic lands and lore. (1 month ago)
 - [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) -  (1 month ago)
-- [jaytaph/oprf-php](https://github.com/jaytaph/oprf-php) - Oblivious Pseudorandom Function (OPRF) library for PHP, based on RFC 9497 (1 month ago)
 
 ---
 
