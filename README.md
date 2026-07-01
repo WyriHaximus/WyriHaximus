@@ -12,8 +12,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (3 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (3 days ago)
 - [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (3 days ago)
@@ -84,10 +84,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.3.0](https://github.com/MammatusPHP/groups/releases/tag/0.3.0), 4 days ago) - Group different components of you app into one process
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.12.1](https://github.com/WyriHaximus/Makefiles/releases/tag/0.12.1), 5 days ago) - Makefile building blocks
 - [WyriHaximus/php-msgpack](https://github.com/WyriHaximus/php-msgpack) ([1.2.0](https://github.com/WyriHaximus/php-msgpack/releases/tag/1.2.0), 1 week ago) - ext-msgpack polyfill using rybakit/msgpack
-- [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) ([3.1.1](https://github.com/ecoAPM/php-libyear/releases/tag/3.1.1), 1 week ago) - A simple measure of dependency freshness
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.0.0), 1 week ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) ([1.0.0](https://github.com/WyriHaximus/phpstan-no-safe/releases/tag/1.0.0), 1 week ago) - PHPStan extension that detects and blocks any usage of `thecodingmachine/safe`
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) ([4.0.0](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/releases/tag/4.0.0), 3 weeks ago) - Trait to run all tests in a fiber
+- [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) ([2.4.0](https://github.com/WyriHaximus/php-simple-twig/releases/tag/2.4.0), 1 month ago) - Wrapper around Twig making rendering a string template trivial.
 
 ---
 
