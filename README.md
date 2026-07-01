@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (3 days ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
-- [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (3 days ago)
+- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (3 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (3 days ago)
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (3 days ago)
 - [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (3 days ago)
 - [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (3 days ago)
-- [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (3 days ago)
+- [WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up](https://github.com/WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up) (3 days ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
+- [WyriHaximus/reactphp-stream-json](https://github.com/WyriHaximus/reactphp-stream-json) (3 days ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
-- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (3 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
-- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (3 days ago)
 
 ---
 
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.32](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.32), today) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.4.0](https://github.com/MammatusPHP/kubernetes/releases/tag/0.4.0), 3 days ago) - Kubernetes related tooling
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.3.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.3.0), 4 days ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.3.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.3.0), 4 days ago) - 
@@ -87,12 +88,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.0.0), 1 week ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) ([1.0.0](https://github.com/WyriHaximus/phpstan-no-safe/releases/tag/1.0.0), 1 week ago) - PHPStan extension that detects and blocks any usage of `thecodingmachine/safe`
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) ([4.0.0](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber/releases/tag/4.0.0), 3 weeks ago) - Trait to run all tests in a fiber
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.31](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.31), 4 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [[New Version] Update versions file to PHP 8.5.8](https://github.com/WyriHaximus/php-fake-php-version/pull/189) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [Update to PHP 8.4&#43;](https://github.com/WyriHaximus/reactphp-http-middleware-response-cache/pull/32) on [WyriHaximus/reactphp-http-middleware-response-cache](https://github.com/WyriHaximus/reactphp-http-middleware-response-cache) (1 day ago)
 - [Add `composer outdated`](https://github.com/WyriHaximus/Makefiles/pull/226) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [Migrate Compose Unused from composer.json extra unused to etc/qa/composer-unused.php](https://github.com/WyriHaximus/Makefiles/pull/225) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Make sure we remove .php_cs](https://github.com/WyriHaximus/Makefiles/pull/220) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Swap internal for daemon when a consumer isn&#39;t split out into its own deployment](https://github.com/MammatusPHP/queue/pull/63) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 week ago)
 - [Don&#39;t bother with DOS if there is nothing to run](https://github.com/WyriHaximus/github-workflows/pull/241) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
-- [Drop extra checks from DOS](https://github.com/WyriHaximus/github-workflows/pull/240) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 
 ---
 
