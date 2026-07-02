@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Switch to Groups types for worker types](https://github.com/MammatusPHP/queue/pull/68) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
+- [Put all paths between backticks in descriptions](https://github.com/WyriHaximus/Makefiles/pull/230) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Accept backticks (`) in task descriptions](https://github.com/WyriHaximus/Makefiles/pull/229) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Accept underscores (_) in task descriptions](https://github.com/WyriHaximus/Makefiles/pull/228) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Set `OTEL_PHP_FIBERS_ENABLED` to false for interactive shells](https://github.com/WyriHaximus/Makefiles/pull/227) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add `wyrihaximus/makefiles` for easy make commands](https://github.com/WyriHaximus/php-coding-standard/pull/123) on [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (5 days ago)
 - [[WIP] Add transaction support](https://github.com/voryx/PgAsync/pull/58) on [voryx/PgAsync](https://github.com/voryx/PgAsync) (5 days ago)
 - [Don&#39;t create LICENSE file when license is set to `proprietary` in `composer.json`](https://github.com/WyriHaximus/Makefiles/pull/223) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [Make sure we remove appveyor.yml](https://github.com/WyriHaximus/Makefiles/pull/222) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [Make sure we remove .scrutinizer.yml](https://github.com/WyriHaximus/Makefiles/pull/221) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 
 ---
 
