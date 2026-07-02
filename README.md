@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
-- [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (4 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (4 days ago)
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (4 days ago)
-- [WyriHaximus/php-json-utilities](https://github.com/WyriHaximus/php-json-utilities) (4 days ago)
-- [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (4 days ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
+- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (4 days ago)
 - [WyriHaximus/php-monolog-processors](https://github.com/WyriHaximus/php-monolog-processors) (4 days ago)
-- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (4 days ago)
+- [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) (4 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (4 days ago)
+- [WyriHaximus/reactphp-stream-json](https://github.com/WyriHaximus/reactphp-stream-json) (4 days ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
+- [WyriHaximus/reactphp-http-middleware-with-headers](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers) (4 days ago)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (4 days ago)
 
 ---
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.12.2](https://github.com/WyriHaximus/Makefiles/releases/tag/0.12.2), today) - Makefile building blocks
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.32](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.32), 1 day ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.4.0](https://github.com/MammatusPHP/kubernetes/releases/tag/0.4.0), 4 days ago) - Kubernetes related tooling
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.3.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.3.0), 5 days ago) - 
@@ -82,7 +83,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([4.2.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/4.2.0), 5 days ago) - PHP Coding Standard
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([5.0.0](https://github.com/MammatusPHP/kubernetes-events/releases/tag/5.0.0), 5 days ago) - 
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.3.0](https://github.com/MammatusPHP/groups/releases/tag/0.3.0), 5 days ago) - Group different components of you app into one process
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.12.1](https://github.com/WyriHaximus/Makefiles/releases/tag/0.12.1), 6 days ago) - Makefile building blocks
 - [WyriHaximus/php-msgpack](https://github.com/WyriHaximus/php-msgpack) ([1.2.0](https://github.com/WyriHaximus/php-msgpack/releases/tag/1.2.0), 1 week ago) - ext-msgpack polyfill using rybakit/msgpack
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.0.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.0.0), 1 week ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) ([1.0.0](https://github.com/WyriHaximus/phpstan-no-safe/releases/tag/1.0.0), 1 week ago) - PHPStan extension that detects and blocks any usage of `thecodingmachine/safe`
@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Accept backticks (`) in task descriptions](https://github.com/WyriHaximus/Makefiles/pull/229) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Accept underscores (_) in task descriptions](https://github.com/WyriHaximus/Makefiles/pull/228) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Set `OTEL_PHP_FIBERS_ENABLED` to false for interactive shells](https://github.com/WyriHaximus/Makefiles/pull/227) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [[New Version] Update versions file to PHP 8.5.8](https://github.com/WyriHaximus/php-fake-php-version/pull/189) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
 - [Update to PHP 8.4&#43;](https://github.com/WyriHaximus/reactphp-http-middleware-response-cache/pull/32) on [WyriHaximus/reactphp-http-middleware-response-cache](https://github.com/WyriHaximus/reactphp-http-middleware-response-cache) (2 days ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Don&#39;t create LICENSE file when license is set to `proprietary` in `composer.json`](https://github.com/WyriHaximus/Makefiles/pull/223) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Make sure we remove appveyor.yml](https://github.com/WyriHaximus/Makefiles/pull/222) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Make sure we remove .scrutinizer.yml](https://github.com/WyriHaximus/Makefiles/pull/221) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [Make sure we remove .php_cs](https://github.com/WyriHaximus/Makefiles/pull/220) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [Swap internal for daemon when a consumer isn&#39;t split out into its own deployment](https://github.com/MammatusPHP/queue/pull/63) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 week ago)
 
 ---
 
