@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.4.1](https://github.com/MammatusPHP/kubernetes/releases/tag/0.4.1), today) - Kubernetes related tooling
 - [WyriHaximus/bug-free-chainsaw](https://github.com/WyriHaximus/bug-free-chainsaw) ([r2](https://github.com/WyriHaximus/bug-free-chainsaw/releases/tag/r2), today) - Test out `github-workflows` release changes
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) ([1.2.0](https://github.com/MammatusPHP/kubernetes-attributes/releases/tag/1.2.0), today) - 
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([5.1.0](https://github.com/MammatusPHP/kubernetes-events/releases/tag/5.1.0), today) - 
@@ -82,7 +83,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.19](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.19), 1 day ago) - 
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.12.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.12.3), 3 days ago) - Makefile building blocks
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.32](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.32), 4 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.4.0](https://github.com/MammatusPHP/kubernetes/releases/tag/0.4.0), 1 week ago) - Kubernetes related tooling
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.3.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.3.0), 1 week ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.3.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.3.0), 1 week ago) - 
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([4.2.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/4.2.0), 1 week ago) - PHP Coding Standard
