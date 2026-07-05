@@ -111,6 +111,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight &amp; schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. (today)
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open source Kubernetes UI. Topology, event timeline, and service traffic — plus resource browsing and Helm management. (1 day ago)
 - [micr0-dev/Altbot](https://github.com/micr0-dev/Altbot) - Accessibility bot designed to enhance the Fediverse by generating alt-text descriptions for images, video, and audio. (6 days ago)
 - [tecnickcom/tc-lib-pdf](https://github.com/tecnickcom/tc-lib-pdf) - PHP PDF Library (TCPDF) (6 days ago)
@@ -123,7 +124,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for Grocy (3 weeks ago)
 - [georgegebbett/recipe-buddy](https://github.com/georgegebbett/recipe-buddy) - Recipe Buddy is a tool that enables the easy adding of recipes to Grocy through web scraping.  (3 weeks ago)
 - [composer/api-surface-check](https://github.com/composer/api-surface-check) - GitHub Action that detect when the public API surface of the project changes and comments on PRs with a summary of changes. (3 weeks ago)
-- [actions/upload-code-coverage](https://github.com/actions/upload-code-coverage) - Upload code coverage report from your GitHub Actions workflow (1 month ago)
 
 ---
 
