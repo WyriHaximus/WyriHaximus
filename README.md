@@ -75,10 +75,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.19](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.19), today) - 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.12.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.12.3), 2 days ago) - Makefile building blocks
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.32](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.32), 3 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.4.0](https://github.com/MammatusPHP/kubernetes/releases/tag/0.4.0), 6 days ago) - Kubernetes related tooling
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.19](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.19), 1 day ago) - 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.12.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.12.3), 3 days ago) - Makefile building blocks
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.32](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.32), 4 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.4.0](https://github.com/MammatusPHP/kubernetes/releases/tag/0.4.0), 1 week ago) - Kubernetes related tooling
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.3.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.3.0), 1 week ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.3.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.3.0), 1 week ago) - 
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([4.2.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/4.2.0), 1 week ago) - PHP Coding Standard
@@ -93,31 +93,31 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Move generated code to ContainerListenerProvider](https://github.com/WyriHaximus/php-broadcast/pull/353) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
-- [Make sure we remove `.travis.yml`](https://github.com/WyriHaximus/Makefiles/pull/231) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Always fetch tags on checkouts if we care about the tags](https://github.com/WyriHaximus/github-workflows/pull/250) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [Add support for services](https://github.com/MammatusPHP/kubernetes-events/pull/59) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (today)
-- [Add support for exposing services](https://github.com/MammatusPHP/helm-charts/pull/42) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (today)
-- [Add `wyrihaximus/makefiles` as it supports packages without tests now](https://github.com/MammatusPHP/kubernetes-contracts/pull/22) on [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (today)
-- [Update Node version from 20 to 24 in action.yml](https://github.com/WyriHaximus/github-action-helm3/pull/147) on [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (today)
-- [Switch to Groups types for worker types](https://github.com/MammatusPHP/queue/pull/68) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
-- [Put all paths between backticks in descriptions](https://github.com/WyriHaximus/Makefiles/pull/230) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Accept backticks (`) in task descriptions](https://github.com/WyriHaximus/Makefiles/pull/229) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Accept underscores (_) in task descriptions](https://github.com/WyriHaximus/Makefiles/pull/228) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Set `OTEL_PHP_FIBERS_ENABLED` to false for interactive shells](https://github.com/WyriHaximus/Makefiles/pull/227) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
-- [[New Version] Update versions file to PHP 8.5.8](https://github.com/WyriHaximus/php-fake-php-version/pull/189) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (3 days ago)
+- [Move generated code to ContainerListenerProvider](https://github.com/WyriHaximus/php-broadcast/pull/353) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
+- [Make sure we remove `.travis.yml`](https://github.com/WyriHaximus/Makefiles/pull/231) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [Always fetch tags on checkouts if we care about the tags](https://github.com/WyriHaximus/github-workflows/pull/250) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [Add support for services](https://github.com/MammatusPHP/kubernetes-events/pull/59) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
+- [Add support for exposing services](https://github.com/MammatusPHP/helm-charts/pull/42) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 day ago)
+- [Add `wyrihaximus/makefiles` as it supports packages without tests now](https://github.com/MammatusPHP/kubernetes-contracts/pull/22) on [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (1 day ago)
+- [Update Node version from 20 to 24 in action.yml](https://github.com/WyriHaximus/github-action-helm3/pull/147) on [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (1 day ago)
+- [Switch to Groups types for worker types](https://github.com/MammatusPHP/queue/pull/68) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
+- [Put all paths between backticks in descriptions](https://github.com/WyriHaximus/Makefiles/pull/230) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Accept backticks (`) in task descriptions](https://github.com/WyriHaximus/Makefiles/pull/229) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Accept underscores (_) in task descriptions](https://github.com/WyriHaximus/Makefiles/pull/228) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Set `OTEL_PHP_FIBERS_ENABLED` to false for interactive shells](https://github.com/WyriHaximus/Makefiles/pull/227) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
+- [[New Version] Update versions file to PHP 8.5.8](https://github.com/WyriHaximus/php-fake-php-version/pull/189) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (4 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open source Kubernetes UI. Topology, event timeline, and service traffic — plus resource browsing and Helm management. (today)
-- [micr0-dev/Altbot](https://github.com/micr0-dev/Altbot) - Accessibility bot designed to enhance the Fediverse by generating alt-text descriptions for images, video, and audio. (5 days ago)
-- [tecnickcom/tc-lib-pdf](https://github.com/tecnickcom/tc-lib-pdf) - PHP PDF Library (TCPDF) (5 days ago)
-- [vmactions/freebsd-vm](https://github.com/vmactions/freebsd-vm) - Use FreeBSD in github actions (5 days ago)
+- [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open source Kubernetes UI. Topology, event timeline, and service traffic — plus resource browsing and Helm management. (1 day ago)
+- [micr0-dev/Altbot](https://github.com/micr0-dev/Altbot) - Accessibility bot designed to enhance the Fediverse by generating alt-text descriptions for images, video, and audio. (6 days ago)
+- [tecnickcom/tc-lib-pdf](https://github.com/tecnickcom/tc-lib-pdf) - PHP PDF Library (TCPDF) (6 days ago)
+- [vmactions/freebsd-vm](https://github.com/vmactions/freebsd-vm) - Use FreeBSD in github actions (6 days ago)
 - [home-operations/chaski](https://github.com/home-operations/chaski) - A small, stateless, webhook relay (1 week ago)
 - [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI (1 week ago)
-- [helmforgedev/charts](https://github.com/helmforgedev/charts) - Open-source Helm charts, forged to last. The alternative to Bitnami — official upstream images, Apache 2.0 licensed, Cosign signed. (1 week ago)
+- [helmforgedev/charts](https://github.com/helmforgedev/charts) - Open-source Helm charts, forged to last. The alternative to Bitnami — official upstream images, Apache 2.0 licensed, Cosign signed. (2 weeks ago)
 - [Evidlo/picklecast](https://github.com/Evidlo/picklecast) - Share your screen to a TV/projector with only a browser (2 weeks ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (2 weeks ago)
 - [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for Grocy (3 weeks ago)
