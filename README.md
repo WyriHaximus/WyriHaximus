@@ -10,15 +10,15 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
+- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/php-monolog-processors](https://github.com/WyriHaximus/php-monolog-processors) (today)
 - [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (today)
 - [WyriHaximus/bug-free-chainsaw](https://github.com/WyriHaximus/bug-free-chainsaw) (today)
-- [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (today)
 - [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (today)
-- [WyriHaximus/reactphp-stream-json](https://github.com/WyriHaximus/reactphp-stream-json) (today)
 - [WyriHaximus/reactphp-http-middleware-with-headers](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers) (today)
+- [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (today)
+- [WyriHaximus/reactphp-stream-json](https://github.com/WyriHaximus/reactphp-stream-json) (today)
 - [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (today)
 - [WyriHaximus/php-json-utilities](https://github.com/WyriHaximus/php-json-utilities) (today)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Fix 1.4 tag test](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/84) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (today)
+- [Error out when fallingback to fallback but not fallback is available](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/83) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (today)
 - [Update project title from &#39;Bug Free 🔗🪚&#39; to &#39;🐛 Free 🔗🪚&#39;](https://github.com/WyriHaximus/bug-free-chainsaw/pull/3) on [WyriHaximus/bug-free-chainsaw](https://github.com/WyriHaximus/bug-free-chainsaw) (today)
 - [Change project title to include emojis](https://github.com/WyriHaximus/bug-free-chainsaw/pull/2) on [WyriHaximus/bug-free-chainsaw](https://github.com/WyriHaximus/bug-free-chainsaw) (today)
 - [Correct project title casing in README](https://github.com/WyriHaximus/bug-free-chainsaw/pull/1) on [WyriHaximus/bug-free-chainsaw](https://github.com/WyriHaximus/bug-free-chainsaw) (today)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Always fetch tags on checkouts if we care about the tags](https://github.com/WyriHaximus/github-workflows/pull/250) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [Add support for services](https://github.com/MammatusPHP/kubernetes-events/pull/59) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
 - [Add support for exposing services](https://github.com/MammatusPHP/helm-charts/pull/42) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 day ago)
-- [Add `wyrihaximus/makefiles` as it supports packages without tests now](https://github.com/MammatusPHP/kubernetes-contracts/pull/22) on [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (1 day ago)
-- [Update Node version from 20 to 24 in action.yml](https://github.com/WyriHaximus/github-action-helm3/pull/147) on [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (1 day ago)
 
 ---
 
