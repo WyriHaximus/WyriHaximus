@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Get Debian images back up to spec](https://github.com/WyriHaximusNet/docker-php/pull/398) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Replace `therussiankid92/gat` with `nick-fields/assert-action` as the…](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/85) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (1 day ago)
 - [Fix 1.4 tag test](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/84) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (1 day ago)
 - [Error out when fallingback to fallback but not fallback is available](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/83) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (1 day ago)
@@ -105,12 +106,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Move generated code to ContainerListenerProvider](https://github.com/WyriHaximus/php-broadcast/pull/353) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
 - [Make sure we remove `.travis.yml`](https://github.com/WyriHaximus/Makefiles/pull/231) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Always fetch tags on checkouts if we care about the tags](https://github.com/WyriHaximus/github-workflows/pull/250) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
-- [Add support for services](https://github.com/MammatusPHP/kubernetes-events/pull/59) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (2 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output (today)
 - [smartmontools/smartmontools](https://github.com/smartmontools/smartmontools) - 2025-06-01: This is now the official upstream repository of smartmontools (1 day ago)
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight &amp; schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. (1 day ago)
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open source Kubernetes UI. Topology, event timeline, and service traffic — plus resource browsing and Helm management. (2 days ago)
@@ -123,7 +124,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Evidlo/picklecast](https://github.com/Evidlo/picklecast) - Share your screen to a TV/projector with only a browser (2 weeks ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (3 weeks ago)
 - [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for Grocy (3 weeks ago)
-- [georgegebbett/recipe-buddy](https://github.com/georgegebbett/recipe-buddy) - Recipe Buddy is a tool that enables the easy adding of recipes to Grocy through web scraping.  (3 weeks ago)
 
 ---
 
