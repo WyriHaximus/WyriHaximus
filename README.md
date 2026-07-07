@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (today)
+- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (today)
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (today)
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (2 days ago)
-- [WyriHaximus/php-monolog-processors](https://github.com/WyriHaximus/php-monolog-processors) (2 days ago)
-- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (2 days ago)
-- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (2 days ago)
-- [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (2 days ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
-- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (2 days ago)
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (2 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (today)
+- [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (today)
+- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (today)
+- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (today)
+- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (today)
+- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (today)
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
 
 ---
 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add QA tooling now that it supports contracts packages](https://github.com/WyriHaximus/php-compress-contracts/pull/17) on [WyriHaximus/php-compress-contracts](https://github.com/WyriHaximus/php-compress-contracts) (today)
 - [Renovate should ignore the `situations` folder](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/80) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (today)
 - [Alpine should ignore changes to Debian related files](https://github.com/WyriHaximusNet/docker-php/pull/399) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Get Debian images back up to spec](https://github.com/WyriHaximusNet/docker-php/pull/398) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add k8s services support](https://github.com/MammatusPHP/http-server/pull/233) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (2 days ago)
 - [Add Service attribute](https://github.com/MammatusPHP/kubernetes-attributes/pull/38) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (2 days ago)
 - [Add daemon to normal lookup](https://github.com/MammatusPHP/groups/pull/52) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (2 days ago)
-- [Move generated code to ContainerListenerProvider](https://github.com/WyriHaximus/php-broadcast/pull/353) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (3 days ago)
 
 ---
 
