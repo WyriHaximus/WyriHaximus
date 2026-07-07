@@ -18,10 +18,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (2 days ago)
 - [WyriHaximus/php-monolog-processors](https://github.com/WyriHaximus/php-monolog-processors) (2 days ago)
 - [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (2 days ago)
-- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (2 days ago)
+- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (2 days ago)
 - [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (2 days ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
-- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (2 days ago)
+- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (2 days ago)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (2 days ago)
 
 ---
