@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (today)
+- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (today)
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
+- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (1 day ago)
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (1 day ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
-- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (1 day ago)
-- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (1 day ago)
 - [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (1 day ago)
-- [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (1 day ago)
-- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (1 day ago)
+- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 day ago)
+- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (1 day ago)
 - [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (1 day ago)
-- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (1 day ago)
+- [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (1 day ago)
 
 ---
 
@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Update `wyrihaximus/test-utilities` (and `phpunit/phpunit`)](https://github.com/WyriHaximus/php-compress-test-utilities/pull/127) on [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (today)
+- [Alpine should ignore changes to Debian related files (Part II: Pull Requests)](https://github.com/WyriHaximusNet/docker-php/pull/400) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Add QA tooling now that it supports contracts packages](https://github.com/WyriHaximus/php-compress-contracts/pull/17) on [WyriHaximus/php-compress-contracts](https://github.com/WyriHaximus/php-compress-contracts) (1 day ago)
 - [Renovate should ignore the `situations` folder](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/80) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (1 day ago)
 - [Alpine should ignore changes to Debian related files](https://github.com/WyriHaximusNet/docker-php/pull/399) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Change project title to include emojis](https://github.com/WyriHaximus/bug-free-chainsaw/pull/2) on [WyriHaximus/bug-free-chainsaw](https://github.com/WyriHaximus/bug-free-chainsaw) (3 days ago)
 - [Correct project title casing in README](https://github.com/WyriHaximus/bug-free-chainsaw/pull/1) on [WyriHaximus/bug-free-chainsaw](https://github.com/WyriHaximus/bug-free-chainsaw) (3 days ago)
 - [Add k8s services support](https://github.com/MammatusPHP/http-server/pull/233) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (3 days ago)
-- [Add Service attribute](https://github.com/MammatusPHP/kubernetes-attributes/pull/38) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (3 days ago)
-- [Add daemon to normal lookup](https://github.com/MammatusPHP/groups/pull/52) on [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (3 days ago)
 
 ---
 
