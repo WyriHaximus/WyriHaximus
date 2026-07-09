@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (today)
-- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (today)
 - [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (today)
+- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (today)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (today)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (today)
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (1 day ago)
-- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (1 day ago)
-- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (1 day ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
-- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 day ago)
+- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (today)
+- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (today)
 - [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (1 day ago)
-- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (1 day ago)
-- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 day ago)
-- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (1 day ago)
+- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (1 day ago)
+- [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (1 day ago)
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (1 day ago)
+- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 day ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 
 ---
 
@@ -93,6 +93,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Remove Redis env and services from CI workflow](https://github.com/MammatusPHP/kubernetes-keda/pull/36) on [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (today)
+- [No Directly-On-OS when service containers are required](https://github.com/WyriHaximus/github-workflows/pull/254) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [Introduce `wyrihaximus/makefiles`](https://github.com/WyriHaximus/php-css-compress/pull/195) on [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (today)
 - [Test out service container detection](https://github.com/MammatusPHP/kubernetes-keda/pull/35) on [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (today)
 - [Update `wyrihaximus/test-utilities` (and `phpunit/phpunit`)](https://github.com/WyriHaximus/php-compress-test-utilities/pull/127) on [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (1 day ago)
 - [Alpine should ignore changes to Debian related files (Part II: Pull Requests)](https://github.com/WyriHaximusNet/docker-php/pull/400) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
@@ -103,9 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Replace `therussiankid92/gat` with `nick-fields/assert-action` as the…](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/85) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (4 days ago)
 - [Fix 1.4 tag test](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/84) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (4 days ago)
 - [Error out when fallingback to fallback but not fallback is available](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/83) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (4 days ago)
-- [Update project title from &#39;Bug Free 🔗🪚&#39; to &#39;🐛 Free 🔗🪚&#39;](https://github.com/WyriHaximus/bug-free-chainsaw/pull/3) on [WyriHaximus/bug-free-chainsaw](https://github.com/WyriHaximus/bug-free-chainsaw) (4 days ago)
-- [Change project title to include emojis](https://github.com/WyriHaximus/bug-free-chainsaw/pull/2) on [WyriHaximus/bug-free-chainsaw](https://github.com/WyriHaximus/bug-free-chainsaw) (4 days ago)
-- [Correct project title casing in README](https://github.com/WyriHaximus/bug-free-chainsaw/pull/1) on [WyriHaximus/bug-free-chainsaw](https://github.com/WyriHaximus/bug-free-chainsaw) (4 days ago)
 
 ---
 
