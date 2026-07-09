@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (1 day ago)
-- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (1 day ago)
-- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 day ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
+- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (today)
+- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (today)
+- [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (today)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (today)
+- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (1 day ago)
 - [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (1 day ago)
-- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (1 day ago)
+- [WyriHaximus/php-monolog-formatted-psr-handler](https://github.com/WyriHaximus/php-monolog-formatted-psr-handler) (1 day ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (1 day ago)
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (1 day ago)
 - [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (1 day ago)
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (1 day ago)
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (1 day ago)
-- [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) (1 day ago)
-- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (2 days ago)
+- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 day ago)
+- [WyriHaximus/php-metrics-tactician](https://github.com/WyriHaximus/php-metrics-tactician) (1 day ago)
 
 ---
 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Test out service container detection](https://github.com/MammatusPHP/kubernetes-keda/pull/35) on [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (today)
 - [Update `wyrihaximus/test-utilities` (and `phpunit/phpunit`)](https://github.com/WyriHaximus/php-compress-test-utilities/pull/127) on [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (1 day ago)
 - [Alpine should ignore changes to Debian related files (Part II: Pull Requests)](https://github.com/WyriHaximusNet/docker-php/pull/400) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [Add QA tooling now that it supports contracts packages](https://github.com/WyriHaximus/php-compress-contracts/pull/17) on [WyriHaximus/php-compress-contracts](https://github.com/WyriHaximus/php-compress-contracts) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Update project title from &#39;Bug Free 🔗🪚&#39; to &#39;🐛 Free 🔗🪚&#39;](https://github.com/WyriHaximus/bug-free-chainsaw/pull/3) on [WyriHaximus/bug-free-chainsaw](https://github.com/WyriHaximus/bug-free-chainsaw) (4 days ago)
 - [Change project title to include emojis](https://github.com/WyriHaximus/bug-free-chainsaw/pull/2) on [WyriHaximus/bug-free-chainsaw](https://github.com/WyriHaximus/bug-free-chainsaw) (4 days ago)
 - [Correct project title casing in README](https://github.com/WyriHaximus/bug-free-chainsaw/pull/1) on [WyriHaximus/bug-free-chainsaw](https://github.com/WyriHaximus/bug-free-chainsaw) (4 days ago)
-- [Add k8s services support](https://github.com/MammatusPHP/http-server/pull/233) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (4 days ago)
 
 ---
 
