@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
+- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (today)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
+- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (today)
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (today)
 - [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) (1 day ago)
-- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 day ago)
 - [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (1 day ago)
+- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (2 days ago)
-- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (2 days ago)
 - [WyriHaximus/php-compress](https://github.com/WyriHaximus/php-compress) (2 days ago)
 - [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (2 days ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (2 days ago)
+- [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (2 days ago)
 
 ---
 
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([7.0.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/7.0.0), today) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
 - [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) ([4.0.0](https://github.com/WyriHaximus/php-compress-test-utilities/releases/tag/4.0.0), 3 days ago) - 
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.4.1](https://github.com/MammatusPHP/kubernetes/releases/tag/0.4.1), 6 days ago) - Kubernetes related tooling
 - [WyriHaximus/bug-free-chainsaw](https://github.com/WyriHaximus/bug-free-chainsaw) ([r2](https://github.com/WyriHaximus/bug-free-chainsaw/releases/tag/r2), 6 days ago) - Test out `github-workflows` release changes
@@ -87,7 +88,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.3.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.3.0), 2 weeks ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.3.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.3.0), 2 weeks ago) - 
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([4.2.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/4.2.0), 2 weeks ago) - PHP Coding Standard
-- [WyriHaximus/php-msgpack](https://github.com/WyriHaximus/php-msgpack) ([1.2.0](https://github.com/WyriHaximus/php-msgpack/releases/tag/1.2.0), 2 weeks ago) - ext-msgpack polyfill using rybakit/msgpack
 
 ---
 
