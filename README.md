@@ -13,16 +13,16 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (today)
-- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (today)
 - [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (today)
+- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (today)
+- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (1 day ago)
+- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (1 day ago)
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (1 day ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
-- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (1 day ago)
-- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (1 day ago)
-- [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) (2 days ago)
 - [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (2 days ago)
+- [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (2 days ago)
 
 ---
 
