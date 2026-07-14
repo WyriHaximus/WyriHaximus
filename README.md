@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
+- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (today)
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
-- [WyriHaximus/github-action-jwage-changelog-generator](https://github.com/WyriHaximus/github-action-jwage-changelog-generator) (1 day ago)
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 day ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
-- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (2 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (2 days ago)
-- [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (2 days ago)
 - [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (2 days ago)
+- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (2 days ago)
+- [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (2 days ago)
+- [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (3 days ago)
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (3 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
 
 ---
 
