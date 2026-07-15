@@ -13,13 +13,13 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (today)
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (today)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (1 day ago)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
 - [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (2 days ago)
 - [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (3 days ago)
 - [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (3 days ago)
@@ -111,6 +111,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [Michael-Manning/E-Paper-Climate-Logger](https://github.com/Michael-Manning/E-Paper-Climate-Logger) -  (today)
 - [dantleech/depgraph](https://github.com/dantleech/depgraph) - Comprehensable Composer PHP dependency diagrams for your small business or enterprise. (3 days ago)
 - [jim-coyne/iscsi_provisioner_ugreen_nas](https://github.com/jim-coyne/iscsi_provisioner_ugreen_nas) -  (5 days ago)
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output (1 week ago)
@@ -123,7 +124,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [home-operations/chaski](https://github.com/home-operations/chaski) - A small, stateless, webhook relay (3 weeks ago)
 - [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI (3 weeks ago)
 - [helmforgedev/charts](https://github.com/helmforgedev/charts) - Open-source Helm charts, forged to last. The alternative to Bitnami — official upstream images, Apache 2.0 licensed, Cosign signed. (3 weeks ago)
-- [Evidlo/picklecast](https://github.com/Evidlo/picklecast) - Share your screen to a TV/projector with only a browser (3 weeks ago)
 
 ---
 
