@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (today)
 - [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (1 day ago)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
 - [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (1 day ago)
-- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (2 days ago)
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
+- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (2 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
-- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (3 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (3 days ago)
+- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (3 days ago)
 - [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (3 days ago)
-- [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (3 days ago)
 
 ---
 
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) ([6.2.0](https://github.com/WyriHaximus/php-js-compress/releases/tag/6.2.0), today) - 
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) ([0.1.1](https://github.com/reactphp-inspector/bunny/releases/tag/0.1.1), 2 days ago) - 
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) ([v0.6.0-alpha.3](https://github.com/jakubkulhan/bunny/releases/tag/v0.6.0-alpha.3), 2 days ago) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([7.0.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/7.0.0), 4 days ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
@@ -87,7 +88,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.19](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.19), 1 week ago) - 
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.12.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.12.3), 1 week ago) - Makefile building blocks
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.32](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.32), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.3.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.3.0), 2 weeks ago) - 
 
 ---
 
