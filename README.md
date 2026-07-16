@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
-- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (today)
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
-- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
-- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (1 day ago)
-- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (1 day ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
-- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (2 days ago)
-- [WyriHaximus/github-action-jwage-changelog-generator](https://github.com/WyriHaximus/github-action-jwage-changelog-generator) (2 days ago)
-- [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (3 days ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
+- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (1 day ago)
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
+- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (2 days ago)
+- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (2 days ago)
+- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (2 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
+- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (3 days ago)
+- [WyriHaximus/github-action-jwage-changelog-generator](https://github.com/WyriHaximus/github-action-jwage-changelog-generator) (3 days ago)
+- [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (4 days ago)
 
 ---
 
@@ -75,10 +75,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) ([6.2.0](https://github.com/WyriHaximus/php-js-compress/releases/tag/6.2.0), today) - 
-- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) ([0.1.1](https://github.com/reactphp-inspector/bunny/releases/tag/0.1.1), 2 days ago) - 
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) ([v0.6.0-alpha.3](https://github.com/jakubkulhan/bunny/releases/tag/v0.6.0-alpha.3), 2 days ago) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
-- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([7.0.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/7.0.0), 4 days ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
+- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) ([6.2.0](https://github.com/WyriHaximus/php-js-compress/releases/tag/6.2.0), 1 day ago) - 
+- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) ([0.1.1](https://github.com/reactphp-inspector/bunny/releases/tag/0.1.1), 3 days ago) - 
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) ([v0.6.0-alpha.3](https://github.com/jakubkulhan/bunny/releases/tag/v0.6.0-alpha.3), 3 days ago) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
+- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([7.0.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/7.0.0), 5 days ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
 - [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) ([4.0.0](https://github.com/WyriHaximus/php-compress-test-utilities/releases/tag/4.0.0), 1 week ago) - 
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.4.1](https://github.com/MammatusPHP/kubernetes/releases/tag/0.4.1), 1 week ago) - Kubernetes related tooling
 - [WyriHaximus/bug-free-chainsaw](https://github.com/WyriHaximus/bug-free-chainsaw) ([r2](https://github.com/WyriHaximus/bug-free-chainsaw/releases/tag/r2), 1 week ago) - Test out `github-workflows` release changes
@@ -86,22 +86,22 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([5.1.0](https://github.com/MammatusPHP/kubernetes-events/releases/tag/5.1.0), 1 week ago) - 
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.4.0](https://github.com/MammatusPHP/groups/releases/tag/0.4.0), 1 week ago) - Group different components of you app into one process
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.19](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.19), 1 week ago) - 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.12.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.12.3), 1 week ago) - Makefile building blocks
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.12.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.12.3), 2 weeks ago) - Makefile building blocks
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.32](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.32), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 
 ---
 
 #### 🔨 My recent Pull Requests
 
-- [Rever removing `tedivm/jshrink`](https://github.com/WyriHaximus/php-js-compress/pull/149) on [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (today)
-- [Update dependency `bunny/bunny` to alpha 3](https://github.com/reactphp-inspector/bunny/pull/45) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (2 days ago)
-- [Add `Configuration ⚙` to the required labels list](https://github.com/WyriHaximus/github-workflows/pull/256) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
-- [Switch `ext-parallel` to be installed through `PIE` instead of `PECL`](https://github.com/WyriHaximusNet/docker-php/pull/401) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
-- [[0.6.x] Keep `var/` around](https://github.com/jakubkulhan/bunny/pull/229) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
-- [Remove Redis env and services from CI workflow](https://github.com/MammatusPHP/kubernetes-keda/pull/36) on [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (6 days ago)
-- [No Directly-On-OS when service containers are required](https://github.com/WyriHaximus/github-workflows/pull/254) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
-- [Introduce `wyrihaximus/makefiles`](https://github.com/WyriHaximus/php-css-compress/pull/195) on [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (6 days ago)
-- [Test out service container detection](https://github.com/MammatusPHP/kubernetes-keda/pull/35) on [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (6 days ago)
+- [Rever removing `tedivm/jshrink`](https://github.com/WyriHaximus/php-js-compress/pull/149) on [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (1 day ago)
+- [Update dependency `bunny/bunny` to alpha 3](https://github.com/reactphp-inspector/bunny/pull/45) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (3 days ago)
+- [Add `Configuration ⚙` to the required labels list](https://github.com/WyriHaximus/github-workflows/pull/256) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
+- [Switch `ext-parallel` to be installed through `PIE` instead of `PECL`](https://github.com/WyriHaximusNet/docker-php/pull/401) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
+- [[0.6.x] Keep `var/` around](https://github.com/jakubkulhan/bunny/pull/229) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (6 days ago)
+- [Remove Redis env and services from CI workflow](https://github.com/MammatusPHP/kubernetes-keda/pull/36) on [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 week ago)
+- [No Directly-On-OS when service containers are required](https://github.com/WyriHaximus/github-workflows/pull/254) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
+- [Introduce `wyrihaximus/makefiles`](https://github.com/WyriHaximus/php-css-compress/pull/195) on [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (1 week ago)
+- [Test out service container detection](https://github.com/MammatusPHP/kubernetes-keda/pull/35) on [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 week ago)
 - [Update `wyrihaximus/test-utilities` (and `phpunit/phpunit`)](https://github.com/WyriHaximus/php-compress-test-utilities/pull/127) on [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (1 week ago)
 - [Alpine should ignore changes to Debian related files (Part II: Pull Requests)](https://github.com/WyriHaximusNet/docker-php/pull/400) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
 - [Add QA tooling now that it supports contracts packages](https://github.com/WyriHaximus/php-compress-contracts/pull/17) on [WyriHaximus/php-compress-contracts](https://github.com/WyriHaximus/php-compress-contracts) (1 week ago)
@@ -111,9 +111,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
-- [Michael-Manning/E-Paper-Climate-Logger](https://github.com/Michael-Manning/E-Paper-Climate-Logger) -  (today)
-- [dantleech/depgraph](https://github.com/dantleech/depgraph) - Comprehensable Composer PHP dependency diagrams for your small business or enterprise. (3 days ago)
-- [jim-coyne/iscsi_provisioner_ugreen_nas](https://github.com/jim-coyne/iscsi_provisioner_ugreen_nas) -  (5 days ago)
+- [Michael-Manning/E-Paper-Climate-Logger](https://github.com/Michael-Manning/E-Paper-Climate-Logger) -  (1 day ago)
+- [dantleech/depgraph](https://github.com/dantleech/depgraph) - Comprehensable Composer PHP dependency diagrams for your small business or enterprise. (4 days ago)
+- [jim-coyne/iscsi_provisioner_ugreen_nas](https://github.com/jim-coyne/iscsi_provisioner_ugreen_nas) -  (6 days ago)
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output (1 week ago)
 - [smartmontools/smartmontools](https://github.com/smartmontools/smartmontools) - 2025-06-01: This is now the official upstream repository of smartmontools (1 week ago)
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight &amp; schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. (1 week ago)
