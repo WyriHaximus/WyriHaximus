@@ -10,14 +10,14 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
-- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (today)
+- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
 - [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (today)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (1 day ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (1 day ago)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) (1 day ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
 - [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) (1 day ago)
@@ -75,11 +75,11 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.8.0](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.8.0), today) - Tooling for creating generative Composer Plugins
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.13.2](https://github.com/WyriHaximus/Makefiles/releases/tag/0.13.2), 1 day ago) - Makefile building blocks
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.4.1](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.4.1), 3 days ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.4.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.4.0), 3 days ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.1.0), 3 days ago) - 🌯 PHPStan rules wrapper
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.7.3](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.7.3), 3 days ago) - Tooling for creating generative Composer Plugins
 - [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) ([1.2.0](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter/releases/tag/1.2.0), 5 days ago) - 
 - [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) ([6.2.0](https://github.com/WyriHaximus/php-js-compress/releases/tag/6.2.0), 6 days ago) - 
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) ([0.1.1](https://github.com/reactphp-inspector/bunny/releases/tag/0.1.1), 1 week ago) - 
