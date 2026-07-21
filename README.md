@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/reactphp-cache-json](https://github.com/WyriHaximus/reactphp-cache-json) (today)
-- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (today)
-- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (1 day ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
-- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (1 day ago)
-- [WyriHaximus/php-psr-3-callable-throwable-logger](https://github.com/WyriHaximus/php-psr-3-callable-throwable-logger) (2 days ago)
-- [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (2 days ago)
-- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (2 days ago)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (2 days ago)
-- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (3 days ago)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
+- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (today)
+- [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (today)
+- [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (today)
+- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (1 day ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
+- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (1 day ago)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
+- [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) (1 day ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
+- [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (1 day ago)
 
 ---
 
@@ -75,55 +75,55 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) ([1.2.0](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter/releases/tag/1.2.0), today) - 
-- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) ([6.2.0](https://github.com/WyriHaximus/php-js-compress/releases/tag/6.2.0), 1 day ago) - 
-- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) ([0.1.1](https://github.com/reactphp-inspector/bunny/releases/tag/0.1.1), 3 days ago) - 
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) ([v0.6.0-alpha.3](https://github.com/jakubkulhan/bunny/releases/tag/v0.6.0-alpha.3), 3 days ago) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
-- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([7.0.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/7.0.0), 5 days ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.13.2](https://github.com/WyriHaximus/Makefiles/releases/tag/0.13.2), 1 day ago) - Makefile building blocks
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.4.1](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.4.1), 3 days ago) - 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.4.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.4.0), 3 days ago) - 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.1.0), 3 days ago) - 🌯 PHPStan rules wrapper
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.7.3](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.7.3), 3 days ago) - Tooling for creating generative Composer Plugins
+- [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) ([1.2.0](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter/releases/tag/1.2.0), 5 days ago) - 
+- [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) ([6.2.0](https://github.com/WyriHaximus/php-js-compress/releases/tag/6.2.0), 6 days ago) - 
+- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) ([0.1.1](https://github.com/reactphp-inspector/bunny/releases/tag/0.1.1), 1 week ago) - 
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) ([v0.6.0-alpha.3](https://github.com/jakubkulhan/bunny/releases/tag/v0.6.0-alpha.3), 1 week ago) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
+- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([7.0.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/7.0.0), 1 week ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
 - [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) ([4.0.0](https://github.com/WyriHaximus/php-compress-test-utilities/releases/tag/4.0.0), 1 week ago) - 
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.4.1](https://github.com/MammatusPHP/kubernetes/releases/tag/0.4.1), 1 week ago) - Kubernetes related tooling
-- [WyriHaximus/bug-free-chainsaw](https://github.com/WyriHaximus/bug-free-chainsaw) ([r2](https://github.com/WyriHaximus/bug-free-chainsaw/releases/tag/r2), 1 week ago) - Test out `github-workflows` release changes
-- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) ([1.2.0](https://github.com/MammatusPHP/kubernetes-attributes/releases/tag/1.2.0), 1 week ago) - 
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([5.1.0](https://github.com/MammatusPHP/kubernetes-events/releases/tag/5.1.0), 1 week ago) - 
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.4.0](https://github.com/MammatusPHP/groups/releases/tag/0.4.0), 1 week ago) - Group different components of you app into one process
-- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.19](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.19), 1 week ago) - 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.12.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.12.3), 2 weeks ago) - Makefile building blocks
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.4.1](https://github.com/MammatusPHP/kubernetes/releases/tag/0.4.1), 2 weeks ago) - Kubernetes related tooling
+- [WyriHaximus/bug-free-chainsaw](https://github.com/WyriHaximus/bug-free-chainsaw) ([r2](https://github.com/WyriHaximus/bug-free-chainsaw/releases/tag/r2), 2 weeks ago) - Test out `github-workflows` release changes
 
 ---
 
 #### 🔨 My recent Pull Requests
 
-- [Mark `sanmai` currently locked `di-container` and `pipeline` versions as safe](https://github.com/WyriHaximus/php-test-utilities/pull/1301) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [Craft a specific Docker run without network for `composer` for `update-lock`](https://github.com/WyriHaximus/Makefiles/pull/232) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Rever removing `tedivm/jshrink`](https://github.com/WyriHaximus/php-js-compress/pull/149) on [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) (1 day ago)
-- [Update dependency `bunny/bunny` to alpha 3](https://github.com/reactphp-inspector/bunny/pull/45) on [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (3 days ago)
-- [Add `Configuration ⚙` to the required labels list](https://github.com/WyriHaximus/github-workflows/pull/256) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
-- [Switch `ext-parallel` to be installed through `PIE` instead of `PECL`](https://github.com/WyriHaximusNet/docker-php/pull/401) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
-- [[0.6.x] Keep `var/` around](https://github.com/jakubkulhan/bunny/pull/229) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (6 days ago)
-- [Remove Redis env and services from CI workflow](https://github.com/MammatusPHP/kubernetes-keda/pull/36) on [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 week ago)
-- [No Directly-On-OS when service containers are required](https://github.com/WyriHaximus/github-workflows/pull/254) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
-- [Introduce `wyrihaximus/makefiles`](https://github.com/WyriHaximus/php-css-compress/pull/195) on [WyriHaximus/php-css-compress](https://github.com/WyriHaximus/php-css-compress) (1 week ago)
-- [Test out service container detection](https://github.com/MammatusPHP/kubernetes-keda/pull/35) on [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 week ago)
-- [Update `wyrihaximus/test-utilities` (and `phpunit/phpunit`)](https://github.com/WyriHaximus/php-compress-test-utilities/pull/127) on [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (1 week ago)
-- [Alpine should ignore changes to Debian related files (Part II: Pull Requests)](https://github.com/WyriHaximusNet/docker-php/pull/400) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
+- [Destruction completes and disposes observable](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/99) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (1 day ago)
+- [Replace `self::expectExceptionMessage` with `self::expectExceptionMessageIsOrContains` in all PHPUnit tests](https://github.com/WyriHaximus/Makefiles/pull/245) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [Keep GRCP only on PHP 8.4 and lower](https://github.com/WyriHaximusNet/docker-php/pull/403) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
+- [PHP 8.6 test run](https://github.com/WyriHaximusNet/docker-php/pull/402) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
+- [Use `Remove::*OnlyIfItExists`](https://github.com/MammatusPHP/queue/pull/72) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
+- [Create deduced vendor dirs recursively](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/98) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
+- [Rename `CONTRIBUTING.md` to `CONTRIBUTING-md` in base64 files](https://github.com/WyriHaximus/Makefiles/pull/243) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Switch help commands to be pre generated just like task listeners](https://github.com/WyriHaximus/Makefiles/pull/242) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
+- [Add `make help-contrib`](https://github.com/WyriHaximus/Makefiles/pull/241) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
+- [Add `make help-migrations`](https://github.com/WyriHaximus/Makefiles/pull/240) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
+- [Introduce `make contrib`](https://github.com/WyriHaximus/Makefiles/pull/239) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
+- [Enforce that all migrations start with `migrations-`](https://github.com/WyriHaximus/Makefiles/pull/238) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
+- [Take migrations out off the help list](https://github.com/WyriHaximus/Makefiles/pull/237) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [Michael-Manning/E-Paper-Climate-Logger](https://github.com/Michael-Manning/E-Paper-Climate-Logger) -  (1 day ago)
-- [dantleech/depgraph](https://github.com/dantleech/depgraph) - Comprehensable Composer PHP dependency diagrams for your small business or enterprise. (4 days ago)
-- [jim-coyne/iscsi_provisioner_ugreen_nas](https://github.com/jim-coyne/iscsi_provisioner_ugreen_nas) -  (6 days ago)
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output (1 week ago)
-- [smartmontools/smartmontools](https://github.com/smartmontools/smartmontools) - 2025-06-01: This is now the official upstream repository of smartmontools (1 week ago)
-- [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight &amp; schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. (1 week ago)
-- [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open source Kubernetes UI. Topology, event timeline, and service traffic — plus resource browsing and Helm management. (1 week ago)
-- [micr0-dev/Altbot](https://github.com/micr0-dev/Altbot) - Accessibility bot designed to enhance the Fediverse by generating alt-text descriptions for images, video, and audio. (2 weeks ago)
-- [tecnickcom/tc-lib-pdf](https://github.com/tecnickcom/tc-lib-pdf) - PHP PDF Library (TCPDF) (2 weeks ago)
-- [vmactions/freebsd-vm](https://github.com/vmactions/freebsd-vm) - Use FreeBSD in github actions (2 weeks ago)
+- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud &amp; CalDAV support designed for GNOME (today)
+- [matanbaruch/cursor-admin-api-exporter](https://github.com/matanbaruch/cursor-admin-api-exporter) - Cursor Admin API Exporter - For exporting Cursor AI stats from newly Admin API (3 days ago)
+- [Michael-Manning/E-Paper-Climate-Logger](https://github.com/Michael-Manning/E-Paper-Climate-Logger) -  (6 days ago)
+- [dantleech/depgraph](https://github.com/dantleech/depgraph) - Comprehensable Composer PHP dependency diagrams for your small business or enterprise. (1 week ago)
+- [jim-coyne/iscsi_provisioner_ugreen_nas](https://github.com/jim-coyne/iscsi_provisioner_ugreen_nas) -  (1 week ago)
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output (2 weeks ago)
+- [smartmontools/smartmontools](https://github.com/smartmontools/smartmontools) - 2025-06-01: This is now the official upstream repository of smartmontools (2 weeks ago)
+- [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight &amp; schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. (2 weeks ago)
+- [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open source Kubernetes UI. Topology, event timeline, and service traffic — plus resource browsing and Helm management. (2 weeks ago)
+- [micr0-dev/Altbot](https://github.com/micr0-dev/Altbot) - Accessibility bot designed to enhance the Fediverse by generating alt-text descriptions for images, video, and audio. (3 weeks ago)
+- [tecnickcom/tc-lib-pdf](https://github.com/tecnickcom/tc-lib-pdf) - PHP PDF Library (TCPDF) (3 weeks ago)
+- [vmactions/freebsd-vm](https://github.com/vmactions/freebsd-vm) - Use FreeBSD in github actions (3 weeks ago)
 - [home-operations/chaski](https://github.com/home-operations/chaski) - A small, stateless, webhook relay (3 weeks ago)
-- [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI (3 weeks ago)
-- [helmforgedev/charts](https://github.com/helmforgedev/charts) - Open-source Helm charts, forged to last. The alternative to Bitnami — official upstream images, Apache 2.0 licensed, Cosign signed. (3 weeks ago)
 
 ---
 
@@ -145,11 +145,11 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 👯 Check out some of my recent followers
 
-- [procerezo](https://github.com/procerezo)
+- [chrisipanaque](https://github.com/chrisipanaque)
+- [ddrayko](https://github.com/ddrayko)
+- [ddelrio1986](https://github.com/ddelrio1986)
+- [bangraphel](https://github.com/bangraphel)
 - [smaddock](https://github.com/smaddock)
-- [rioryugen](https://github.com/rioryugen)
-- [williameggers](https://github.com/williameggers)
-- [Dvurechensky](https://github.com/Dvurechensky)
 
 ---
 
