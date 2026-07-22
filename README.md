@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Log errors when cache write fails](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/101) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [Fix cache key not taking into account context](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/100) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [Destruction completes and disposes observable](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/99) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (2 days ago)
 - [Replace `self::expectExceptionMessage` with `self::expectExceptionMessageIsOrContains` in all PHPUnit tests](https://github.com/WyriHaximus/Makefiles/pull/245) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add `make help-contrib`](https://github.com/WyriHaximus/Makefiles/pull/241) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 - [Add `make help-migrations`](https://github.com/WyriHaximus/Makefiles/pull/240) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 - [Introduce `make contrib`](https://github.com/WyriHaximus/Makefiles/pull/239) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
-- [Enforce that all migrations start with `migrations-`](https://github.com/WyriHaximus/Makefiles/pull/238) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 
 ---
 
