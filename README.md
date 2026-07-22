@@ -135,7 +135,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [jeromegamez](https://github.com/jeromegamez) (3 years ago)
 - [kristos80](https://github.com/kristos80) (3 years ago)
 - [getflights](https://github.com/getflights) (4 years ago)
-- [csev](https://github.com/csev) (4 years ago)
 - [erikaheidi](https://github.com/erikaheidi) (6 years ago)
 - [AllenJB](https://github.com/AllenJB) (6 years ago)
 - [lcobucci](https://github.com/lcobucci) (6 years ago)
