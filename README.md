@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
 - [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (2 days ago)
 - [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (2 days ago)
 - [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (2 days ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 days ago)
-- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (3 days ago)
-- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (3 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (3 days ago)
 - [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) (3 days ago)
+- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (3 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
 - [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) (3 days ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
-- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (3 days ago)
+- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (3 days ago)
 
 ---
 
@@ -93,6 +93,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Update dependency wyrihaximus/generative-composer-plugin-tooling to ^1.8.2](https://github.com/MammatusPHP/http-server/pull/234) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
+- [Update dependency wyrihaximus/generative-composer-plugin-tooling to ^1.8.2](https://github.com/WyriHaximus/php-broadcast/pull/355) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
+- [Update dependency wyrihaximus/generative-composer-plugin-tooling to ^1.8.2](https://github.com/MammatusPHP/queue/pull/73) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
+- [Update dependency wyrihaximus/generative-composer-plugin-tooling to ^1.8.2](https://github.com/MammatusPHP/cron/pull/144) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [Log errors when cache write fails](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/101) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
 - [Fix cache key not taking into account context](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/100) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
 - [Destruction completes and disposes observable](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/99) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (3 days ago)
@@ -102,10 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Use `Remove::*OnlyIfItExists`](https://github.com/MammatusPHP/queue/pull/72) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (5 days ago)
 - [Create deduced vendor dirs recursively](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/98) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (5 days ago)
 - [Rename `CONTRIBUTING.md` to `CONTRIBUTING-md` in base64 files](https://github.com/WyriHaximus/Makefiles/pull/243) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
-- [Switch help commands to be pre generated just like task listeners](https://github.com/WyriHaximus/Makefiles/pull/242) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
-- [Add `make help-contrib`](https://github.com/WyriHaximus/Makefiles/pull/241) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
-- [Add `make help-migrations`](https://github.com/WyriHaximus/Makefiles/pull/240) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
-- [Introduce `make contrib`](https://github.com/WyriHaximus/Makefiles/pull/239) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
 
 ---
 
