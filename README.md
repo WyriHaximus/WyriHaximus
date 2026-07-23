@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Improve test performance](https://github.com/MammatusPHP/cron/pull/145) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [Improve test performance](https://github.com/MammatusPHP/queue/pull/74) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [`etc/state/` export-ignore](https://github.com/WyriHaximus/Makefiles/pull/246) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Update dependency wyrihaximus/generative-composer-plugin-tooling to ^1.8.2](https://github.com/MammatusPHP/http-server/pull/234) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Replace `self::expectExceptionMessage` with `self::expectExceptionMessageIsOrContains` in all PHPUnit tests](https://github.com/WyriHaximus/Makefiles/pull/245) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [Keep GRCP only on PHP 8.4 and lower](https://github.com/WyriHaximusNet/docker-php/pull/403) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
 - [PHP 8.6 test run](https://github.com/WyriHaximusNet/docker-php/pull/402) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
-- [Use `Remove::*OnlyIfItExists`](https://github.com/MammatusPHP/queue/pull/72) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (5 days ago)
 
 ---
 
