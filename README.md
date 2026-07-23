@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
-- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (2 days ago)
 - [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (2 days ago)
 - [WyriHaximus/github-action-oci-image-supported-platforms](https://github.com/WyriHaximus/github-action-oci-image-supported-platforms) (2 days ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (3 days ago)
-- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (3 days ago)
 
 ---
 
@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Improve test performance](https://github.com/MammatusPHP/queue/pull/74) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
+- [`etc/state/` export-ignore](https://github.com/WyriHaximus/Makefiles/pull/246) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Update dependency wyrihaximus/generative-composer-plugin-tooling to ^1.8.2](https://github.com/MammatusPHP/http-server/pull/234) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [Update dependency wyrihaximus/generative-composer-plugin-tooling to ^1.8.2](https://github.com/WyriHaximus/php-broadcast/pull/355) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
 - [Update dependency wyrihaximus/generative-composer-plugin-tooling to ^1.8.2](https://github.com/MammatusPHP/queue/pull/73) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Keep GRCP only on PHP 8.4 and lower](https://github.com/WyriHaximusNet/docker-php/pull/403) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
 - [PHP 8.6 test run](https://github.com/WyriHaximusNet/docker-php/pull/402) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
 - [Use `Remove::*OnlyIfItExists`](https://github.com/MammatusPHP/queue/pull/72) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (5 days ago)
-- [Create deduced vendor dirs recursively](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/98) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (5 days ago)
-- [Rename `CONTRIBUTING.md` to `CONTRIBUTING-md` in base64 files](https://github.com/WyriHaximus/Makefiles/pull/243) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 
 ---
 
