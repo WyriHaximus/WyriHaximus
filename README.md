@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Detect TTY availability and adjust shell commands accordingly](https://github.com/WyriHaximus/Makefiles/pull/248) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Add `run` command](https://github.com/WyriHaximus/Makefiles/pull/247) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Improve test performance by controlling the space time continuum](https://github.com/WyriHaximus/reactphp-cron/pull/142) on [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 day ago)
 - [Improve test performance](https://github.com/MammatusPHP/cron/pull/145) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Log errors when cache write fails](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/101) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
 - [Fix cache key not taking into account context](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/100) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
 - [Destruction completes and disposes observable](https://github.com/WyriHaximus/reactphp-awaitable-observable/pull/99) on [WyriHaximus/reactphp-awaitable-observable](https://github.com/WyriHaximus/reactphp-awaitable-observable) (4 days ago)
-- [Replace `self::expectExceptionMessage` with `self::expectExceptionMessageIsOrContains` in all PHPUnit tests](https://github.com/WyriHaximus/Makefiles/pull/245) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 
 ---
 
