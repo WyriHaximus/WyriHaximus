@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 day ago)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (2 days ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (2 days ago)
 - [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (2 days ago)
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (2 days ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
 
 ---
 
