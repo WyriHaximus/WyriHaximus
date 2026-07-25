@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 day ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 days ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (2 days ago)
-- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (2 days ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
 - [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (2 days ago)
-- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (4 days ago)
+- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (2 days ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (2 days ago)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 days ago)
 
 ---
 
@@ -75,7 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.8.2](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.8.2), 3 days ago) - Tooling for creating generative Composer Plugins
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.8.3](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.8.3), today) - Tooling for creating generative Composer Plugins
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.13.2](https://github.com/WyriHaximus/Makefiles/releases/tag/0.13.2), 5 days ago) - Makefile building blocks
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.4.1](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.4.1), 1 week ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.4.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.4.0), 1 week ago) - 
