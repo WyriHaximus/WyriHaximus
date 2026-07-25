@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Improve cache performance](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/103) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [Add support for classes](https://github.com/WyriHaximus/phpstan-no-safe/pull/7) on [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (today)
 - [Add table to the README with all push tags and when the last time is they got pushed](https://github.com/WyriHaximusNet/docker-php/pull/406) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Detect TTY availability and adjust shell commands accordingly](https://github.com/WyriHaximus/Makefiles/pull/248) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Update dependency wyrihaximus/generative-composer-plugin-tooling to ^1.8.2](https://github.com/WyriHaximus/php-broadcast/pull/355) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
 - [Update dependency wyrihaximus/generative-composer-plugin-tooling to ^1.8.2](https://github.com/MammatusPHP/queue/pull/73) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
 - [Update dependency wyrihaximus/generative-composer-plugin-tooling to ^1.8.2](https://github.com/MammatusPHP/cron/pull/144) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 days ago)
-- [Log errors when cache write fails](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/101) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
 
 ---
 
