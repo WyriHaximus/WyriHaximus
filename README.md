@@ -12,17 +12,17 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
-- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (1 day ago)
-- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (2 days ago)
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (2 days ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 day ago)
+- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (2 days ago)
+- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (3 days ago)
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (3 days ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (3 days ago)
 
 ---
 
@@ -75,8 +75,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.8.3](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.8.3), today) - Tooling for creating generative Composer Plugins
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.13.2](https://github.com/WyriHaximus/Makefiles/releases/tag/0.13.2), 5 days ago) - Makefile building blocks
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.8.3](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.8.3), 1 day ago) - Tooling for creating generative Composer Plugins
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.13.2](https://github.com/WyriHaximus/Makefiles/releases/tag/0.13.2), 6 days ago) - Makefile building blocks
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.4.1](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.4.1), 1 week ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.4.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.4.0), 1 week ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.1.0), 1 week ago) - 🌯 PHPStan rules wrapper
@@ -86,44 +86,44 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) ([v0.6.0-alpha.3](https://github.com/jakubkulhan/bunny/releases/tag/v0.6.0-alpha.3), 1 week ago) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([7.0.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/7.0.0), 2 weeks ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
 - [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) ([4.0.0](https://github.com/WyriHaximus/php-compress-test-utilities/releases/tag/4.0.0), 2 weeks ago) - 
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.4.1](https://github.com/MammatusPHP/kubernetes/releases/tag/0.4.1), 2 weeks ago) - Kubernetes related tooling
-- [WyriHaximus/bug-free-chainsaw](https://github.com/WyriHaximus/bug-free-chainsaw) ([r2](https://github.com/WyriHaximus/bug-free-chainsaw/releases/tag/r2), 2 weeks ago) - Test out `github-workflows` release changes
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.4.1](https://github.com/MammatusPHP/kubernetes/releases/tag/0.4.1), 3 weeks ago) - Kubernetes related tooling
+- [WyriHaximus/bug-free-chainsaw](https://github.com/WyriHaximus/bug-free-chainsaw) ([r2](https://github.com/WyriHaximus/bug-free-chainsaw/releases/tag/r2), 3 weeks ago) - Test out `github-workflows` release changes
 
 ---
 
 #### 🔨 My recent Pull Requests
 
-- [Improve cache performance](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/103) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
-- [Add support for classes](https://github.com/WyriHaximus/phpstan-no-safe/pull/7) on [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (today)
-- [Add table to the README with all push tags and when the last time is they got pushed](https://github.com/WyriHaximusNet/docker-php/pull/406) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
-- [Detect TTY availability and adjust shell commands accordingly](https://github.com/WyriHaximus/Makefiles/pull/248) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Add `run` command](https://github.com/WyriHaximus/Makefiles/pull/247) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Improve test performance by controlling the space time continuum](https://github.com/WyriHaximus/reactphp-cron/pull/142) on [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (2 days ago)
-- [Improve test performance](https://github.com/MammatusPHP/cron/pull/145) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 days ago)
-- [Improve test performance](https://github.com/MammatusPHP/queue/pull/74) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
-- [`etc/state/` export-ignore](https://github.com/WyriHaximus/Makefiles/pull/246) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Update dependency wyrihaximus/generative-composer-plugin-tooling to ^1.8.2](https://github.com/MammatusPHP/http-server/pull/234) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (2 days ago)
-- [Update dependency wyrihaximus/generative-composer-plugin-tooling to ^1.8.2](https://github.com/WyriHaximus/php-broadcast/pull/355) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
-- [Update dependency wyrihaximus/generative-composer-plugin-tooling to ^1.8.2](https://github.com/MammatusPHP/queue/pull/73) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
-- [Update dependency wyrihaximus/generative-composer-plugin-tooling to ^1.8.2](https://github.com/MammatusPHP/cron/pull/144) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 days ago)
+- [Improve cache performance](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/103) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
+- [Add support for classes](https://github.com/WyriHaximus/phpstan-no-safe/pull/7) on [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (1 day ago)
+- [Add table to the README with all push tags and when the last time is they got pushed](https://github.com/WyriHaximusNet/docker-php/pull/406) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
+- [Detect TTY availability and adjust shell commands accordingly](https://github.com/WyriHaximus/Makefiles/pull/248) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [Add `run` command](https://github.com/WyriHaximus/Makefiles/pull/247) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [Improve test performance by controlling the space time continuum](https://github.com/WyriHaximus/reactphp-cron/pull/142) on [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (3 days ago)
+- [Improve test performance](https://github.com/MammatusPHP/cron/pull/145) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (3 days ago)
+- [Improve test performance](https://github.com/MammatusPHP/queue/pull/74) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
+- [`etc/state/` export-ignore](https://github.com/WyriHaximus/Makefiles/pull/246) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Update dependency wyrihaximus/generative-composer-plugin-tooling to ^1.8.2](https://github.com/MammatusPHP/http-server/pull/234) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (3 days ago)
+- [Update dependency wyrihaximus/generative-composer-plugin-tooling to ^1.8.2](https://github.com/WyriHaximus/php-broadcast/pull/355) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (3 days ago)
+- [Update dependency wyrihaximus/generative-composer-plugin-tooling to ^1.8.2](https://github.com/MammatusPHP/queue/pull/73) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
+- [Update dependency wyrihaximus/generative-composer-plugin-tooling to ^1.8.2](https://github.com/MammatusPHP/cron/pull/144) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (3 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [raven-actions/bot-details](https://github.com/raven-actions/bot-details) - 🤖 Get bot details (name, email, author/committer) in a proper format for the subsequence steps like git, PR, and more. (today)
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (1 day ago)
-- [amazon-mq/rabbitmq-stream-s3](https://github.com/amazon-mq/rabbitmq-stream-s3) - A RabbitMQ plugin for practically infinite stream storage in S3 (1 day ago)
-- [amazon-mq/mcp-server-rabbitmq](https://github.com/amazon-mq/mcp-server-rabbitmq) - MCP server for RabbitMQ  (1 day ago)
-- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents (4 days ago)
-- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud &amp; CalDAV support designed for GNOME (4 days ago)
+- [raven-actions/bot-details](https://github.com/raven-actions/bot-details) - 🤖 Get bot details (name, email, author/committer) in a proper format for the subsequence steps like git, PR, and more. (1 day ago)
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (2 days ago)
+- [amazon-mq/rabbitmq-stream-s3](https://github.com/amazon-mq/rabbitmq-stream-s3) - A RabbitMQ plugin for practically infinite stream storage in S3 (2 days ago)
+- [amazon-mq/mcp-server-rabbitmq](https://github.com/amazon-mq/mcp-server-rabbitmq) - MCP server for RabbitMQ  (2 days ago)
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents (5 days ago)
+- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud &amp; CalDAV support designed for GNOME (5 days ago)
 - [matanbaruch/cursor-admin-api-exporter](https://github.com/matanbaruch/cursor-admin-api-exporter) - Cursor Admin API Exporter - For exporting Cursor AI stats from newly Admin API (1 week ago)
 - [Michael-Manning/E-Paper-Climate-Logger](https://github.com/Michael-Manning/E-Paper-Climate-Logger) -  (1 week ago)
-- [dantleech/depgraph](https://github.com/dantleech/depgraph) - Comprehensable Composer PHP dependency diagrams for your small business or enterprise. (1 week ago)
+- [dantleech/depgraph](https://github.com/dantleech/depgraph) - Comprehensable Composer PHP dependency diagrams for your small business or enterprise. (2 weeks ago)
 - [jim-coyne/iscsi_provisioner_ugreen_nas](https://github.com/jim-coyne/iscsi_provisioner_ugreen_nas) -  (2 weeks ago)
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output (2 weeks ago)
-- [smartmontools/smartmontools](https://github.com/smartmontools/smartmontools) - 2025-06-01: This is now the official upstream repository of smartmontools (2 weeks ago)
-- [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight &amp; schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. (2 weeks ago)
+- [smartmontools/smartmontools](https://github.com/smartmontools/smartmontools) - 2025-06-01: This is now the official upstream repository of smartmontools (3 weeks ago)
+- [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight &amp; schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. (3 weeks ago)
 
 ---
 
