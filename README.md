@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Detect if anything in a group command calls docker directly](https://github.com/WyriHaximus/Makefiles/pull/249) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Improve cache performance](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/103) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
 - [Add support for classes](https://github.com/WyriHaximus/phpstan-no-safe/pull/7) on [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (1 day ago)
 - [Add table to the README with all push tags and when the last time is they got pushed](https://github.com/WyriHaximusNet/docker-php/pull/406) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Update dependency wyrihaximus/generative-composer-plugin-tooling to ^1.8.2](https://github.com/MammatusPHP/http-server/pull/234) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (3 days ago)
 - [Update dependency wyrihaximus/generative-composer-plugin-tooling to ^1.8.2](https://github.com/WyriHaximus/php-broadcast/pull/355) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (3 days ago)
 - [Update dependency wyrihaximus/generative-composer-plugin-tooling to ^1.8.2](https://github.com/MammatusPHP/queue/pull/73) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
-- [Update dependency wyrihaximus/generative-composer-plugin-tooling to ^1.8.2](https://github.com/MammatusPHP/cron/pull/144) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (3 days ago)
 
 ---
 
