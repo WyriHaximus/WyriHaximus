@@ -21,8 +21,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (3 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
 - [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (4 days ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (5 days ago)
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (5 days ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (5 days ago)
 
 ---
 
