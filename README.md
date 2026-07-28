@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (2 days ago)
+- [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (today)
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
+- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (today)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 days ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (2 days ago)
 - [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (3 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
-- [WyriHaximus/reactphp-cron](https://github.com/WyriHaximus/reactphp-cron) (4 days ago)
 
 ---
 
