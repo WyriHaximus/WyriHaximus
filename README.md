@@ -17,9 +17,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) (today)
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
 - [reactphp-inspector/renovate](https://github.com/reactphp-inspector/renovate) (today)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 day ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (1 day ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
@@ -75,9 +75,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.13.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.13.3), today) - Makefile building blocks
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.33](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.33), 1 day ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.8.3](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.8.3), 4 days ago) - Tooling for creating generative Composer Plugins
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.13.2](https://github.com/WyriHaximus/Makefiles/releases/tag/0.13.2), 1 week ago) - Makefile building blocks
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.4.1](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.4.1), 1 week ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.4.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.4.0), 1 week ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.1.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.1.0), 1 week ago) - 🌯 PHPStan rules wrapper
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Mark any old composer as conflict](https://github.com/WyriHaximus/php-test-utilities/pull/1312) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [Ensure we remove the Composer Unused config file when composer-dependency-checkers aren&#39;t enabled](https://github.com/WyriHaximus/Makefiles/pull/251) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Ensure we remove the Composer Require Checker config file when composer-dependency-checkers aren&#39;t enabled](https://github.com/WyriHaximus/Makefiles/pull/250) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Always end with a new line](https://github.com/MammatusPHP/terraform/pull/4) on [MammatusPHP/terraform](https://github.com/MammatusPHP/terraform) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add support for classes](https://github.com/WyriHaximus/phpstan-no-safe/pull/7) on [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (4 days ago)
 - [Add table to the README with all push tags and when the last time is they got pushed](https://github.com/WyriHaximusNet/docker-php/pull/406) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
 - [Detect TTY availability and adjust shell commands accordingly](https://github.com/WyriHaximus/Makefiles/pull/248) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
-- [Add `run` command](https://github.com/WyriHaximus/Makefiles/pull/247) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 
 ---
 
