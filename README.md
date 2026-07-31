@@ -12,15 +12,15 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (1 day ago)
-- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (1 day ago)
+- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (1 day ago)
+- [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (1 day ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 day ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
+- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (1 day ago)
 - [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (1 day ago)
+- [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) (1 day ago)
 - [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) (1 day ago)
-- [WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up](https://github.com/WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up) (1 day ago)
-- [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (1 day ago)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 day ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Bump to tagged terraform events](https://github.com/MammatusPHP/terraform/pull/6) on [MammatusPHP/terraform](https://github.com/MammatusPHP/terraform) (today)
 - [TerraForm support](https://github.com/MammatusPHP/queue/pull/76) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [Remove version from `composer.json`](https://github.com/MammatusPHP/terraform-events/pull/6) on [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (today)
 - [Update docs](https://github.com/MammatusPHP/terraform-events/pull/5) on [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Initial set up](https://github.com/MammatusPHP/terraform/pull/1) on [MammatusPHP/terraform](https://github.com/MammatusPHP/terraform) (4 days ago)
 - [Initial set up](https://github.com/MammatusPHP/terraform-events/pull/1) on [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (4 days ago)
 - [Detect if anything in a group command calls docker directly](https://github.com/WyriHaximus/Makefiles/pull/249) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
-- [Improve cache performance](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/103) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (6 days ago)
 
 ---
 
