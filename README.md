@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Re-enable consumer logging](https://github.com/MammatusPHP/queue/pull/77) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [Bump to tagged terraform events](https://github.com/MammatusPHP/terraform/pull/6) on [MammatusPHP/terraform](https://github.com/MammatusPHP/terraform) (today)
 - [TerraForm support](https://github.com/MammatusPHP/queue/pull/76) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [Remove version from `composer.json`](https://github.com/MammatusPHP/terraform-events/pull/6) on [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Initial set up](https://github.com/MammatusPHP/terraform-vars-action/pull/1) on [MammatusPHP/terraform-vars-action](https://github.com/MammatusPHP/terraform-vars-action) (3 days ago)
 - [Initial set up](https://github.com/MammatusPHP/terraform/pull/1) on [MammatusPHP/terraform](https://github.com/MammatusPHP/terraform) (4 days ago)
 - [Initial set up](https://github.com/MammatusPHP/terraform-events/pull/1) on [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (4 days ago)
-- [Detect if anything in a group command calls docker directly](https://github.com/WyriHaximus/Makefiles/pull/249) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 
 ---
 
