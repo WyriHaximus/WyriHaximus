@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [TerraForm support](https://github.com/MammatusPHP/queue/pull/76) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [Remove version from `composer.json`](https://github.com/MammatusPHP/terraform-events/pull/6) on [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (today)
 - [Update docs](https://github.com/MammatusPHP/terraform-events/pull/5) on [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (today)
 - [Mark any old composer as conflict](https://github.com/WyriHaximus/php-test-utilities/pull/1312) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Initial set up](https://github.com/MammatusPHP/terraform-events/pull/1) on [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (4 days ago)
 - [Detect if anything in a group command calls docker directly](https://github.com/WyriHaximus/Makefiles/pull/249) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 - [Improve cache performance](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/103) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (6 days ago)
-- [Add support for classes](https://github.com/WyriHaximus/phpstan-no-safe/pull/7) on [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (6 days ago)
 
 ---
 
