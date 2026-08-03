@@ -17,10 +17,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (3 days ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (3 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
-- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (4 days ago)
-- [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) (4 days ago)
+- [WyriHaximus/php-json-utilities](https://github.com/WyriHaximus/php-json-utilities) (4 days ago)
 - [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (4 days ago)
-- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (4 days ago)
+- [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (4 days ago)
+- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (4 days ago)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (4 days ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (4 days ago)
 
@@ -93,6 +93,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/representation/pull/2) on [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (today)
+- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/utils/pull/3) on [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (today)
+- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/test-data/pull/4) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (today)
 - [Modernize ReactPHP](https://github.com/sculpin/sculpin/pull/538) on [sculpin/sculpin](https://github.com/sculpin/sculpin) (1 day ago)
 - [Turn into full mshpack implementation](https://github.com/WyriHaximus/php-msgpack/pull/35) on [WyriHaximus/php-msgpack](https://github.com/WyriHaximus/php-msgpack) (1 day ago)
 - [Helm Automatically detect all dependencies and load those in so we can remove hardcoding them in the workflows](https://github.com/WyriHaximus/github-workflows/pull/269) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
@@ -103,9 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [TerraForm support](https://github.com/MammatusPHP/queue/pull/76) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
 - [Remove version from `composer.json`](https://github.com/MammatusPHP/terraform-events/pull/6) on [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (3 days ago)
 - [Update docs](https://github.com/MammatusPHP/terraform-events/pull/5) on [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (3 days ago)
-- [Mark any old composer as conflict](https://github.com/WyriHaximus/php-test-utilities/pull/1312) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
-- [Ensure we remove the Composer Unused config file when composer-dependency-checkers aren&#39;t enabled](https://github.com/WyriHaximus/Makefiles/pull/251) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
-- [Ensure we remove the Composer Require Checker config file when composer-dependency-checkers aren&#39;t enabled](https://github.com/WyriHaximus/Makefiles/pull/250) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 
 ---
 
