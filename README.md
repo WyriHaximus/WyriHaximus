@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
-- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (2 days ago)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (2 days ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (2 days ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
-- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (3 days ago)
-- [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) (3 days ago)
-- [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (3 days ago)
-- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (3 days ago)
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (3 days ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (3 days ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
+- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (3 days ago)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (3 days ago)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (3 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
+- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (4 days ago)
+- [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) (4 days ago)
+- [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (4 days ago)
+- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (4 days ago)
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (4 days ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (4 days ago)
 
 ---
 
@@ -75,17 +75,17 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) ([0.1.1](https://github.com/MammatusPHP/terraform-events/releases/tag/0.1.1), 2 days ago) - Events for the `terraform` packagfe
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.5.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.5.0), 3 days ago) - 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.5.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.5.0), 3 days ago) - 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.2.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.2.0), 3 days ago) - 🌯 PHPStan rules wrapper
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.13.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.13.3), 4 days ago) - Makefile building blocks
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.33](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.33), 5 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
+- [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) ([0.1.1](https://github.com/MammatusPHP/terraform-events/releases/tag/0.1.1), 3 days ago) - Events for the `terraform` packagfe
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.5.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.5.0), 4 days ago) - 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.5.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.5.0), 4 days ago) - 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.2.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.2.0), 4 days ago) - 🌯 PHPStan rules wrapper
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.13.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.13.3), 5 days ago) - Makefile building blocks
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.33](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.33), 6 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.8.3](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.8.3), 1 week ago) - Tooling for creating generative Composer Plugins
 - [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) ([1.2.0](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter/releases/tag/1.2.0), 2 weeks ago) - 
 - [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) ([6.2.0](https://github.com/WyriHaximus/php-js-compress/releases/tag/6.2.0), 2 weeks ago) - 
-- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) ([0.1.1](https://github.com/reactphp-inspector/bunny/releases/tag/0.1.1), 2 weeks ago) - 
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) ([v0.6.0-alpha.3](https://github.com/jakubkulhan/bunny/releases/tag/v0.6.0-alpha.3), 2 weeks ago) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
+- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) ([0.1.1](https://github.com/reactphp-inspector/bunny/releases/tag/0.1.1), 3 weeks ago) - 
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) ([v0.6.0-alpha.3](https://github.com/jakubkulhan/bunny/releases/tag/v0.6.0-alpha.3), 3 weeks ago) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([7.0.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/7.0.0), 3 weeks ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
 - [WyriHaximus/php-compress-test-utilities](https://github.com/WyriHaximus/php-compress-test-utilities) ([4.0.0](https://github.com/WyriHaximus/php-compress-test-utilities/releases/tag/4.0.0), 3 weeks ago) - 
 
@@ -93,28 +93,28 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Modernize ReactPHP](https://github.com/sculpin/sculpin/pull/538) on [sculpin/sculpin](https://github.com/sculpin/sculpin) (today)
-- [Turn into full mshpack implementation](https://github.com/WyriHaximus/php-msgpack/pull/35) on [WyriHaximus/php-msgpack](https://github.com/WyriHaximus/php-msgpack) (today)
-- [Helm Automatically detect all dependencies and load those in so we can remove hardcoding them in the workflows](https://github.com/WyriHaximus/github-workflows/pull/269) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
-- [Add overview diagram](https://github.com/WyriHaximus/github-workflows/pull/268) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
-- [Add artifact retention days config option](https://github.com/WyriHaximus/github-workflows/pull/267) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
-- [Re-enable consumer logging](https://github.com/MammatusPHP/queue/pull/77) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
-- [Bump to tagged terraform events](https://github.com/MammatusPHP/terraform/pull/6) on [MammatusPHP/terraform](https://github.com/MammatusPHP/terraform) (2 days ago)
-- [TerraForm support](https://github.com/MammatusPHP/queue/pull/76) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
-- [Remove version from `composer.json`](https://github.com/MammatusPHP/terraform-events/pull/6) on [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (2 days ago)
-- [Update docs](https://github.com/MammatusPHP/terraform-events/pull/5) on [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (2 days ago)
-- [Mark any old composer as conflict](https://github.com/WyriHaximus/php-test-utilities/pull/1312) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
-- [Ensure we remove the Composer Unused config file when composer-dependency-checkers aren&#39;t enabled](https://github.com/WyriHaximus/Makefiles/pull/251) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
-- [Ensure we remove the Composer Require Checker config file when composer-dependency-checkers aren&#39;t enabled](https://github.com/WyriHaximus/Makefiles/pull/250) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
+- [Modernize ReactPHP](https://github.com/sculpin/sculpin/pull/538) on [sculpin/sculpin](https://github.com/sculpin/sculpin) (1 day ago)
+- [Turn into full mshpack implementation](https://github.com/WyriHaximus/php-msgpack/pull/35) on [WyriHaximus/php-msgpack](https://github.com/WyriHaximus/php-msgpack) (1 day ago)
+- [Helm Automatically detect all dependencies and load those in so we can remove hardcoding them in the workflows](https://github.com/WyriHaximus/github-workflows/pull/269) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
+- [Add overview diagram](https://github.com/WyriHaximus/github-workflows/pull/268) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
+- [Add artifact retention days config option](https://github.com/WyriHaximus/github-workflows/pull/267) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
+- [Re-enable consumer logging](https://github.com/MammatusPHP/queue/pull/77) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
+- [Bump to tagged terraform events](https://github.com/MammatusPHP/terraform/pull/6) on [MammatusPHP/terraform](https://github.com/MammatusPHP/terraform) (3 days ago)
+- [TerraForm support](https://github.com/MammatusPHP/queue/pull/76) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
+- [Remove version from `composer.json`](https://github.com/MammatusPHP/terraform-events/pull/6) on [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (3 days ago)
+- [Update docs](https://github.com/MammatusPHP/terraform-events/pull/5) on [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (3 days ago)
+- [Mark any old composer as conflict](https://github.com/WyriHaximus/php-test-utilities/pull/1312) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
+- [Ensure we remove the Composer Unused config file when composer-dependency-checkers aren&#39;t enabled](https://github.com/WyriHaximus/Makefiles/pull/251) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
+- [Ensure we remove the Composer Require Checker config file when composer-dependency-checkers aren&#39;t enabled](https://github.com/WyriHaximus/Makefiles/pull/250) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [Jamesits/docker-ripe-atlas](https://github.com/Jamesits/docker-ripe-atlas) - This is the RIPE Atlas software probe packaged as a Docker image. (2 days ago)
-- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step (3 days ago)
-- [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) - Implement a reasoning LLM in PyTorch from scratch, step by step (3 days ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [READ ONLY] Split of turbo-ext directory from phpstan-src repository. phpstan_turbo is a native acceleration extension for PHPStan. (4 days ago)
+- [Jamesits/docker-ripe-atlas](https://github.com/Jamesits/docker-ripe-atlas) - This is the RIPE Atlas software probe packaged as a Docker image. (3 days ago)
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step (4 days ago)
+- [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) - Implement a reasoning LLM in PyTorch from scratch, step by step (4 days ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [READ ONLY] Split of turbo-ext directory from phpstan-src repository. phpstan_turbo is a native acceleration extension for PHPStan. (5 days ago)
 - [raven-actions/bot-details](https://github.com/raven-actions/bot-details) - 🤖 Get bot details (name, email, author/committer) in a proper format for the subsequence steps like git, PR, and more. (1 week ago)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (1 week ago)
 - [amazon-mq/rabbitmq-stream-s3](https://github.com/amazon-mq/rabbitmq-stream-s3) - A RabbitMQ plugin for practically infinite stream storage in S3 (1 week ago)
