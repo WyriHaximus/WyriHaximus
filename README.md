@@ -17,10 +17,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (3 days ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (3 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 days ago)
-- [WyriHaximus/php-json-utilities](https://github.com/WyriHaximus/php-json-utilities) (4 days ago)
-- [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (4 days ago)
-- [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (4 days ago)
+- [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (4 days ago)
 - [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (4 days ago)
+- [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) (4 days ago)
+- [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (4 days ago)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (4 days ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (4 days ago)
 
