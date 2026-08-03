@@ -75,9 +75,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.5.1](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.5.1), today) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.5.1](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.5.1), today) - 
 - [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) ([0.1.1](https://github.com/MammatusPHP/terraform-events/releases/tag/0.1.1), 3 days ago) - Events for the `terraform` packagfe
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.5.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.5.0), 4 days ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.2.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.2.0), 4 days ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.13.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.13.3), 5 days ago) - Makefile building blocks
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.33](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.33), 6 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/contract/pull/3) on [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (today)
 - [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/representation/pull/2) on [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (today)
 - [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/utils/pull/3) on [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (today)
 - [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/test-data/pull/4) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Bump to tagged terraform events](https://github.com/MammatusPHP/terraform/pull/6) on [MammatusPHP/terraform](https://github.com/MammatusPHP/terraform) (3 days ago)
 - [TerraForm support](https://github.com/MammatusPHP/queue/pull/76) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
 - [Remove version from `composer.json`](https://github.com/MammatusPHP/terraform-events/pull/6) on [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (3 days ago)
-- [Update docs](https://github.com/MammatusPHP/terraform-events/pull/5) on [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (3 days ago)
 
 ---
 
