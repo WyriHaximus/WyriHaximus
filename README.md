@@ -20,7 +20,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (4 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 - [WyriHaximus/php-psr-3-filter](https://github.com/WyriHaximus/php-psr-3-filter) (5 days ago)
-- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (5 days ago)
+- [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) (5 days ago)
 - [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (5 days ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (5 days ago)
 
