@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Split up the `Installer` god class](https://github.com/WyriHaximus/Makefiles/pull/257) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Update `pointybeard/reverse-regex`](https://github.com/php-openapi-tools/gatherer/pull/7) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (today)
 - [Make sure we have `etc/qa/coverage-guard.php`](https://github.com/WyriHaximus/Makefiles/pull/256) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Add coverage files to PHPUnit config](https://github.com/WyriHaximus/Makefiles/pull/255) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/configuration/pull/3) on [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (1 day ago)
 - [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/registry/pull/1) on [php-openapi-tools/registry](https://github.com/php-openapi-tools/registry) (1 day ago)
 - [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/contract/pull/3) on [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (1 day ago)
-- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/representation/pull/2) on [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (1 day ago)
 
 ---
 
