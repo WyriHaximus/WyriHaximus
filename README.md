@@ -10,8 +10,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Make sure we have `etc/qa/coverage-guard.php`](https://github.com/WyriHaximus/Makefiles/pull/256) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Add coverage files to PHPUnit config](https://github.com/WyriHaximus/Makefiles/pull/255) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/generator/pull/4) on [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (today)
 - [Welcome to 2026](https://github.com/php-openapi-tools/generator-hydrator/pull/6) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/contract/pull/3) on [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (1 day ago)
 - [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/representation/pull/2) on [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (1 day ago)
 - [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/utils/pull/3) on [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (1 day ago)
-- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/test-data/pull/4) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (1 day ago)
 
 ---
 
