@@ -19,8 +19,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (4 days ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (4 days ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
-- [WyriHaximus/php-json-utilities](https://github.com/WyriHaximus/php-json-utilities) (5 days ago)
-- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (5 days ago)
+- [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (5 days ago)
+- [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) (5 days ago)
 - [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (5 days ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (5 days ago)
 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Welcome to 2026](https://github.com/php-openapi-tools/generator-hydrator/pull/6) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (today)
 - [Detect direct docker in `$(TERRAFORM)` style calls](https://github.com/WyriHaximus/Makefiles/pull/254) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/generator-schema/pull/4) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (1 day ago)
 - [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/generator-templates/pull/3) on [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/test-data/pull/4) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (1 day ago)
 - [Modernize ReactPHP](https://github.com/sculpin/sculpin/pull/538) on [sculpin/sculpin](https://github.com/sculpin/sculpin) (2 days ago)
 - [Turn into full mshpack implementation](https://github.com/WyriHaximus/php-msgpack/pull/35) on [WyriHaximus/php-msgpack](https://github.com/WyriHaximus/php-msgpack) (2 days ago)
-- [Helm Automatically detect all dependencies and load those in so we can remove hardcoding them in the workflows](https://github.com/WyriHaximus/github-workflows/pull/269) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 
 ---
 
