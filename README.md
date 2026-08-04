@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
-- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (3 days ago)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (3 days ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (3 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
-- [WyriHaximus/php-json-utilities](https://github.com/WyriHaximus/php-json-utilities) (4 days ago)
-- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (4 days ago)
-- [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (4 days ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (4 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
+- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (4 days ago)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (4 days ago)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (4 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
+- [WyriHaximus/php-json-utilities](https://github.com/WyriHaximus/php-json-utilities) (5 days ago)
+- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (5 days ago)
+- [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (5 days ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (5 days ago)
 
 ---
 
@@ -75,13 +75,13 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) ([v0.6.0-alpha.4](https://github.com/jakubkulhan/bunny/releases/tag/v0.6.0-alpha.4), today) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.5.1](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.5.1), today) - 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.5.1](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.5.1), today) - 
-- [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) ([0.1.1](https://github.com/MammatusPHP/terraform-events/releases/tag/0.1.1), 3 days ago) - Events for the `terraform` packagfe
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.2.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.2.0), 4 days ago) - 🌯 PHPStan rules wrapper
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.13.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.13.3), 5 days ago) - Makefile building blocks
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.33](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.33), 6 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) ([v0.6.0-alpha.4](https://github.com/jakubkulhan/bunny/releases/tag/v0.6.0-alpha.4), 1 day ago) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.5.1](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.5.1), 1 day ago) - 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.5.1](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.5.1), 1 day ago) - 
+- [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) ([0.1.1](https://github.com/MammatusPHP/terraform-events/releases/tag/0.1.1), 4 days ago) - Events for the `terraform` packagfe
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.2.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.2.0), 5 days ago) - 🌯 PHPStan rules wrapper
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.13.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.13.3), 6 days ago) - Makefile building blocks
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.33](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.33), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.8.3](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.8.3), 1 week ago) - Tooling for creating generative Composer Plugins
 - [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) ([1.2.0](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter/releases/tag/1.2.0), 2 weeks ago) - 
 - [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) ([6.2.0](https://github.com/WyriHaximus/php-js-compress/releases/tag/6.2.0), 2 weeks ago) - 
@@ -93,34 +93,34 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Detect direct docker in `$(TERRAFORM)` style calls](https://github.com/WyriHaximus/Makefiles/pull/254) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/generator-schema/pull/4) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (today)
-- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/generator-templates/pull/3) on [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (today)
-- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/gatherer/pull/6) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (today)
-- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/configuration/pull/3) on [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (today)
-- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/registry/pull/1) on [php-openapi-tools/registry](https://github.com/php-openapi-tools/registry) (today)
-- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/contract/pull/3) on [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (today)
-- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/representation/pull/2) on [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (today)
-- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/utils/pull/3) on [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (today)
-- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/test-data/pull/4) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (today)
-- [Modernize ReactPHP](https://github.com/sculpin/sculpin/pull/538) on [sculpin/sculpin](https://github.com/sculpin/sculpin) (1 day ago)
-- [Turn into full mshpack implementation](https://github.com/WyriHaximus/php-msgpack/pull/35) on [WyriHaximus/php-msgpack](https://github.com/WyriHaximus/php-msgpack) (1 day ago)
-- [Helm Automatically detect all dependencies and load those in so we can remove hardcoding them in the workflows](https://github.com/WyriHaximus/github-workflows/pull/269) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
+- [Detect direct docker in `$(TERRAFORM)` style calls](https://github.com/WyriHaximus/Makefiles/pull/254) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/generator-schema/pull/4) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (1 day ago)
+- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/generator-templates/pull/3) on [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (1 day ago)
+- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/gatherer/pull/6) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (1 day ago)
+- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/configuration/pull/3) on [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (1 day ago)
+- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/registry/pull/1) on [php-openapi-tools/registry](https://github.com/php-openapi-tools/registry) (1 day ago)
+- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/contract/pull/3) on [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (1 day ago)
+- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/representation/pull/2) on [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (1 day ago)
+- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/utils/pull/3) on [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (1 day ago)
+- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/test-data/pull/4) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (1 day ago)
+- [Modernize ReactPHP](https://github.com/sculpin/sculpin/pull/538) on [sculpin/sculpin](https://github.com/sculpin/sculpin) (2 days ago)
+- [Turn into full mshpack implementation](https://github.com/WyriHaximus/php-msgpack/pull/35) on [WyriHaximus/php-msgpack](https://github.com/WyriHaximus/php-msgpack) (2 days ago)
+- [Helm Automatically detect all dependencies and load those in so we can remove hardcoding them in the workflows](https://github.com/WyriHaximus/github-workflows/pull/269) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [Jamesits/docker-ripe-atlas](https://github.com/Jamesits/docker-ripe-atlas) - This is the RIPE Atlas software probe packaged as a Docker image. (3 days ago)
-- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step (4 days ago)
-- [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) - Implement a reasoning LLM in PyTorch from scratch, step by step (4 days ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [READ ONLY] Split of turbo-ext directory from phpstan-src repository. phpstan_turbo is a native acceleration extension for PHPStan. (5 days ago)
+- [Jamesits/docker-ripe-atlas](https://github.com/Jamesits/docker-ripe-atlas) - This is the RIPE Atlas software probe packaged as a Docker image. (4 days ago)
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step (5 days ago)
+- [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) - Implement a reasoning LLM in PyTorch from scratch, step by step (5 days ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [READ ONLY] Split of turbo-ext directory from phpstan-src repository. phpstan_turbo is a native acceleration extension for PHPStan. (6 days ago)
 - [raven-actions/bot-details](https://github.com/raven-actions/bot-details) - 🤖 Get bot details (name, email, author/committer) in a proper format for the subsequence steps like git, PR, and more. (1 week ago)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (1 week ago)
 - [amazon-mq/rabbitmq-stream-s3](https://github.com/amazon-mq/rabbitmq-stream-s3) - A RabbitMQ plugin for practically infinite stream storage in S3 (1 week ago)
 - [amazon-mq/mcp-server-rabbitmq](https://github.com/amazon-mq/mcp-server-rabbitmq) - MCP server for RabbitMQ  (1 week ago)
-- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents (1 week ago)
-- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud &amp; CalDAV support designed for GNOME (1 week ago)
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents (2 weeks ago)
+- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud &amp; CalDAV support designed for GNOME (2 weeks ago)
 - [matanbaruch/cursor-admin-api-exporter](https://github.com/matanbaruch/cursor-admin-api-exporter) - Cursor Admin API Exporter - For exporting Cursor AI stats from newly Admin API (2 weeks ago)
 - [Michael-Manning/E-Paper-Climate-Logger](https://github.com/Michael-Manning/E-Paper-Climate-Logger) -  (2 weeks ago)
 - [dantleech/depgraph](https://github.com/dantleech/depgraph) - Comprehensable Composer PHP dependency diagrams for your small business or enterprise. (3 weeks ago)
