@@ -10,16 +10,16 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (today)
+- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) (today)
-- [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (today)
-- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (today)
-- [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (today)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) (today)
-- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (today)
+- [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (today)
+- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (today)
+- [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) (today)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
+- [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (today)
 - [WyriHaximus/php-monolog-processors](https://github.com/WyriHaximus/php-monolog-processors) (today)
+- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (today)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add Basic WebHooks data set](https://github.com/php-openapi-tools/test-data/pull/5) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (today)
+- [Add webhook handler interface](https://github.com/php-openapi-tools/contract/pull/4) on [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (today)
 - [Initial set up](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware/pull/1) on [php-openapi-tools/generator-psr-15-webhook-middleware](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware) (today)
 - [Swap `pointy-beardreverse/regex` for `ilario-pierbattista/reverse-regex`](https://github.com/php-openapi-tools/gatherer/pull/8) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (today)
 - [Initial set up](https://github.com/WyriHaximus/php-qa-tooling-wrapper/pull/1) on [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (1 day ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Welcome to 2026](https://github.com/php-openapi-tools/generator-hydrator/pull/6) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (1 day ago)
 - [Detect direct docker in `$(TERRAFORM)` style calls](https://github.com/WyriHaximus/Makefiles/pull/254) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/generator-schema/pull/4) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (2 days ago)
-- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/generator-templates/pull/3) on [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (2 days ago)
-- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/gatherer/pull/6) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (2 days ago)
 
 ---
 
