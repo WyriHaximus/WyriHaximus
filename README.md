@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[0.6.x] Update examples to RabbitMQ v4](https://github.com/jakubkulhan/bunny/pull/234) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [More performant hydrator lookup](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware/pull/2) on [php-openapi-tools/generator-psr-15-webhook-middleware](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware) (today)
 - [Add Basic WebHooks data set](https://github.com/php-openapi-tools/test-data/pull/5) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (1 day ago)
 - [Add webhook handler interface](https://github.com/php-openapi-tools/contract/pull/4) on [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (1 day ago)
@@ -105,12 +106,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add coverage files to PHPUnit config](https://github.com/WyriHaximus/Makefiles/pull/255) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/generator/pull/4) on [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (2 days ago)
 - [Welcome to 2026](https://github.com/php-openapi-tools/generator-hydrator/pull/6) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (2 days ago)
-- [Detect direct docker in `$(TERRAFORM)` style calls](https://github.com/WyriHaximus/Makefiles/pull/254) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
+- [jakubkulhan/caddy-chrome](https://github.com/jakubkulhan/caddy-chrome) - Caddy middleware to server-side render Javascript applications using Chrome (today)
 - [ilario-pierbattista/ReverseRegex](https://github.com/ilario-pierbattista/ReverseRegex) - Use Regular Expressions to generate text string in PHP. (2 days ago)
 - [pointybeard-forks/reverse-regex](https://github.com/pointybeard-forks/reverse-regex) - Use Regular Expressions to generate text string in PHP. (2 days ago)
 - [shipmonk-rnd/coverage-guard](https://github.com/shipmonk-rnd/coverage-guard) - 🧪 Enforce PHP code coverage in your CI. Not by percentage, but target core methods! Allows you to start enforcing coverage for new code only!   Also contains tooling to merge and convert PHPUnit coverage files. (2 days ago)
@@ -123,7 +124,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [amazon-mq/rabbitmq-stream-s3](https://github.com/amazon-mq/rabbitmq-stream-s3) - A RabbitMQ plugin for practically infinite stream storage in S3 (1 week ago)
 - [amazon-mq/mcp-server-rabbitmq](https://github.com/amazon-mq/mcp-server-rabbitmq) - MCP server for RabbitMQ  (1 week ago)
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents (2 weeks ago)
-- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud &amp; CalDAV support designed for GNOME (2 weeks ago)
 
 ---
 
