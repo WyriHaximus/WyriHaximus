@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) (today)
-- [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (today)
-- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (today)
-- [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) (today)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
-- [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (today)
-- [WyriHaximus/php-monolog-processors](https://github.com/WyriHaximus/php-monolog-processors) (today)
-- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (today)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (today)
+- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) (1 day ago)
+- [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (1 day ago)
+- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (1 day ago)
+- [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) (1 day ago)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
+- [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (1 day ago)
+- [WyriHaximus/php-monolog-processors](https://github.com/WyriHaximus/php-monolog-processors) (1 day ago)
+- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (1 day ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 day ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
 
 ---
 
@@ -75,15 +75,15 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.3.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.3.0), today) - 🌯 PHPStan rules wrapper
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) ([v0.6.0-alpha.4](https://github.com/jakubkulhan/bunny/releases/tag/v0.6.0-alpha.4), 2 days ago) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.5.1](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.5.1), 2 days ago) - 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.5.1](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.5.1), 2 days ago) - 
-- [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) ([0.1.1](https://github.com/MammatusPHP/terraform-events/releases/tag/0.1.1), 5 days ago) - Events for the `terraform` packagfe
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.3.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.3.0), 1 day ago) - 🌯 PHPStan rules wrapper
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) ([v0.6.0-alpha.4](https://github.com/jakubkulhan/bunny/releases/tag/v0.6.0-alpha.4), 3 days ago) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.5.1](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.5.1), 3 days ago) - 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.5.1](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.5.1), 3 days ago) - 
+- [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) ([0.1.1](https://github.com/MammatusPHP/terraform-events/releases/tag/0.1.1), 6 days ago) - Events for the `terraform` packagfe
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.13.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.13.3), 1 week ago) - Makefile building blocks
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.33](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.33), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.8.3](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.8.3), 1 week ago) - Tooling for creating generative Composer Plugins
-- [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) ([1.2.0](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter/releases/tag/1.2.0), 2 weeks ago) - 
+- [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) ([1.2.0](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter/releases/tag/1.2.0), 3 weeks ago) - 
 - [WyriHaximus/php-js-compress](https://github.com/WyriHaximus/php-js-compress) ([6.2.0](https://github.com/WyriHaximus/php-js-compress/releases/tag/6.2.0), 3 weeks ago) - 
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) ([0.1.1](https://github.com/reactphp-inspector/bunny/releases/tag/0.1.1), 3 weeks ago) - 
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([7.0.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/7.0.0), 3 weeks ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
@@ -93,30 +93,30 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Add Basic WebHooks data set](https://github.com/php-openapi-tools/test-data/pull/5) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (today)
-- [Add webhook handler interface](https://github.com/php-openapi-tools/contract/pull/4) on [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (today)
-- [Initial set up](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware/pull/1) on [php-openapi-tools/generator-psr-15-webhook-middleware](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware) (today)
-- [Swap `pointy-beardreverse/regex` for `ilario-pierbattista/reverse-regex`](https://github.com/php-openapi-tools/gatherer/pull/8) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (today)
-- [Initial set up](https://github.com/WyriHaximus/php-qa-tooling-wrapper/pull/1) on [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (1 day ago)
-- [Split up the `Installer` god class](https://github.com/WyriHaximus/Makefiles/pull/257) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Update `pointybeard/reverse-regex`](https://github.com/php-openapi-tools/gatherer/pull/7) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (1 day ago)
-- [Make sure we have `etc/qa/coverage-guard.php`](https://github.com/WyriHaximus/Makefiles/pull/256) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Add coverage files to PHPUnit config](https://github.com/WyriHaximus/Makefiles/pull/255) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/generator/pull/4) on [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (1 day ago)
-- [Welcome to 2026](https://github.com/php-openapi-tools/generator-hydrator/pull/6) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (1 day ago)
-- [Detect direct docker in `$(TERRAFORM)` style calls](https://github.com/WyriHaximus/Makefiles/pull/254) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/generator-schema/pull/4) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (2 days ago)
+- [Add Basic WebHooks data set](https://github.com/php-openapi-tools/test-data/pull/5) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (1 day ago)
+- [Add webhook handler interface](https://github.com/php-openapi-tools/contract/pull/4) on [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (1 day ago)
+- [Initial set up](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware/pull/1) on [php-openapi-tools/generator-psr-15-webhook-middleware](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware) (1 day ago)
+- [Swap `pointy-beardreverse/regex` for `ilario-pierbattista/reverse-regex`](https://github.com/php-openapi-tools/gatherer/pull/8) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (1 day ago)
+- [Initial set up](https://github.com/WyriHaximus/php-qa-tooling-wrapper/pull/1) on [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (2 days ago)
+- [Split up the `Installer` god class](https://github.com/WyriHaximus/Makefiles/pull/257) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [Update `pointybeard/reverse-regex`](https://github.com/php-openapi-tools/gatherer/pull/7) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (2 days ago)
+- [Make sure we have `etc/qa/coverage-guard.php`](https://github.com/WyriHaximus/Makefiles/pull/256) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [Add coverage files to PHPUnit config](https://github.com/WyriHaximus/Makefiles/pull/255) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/generator/pull/4) on [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (2 days ago)
+- [Welcome to 2026](https://github.com/php-openapi-tools/generator-hydrator/pull/6) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (2 days ago)
+- [Detect direct docker in `$(TERRAFORM)` style calls](https://github.com/WyriHaximus/Makefiles/pull/254) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Welcome to 2026 with new QA tooling, newer PHP versions, and the energy to tag a release](https://github.com/php-openapi-tools/generator-schema/pull/4) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (3 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [ilario-pierbattista/ReverseRegex](https://github.com/ilario-pierbattista/ReverseRegex) - Use Regular Expressions to generate text string in PHP. (1 day ago)
-- [pointybeard-forks/reverse-regex](https://github.com/pointybeard-forks/reverse-regex) - Use Regular Expressions to generate text string in PHP. (1 day ago)
-- [shipmonk-rnd/coverage-guard](https://github.com/shipmonk-rnd/coverage-guard) - 🧪 Enforce PHP code coverage in your CI. Not by percentage, but target core methods! Allows you to start enforcing coverage for new code only!   Also contains tooling to merge and convert PHPUnit coverage files. (1 day ago)
-- [Jamesits/docker-ripe-atlas](https://github.com/Jamesits/docker-ripe-atlas) - This is the RIPE Atlas software probe packaged as a Docker image. (5 days ago)
-- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step (6 days ago)
-- [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) - Implement a reasoning LLM in PyTorch from scratch, step by step (6 days ago)
+- [ilario-pierbattista/ReverseRegex](https://github.com/ilario-pierbattista/ReverseRegex) - Use Regular Expressions to generate text string in PHP. (2 days ago)
+- [pointybeard-forks/reverse-regex](https://github.com/pointybeard-forks/reverse-regex) - Use Regular Expressions to generate text string in PHP. (2 days ago)
+- [shipmonk-rnd/coverage-guard](https://github.com/shipmonk-rnd/coverage-guard) - 🧪 Enforce PHP code coverage in your CI. Not by percentage, but target core methods! Allows you to start enforcing coverage for new code only!   Also contains tooling to merge and convert PHPUnit coverage files. (2 days ago)
+- [Jamesits/docker-ripe-atlas](https://github.com/Jamesits/docker-ripe-atlas) - This is the RIPE Atlas software probe packaged as a Docker image. (6 days ago)
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step (1 week ago)
+- [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) - Implement a reasoning LLM in PyTorch from scratch, step by step (1 week ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [READ ONLY] Split of turbo-ext directory from phpstan-src repository. phpstan_turbo is a native acceleration extension for PHPStan. (1 week ago)
 - [raven-actions/bot-details](https://github.com/raven-actions/bot-details) - 🤖 Get bot details (name, email, author/committer) in a proper format for the subsequence steps like git, PR, and more. (1 week ago)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (1 week ago)
