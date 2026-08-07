@@ -75,12 +75,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.5.2](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.5.2), today) - 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.4.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.4.0), today) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) ([1.1.0](https://github.com/WyriHaximus/phpstan-no-safe/releases/tag/1.1.0), today) - PHPStan extension that detects and blocks any usage of `thecodingmachine/safe`
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([4.3.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/4.3.0), 1 day ago) - PHP Coding Standard
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.3.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.3.0), 2 days ago) - 🌯 PHPStan rules wrapper
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) ([v0.6.0-alpha.4](https://github.com/jakubkulhan/bunny/releases/tag/v0.6.0-alpha.4), 4 days ago) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([13.5.1](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/13.5.1), 4 days ago) - 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([13.5.1](https://github.com/WyriHaximus/php-test-utilities/releases/tag/13.5.1), 4 days ago) - 
 - [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) ([0.1.1](https://github.com/MammatusPHP/terraform-events/releases/tag/0.1.1), 1 week ago) - Events for the `terraform` packagfe
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.13.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.13.3), 1 week ago) - Makefile building blocks
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.33](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.33), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
