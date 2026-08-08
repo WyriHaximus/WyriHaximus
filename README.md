@@ -12,16 +12,16 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
 - [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (today)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 day ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
 - [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (3 days ago)
 - [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (3 days ago)
 - [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) (3 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
-- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (3 days ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (3 days ago)
 
 ---
