@@ -13,10 +13,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
 - [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (today)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 day ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
 - [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (3 days ago)
 - [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (3 days ago)
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add Coverage GUard to enforce test coverage](https://github.com/WyriHaximus/Makefiles/pull/260) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Add support for extra services](https://github.com/WyriHaximus/Makefiles/pull/259) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Switch to `WyriHaximus/rectorphp-config`](https://github.com/WyriHaximus/phpstan-no-safe/pull/10) on [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (today)
 - [Extract RectorPHP config and rules here](https://github.com/WyriHaximus/rectorphp-config/pull/1) on [WyriHaximus/rectorphp-config](https://github.com/WyriHaximus/rectorphp-config) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Initial set up](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware/pull/1) on [php-openapi-tools/generator-psr-15-webhook-middleware](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware) (3 days ago)
 - [Swap `pointy-beardreverse/regex` for `ilario-pierbattista/reverse-regex`](https://github.com/php-openapi-tools/gatherer/pull/8) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (3 days ago)
 - [Initial set up](https://github.com/WyriHaximus/php-qa-tooling-wrapper/pull/1) on [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (4 days ago)
-- [Split up the `Installer` god class](https://github.com/WyriHaximus/Makefiles/pull/257) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 
 ---
 
