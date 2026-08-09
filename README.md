@@ -93,6 +93,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Delegate tooling requiring to `wyrihaximus/qa-tooling-wrapper`](https://github.com/WyriHaximus/php-test-utilities/pull/1325) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [Update RectorPHP config file `etc/qa/rector.php` from `TestUtilities` to `RectorPHP` namespace](https://github.com/WyriHaximus/Makefiles/pull/262) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Move `etc/qa/rector.php` default file contents to base64](https://github.com/WyriHaximus/Makefiles/pull/261) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Add Coverage GUard to enforce test coverage](https://github.com/WyriHaximus/Makefiles/pull/260) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Add support for extra services](https://github.com/WyriHaximus/Makefiles/pull/259) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Switch to `WyriHaximus/rectorphp-config`](https://github.com/WyriHaximus/phpstan-no-safe/pull/10) on [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (1 day ago)
@@ -103,9 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [More performant hydrator lookup](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware/pull/2) on [php-openapi-tools/generator-psr-15-webhook-middleware](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware) (3 days ago)
 - [Add Basic WebHooks data set](https://github.com/php-openapi-tools/test-data/pull/5) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (4 days ago)
 - [Add webhook handler interface](https://github.com/php-openapi-tools/contract/pull/4) on [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (4 days ago)
-- [Initial set up](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware/pull/1) on [php-openapi-tools/generator-psr-15-webhook-middleware](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware) (4 days ago)
-- [Swap `pointy-beardreverse/regex` for `ilario-pierbattista/reverse-regex`](https://github.com/php-openapi-tools/gatherer/pull/8) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (4 days ago)
-- [Initial set up](https://github.com/WyriHaximus/php-qa-tooling-wrapper/pull/1) on [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (5 days ago)
 
 ---
 
@@ -144,11 +144,11 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 👯 Check out some of my recent followers
 
-- [Gabrieliam42](https://github.com/Gabrieliam42)
 - [charlesmorris0010-star](https://github.com/charlesmorris0010-star)
 - [TestSubjectJohnDoe](https://github.com/TestSubjectJohnDoe)
 - [chrisipanaque](https://github.com/chrisipanaque)
 - [ddelrio1986](https://github.com/ddelrio1986)
+- [bangraphel](https://github.com/bangraphel)
 
 ---
 
