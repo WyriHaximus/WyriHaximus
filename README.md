@@ -111,6 +111,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [bagder/c-comments](https://github.com/bagder/c-comments) - A tool that shows all comments and strings from C source (today)
 - [jakubkulhan/caddy-chrome](https://github.com/jakubkulhan/caddy-chrome) - Caddy middleware to server-side render Javascript applications using Chrome (4 days ago)
 - [ilario-pierbattista/ReverseRegex](https://github.com/ilario-pierbattista/ReverseRegex) - Use Regular Expressions to generate text string in PHP. (6 days ago)
 - [pointybeard-forks/reverse-regex](https://github.com/pointybeard-forks/reverse-regex) - Use Regular Expressions to generate text string in PHP. (6 days ago)
@@ -123,7 +124,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (2 weeks ago)
 - [amazon-mq/rabbitmq-stream-s3](https://github.com/amazon-mq/rabbitmq-stream-s3) - A RabbitMQ plugin for practically infinite stream storage in S3 (2 weeks ago)
 - [amazon-mq/mcp-server-rabbitmq](https://github.com/amazon-mq/mcp-server-rabbitmq) - MCP server for RabbitMQ  (2 weeks ago)
-- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents (2 weeks ago)
 
 ---
 
