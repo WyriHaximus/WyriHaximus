@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add `AGENTS.md` migration](https://github.com/WyriHaximus/Makefiles/pull/265) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Pass threads env var into container](https://github.com/WyriHaximus/Makefiles/pull/264) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Use `openapi-tools/generator-utils`](https://github.com/php-openapi-tools/generator-hydrator/pull/7) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (today)
 - [Use `openapi-tools/generator-utils`](https://github.com/php-openapi-tools/generator-schema/pull/5) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add Coverage GUard to enforce test coverage](https://github.com/WyriHaximus/Makefiles/pull/260) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
 - [Add support for extra services](https://github.com/WyriHaximus/Makefiles/pull/259) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
 - [Switch to `WyriHaximus/rectorphp-config`](https://github.com/WyriHaximus/phpstan-no-safe/pull/10) on [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (6 days ago)
-- [Extract RectorPHP config and rules here](https://github.com/WyriHaximus/rectorphp-config/pull/1) on [WyriHaximus/rectorphp-config](https://github.com/WyriHaximus/rectorphp-config) (6 days ago)
 
 ---
 
