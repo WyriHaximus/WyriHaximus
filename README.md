@@ -10,12 +10,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (1 day ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 day ago)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
 - [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (1 week ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
@@ -75,10 +75,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.0.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.0.0), today) - 
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.15.1](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.15.1), today) - Wrapper around renovatebot/github-action
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.14.0](https://github.com/WyriHaximus/Makefiles/releases/tag/0.14.0), 1 day ago) - Makefile building blocks
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.0.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.0.0), 6 days ago) - 
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.0.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.0.0), 1 day ago) - 
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.15.1](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.15.1), 1 day ago) - Wrapper around renovatebot/github-action
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.14.0](https://github.com/WyriHaximus/Makefiles/releases/tag/0.14.0), 2 days ago) - Makefile building blocks
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.0.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.0.0), 1 week ago) - 
 - [WyriHaximus/rectorphp-config](https://github.com/WyriHaximus/rectorphp-config) ([1.0.0](https://github.com/WyriHaximus/rectorphp-config/releases/tag/1.0.0), 1 week ago) - My RectorPHP configuration tooling and additional rules 
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.0.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.0.0), 1 week ago) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.4.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.4.0), 1 week ago) - 🌯 PHPStan rules wrapper
@@ -93,26 +93,26 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Run `make on-install-or-update || true` on post upgrade task](https://github.com/WyriHaximus/github-action-renovatebot/pull/78) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
-- [Add node about LLMs to `CONTRIBUTING.md`](https://github.com/WyriHaximus/Makefiles/pull/266) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Add `AGENTS.md` migration](https://github.com/WyriHaximus/Makefiles/pull/265) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Pass threads env var into container](https://github.com/WyriHaximus/Makefiles/pull/264) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Use `openapi-tools/generator-utils`](https://github.com/php-openapi-tools/generator-hydrator/pull/7) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (1 day ago)
-- [Use `openapi-tools/generator-utils`](https://github.com/php-openapi-tools/generator-schema/pull/5) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (1 day ago)
-- [Raise test coverage](https://github.com/php-openapi-tools/generator-utils/pull/1) on [php-openapi-tools/generator-utils](https://github.com/php-openapi-tools/generator-utils) (1 day ago)
-- [Add 3 more sets](https://github.com/php-openapi-tools/test-data/pull/7) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (1 day ago)
-- [Add test data schema validation](https://github.com/php-openapi-tools/test-data/pull/6) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (1 day ago)
-- [Delegate tooling requiring to `wyrihaximus/qa-tooling-wrapper`](https://github.com/WyriHaximus/php-test-utilities/pull/1325) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (6 days ago)
-- [Update RectorPHP config file `etc/qa/rector.php` from `TestUtilities` to `RectorPHP` namespace](https://github.com/WyriHaximus/Makefiles/pull/262) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
-- [Move `etc/qa/rector.php` default file contents to base64](https://github.com/WyriHaximus/Makefiles/pull/261) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
+- [Run `make on-install-or-update || true` on post upgrade task](https://github.com/WyriHaximus/github-action-renovatebot/pull/78) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
+- [Add node about LLMs to `CONTRIBUTING.md`](https://github.com/WyriHaximus/Makefiles/pull/266) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [Add `AGENTS.md` migration](https://github.com/WyriHaximus/Makefiles/pull/265) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [Pass threads env var into container](https://github.com/WyriHaximus/Makefiles/pull/264) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [Use `openapi-tools/generator-utils`](https://github.com/php-openapi-tools/generator-hydrator/pull/7) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (2 days ago)
+- [Use `openapi-tools/generator-utils`](https://github.com/php-openapi-tools/generator-schema/pull/5) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (2 days ago)
+- [Raise test coverage](https://github.com/php-openapi-tools/generator-utils/pull/1) on [php-openapi-tools/generator-utils](https://github.com/php-openapi-tools/generator-utils) (2 days ago)
+- [Add 3 more sets](https://github.com/php-openapi-tools/test-data/pull/7) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (2 days ago)
+- [Add test data schema validation](https://github.com/php-openapi-tools/test-data/pull/6) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (2 days ago)
+- [Delegate tooling requiring to `wyrihaximus/qa-tooling-wrapper`](https://github.com/WyriHaximus/php-test-utilities/pull/1325) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
+- [Update RectorPHP config file `etc/qa/rector.php` from `TestUtilities` to `RectorPHP` namespace](https://github.com/WyriHaximus/Makefiles/pull/262) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
+- [Move `etc/qa/rector.php` default file contents to base64](https://github.com/WyriHaximus/Makefiles/pull/261) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Add Coverage GUard to enforce test coverage](https://github.com/WyriHaximus/Makefiles/pull/260) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [Innmind/BlackBox](https://github.com/Innmind/BlackBox) -  (2 days ago)
-- [bagder/c-comments](https://github.com/bagder/c-comments) - A tool that shows all comments and strings from C source (5 days ago)
+- [Innmind/BlackBox](https://github.com/Innmind/BlackBox) -  (3 days ago)
+- [bagder/c-comments](https://github.com/bagder/c-comments) - A tool that shows all comments and strings from C source (6 days ago)
 - [jakubkulhan/caddy-chrome](https://github.com/jakubkulhan/caddy-chrome) - Caddy middleware to server-side render Javascript applications using Chrome (1 week ago)
 - [ilario-pierbattista/ReverseRegex](https://github.com/ilario-pierbattista/ReverseRegex) - Use Regular Expressions to generate text string in PHP. (1 week ago)
 - [pointybeard-forks/reverse-regex](https://github.com/pointybeard-forks/reverse-regex) - Use Regular Expressions to generate text string in PHP. (1 week ago)
