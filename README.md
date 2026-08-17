@@ -147,8 +147,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [codoidieu](https://github.com/codoidieu)
 - [charlesmorris0010-star](https://github.com/charlesmorris0010-star)
 - [TestSubjectJohnDoe](https://github.com/TestSubjectJohnDoe)
-- [chrisipanaque](https://github.com/chrisipanaque)
 - [ddelrio1986](https://github.com/ddelrio1986)
+- [bangraphel](https://github.com/bangraphel)
 
 ---
 
