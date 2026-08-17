@@ -11,7 +11,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (2 days ago)
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Fix readme updater - Attempt 2](https://github.com/WyriHaximusNet/docker-php/pull/409) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Only `update-lock` when `composer.json` changes while running `composer-normalize`](https://github.com/WyriHaximus/Makefiles/pull/267) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Ignore DL3066](https://github.com/WyriHaximusNet/docker-php/pull/408) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [Correct readme update permissions](https://github.com/WyriHaximusNet/docker-php/pull/407) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Use `openapi-tools/generator-utils`](https://github.com/php-openapi-tools/generator-schema/pull/5) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (3 days ago)
 - [Raise test coverage](https://github.com/php-openapi-tools/generator-utils/pull/1) on [php-openapi-tools/generator-utils](https://github.com/php-openapi-tools/generator-utils) (3 days ago)
 - [Add 3 more sets](https://github.com/php-openapi-tools/test-data/pull/7) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (3 days ago)
-- [Add test data schema validation](https://github.com/php-openapi-tools/test-data/pull/6) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (3 days ago)
 
 ---
 
