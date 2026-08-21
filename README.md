@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
-- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
-- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (4 days ago)
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (5 days ago)
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (5 days ago)
+- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (1 day ago)
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (2 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (3 days ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
+- [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (5 days ago)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (6 days ago)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (6 days ago)
 - [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (1 week ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 week ago)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (2 weeks ago)
 
 ---
 
@@ -75,51 +75,51 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.14.1](https://github.com/WyriHaximus/Makefiles/releases/tag/0.14.1), 2 days ago) - Makefile building blocks
-- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.21](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.21), 2 days ago) - 
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.0.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.0.0), 5 days ago) - 
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.15.1](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.15.1), 5 days ago) - Wrapper around renovatebot/github-action
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.14.1](https://github.com/WyriHaximus/Makefiles/releases/tag/0.14.1), 3 days ago) - Makefile building blocks
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.21](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.21), 3 days ago) - 
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.0.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.0.0), 6 days ago) - 
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.15.1](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.15.1), 6 days ago) - Wrapper around renovatebot/github-action
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.0.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.0.0), 1 week ago) - 
 - [WyriHaximus/rectorphp-config](https://github.com/WyriHaximus/rectorphp-config) ([1.0.0](https://github.com/WyriHaximus/rectorphp-config/releases/tag/1.0.0), 1 week ago) - My RectorPHP configuration tooling and additional rules 
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.0.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.0.0), 1 week ago) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.4.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.4.0), 1 week ago) - 🌯 PHPStan rules wrapper
-- [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) ([1.1.0](https://github.com/WyriHaximus/phpstan-no-safe/releases/tag/1.1.0), 1 week ago) - PHPStan extension that detects and blocks any usage of `thecodingmachine/safe`
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.4.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.4.0), 2 weeks ago) - 🌯 PHPStan rules wrapper
+- [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) ([1.1.0](https://github.com/WyriHaximus/phpstan-no-safe/releases/tag/1.1.0), 2 weeks ago) - PHPStan extension that detects and blocks any usage of `thecodingmachine/safe`
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([4.3.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/4.3.0), 2 weeks ago) - PHP Coding Standard
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) ([v0.6.0-alpha.4](https://github.com/jakubkulhan/bunny/releases/tag/v0.6.0-alpha.4), 2 weeks ago) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
-- [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) ([0.1.1](https://github.com/MammatusPHP/terraform-events/releases/tag/0.1.1), 2 weeks ago) - Events for the `terraform` packagfe
+- [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) ([0.1.1](https://github.com/MammatusPHP/terraform-events/releases/tag/0.1.1), 3 weeks ago) - Events for the `terraform` packagfe
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.33](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.33), 3 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 
 ---
 
 #### 🔨 My recent Pull Requests
 
-- [Add support for pod labels](https://github.com/MammatusPHP/helm-charts/pull/44) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
-- [Add support for pod annotations](https://github.com/MammatusPHP/helm-charts/pull/43) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
-- [Fix readme updater - Attempt 2](https://github.com/WyriHaximusNet/docker-php/pull/409) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
-- [Only `update-lock` when `composer.json` changes while running `composer-normalize`](https://github.com/WyriHaximus/Makefiles/pull/267) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
-- [Ignore DL3066](https://github.com/WyriHaximusNet/docker-php/pull/408) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
-- [Correct readme update permissions](https://github.com/WyriHaximusNet/docker-php/pull/407) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
-- [Ignore DL3066](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/55) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (4 days ago)
-- [Run `make on-install-or-update || true` on post upgrade task](https://github.com/WyriHaximus/github-action-renovatebot/pull/78) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (6 days ago)
-- [Add node about LLMs to `CONTRIBUTING.md`](https://github.com/WyriHaximus/Makefiles/pull/266) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
-- [Add `AGENTS.md` migration](https://github.com/WyriHaximus/Makefiles/pull/265) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
-- [Pass threads env var into container](https://github.com/WyriHaximus/Makefiles/pull/264) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
-- [Use `openapi-tools/generator-utils`](https://github.com/php-openapi-tools/generator-hydrator/pull/7) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (6 days ago)
-- [Use `openapi-tools/generator-utils`](https://github.com/php-openapi-tools/generator-schema/pull/5) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (6 days ago)
+- [Add support for pod labels](https://github.com/MammatusPHP/helm-charts/pull/44) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (3 days ago)
+- [Add support for pod annotations](https://github.com/MammatusPHP/helm-charts/pull/43) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (3 days ago)
+- [Fix readme updater - Attempt 2](https://github.com/WyriHaximusNet/docker-php/pull/409) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
+- [Only `update-lock` when `composer.json` changes while running `composer-normalize`](https://github.com/WyriHaximus/Makefiles/pull/267) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
+- [Ignore DL3066](https://github.com/WyriHaximusNet/docker-php/pull/408) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
+- [Correct readme update permissions](https://github.com/WyriHaximusNet/docker-php/pull/407) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
+- [Ignore DL3066](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/55) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (5 days ago)
+- [Run `make on-install-or-update || true` on post upgrade task](https://github.com/WyriHaximus/github-action-renovatebot/pull/78) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 week ago)
+- [Add node about LLMs to `CONTRIBUTING.md`](https://github.com/WyriHaximus/Makefiles/pull/266) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
+- [Add `AGENTS.md` migration](https://github.com/WyriHaximus/Makefiles/pull/265) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
+- [Pass threads env var into container](https://github.com/WyriHaximus/Makefiles/pull/264) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
+- [Use `openapi-tools/generator-utils`](https://github.com/php-openapi-tools/generator-hydrator/pull/7) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (1 week ago)
+- [Use `openapi-tools/generator-utils`](https://github.com/php-openapi-tools/generator-schema/pull/5) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (1 week ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [jmathai/immich-exif](https://github.com/jmathai/immich-exif) - Write changes from Immich back to EXIF. Deploy as a container in your docker-compose.yaml. (today)
-- [UB-Mannheim/zotero-ocr](https://github.com/UB-Mannheim/zotero-ocr) - Zotero Plugin for OCR (4 days ago)
+- [jmathai/immich-exif](https://github.com/jmathai/immich-exif) - Write changes from Immich back to EXIF. Deploy as a container in your docker-compose.yaml. (1 day ago)
+- [UB-Mannheim/zotero-ocr](https://github.com/UB-Mannheim/zotero-ocr) - Zotero Plugin for OCR (5 days ago)
 - [Innmind/BlackBox](https://github.com/Innmind/BlackBox) -  (1 week ago)
 - [bagder/c-comments](https://github.com/bagder/c-comments) - A tool that shows all comments and strings from C source (1 week ago)
 - [jakubkulhan/caddy-chrome](https://github.com/jakubkulhan/caddy-chrome) - Caddy middleware to server-side render Javascript applications using Chrome (2 weeks ago)
 - [ilario-pierbattista/ReverseRegex](https://github.com/ilario-pierbattista/ReverseRegex) - Use Regular Expressions to generate text string in PHP. (2 weeks ago)
 - [pointybeard-forks/reverse-regex](https://github.com/pointybeard-forks/reverse-regex) - Use Regular Expressions to generate text string in PHP. (2 weeks ago)
 - [shipmonk-rnd/coverage-guard](https://github.com/shipmonk-rnd/coverage-guard) - 🧪 Enforce PHP code coverage in your CI. Not by percentage, but target core methods! Allows you to start enforcing coverage for new code only!   Also contains tooling to merge and convert PHPUnit coverage files. (2 weeks ago)
-- [Jamesits/docker-ripe-atlas](https://github.com/Jamesits/docker-ripe-atlas) - This is the RIPE Atlas software probe packaged as a Docker image. (2 weeks ago)
+- [Jamesits/docker-ripe-atlas](https://github.com/Jamesits/docker-ripe-atlas) - This is the RIPE Atlas software probe packaged as a Docker image. (3 weeks ago)
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step (3 weeks ago)
 - [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) - Implement a reasoning LLM in PyTorch from scratch, step by step (3 weeks ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [READ ONLY] Split of turbo-ext directory from phpstan-src repository. phpstan_turbo is a native acceleration extension for PHPStan. (3 weeks ago)
