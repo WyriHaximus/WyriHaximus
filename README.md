@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.1.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.1.0), today) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.8.4](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.8.4), today) - Tooling for creating generative Composer Plugins
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.14.2](https://github.com/WyriHaximus/Makefiles/releases/tag/0.14.2), today) - Makefile building blocks
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.5.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.5.0), today) - 🌯 PHPStan rules wrapper
@@ -83,7 +84,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.0.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.0.0), 1 week ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.0.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.0.0), 1 week ago) - 
 - [WyriHaximus/rectorphp-config](https://github.com/WyriHaximus/rectorphp-config) ([1.0.0](https://github.com/WyriHaximus/rectorphp-config/releases/tag/1.0.0), 2 weeks ago) - My RectorPHP configuration tooling and additional rules 
-- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.0.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.0.0), 2 weeks ago) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
 - [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) ([1.1.0](https://github.com/WyriHaximus/phpstan-no-safe/releases/tag/1.1.0), 2 weeks ago) - PHPStan extension that detects and blocks any usage of `thecodingmachine/safe`
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([4.3.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/4.3.0), 2 weeks ago) - PHP Coding Standard
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) ([v0.6.0-alpha.4](https://github.com/jakubkulhan/bunny/releases/tag/v0.6.0-alpha.4), 2 weeks ago) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
