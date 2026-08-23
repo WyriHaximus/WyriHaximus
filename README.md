@@ -12,17 +12,17 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 - [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) (today)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 day ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
-- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (1 day ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 day ago)
-- [WyriHaximusNet/php-x-headers](https://github.com/WyriHaximusNet/php-x-headers) (1 day ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 day ago)
+- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (1 day ago)
 
 ---
 
@@ -75,12 +75,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.14.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.14.3), today) - Makefile building blocks
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r64](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r64), today) - 
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.1.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.1.0), today) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.1.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.1.0), 1 day ago) - 
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.1.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.1.0), 1 day ago) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.8.4](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.8.4), 1 day ago) - Tooling for creating generative Composer Plugins
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.14.2](https://github.com/WyriHaximus/Makefiles/releases/tag/0.14.2), 1 day ago) - Makefile building blocks
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.5.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.5.0), 1 day ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.0](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.0), 1 day ago) - Wrapper around renovatebot/github-action
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.21](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.21), 5 days ago) - 
