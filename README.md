@@ -93,6 +93,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Set OTEL_PHP_FIBERS_ENABLED on directly-on-os CI jobs](https://github.com/WyriHaximus/github-workflows/pull/274) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [[`AGENTS.md`] Forbid editing `Makefile` and A`GENTS.md` outside `wyrihaximus/makefiles`](https://github.com/WyriHaximus/Makefiles/pull/275) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Pin Infection to one thread in CI via `MUTATION_THREADS`](https://github.com/WyriHaximus/Makefiles/pull/274) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [[`AGENTS.md`] Always extend PHPUnit test classes from `WyriHaximus\AsyncTestUtilities\AsyncTestCase` or `WyriHaximus\TestUtilities\TestCase`](https://github.com/WyriHaximus/Makefiles/pull/273) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Update to 100% code coverage](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/112) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [Fix syntax highlithing](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/234) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
@@ -103,9 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Disable OTEL auto-instrumentation](https://github.com/WyriHaximus/Makefiles/pull/268) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Add trace headers](https://github.com/MammatusPHP/queue/pull/81) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
 - [Run `ksort` on all levels in the cache](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/109) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
-- [Add support for pod labels](https://github.com/MammatusPHP/helm-charts/pull/44) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (5 days ago)
-- [Add support for pod annotations](https://github.com/MammatusPHP/helm-charts/pull/43) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (5 days ago)
-- [Fix readme updater - Attempt 2](https://github.com/WyriHaximusNet/docker-php/pull/409) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (6 days ago)
 
 ---
 
