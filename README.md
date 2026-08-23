@@ -12,10 +12,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (today)
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
 - [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (1 day ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 day ago)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
