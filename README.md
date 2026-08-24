@@ -12,16 +12,16 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 - [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (today)
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (today)
-- [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (today)
+- [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) (today)
 - [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (today)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
 - [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (today)
-- [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) (today)
-- [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (today)
+- [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (today)
 - [WyriHaximus/php-monolog-processors](https://github.com/WyriHaximus/php-monolog-processors) (today)
-- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (today)
 - [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
+- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (today)
+- [WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up](https://github.com/WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up) (today)
 - [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) (today)
 
 ---
@@ -75,6 +75,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [php-openapi-tools/generator-utils](https://github.com/php-openapi-tools/generator-utils) ([0.1.0](https://github.com/php-openapi-tools/generator-utils/releases/tag/0.1.0), today) - Shared PHP Parser utilities for OpenAPI Tools code generators
+- [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) ([0.1.0](https://github.com/php-openapi-tools/configuration/releases/tag/0.1.0), today) - Configuration for package generators
 - [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) ([0.1.0](https://github.com/php-openapi-tools/contract/releases/tag/0.1.0), today) - Contracts for OpenAPI Tools
 - [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) ([0.1.0](https://github.com/php-openapi-tools/representation/releases/tag/0.1.0), today) - 
 - [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) ([0.1.0](https://github.com/php-openapi-tools/utils/releases/tag/0.1.0), today) - 
@@ -86,13 +88,17 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.8.4](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.8.4), 2 days ago) - Tooling for creating generative Composer Plugins
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.5.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.5.0), 2 days ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.0](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.0), 2 days ago) - Wrapper around renovatebot/github-action
-- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.21](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.21), 6 days ago) - 
-- [WyriHaximus/rectorphp-config](https://github.com/WyriHaximus/rectorphp-config) ([1.0.0](https://github.com/WyriHaximus/rectorphp-config/releases/tag/1.0.0), 2 weeks ago) - My RectorPHP configuration tooling and additional rules 
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Documentation](https://github.com/php-openapi-tools/registry/pull/3) on [php-openapi-tools/registry](https://github.com/php-openapi-tools/registry) (today)
+- [Use stable `openapi-tools/utils`](https://github.com/php-openapi-tools/registry/pull/2) on [php-openapi-tools/registry](https://github.com/php-openapi-tools/registry) (today)
+- [Documentation](https://github.com/php-openapi-tools/generator-utils/pull/3) on [php-openapi-tools/generator-utils](https://github.com/php-openapi-tools/generator-utils) (today)
+- [Use stable `openapi-tools/utils`, and `openapi-tools/representation`](https://github.com/php-openapi-tools/generator-utils/pull/2) on [php-openapi-tools/generator-utils](https://github.com/php-openapi-tools/generator-utils) (today)
+- [Documentation](https://github.com/php-openapi-tools/gatherer/pull/9) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (today)
+- [Use stable `openapi-tools/utils`, `openapi-tools/representation`, and `openapi-tools/contract`](https://github.com/php-openapi-tools/configuration/pull/5) on [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (today)
 - [Documentation](https://github.com/php-openapi-tools/configuration/pull/4) on [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (today)
 - [Add Documentation](https://github.com/php-openapi-tools/contract/pull/6) on [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (today)
 - [Switch to tagged `openapi-tools/representation` and `openapi-tools/utils`](https://github.com/php-openapi-tools/contract/pull/5) on [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (today)
@@ -100,12 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Documentation](https://github.com/php-openapi-tools/representation/pull/3) on [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (today)
 - [Documentation](https://github.com/php-openapi-tools/utils/pull/4) on [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (today)
 - [Set OTEL_PHP_FIBERS_ENABLED on directly-on-os CI jobs](https://github.com/WyriHaximus/github-workflows/pull/274) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
-- [[`AGENTS.md`] Forbid editing `Makefile` and A`GENTS.md` outside `wyrihaximus/makefiles`](https://github.com/WyriHaximus/Makefiles/pull/275) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Pin Infection to one thread in CI via `MUTATION_THREADS`](https://github.com/WyriHaximus/Makefiles/pull/274) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [[`AGENTS.md`] Always extend PHPUnit test classes from `WyriHaximus\AsyncTestUtilities\AsyncTestCase` or `WyriHaximus\TestUtilities\TestCase`](https://github.com/WyriHaximus/Makefiles/pull/273) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Update to 100% code coverage](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/112) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
-- [Fix syntax highlithing](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/234) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 day ago)
-- [UI upgrades](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/224) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (2 days ago)
 
 ---
 
