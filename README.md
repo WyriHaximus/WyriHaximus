@@ -19,9 +19,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (today)
 - [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (today)
 - [WyriHaximus/php-monolog-processors](https://github.com/WyriHaximus/php-monolog-processors) (today)
+- [WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up](https://github.com/WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up) (today)
 - [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
 - [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (today)
-- [WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up](https://github.com/WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up) (today)
 - [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) (today)
 
 ---
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [php-openapi-tools/registry](https://github.com/php-openapi-tools/registry) ([0.1.0](https://github.com/php-openapi-tools/registry/releases/tag/0.1.0), today) - 
 - [php-openapi-tools/generator-utils](https://github.com/php-openapi-tools/generator-utils) ([0.1.0](https://github.com/php-openapi-tools/generator-utils/releases/tag/0.1.0), today) - Shared PHP Parser utilities for OpenAPI Tools code generators
 - [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) ([0.1.0](https://github.com/php-openapi-tools/configuration/releases/tag/0.1.0), today) - Configuration for package generators
 - [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) ([0.1.0](https://github.com/php-openapi-tools/contract/releases/tag/0.1.0), today) - Contracts for OpenAPI Tools
@@ -87,7 +88,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.1.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.1.0), 2 days ago) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.8.4](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.8.4), 2 days ago) - Tooling for creating generative Composer Plugins
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.5.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.5.0), 2 days ago) - 🌯 PHPStan rules wrapper
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.0](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.0), 2 days ago) - Wrapper around renovatebot/github-action
 
 ---
 
@@ -111,6 +111,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [GaZmagik/iso-24495](https://github.com/GaZmagik/iso-24495) - ISO 24495 Plain Language skills and Claude Code plugin (today)
 - [jmathai/immich-exif](https://github.com/jmathai/immich-exif) - Write changes from Immich back to EXIF. Deploy as a container in your docker-compose.yaml. (4 days ago)
 - [UB-Mannheim/zotero-ocr](https://github.com/UB-Mannheim/zotero-ocr) - Zotero Plugin for OCR (1 week ago)
 - [Innmind/BlackBox](https://github.com/Innmind/BlackBox) -  (1 week ago)
@@ -123,7 +124,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step (3 weeks ago)
 - [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) - Implement a reasoning LLM in PyTorch from scratch, step by step (3 weeks ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [READ ONLY] Split of turbo-ext directory from phpstan-src repository. phpstan_turbo is a native acceleration extension for PHPStan. (3 weeks ago)
-- [raven-actions/bot-details](https://github.com/raven-actions/bot-details) - 🤖 Get bot details (name, email, author/committer) in a proper format for the subsequence steps like git, PR, and more. (1 month ago)
 
 ---
 
