@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add GHCR image cleanup to project utils entry point.](https://github.com/WyriHaximus/github-workflows/pull/275) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Documentation](https://github.com/php-openapi-tools/registry/pull/3) on [php-openapi-tools/registry](https://github.com/php-openapi-tools/registry) (today)
 - [Use stable `openapi-tools/utils`](https://github.com/php-openapi-tools/registry/pull/2) on [php-openapi-tools/registry](https://github.com/php-openapi-tools/registry) (today)
 - [Documentation](https://github.com/php-openapi-tools/generator-utils/pull/3) on [php-openapi-tools/generator-utils](https://github.com/php-openapi-tools/generator-utils) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Switch to tagged `openapi-tools/utils`](https://github.com/php-openapi-tools/representation/pull/4) on [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (today)
 - [Documentation](https://github.com/php-openapi-tools/representation/pull/3) on [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (today)
 - [Documentation](https://github.com/php-openapi-tools/utils/pull/4) on [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (today)
-- [Set OTEL_PHP_FIBERS_ENABLED on directly-on-os CI jobs](https://github.com/WyriHaximus/github-workflows/pull/274) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 
 ---
 
