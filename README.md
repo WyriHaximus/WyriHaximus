@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-psr-3-utilities](https://github.com/WyriHaximus/php-psr-3-utilities) (today)
+- [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (today)
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (today)
-- [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) (today)
 - [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (today)
+- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (today)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
 - [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (today)
-- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (today)
+- [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) (today)
+- [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (today)
 - [WyriHaximus/php-monolog-processors](https://github.com/WyriHaximus/php-monolog-processors) (today)
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
 - [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (today)
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
 - [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) (today)
-- [WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up](https://github.com/WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up) (today)
 
 ---
 
@@ -75,6 +75,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) ([0.1.0](https://github.com/php-openapi-tools/contract/releases/tag/0.1.0), today) - Contracts for OpenAPI Tools
+- [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) ([0.1.0](https://github.com/php-openapi-tools/representation/releases/tag/0.1.0), today) - 
 - [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) ([0.1.0](https://github.com/php-openapi-tools/utils/releases/tag/0.1.0), today) - 
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.14.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.14.3), 1 day ago) - Makefile building blocks
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r64](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r64), 1 day ago) - 
@@ -86,13 +88,15 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.0](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.0), 2 days ago) - Wrapper around renovatebot/github-action
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.21](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.21), 6 days ago) - 
 - [WyriHaximus/rectorphp-config](https://github.com/WyriHaximus/rectorphp-config) ([1.0.0](https://github.com/WyriHaximus/rectorphp-config/releases/tag/1.0.0), 2 weeks ago) - My RectorPHP configuration tooling and additional rules 
-- [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) ([1.1.0](https://github.com/WyriHaximus/phpstan-no-safe/releases/tag/1.1.0), 2 weeks ago) - PHPStan extension that detects and blocks any usage of `thecodingmachine/safe`
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([4.3.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/4.3.0), 2 weeks ago) - PHP Coding Standard
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Documentation](https://github.com/php-openapi-tools/configuration/pull/4) on [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (today)
+- [Add Documentation](https://github.com/php-openapi-tools/contract/pull/6) on [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (today)
+- [Switch to tagged `openapi-tools/representation` and `openapi-tools/utils`](https://github.com/php-openapi-tools/contract/pull/5) on [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (today)
+- [Switch to tagged `openapi-tools/utils`](https://github.com/php-openapi-tools/representation/pull/4) on [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (today)
 - [Documentation](https://github.com/php-openapi-tools/representation/pull/3) on [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (today)
 - [Documentation](https://github.com/php-openapi-tools/utils/pull/4) on [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (today)
 - [Set OTEL_PHP_FIBERS_ENABLED on directly-on-os CI jobs](https://github.com/WyriHaximus/github-workflows/pull/274) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
@@ -102,10 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Update to 100% code coverage](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/112) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
 - [Fix syntax highlithing](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/234) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 day ago)
 - [UI upgrades](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/224) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (2 days ago)
-- [[`AGENTS.md`] `Loop::stop()`` law mention](https://github.com/WyriHaximus/Makefiles/pull/270) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [ Update to the latest Renovate (v46.2.2)](https://github.com/WyriHaximus/github-action-renovatebot/pull/79) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
-- [Make sure we have `etc/qa/zzz_disable_otel_attr_hooks.ini` and mount it into containers](https://github.com/WyriHaximus/Makefiles/pull/269) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
-- [Disable OTEL auto-instrumentation](https://github.com/WyriHaximus/Makefiles/pull/268) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 
 ---
 
