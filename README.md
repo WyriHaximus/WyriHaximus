@@ -75,6 +75,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) ([0.1.0](https://github.com/php-openapi-tools/generator-schema/releases/tag/0.1.0), today) - Schema file generator
+- [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) ([0.1.0](https://github.com/php-openapi-tools/test-data/releases/tag/0.1.0), today) - Test data for all packages to test their code against
 - [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) ([0.1.0](https://github.com/php-openapi-tools/gatherer/releases/tag/0.1.0), today) - 
 - [php-openapi-tools/registry](https://github.com/php-openapi-tools/registry) ([0.1.0](https://github.com/php-openapi-tools/registry/releases/tag/0.1.0), 1 day ago) - 
 - [php-openapi-tools/generator-utils](https://github.com/php-openapi-tools/generator-utils) ([0.1.0](https://github.com/php-openapi-tools/generator-utils/releases/tag/0.1.0), 1 day ago) - Shared PHP Parser utilities for OpenAPI Tools code generators
@@ -86,13 +88,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r64](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r64), 2 days ago) - 
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.1.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.1.0), 2 days ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.1.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.1.0), 3 days ago) - 
-- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.1.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.1.0), 3 days ago) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.8.4](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.8.4), 3 days ago) - Tooling for creating generative Composer Plugins
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Documentation](https://github.com/php-openapi-tools/generator-schema/pull/7) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (today)
 - [Documentation](https://github.com/php-openapi-tools/test-data/pull/8) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (today)
 - [Update to stable OpenAPI Tools packages](https://github.com/php-openapi-tools/generator-templates/pull/4) on [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (today)
 - [Update to stable OpenAPI Tools packages](https://github.com/php-openapi-tools/generator-schema/pull/6) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Use stable `openapi-tools/utils`, and `openapi-tools/representation`](https://github.com/php-openapi-tools/generator-utils/pull/2) on [php-openapi-tools/generator-utils](https://github.com/php-openapi-tools/generator-utils) (1 day ago)
 - [Documentation](https://github.com/php-openapi-tools/gatherer/pull/9) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (1 day ago)
 - [Use stable `openapi-tools/utils`, `openapi-tools/representation`, and `openapi-tools/contract`](https://github.com/php-openapi-tools/configuration/pull/5) on [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (1 day ago)
-- [Documentation](https://github.com/php-openapi-tools/configuration/pull/4) on [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (1 day ago)
 
 ---
 
