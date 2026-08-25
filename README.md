@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (today)
-- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (today)
-- [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) (today)
-- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (today)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
-- [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (today)
-- [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (today)
-- [WyriHaximus/php-monolog-processors](https://github.com/WyriHaximus/php-monolog-processors) (today)
-- [WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up](https://github.com/WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up) (today)
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (today)
-- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (today)
-- [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) (today)
+- [WyriHaximus/php-simple-twig](https://github.com/WyriHaximus/php-simple-twig) (1 day ago)
+- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 day ago)
+- [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) (1 day ago)
+- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (1 day ago)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
+- [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (1 day ago)
+- [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (1 day ago)
+- [WyriHaximus/php-monolog-processors](https://github.com/WyriHaximus/php-monolog-processors) (1 day ago)
+- [WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up](https://github.com/WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up) (1 day ago)
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (1 day ago)
+- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (1 day ago)
+- [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) (1 day ago)
 
 ---
 
@@ -75,51 +75,51 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [php-openapi-tools/registry](https://github.com/php-openapi-tools/registry) ([0.1.0](https://github.com/php-openapi-tools/registry/releases/tag/0.1.0), today) - 
-- [php-openapi-tools/generator-utils](https://github.com/php-openapi-tools/generator-utils) ([0.1.0](https://github.com/php-openapi-tools/generator-utils/releases/tag/0.1.0), today) - Shared PHP Parser utilities for OpenAPI Tools code generators
-- [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) ([0.1.0](https://github.com/php-openapi-tools/configuration/releases/tag/0.1.0), today) - Configuration for package generators
-- [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) ([0.1.0](https://github.com/php-openapi-tools/contract/releases/tag/0.1.0), today) - Contracts for OpenAPI Tools
-- [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) ([0.1.0](https://github.com/php-openapi-tools/representation/releases/tag/0.1.0), today) - 
-- [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) ([0.1.0](https://github.com/php-openapi-tools/utils/releases/tag/0.1.0), today) - 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.14.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.14.3), 1 day ago) - Makefile building blocks
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r64](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r64), 1 day ago) - 
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.1.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.1.0), 1 day ago) - 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.1.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.1.0), 2 days ago) - 
-- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.1.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.1.0), 2 days ago) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.8.4](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.8.4), 2 days ago) - Tooling for creating generative Composer Plugins
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.5.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.5.0), 2 days ago) - 🌯 PHPStan rules wrapper
+- [php-openapi-tools/registry](https://github.com/php-openapi-tools/registry) ([0.1.0](https://github.com/php-openapi-tools/registry/releases/tag/0.1.0), 1 day ago) - 
+- [php-openapi-tools/generator-utils](https://github.com/php-openapi-tools/generator-utils) ([0.1.0](https://github.com/php-openapi-tools/generator-utils/releases/tag/0.1.0), 1 day ago) - Shared PHP Parser utilities for OpenAPI Tools code generators
+- [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) ([0.1.0](https://github.com/php-openapi-tools/configuration/releases/tag/0.1.0), 1 day ago) - Configuration for package generators
+- [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) ([0.1.0](https://github.com/php-openapi-tools/contract/releases/tag/0.1.0), 1 day ago) - Contracts for OpenAPI Tools
+- [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) ([0.1.0](https://github.com/php-openapi-tools/representation/releases/tag/0.1.0), 1 day ago) - 
+- [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) ([0.1.0](https://github.com/php-openapi-tools/utils/releases/tag/0.1.0), 1 day ago) - 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.14.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.14.3), 2 days ago) - Makefile building blocks
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r64](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r64), 2 days ago) - 
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.1.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.1.0), 2 days ago) - 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.1.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.1.0), 3 days ago) - 
+- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.1.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.1.0), 3 days ago) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.8.4](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.8.4), 3 days ago) - Tooling for creating generative Composer Plugins
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.5.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.5.0), 3 days ago) - 🌯 PHPStan rules wrapper
 
 ---
 
 #### 🔨 My recent Pull Requests
 
-- [Add GHCR image cleanup to project utils entry point.](https://github.com/WyriHaximus/github-workflows/pull/275) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [Documentation](https://github.com/php-openapi-tools/registry/pull/3) on [php-openapi-tools/registry](https://github.com/php-openapi-tools/registry) (today)
-- [Use stable `openapi-tools/utils`](https://github.com/php-openapi-tools/registry/pull/2) on [php-openapi-tools/registry](https://github.com/php-openapi-tools/registry) (today)
-- [Documentation](https://github.com/php-openapi-tools/generator-utils/pull/3) on [php-openapi-tools/generator-utils](https://github.com/php-openapi-tools/generator-utils) (today)
-- [Use stable `openapi-tools/utils`, and `openapi-tools/representation`](https://github.com/php-openapi-tools/generator-utils/pull/2) on [php-openapi-tools/generator-utils](https://github.com/php-openapi-tools/generator-utils) (today)
-- [Documentation](https://github.com/php-openapi-tools/gatherer/pull/9) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (today)
-- [Use stable `openapi-tools/utils`, `openapi-tools/representation`, and `openapi-tools/contract`](https://github.com/php-openapi-tools/configuration/pull/5) on [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (today)
-- [Documentation](https://github.com/php-openapi-tools/configuration/pull/4) on [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (today)
-- [Add Documentation](https://github.com/php-openapi-tools/contract/pull/6) on [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (today)
-- [Switch to tagged `openapi-tools/representation` and `openapi-tools/utils`](https://github.com/php-openapi-tools/contract/pull/5) on [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (today)
-- [Switch to tagged `openapi-tools/utils`](https://github.com/php-openapi-tools/representation/pull/4) on [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (today)
-- [Documentation](https://github.com/php-openapi-tools/representation/pull/3) on [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (today)
-- [Documentation](https://github.com/php-openapi-tools/utils/pull/4) on [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (today)
+- [Add GHCR image cleanup to project utils entry point.](https://github.com/WyriHaximus/github-workflows/pull/275) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [Documentation](https://github.com/php-openapi-tools/registry/pull/3) on [php-openapi-tools/registry](https://github.com/php-openapi-tools/registry) (1 day ago)
+- [Use stable `openapi-tools/utils`](https://github.com/php-openapi-tools/registry/pull/2) on [php-openapi-tools/registry](https://github.com/php-openapi-tools/registry) (1 day ago)
+- [Documentation](https://github.com/php-openapi-tools/generator-utils/pull/3) on [php-openapi-tools/generator-utils](https://github.com/php-openapi-tools/generator-utils) (1 day ago)
+- [Use stable `openapi-tools/utils`, and `openapi-tools/representation`](https://github.com/php-openapi-tools/generator-utils/pull/2) on [php-openapi-tools/generator-utils](https://github.com/php-openapi-tools/generator-utils) (1 day ago)
+- [Documentation](https://github.com/php-openapi-tools/gatherer/pull/9) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (1 day ago)
+- [Use stable `openapi-tools/utils`, `openapi-tools/representation`, and `openapi-tools/contract`](https://github.com/php-openapi-tools/configuration/pull/5) on [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (1 day ago)
+- [Documentation](https://github.com/php-openapi-tools/configuration/pull/4) on [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (1 day ago)
+- [Add Documentation](https://github.com/php-openapi-tools/contract/pull/6) on [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (1 day ago)
+- [Switch to tagged `openapi-tools/representation` and `openapi-tools/utils`](https://github.com/php-openapi-tools/contract/pull/5) on [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (1 day ago)
+- [Switch to tagged `openapi-tools/utils`](https://github.com/php-openapi-tools/representation/pull/4) on [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (1 day ago)
+- [Documentation](https://github.com/php-openapi-tools/representation/pull/3) on [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (1 day ago)
+- [Documentation](https://github.com/php-openapi-tools/utils/pull/4) on [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (1 day ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [GaZmagik/iso-24495](https://github.com/GaZmagik/iso-24495) - ISO 24495 Plain Language skills and Claude Code plugin (today)
-- [jmathai/immich-exif](https://github.com/jmathai/immich-exif) - Write changes from Immich back to EXIF. Deploy as a container in your docker-compose.yaml. (4 days ago)
+- [GaZmagik/iso-24495](https://github.com/GaZmagik/iso-24495) - ISO 24495 Plain Language skills and Claude Code plugin (1 day ago)
+- [jmathai/immich-exif](https://github.com/jmathai/immich-exif) - Write changes from Immich back to EXIF. Deploy as a container in your docker-compose.yaml. (5 days ago)
 - [UB-Mannheim/zotero-ocr](https://github.com/UB-Mannheim/zotero-ocr) - Zotero Plugin for OCR (1 week ago)
 - [Innmind/BlackBox](https://github.com/Innmind/BlackBox) -  (1 week ago)
 - [bagder/c-comments](https://github.com/bagder/c-comments) - A tool that shows all comments and strings from C source (2 weeks ago)
 - [jakubkulhan/caddy-chrome](https://github.com/jakubkulhan/caddy-chrome) - Caddy middleware to server-side render Javascript applications using Chrome (2 weeks ago)
-- [ilario-pierbattista/ReverseRegex](https://github.com/ilario-pierbattista/ReverseRegex) - Use Regular Expressions to generate text string in PHP. (2 weeks ago)
-- [pointybeard-forks/reverse-regex](https://github.com/pointybeard-forks/reverse-regex) - Use Regular Expressions to generate text string in PHP. (2 weeks ago)
-- [shipmonk-rnd/coverage-guard](https://github.com/shipmonk-rnd/coverage-guard) - 🧪 Enforce PHP code coverage in your CI. Not by percentage, but target core methods! Allows you to start enforcing coverage for new code only!   Also contains tooling to merge and convert PHPUnit coverage files. (2 weeks ago)
+- [ilario-pierbattista/ReverseRegex](https://github.com/ilario-pierbattista/ReverseRegex) - Use Regular Expressions to generate text string in PHP. (3 weeks ago)
+- [pointybeard-forks/reverse-regex](https://github.com/pointybeard-forks/reverse-regex) - Use Regular Expressions to generate text string in PHP. (3 weeks ago)
+- [shipmonk-rnd/coverage-guard](https://github.com/shipmonk-rnd/coverage-guard) - 🧪 Enforce PHP code coverage in your CI. Not by percentage, but target core methods! Allows you to start enforcing coverage for new code only!   Also contains tooling to merge and convert PHPUnit coverage files. (3 weeks ago)
 - [Jamesits/docker-ripe-atlas](https://github.com/Jamesits/docker-ripe-atlas) - This is the RIPE Atlas software probe packaged as a Docker image. (3 weeks ago)
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step (3 weeks ago)
 - [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) - Implement a reasoning LLM in PyTorch from scratch, step by step (3 weeks ago)
