@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Documentation](https://github.com/php-openapi-tools/generator/pull/5) on [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (today)
+- [Use stable `openapi-tools/utils`, `openapi-tools/representation`, `openapi-tools/contract`, `openapi-tools/configuration`, and `openapi-tools/registry`](https://github.com/php-openapi-tools/gatherer/pull/10) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (today)
 - [Add GHCR image cleanup to project utils entry point.](https://github.com/WyriHaximus/github-workflows/pull/275) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [Documentation](https://github.com/php-openapi-tools/registry/pull/3) on [php-openapi-tools/registry](https://github.com/php-openapi-tools/registry) (1 day ago)
 - [Use stable `openapi-tools/utils`](https://github.com/php-openapi-tools/registry/pull/2) on [php-openapi-tools/registry](https://github.com/php-openapi-tools/registry) (1 day ago)
@@ -104,13 +106,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add Documentation](https://github.com/php-openapi-tools/contract/pull/6) on [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (1 day ago)
 - [Switch to tagged `openapi-tools/representation` and `openapi-tools/utils`](https://github.com/php-openapi-tools/contract/pull/5) on [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) (1 day ago)
 - [Switch to tagged `openapi-tools/utils`](https://github.com/php-openapi-tools/representation/pull/4) on [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (1 day ago)
-- [Documentation](https://github.com/php-openapi-tools/representation/pull/3) on [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (1 day ago)
-- [Documentation](https://github.com/php-openapi-tools/utils/pull/4) on [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) (1 day ago)
 
 ---
 
 #### ⭐ Recent Stars
 
+- [libgd/libgd](https://github.com/libgd/libgd) - GD Graphics Library (today)
 - [GaZmagik/iso-24495](https://github.com/GaZmagik/iso-24495) - ISO 24495 Plain Language skills and Claude Code plugin (1 day ago)
 - [jmathai/immich-exif](https://github.com/jmathai/immich-exif) - Write changes from Immich back to EXIF. Deploy as a container in your docker-compose.yaml. (5 days ago)
 - [UB-Mannheim/zotero-ocr](https://github.com/UB-Mannheim/zotero-ocr) - Zotero Plugin for OCR (1 week ago)
@@ -123,7 +124,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Jamesits/docker-ripe-atlas](https://github.com/Jamesits/docker-ripe-atlas) - This is the RIPE Atlas software probe packaged as a Docker image. (3 weeks ago)
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step (3 weeks ago)
 - [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) - Implement a reasoning LLM in PyTorch from scratch, step by step (3 weeks ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [READ ONLY] Split of turbo-ext directory from phpstan-src repository. phpstan_turbo is a native acceleration extension for PHPStan. (3 weeks ago)
 
 ---
 
