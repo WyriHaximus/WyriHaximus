@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Update to stable OpenAPI Tools packages](https://github.com/php-openapi-tools/generator-hydrator/pull/8) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (today)
 - [Documentation](https://github.com/php-openapi-tools/generator-schema/pull/7) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (today)
 - [Documentation](https://github.com/php-openapi-tools/test-data/pull/8) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (today)
 - [Update to stable OpenAPI Tools packages](https://github.com/php-openapi-tools/generator-templates/pull/4) on [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Documentation](https://github.com/php-openapi-tools/generator-utils/pull/3) on [php-openapi-tools/generator-utils](https://github.com/php-openapi-tools/generator-utils) (1 day ago)
 - [Use stable `openapi-tools/utils`, and `openapi-tools/representation`](https://github.com/php-openapi-tools/generator-utils/pull/2) on [php-openapi-tools/generator-utils](https://github.com/php-openapi-tools/generator-utils) (1 day ago)
 - [Documentation](https://github.com/php-openapi-tools/gatherer/pull/9) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (1 day ago)
-- [Use stable `openapi-tools/utils`, `openapi-tools/representation`, and `openapi-tools/contract`](https://github.com/php-openapi-tools/configuration/pull/5) on [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) (1 day ago)
 
 ---
 
