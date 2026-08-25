@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) ([0.1.0](https://github.com/php-openapi-tools/generator/releases/tag/0.1.0), today) - Package generation tool for OpenAPI Spec based packages
 - [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) ([0.1.0](https://github.com/php-openapi-tools/generator-hydrator/releases/tag/0.1.0), today) - 
 - [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) ([0.1.0](https://github.com/php-openapi-tools/generator-templates/releases/tag/0.1.0), today) - 
 - [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) ([0.1.0](https://github.com/php-openapi-tools/generator-schema/releases/tag/0.1.0), today) - Schema file generator
@@ -87,12 +88,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) ([0.1.0](https://github.com/php-openapi-tools/representation/releases/tag/0.1.0), 1 day ago) - 
 - [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) ([0.1.0](https://github.com/php-openapi-tools/utils/releases/tag/0.1.0), 1 day ago) - 
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.14.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.14.3), 2 days ago) - Makefile building blocks
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r64](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r64), 2 days ago) - 
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Programatically generate README.md with docbot](https://github.com/php-openapi-tools/generator-utils/pull/4) on [php-openapi-tools/generator-utils](https://github.com/php-openapi-tools/generator-utils) (today)
 - [Update to stable OpenAPI Tools packages](https://github.com/php-openapi-tools/generator/pull/6) on [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (today)
 - [Programatically generate README.md with docbot](https://github.com/php-openapi-tools/generator-schema/pull/8) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (today)
 - [Documentation](https://github.com/php-openapi-tools/generator-hydrator/pull/9) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Documentation](https://github.com/php-openapi-tools/generator/pull/5) on [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (today)
 - [Use stable `openapi-tools/utils`, `openapi-tools/representation`, `openapi-tools/contract`, `openapi-tools/configuration`, and `openapi-tools/registry`](https://github.com/php-openapi-tools/gatherer/pull/10) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (today)
 - [Add GHCR image cleanup to project utils entry point.](https://github.com/WyriHaximus/github-workflows/pull/275) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
-- [Documentation](https://github.com/php-openapi-tools/registry/pull/3) on [php-openapi-tools/registry](https://github.com/php-openapi-tools/registry) (1 day ago)
 
 ---
 
