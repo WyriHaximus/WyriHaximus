@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
-- [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) (1 day ago)
-- [WyriHaximus/reactphp-stream-json](https://github.com/WyriHaximus/reactphp-stream-json) (1 day ago)
-- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
+- [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) (1 day ago)
+- [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (1 day ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
-- [WyriHaximus/reactphp-http-middleware-with-headers](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers) (1 day ago)
-- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (1 day ago)
-- [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (1 day ago)
-- [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (1 day ago)
-- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (1 day ago)
-- [WyriHaximus/php-get-in-packages-composer.json](https://github.com/WyriHaximus/php-get-in-packages-composer.json) (1 day ago)
+- [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (1 day ago)
 - [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (1 day ago)
+- [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (1 day ago)
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (1 day ago)
+- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (1 day ago)
+- [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) (1 day ago)
+- [WyriHaximus/php-monolog-processors](https://github.com/WyriHaximus/php-monolog-processors) (1 day ago)
 
 ---
 
@@ -75,6 +75,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.34](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.34), today) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.14.4](https://github.com/WyriHaximus/Makefiles/releases/tag/0.14.4), today) - Makefile building blocks
 - [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) ([0.1.0](https://github.com/php-openapi-tools/generator/releases/tag/0.1.0), today) - Package generation tool for OpenAPI Spec based packages
 - [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) ([0.1.0](https://github.com/php-openapi-tools/generator-hydrator/releases/tag/0.1.0), today) - 
 - [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) ([0.1.0](https://github.com/php-openapi-tools/generator-templates/releases/tag/0.1.0), today) - 
@@ -86,13 +88,14 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) ([0.1.0](https://github.com/php-openapi-tools/configuration/releases/tag/0.1.0), 1 day ago) - Configuration for package generators
 - [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) ([0.1.0](https://github.com/php-openapi-tools/contract/releases/tag/0.1.0), 1 day ago) - Contracts for OpenAPI Tools
 - [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) ([0.1.0](https://github.com/php-openapi-tools/representation/releases/tag/0.1.0), 1 day ago) - 
-- [php-openapi-tools/utils](https://github.com/php-openapi-tools/utils) ([0.1.0](https://github.com/php-openapi-tools/utils/releases/tag/0.1.0), 1 day ago) - 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.14.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.14.3), 2 days ago) - Makefile building blocks
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [[New Version] Update versions file to PHP 8.5.10](https://github.com/WyriHaximus/php-fake-php-version/pull/195) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
+- [Expand requirement conditionals for ?= assignments.](https://github.com/WyriHaximus/Makefiles/pull/277) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Use conditional assignment for OTEL_PHP_FIBERS_ENABLED in Makefiles.](https://github.com/WyriHaximus/Makefiles/pull/276) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Programatically generate README.md with docbot](https://github.com/php-openapi-tools/generator-utils/pull/4) on [php-openapi-tools/generator-utils](https://github.com/php-openapi-tools/generator-utils) (today)
 - [Update to stable OpenAPI Tools packages](https://github.com/php-openapi-tools/generator/pull/6) on [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (today)
 - [Programatically generate README.md with docbot](https://github.com/php-openapi-tools/generator-schema/pull/8) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (today)
@@ -103,9 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Documentation](https://github.com/php-openapi-tools/test-data/pull/8) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (today)
 - [Update to stable OpenAPI Tools packages](https://github.com/php-openapi-tools/generator-templates/pull/4) on [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (today)
 - [Update to stable OpenAPI Tools packages](https://github.com/php-openapi-tools/generator-schema/pull/6) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (today)
-- [Documentation](https://github.com/php-openapi-tools/generator/pull/5) on [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (today)
-- [Use stable `openapi-tools/utils`, `openapi-tools/representation`, `openapi-tools/contract`, `openapi-tools/configuration`, and `openapi-tools/registry`](https://github.com/php-openapi-tools/gatherer/pull/10) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (today)
-- [Add GHCR image cleanup to project utils entry point.](https://github.com/WyriHaximus/github-workflows/pull/275) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 
 ---
 
