@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
-- [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) (1 day ago)
-- [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (1 day ago)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
-- [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (1 day ago)
-- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (1 day ago)
-- [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (1 day ago)
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (1 day ago)
-- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (1 day ago)
-- [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) (1 day ago)
-- [WyriHaximus/php-monolog-processors](https://github.com/WyriHaximus/php-monolog-processors) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
+- [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) (2 days ago)
+- [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (2 days ago)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
+- [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (2 days ago)
+- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (2 days ago)
+- [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (2 days ago)
+- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (2 days ago)
+- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (2 days ago)
+- [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) (2 days ago)
+- [WyriHaximus/php-monolog-processors](https://github.com/WyriHaximus/php-monolog-processors) (2 days ago)
 
 ---
 
@@ -75,45 +75,45 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.34](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.34), today) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.14.4](https://github.com/WyriHaximus/Makefiles/releases/tag/0.14.4), today) - Makefile building blocks
-- [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) ([0.1.0](https://github.com/php-openapi-tools/generator/releases/tag/0.1.0), today) - Package generation tool for OpenAPI Spec based packages
-- [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) ([0.1.0](https://github.com/php-openapi-tools/generator-hydrator/releases/tag/0.1.0), today) - 
-- [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) ([0.1.0](https://github.com/php-openapi-tools/generator-templates/releases/tag/0.1.0), today) - 
-- [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) ([0.1.0](https://github.com/php-openapi-tools/generator-schema/releases/tag/0.1.0), today) - Schema file generator
-- [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) ([0.1.0](https://github.com/php-openapi-tools/test-data/releases/tag/0.1.0), today) - Test data for all packages to test their code against
-- [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) ([0.1.0](https://github.com/php-openapi-tools/gatherer/releases/tag/0.1.0), today) - 
-- [php-openapi-tools/registry](https://github.com/php-openapi-tools/registry) ([0.1.0](https://github.com/php-openapi-tools/registry/releases/tag/0.1.0), 1 day ago) - 
-- [php-openapi-tools/generator-utils](https://github.com/php-openapi-tools/generator-utils) ([0.1.0](https://github.com/php-openapi-tools/generator-utils/releases/tag/0.1.0), 1 day ago) - Shared PHP Parser utilities for OpenAPI Tools code generators
-- [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) ([0.1.0](https://github.com/php-openapi-tools/configuration/releases/tag/0.1.0), 1 day ago) - Configuration for package generators
-- [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) ([0.1.0](https://github.com/php-openapi-tools/contract/releases/tag/0.1.0), 1 day ago) - Contracts for OpenAPI Tools
-- [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) ([0.1.0](https://github.com/php-openapi-tools/representation/releases/tag/0.1.0), 1 day ago) - 
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.34](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.34), 1 day ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.14.4](https://github.com/WyriHaximus/Makefiles/releases/tag/0.14.4), 1 day ago) - Makefile building blocks
+- [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) ([0.1.0](https://github.com/php-openapi-tools/generator/releases/tag/0.1.0), 1 day ago) - Package generation tool for OpenAPI Spec based packages
+- [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) ([0.1.0](https://github.com/php-openapi-tools/generator-hydrator/releases/tag/0.1.0), 1 day ago) - 
+- [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) ([0.1.0](https://github.com/php-openapi-tools/generator-templates/releases/tag/0.1.0), 1 day ago) - 
+- [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) ([0.1.0](https://github.com/php-openapi-tools/generator-schema/releases/tag/0.1.0), 1 day ago) - Schema file generator
+- [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) ([0.1.0](https://github.com/php-openapi-tools/test-data/releases/tag/0.1.0), 1 day ago) - Test data for all packages to test their code against
+- [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) ([0.1.0](https://github.com/php-openapi-tools/gatherer/releases/tag/0.1.0), 1 day ago) - 
+- [php-openapi-tools/registry](https://github.com/php-openapi-tools/registry) ([0.1.0](https://github.com/php-openapi-tools/registry/releases/tag/0.1.0), 2 days ago) - 
+- [php-openapi-tools/generator-utils](https://github.com/php-openapi-tools/generator-utils) ([0.1.0](https://github.com/php-openapi-tools/generator-utils/releases/tag/0.1.0), 2 days ago) - Shared PHP Parser utilities for OpenAPI Tools code generators
+- [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) ([0.1.0](https://github.com/php-openapi-tools/configuration/releases/tag/0.1.0), 2 days ago) - Configuration for package generators
+- [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) ([0.1.0](https://github.com/php-openapi-tools/contract/releases/tag/0.1.0), 2 days ago) - Contracts for OpenAPI Tools
+- [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) ([0.1.0](https://github.com/php-openapi-tools/representation/releases/tag/0.1.0), 2 days ago) - 
 
 ---
 
 #### 🔨 My recent Pull Requests
 
-- [[New Version] Update versions file to PHP 8.5.10](https://github.com/WyriHaximus/php-fake-php-version/pull/195) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
-- [Expand requirement conditionals for ?= assignments.](https://github.com/WyriHaximus/Makefiles/pull/277) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Use conditional assignment for OTEL_PHP_FIBERS_ENABLED in Makefiles.](https://github.com/WyriHaximus/Makefiles/pull/276) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Programatically generate README.md with docbot](https://github.com/php-openapi-tools/generator-utils/pull/4) on [php-openapi-tools/generator-utils](https://github.com/php-openapi-tools/generator-utils) (today)
-- [Update to stable OpenAPI Tools packages](https://github.com/php-openapi-tools/generator/pull/6) on [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (today)
-- [Programatically generate README.md with docbot](https://github.com/php-openapi-tools/generator-schema/pull/8) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (today)
-- [Documentation](https://github.com/php-openapi-tools/generator-hydrator/pull/9) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (today)
-- [Documentation](https://github.com/php-openapi-tools/generator-templates/pull/5) on [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (today)
-- [Update to stable OpenAPI Tools packages](https://github.com/php-openapi-tools/generator-hydrator/pull/8) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (today)
-- [Documentation](https://github.com/php-openapi-tools/generator-schema/pull/7) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (today)
-- [Documentation](https://github.com/php-openapi-tools/test-data/pull/8) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (today)
-- [Update to stable OpenAPI Tools packages](https://github.com/php-openapi-tools/generator-templates/pull/4) on [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (today)
-- [Update to stable OpenAPI Tools packages](https://github.com/php-openapi-tools/generator-schema/pull/6) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (today)
+- [[New Version] Update versions file to PHP 8.5.10](https://github.com/WyriHaximus/php-fake-php-version/pull/195) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
+- [Expand requirement conditionals for ?= assignments.](https://github.com/WyriHaximus/Makefiles/pull/277) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [Use conditional assignment for OTEL_PHP_FIBERS_ENABLED in Makefiles.](https://github.com/WyriHaximus/Makefiles/pull/276) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [Programatically generate README.md with docbot](https://github.com/php-openapi-tools/generator-utils/pull/4) on [php-openapi-tools/generator-utils](https://github.com/php-openapi-tools/generator-utils) (1 day ago)
+- [Update to stable OpenAPI Tools packages](https://github.com/php-openapi-tools/generator/pull/6) on [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) (1 day ago)
+- [Programatically generate README.md with docbot](https://github.com/php-openapi-tools/generator-schema/pull/8) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (1 day ago)
+- [Documentation](https://github.com/php-openapi-tools/generator-hydrator/pull/9) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (1 day ago)
+- [Documentation](https://github.com/php-openapi-tools/generator-templates/pull/5) on [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (1 day ago)
+- [Update to stable OpenAPI Tools packages](https://github.com/php-openapi-tools/generator-hydrator/pull/8) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (1 day ago)
+- [Documentation](https://github.com/php-openapi-tools/generator-schema/pull/7) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (1 day ago)
+- [Documentation](https://github.com/php-openapi-tools/test-data/pull/8) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (1 day ago)
+- [Update to stable OpenAPI Tools packages](https://github.com/php-openapi-tools/generator-templates/pull/4) on [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (1 day ago)
+- [Update to stable OpenAPI Tools packages](https://github.com/php-openapi-tools/generator-schema/pull/6) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (1 day ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [libgd/libgd](https://github.com/libgd/libgd) - GD Graphics Library (today)
-- [GaZmagik/iso-24495](https://github.com/GaZmagik/iso-24495) - ISO 24495 Plain Language skills and Claude Code plugin (1 day ago)
-- [jmathai/immich-exif](https://github.com/jmathai/immich-exif) - Write changes from Immich back to EXIF. Deploy as a container in your docker-compose.yaml. (5 days ago)
+- [libgd/libgd](https://github.com/libgd/libgd) - GD Graphics Library (1 day ago)
+- [GaZmagik/iso-24495](https://github.com/GaZmagik/iso-24495) - ISO 24495 Plain Language skills and Claude Code plugin (2 days ago)
+- [jmathai/immich-exif](https://github.com/jmathai/immich-exif) - Write changes from Immich back to EXIF. Deploy as a container in your docker-compose.yaml. (6 days ago)
 - [UB-Mannheim/zotero-ocr](https://github.com/UB-Mannheim/zotero-ocr) - Zotero Plugin for OCR (1 week ago)
 - [Innmind/BlackBox](https://github.com/Innmind/BlackBox) -  (1 week ago)
 - [bagder/c-comments](https://github.com/bagder/c-comments) - A tool that shows all comments and strings from C source (2 weeks ago)
