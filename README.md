@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
-- [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) (2 days ago)
-- [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (2 days ago)
+- [WyriHaximus/HtmlCompress](https://github.com/WyriHaximus/HtmlCompress) (2 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (2 days ago)
-- [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (2 days ago)
 - [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (2 days ago)
-- [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (2 days ago)
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (2 days ago)
-- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (2 days ago)
-- [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) (2 days ago)
+- [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (2 days ago)
+- [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) (2 days ago)
+- [WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up](https://github.com/WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up) (2 days ago)
 - [WyriHaximus/php-monolog-processors](https://github.com/WyriHaximus/php-monolog-processors) (2 days ago)
+- [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) (2 days ago)
+- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (2 days ago)
 
 ---
 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add note about `etc/Makefile`](https://github.com/WyriHaximus/Makefiles/pull/278) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [[New Version] Update versions file to PHP 8.5.10](https://github.com/WyriHaximus/php-fake-php-version/pull/195) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
 - [Expand requirement conditionals for ?= assignments.](https://github.com/WyriHaximus/Makefiles/pull/277) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Use conditional assignment for OTEL_PHP_FIBERS_ENABLED in Makefiles.](https://github.com/WyriHaximus/Makefiles/pull/276) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Documentation](https://github.com/php-openapi-tools/generator-schema/pull/7) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (1 day ago)
 - [Documentation](https://github.com/php-openapi-tools/test-data/pull/8) on [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (1 day ago)
 - [Update to stable OpenAPI Tools packages](https://github.com/php-openapi-tools/generator-templates/pull/4) on [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (1 day ago)
-- [Update to stable OpenAPI Tools packages](https://github.com/php-openapi-tools/generator-schema/pull/6) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (1 day ago)
 
 ---
 
