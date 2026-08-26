@@ -75,8 +75,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.14.6](https://github.com/WyriHaximus/Makefiles/releases/tag/0.14.6), today) - Makefile building blocks
 - [php-openapi-tools/generator-psr-15-webhook-middleware](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware) ([0.1.0](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware/releases/tag/0.1.0), today) - WebHook PSR-15 Middleware generator
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.14.5](https://github.com/WyriHaximus/Makefiles/releases/tag/0.14.5), today) - Makefile building blocks
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.34](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.34), 1 day ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) ([0.1.0](https://github.com/php-openapi-tools/generator/releases/tag/0.1.0), 1 day ago) - Package generation tool for OpenAPI Spec based packages
 - [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) ([0.1.0](https://github.com/php-openapi-tools/generator-hydrator/releases/tag/0.1.0), 1 day ago) - 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Revert `OTEL_PHP_FIBERS_ENABLED` boolean case](https://github.com/WyriHaximus/Makefiles/pull/279) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Adopt split out strategy](https://github.com/WyriHaximus/github-template-renovate-runner/pull/41) on [WyriHaximus/github-template-renovate-runner](https://github.com/WyriHaximus/github-template-renovate-runner) (today)
 - [Documentation](https://github.com/WyriHaximus/github-template-renovate-runner/pull/40) on [WyriHaximus/github-template-renovate-runner](https://github.com/WyriHaximus/github-template-renovate-runner) (today)
 - [Add note about `etc/Makefile`](https://github.com/WyriHaximus/Makefiles/pull/278) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Documentation](https://github.com/php-openapi-tools/generator-hydrator/pull/9) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (1 day ago)
 - [Documentation](https://github.com/php-openapi-tools/generator-templates/pull/5) on [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (1 day ago)
 - [Update to stable OpenAPI Tools packages](https://github.com/php-openapi-tools/generator-hydrator/pull/8) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (1 day ago)
-- [Documentation](https://github.com/php-openapi-tools/generator-schema/pull/7) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (1 day ago)
 
 ---
 
