@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
+- [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) (today)
+- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
-- [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
-- [WyriHaximus/php-metrics-lazy-registry](https://github.com/WyriHaximus/php-metrics-lazy-registry) (3 days ago)
-- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (3 days ago)
-- [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) (3 days ago)
+- [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (3 days ago)
 - [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (3 days ago)
+- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (3 days ago)
+- [WyriHaximus/php-monolog-processors](https://github.com/WyriHaximus/php-monolog-processors) (3 days ago)
 
 ---
 
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r65](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r65), today) - 
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.14.6](https://github.com/WyriHaximus/Makefiles/releases/tag/0.14.6), 1 day ago) - Makefile building blocks
 - [php-openapi-tools/generator-psr-15-webhook-middleware](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware) ([0.1.0](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware/releases/tag/0.1.0), 1 day ago) - WebHook PSR-15 Middleware generator
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.34](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.34), 2 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
@@ -87,12 +88,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [php-openapi-tools/registry](https://github.com/php-openapi-tools/registry) ([0.1.0](https://github.com/php-openapi-tools/registry/releases/tag/0.1.0), 3 days ago) - 
 - [php-openapi-tools/generator-utils](https://github.com/php-openapi-tools/generator-utils) ([0.1.0](https://github.com/php-openapi-tools/generator-utils/releases/tag/0.1.0), 3 days ago) - Shared PHP Parser utilities for OpenAPI Tools code generators
 - [php-openapi-tools/configuration](https://github.com/php-openapi-tools/configuration) ([0.1.0](https://github.com/php-openapi-tools/configuration/releases/tag/0.1.0), 3 days ago) - Configuration for package generators
-- [php-openapi-tools/contract](https://github.com/php-openapi-tools/contract) ([0.1.0](https://github.com/php-openapi-tools/contract/releases/tag/0.1.0), 3 days ago) - Contracts for OpenAPI Tools
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Missing code highlight themes](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/235) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
 - [Revert `OTEL_PHP_FIBERS_ENABLED` boolean case](https://github.com/WyriHaximus/Makefiles/pull/279) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Adopt split out strategy](https://github.com/WyriHaximus/github-template-renovate-runner/pull/41) on [WyriHaximus/github-template-renovate-runner](https://github.com/WyriHaximus/github-template-renovate-runner) (1 day ago)
 - [Documentation](https://github.com/WyriHaximus/github-template-renovate-runner/pull/40) on [WyriHaximus/github-template-renovate-runner](https://github.com/WyriHaximus/github-template-renovate-runner) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Programatically generate README.md with docbot](https://github.com/php-openapi-tools/generator-schema/pull/8) on [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) (2 days ago)
 - [Documentation](https://github.com/php-openapi-tools/generator-hydrator/pull/9) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (2 days ago)
 - [Documentation](https://github.com/php-openapi-tools/generator-templates/pull/5) on [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) (2 days ago)
-- [Update to stable OpenAPI Tools packages](https://github.com/php-openapi-tools/generator-hydrator/pull/8) on [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) (2 days ago)
 
 ---
 
