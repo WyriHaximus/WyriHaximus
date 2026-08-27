@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
+- [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) (today)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
-- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
+- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
 
 ---
 
@@ -93,6 +93,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Ensure `runsOn` is the only `runsOn` variant in `.github/workflows/utils.yaml`](https://github.com/WyriHaximus/Makefiles/pull/281) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Enforce `.editorconfig` contents](https://github.com/WyriHaximus/Makefiles/pull/280) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Utils only needs one `runsOn`](https://github.com/WyriHaximus/github-workflows/pull/280) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [Add short description for Utils](https://github.com/WyriHaximus/github-workflows/pull/279) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Run `make after-renovate` after dependencies are updated](https://github.com/WyriHaximus/github-action-renovatebot/pull/83) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
 - [Set up after Renovate to eensure regenerating readme](https://github.com/WyriHaximus/github-workflows/pull/278) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Make CI&#39;s test directly on OS runs-on array configurable](https://github.com/WyriHaximus/github-workflows/pull/277) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
@@ -102,10 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Revert `OTEL_PHP_FIBERS_ENABLED` boolean case](https://github.com/WyriHaximus/Makefiles/pull/279) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Adopt split out strategy](https://github.com/WyriHaximus/github-template-renovate-runner/pull/41) on [WyriHaximus/github-template-renovate-runner](https://github.com/WyriHaximus/github-template-renovate-runner) (1 day ago)
 - [Documentation](https://github.com/WyriHaximus/github-template-renovate-runner/pull/40) on [WyriHaximus/github-template-renovate-runner](https://github.com/WyriHaximus/github-template-renovate-runner) (1 day ago)
-- [Add note about `etc/Makefile`](https://github.com/WyriHaximus/Makefiles/pull/278) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [[New Version] Update versions file to PHP 8.5.10](https://github.com/WyriHaximus/php-fake-php-version/pull/195) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
-- [Expand requirement conditionals for ?= assignments.](https://github.com/WyriHaximus/Makefiles/pull/277) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Use conditional assignment for OTEL_PHP_FIBERS_ENABLED in Makefiles.](https://github.com/WyriHaximus/Makefiles/pull/276) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 
 ---
 
