@@ -20,9 +20,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 days ago)
 - [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (3 days ago)
-- [WyriHaximus/php-metrics](https://github.com/WyriHaximus/php-metrics) (3 days ago)
-- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (3 days ago)
+- [WyriHaximus/reactphp-cache-psr-16-adapter](https://github.com/WyriHaximus/reactphp-cache-psr-16-adapter) (3 days ago)
 - [WyriHaximus/php-monolog-processors](https://github.com/WyriHaximus/php-monolog-processors) (3 days ago)
+- [WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up](https://github.com/WyriHaximus/reactphp-event-loop-rx-scheduler-hook-up) (3 days ago)
 
 ---
 
