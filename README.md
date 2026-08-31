@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.0.0](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.0.0), today) - Shared GitHub Actions Workflows
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.22](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.22), today) - 
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.1](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.1), 4 days ago) - Wrapper around renovatebot/github-action
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r65](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r65), 4 days ago) - 
@@ -87,7 +88,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) ([0.1.0](https://github.com/php-openapi-tools/generator-schema/releases/tag/0.1.0), 6 days ago) - Schema file generator
 - [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) ([0.1.0](https://github.com/php-openapi-tools/test-data/releases/tag/0.1.0), 6 days ago) - Test data for all packages to test their code against
 - [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) ([0.1.0](https://github.com/php-openapi-tools/gatherer/releases/tag/0.1.0), 6 days ago) - 
-- [php-openapi-tools/registry](https://github.com/php-openapi-tools/registry) ([0.1.0](https://github.com/php-openapi-tools/registry/releases/tag/0.1.0), 1 week ago) - 
 
 ---
 
