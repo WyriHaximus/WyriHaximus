@@ -75,12 +75,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.14.7](https://github.com/WyriHaximus/Makefiles/releases/tag/0.14.7), today) - Makefile building blocks
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.6.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.6.0), today) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.0.0](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.0.0), 1 day ago) - Shared GitHub Actions Workflows
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.22](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.22), 1 day ago) - 
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.1](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.1), 5 days ago) - Wrapper around renovatebot/github-action
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r65](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r65), 5 days ago) - 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.14.6](https://github.com/WyriHaximus/Makefiles/releases/tag/0.14.6), 6 days ago) - Makefile building blocks
 - [php-openapi-tools/generator-psr-15-webhook-middleware](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware) ([0.1.0](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware/releases/tag/0.1.0), 6 days ago) - WebHook PSR-15 Middleware generator
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.34](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.34), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) ([0.1.0](https://github.com/php-openapi-tools/generator/releases/tag/0.1.0), 1 week ago) - Package generation tool for OpenAPI Spec based packages
