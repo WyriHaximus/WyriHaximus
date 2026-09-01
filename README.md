@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.6.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.6.0), today) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.0.0](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.0.0), 1 day ago) - Shared GitHub Actions Workflows
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.22](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.22), 1 day ago) - 
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.1](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.1), 5 days ago) - Wrapper around renovatebot/github-action
@@ -87,12 +88,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [php-openapi-tools/generator-templates](https://github.com/php-openapi-tools/generator-templates) ([0.1.0](https://github.com/php-openapi-tools/generator-templates/releases/tag/0.1.0), 1 week ago) - 
 - [php-openapi-tools/generator-schema](https://github.com/php-openapi-tools/generator-schema) ([0.1.0](https://github.com/php-openapi-tools/generator-schema/releases/tag/0.1.0), 1 week ago) - Schema file generator
 - [php-openapi-tools/test-data](https://github.com/php-openapi-tools/test-data) ([0.1.0](https://github.com/php-openapi-tools/test-data/releases/tag/0.1.0), 1 week ago) - Test data for all packages to test their code against
-- [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) ([0.1.0](https://github.com/php-openapi-tools/gatherer/releases/tag/0.1.0), 1 week ago) - 
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Used SHA pinned workflows release reference](https://github.com/WyriHaximus/Makefiles/pull/284) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Simplify generated help code](https://github.com/WyriHaximus/Makefiles/pull/283) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Pin WyriHaximus/github-workflows reusable workflow references from `@main` to `@v1.0.0` in `.github/workflows`](https://github.com/WyriHaximus/Makefiles/pull/282) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [[keda] On dev set max replicate count to 1](https://github.com/MammatusPHP/helm-charts/pull/45) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Ensure we dont have duplicate runs](https://github.com/WyriHaximus/github-workflows/pull/283) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 - [Remove workflows with typo in the name](https://github.com/WyriHaximus/github-workflows/pull/282) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 - [Fix after-renovate target in Makefile](https://github.com/WyriHaximus/github-workflows/pull/281) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
-- [Ensure `runsOn` is the only `runsOn` variant in `.github/workflows/utils.yaml`](https://github.com/WyriHaximus/Makefiles/pull/281) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 
 ---
 
