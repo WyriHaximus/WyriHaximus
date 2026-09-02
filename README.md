@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (today)
-- [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (today)
-- [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) (today)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
-- [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (today)
-- [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (today)
-- [WyriHaximus/reactphp-http-middleware-with-headers](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers) (today)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (today)
+- [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 day ago)
+- [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (1 day ago)
+- [WyriHaximus/php-json-throwable](https://github.com/WyriHaximus/php-json-throwable) (1 day ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
+- [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (1 day ago)
+- [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (1 day ago)
+- [WyriHaximus/reactphp-http-middleware-with-headers](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers) (1 day ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 day ago)
 
 ---
 
@@ -75,13 +75,13 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.14.7](https://github.com/WyriHaximus/Makefiles/releases/tag/0.14.7), today) - Makefile building blocks
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.6.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.6.0), today) - 🌯 PHPStan rules wrapper
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.0.0](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.0.0), 1 day ago) - Shared GitHub Actions Workflows
-- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.22](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.22), 1 day ago) - 
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.1](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.1), 5 days ago) - Wrapper around renovatebot/github-action
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r65](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r65), 5 days ago) - 
-- [php-openapi-tools/generator-psr-15-webhook-middleware](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware) ([0.1.0](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware/releases/tag/0.1.0), 6 days ago) - WebHook PSR-15 Middleware generator
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.14.7](https://github.com/WyriHaximus/Makefiles/releases/tag/0.14.7), 1 day ago) - Makefile building blocks
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.6.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.6.0), 1 day ago) - 🌯 PHPStan rules wrapper
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.0.0](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.0.0), 2 days ago) - Shared GitHub Actions Workflows
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.22](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.22), 2 days ago) - 
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.1](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.1), 6 days ago) - Wrapper around renovatebot/github-action
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r65](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r65), 6 days ago) - 
+- [php-openapi-tools/generator-psr-15-webhook-middleware](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware) ([0.1.0](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware/releases/tag/0.1.0), 1 week ago) - WebHook PSR-15 Middleware generator
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.34](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.34), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [php-openapi-tools/generator](https://github.com/php-openapi-tools/generator) ([0.1.0](https://github.com/php-openapi-tools/generator/releases/tag/0.1.0), 1 week ago) - Package generation tool for OpenAPI Spec based packages
 - [php-openapi-tools/generator-hydrator](https://github.com/php-openapi-tools/generator-hydrator) ([0.1.0](https://github.com/php-openapi-tools/generator-hydrator/releases/tag/0.1.0), 1 week ago) - 
@@ -93,28 +93,28 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Lower minimum code coverage to 80%](https://github.com/WyriHaximus/Makefiles/pull/285) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Used SHA pinned workflows release reference](https://github.com/WyriHaximus/Makefiles/pull/284) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Simplify generated help code](https://github.com/WyriHaximus/Makefiles/pull/283) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Pin WyriHaximus/github-workflows reusable workflow references from `@main` to `@v1.0.0` in `.github/workflows`](https://github.com/WyriHaximus/Makefiles/pull/282) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [[keda] On dev set max replicate count to 1](https://github.com/MammatusPHP/helm-charts/pull/45) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (2 days ago)
-- [Also update repo template home cluster image URL](https://github.com/WyriHaximus/github-workflows/pull/288) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
-- [Remove repo hosted home cluster image](https://github.com/WyriHaximus/github-workflows/pull/287) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
-- [Update release management workflow reference to have no version](https://github.com/WyriHaximus/github-workflows/pull/286) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
-- [Prepare for v1.0.0](https://github.com/WyriHaximus/github-workflows/pull/285) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
-- [Update to `openapi-tools/test-data` to stable 0.1.0](https://github.com/php-openapi-tools/gatherer/pull/18) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (3 days ago)
-- [Do not use example values for header based resolving](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware/pull/8) on [php-openapi-tools/generator-psr-15-webhook-middleware](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware) (3 days ago)
-- [Ensure we dont have duplicate runs](https://github.com/WyriHaximus/github-workflows/pull/283) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
-- [Remove workflows with typo in the name](https://github.com/WyriHaximus/github-workflows/pull/282) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
+- [Lower minimum code coverage to 80%](https://github.com/WyriHaximus/Makefiles/pull/285) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [Used SHA pinned workflows release reference](https://github.com/WyriHaximus/Makefiles/pull/284) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [Simplify generated help code](https://github.com/WyriHaximus/Makefiles/pull/283) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [Pin WyriHaximus/github-workflows reusable workflow references from `@main` to `@v1.0.0` in `.github/workflows`](https://github.com/WyriHaximus/Makefiles/pull/282) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [[keda] On dev set max replicate count to 1](https://github.com/MammatusPHP/helm-charts/pull/45) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (3 days ago)
+- [Also update repo template home cluster image URL](https://github.com/WyriHaximus/github-workflows/pull/288) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
+- [Remove repo hosted home cluster image](https://github.com/WyriHaximus/github-workflows/pull/287) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
+- [Update release management workflow reference to have no version](https://github.com/WyriHaximus/github-workflows/pull/286) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
+- [Prepare for v1.0.0](https://github.com/WyriHaximus/github-workflows/pull/285) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
+- [Update to `openapi-tools/test-data` to stable 0.1.0](https://github.com/php-openapi-tools/gatherer/pull/18) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (4 days ago)
+- [Do not use example values for header based resolving](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware/pull/8) on [php-openapi-tools/generator-psr-15-webhook-middleware](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware) (4 days ago)
+- [Ensure we dont have duplicate runs](https://github.com/WyriHaximus/github-workflows/pull/283) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
+- [Remove workflows with typo in the name](https://github.com/WyriHaximus/github-workflows/pull/282) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [francescopace/espectre](https://github.com/francescopace/espectre) - ESPectre - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration. (1 day ago)
-- [mnapoli/skills](https://github.com/mnapoli/skills) - Agent skills: unslop, address PR review (1 day ago)
-- [elyosh/OpenTIE](https://github.com/elyosh/OpenTIE) -  (4 days ago)
-- [php-baremetal/php-esp32](https://github.com/php-baremetal/php-esp32) - The official PHP 8.3-8.5 engine running on an ESP32-P4/ESP32-S3. No emulation, no clone: reads a PHP file from microSD and runs it. (5 days ago)
+- [francescopace/espectre](https://github.com/francescopace/espectre) - ESPectre - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration. (2 days ago)
+- [mnapoli/skills](https://github.com/mnapoli/skills) - Agent skills: unslop, address PR review (2 days ago)
+- [elyosh/OpenTIE](https://github.com/elyosh/OpenTIE) -  (5 days ago)
+- [php-baremetal/php-esp32](https://github.com/php-baremetal/php-esp32) - The official PHP 8.3-8.5 engine running on an ESP32-P4/ESP32-S3. No emulation, no clone: reads a PHP file from microSD and runs it. (6 days ago)
 - [libgd/libgd](https://github.com/libgd/libgd) - GD Graphics Library (1 week ago)
 - [GaZmagik/iso-24495](https://github.com/GaZmagik/iso-24495) - ISO 24495 Plain Language skills and Claude Code plugin (1 week ago)
 - [jmathai/immich-exif](https://github.com/jmathai/immich-exif) - Write changes from Immich back to EXIF. Deploy as a container in your docker-compose.yaml. (1 week ago)
