@@ -10,17 +10,17 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (today)
 - [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (today)
+- [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (today)
 - [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (today)
 - [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (today)
 - [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (today)
 - [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (1 day ago)
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (1 day ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
+- [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (2 days ago)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (2 days ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
 
