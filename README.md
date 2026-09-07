@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 day ago)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (1 day ago)
+- [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (1 day ago)
+- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (1 day ago)
 - [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (1 day ago)
 - [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (1 day ago)
 - [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (1 day ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (1 day ago)
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (2 days ago)
 - [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (2 days ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
-- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (3 days ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
 
 ---
 
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.2](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.2), today) - Wrapper around renovatebot/github-action
 - [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) ([0.1.1](https://github.com/php-openapi-tools/representation/releases/tag/0.1.1), 4 days ago) - 
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.0.1](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.0.1), 4 days ago) - Shared GitHub Actions Workflows
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.2.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.2.0), 5 days ago) - 
@@ -83,7 +84,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.14.7](https://github.com/WyriHaximus/Makefiles/releases/tag/0.14.7), 6 days ago) - Makefile building blocks
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.6.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.6.0), 6 days ago) - 🌯 PHPStan rules wrapper
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.22](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.22), 1 week ago) - 
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.1](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.1), 1 week ago) - Wrapper around renovatebot/github-action
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r65](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r65), 1 week ago) - 
 - [php-openapi-tools/generator-psr-15-webhook-middleware](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware) ([0.1.0](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware/releases/tag/0.1.0), 1 week ago) - WebHook PSR-15 Middleware generator
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.34](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.34), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Wrap composer require](https://github.com/WyriHaximus/github-action-renovatebot/pull/86) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
 - [Make operation summary optional](https://github.com/php-openapi-tools/representation/pull/12) on [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (4 days ago)
 - [Fix `runsOnQASteps` SNAFU](https://github.com/WyriHaximus/github-workflows/pull/293) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (4 days ago)
 - [Update to PHP 8.4&#43;](https://github.com/WyriHaximus/php-subsplit-tools/pull/24) on [WyriHaximus/php-subsplit-tools](https://github.com/WyriHaximus/php-subsplit-tools) (4 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Remove repo hosted home cluster image](https://github.com/WyriHaximus/github-workflows/pull/287) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [Update release management workflow reference to have no version](https://github.com/WyriHaximus/github-workflows/pull/286) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [Prepare for v1.0.0](https://github.com/WyriHaximus/github-workflows/pull/285) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
-- [Update to `openapi-tools/test-data` to stable 0.1.0](https://github.com/php-openapi-tools/gatherer/pull/18) on [php-openapi-tools/gatherer](https://github.com/php-openapi-tools/gatherer) (1 week ago)
 
 ---
 
