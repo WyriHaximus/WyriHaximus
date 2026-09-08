@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add `opentelemetry-instrumentation` supported feature](https://github.com/WyriHaximus/Makefiles/pull/288) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Fix composer.lock writes when NEEDS_DOCKER_SOCKET drops --user](https://github.com/WyriHaximus/github-action-renovatebot/pull/88) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
 - [Wrap composer require](https://github.com/WyriHaximus/github-action-renovatebot/pull/86) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
 - [Make operation summary optional](https://github.com/php-openapi-tools/representation/pull/12) on [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (5 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [[keda] On dev set max replicate count to 1](https://github.com/MammatusPHP/helm-charts/pull/45) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 week ago)
 - [Also update repo template home cluster image URL](https://github.com/WyriHaximus/github-workflows/pull/288) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [Remove repo hosted home cluster image](https://github.com/WyriHaximus/github-workflows/pull/287) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
-- [Update release management workflow reference to have no version](https://github.com/WyriHaximus/github-workflows/pull/286) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 
 ---
 
