@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (1 day ago)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
-- [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (3 days ago)
 - [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (3 days ago)
+- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (3 days ago)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (3 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
+- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (3 days ago)
 - [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (3 days ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
-- [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (3 days ago)
-- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (3 days ago)
-- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (4 days ago)
+- [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (3 days ago)
 
 ---
 
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) ([v2.1.0](https://github.com/WyriHaximus/github-action-get-previous-tag/releases/tag/v2.1.0), today) - Get the previous tag
 - [reactphp/http](https://github.com/reactphp/http) ([v1.11.1](https://github.com/reactphp/http/releases/tag/v1.11.1), today) - Event-driven, streaming HTTP client and server implementation for ReactPHP.
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.3](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.3), 2 days ago) - Wrapper around renovatebot/github-action
 - [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) ([0.1.1](https://github.com/php-openapi-tools/representation/releases/tag/0.1.1), 6 days ago) - 
@@ -87,12 +88,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.22](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.22), 1 week ago) - 
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r65](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r65), 1 week ago) - 
 - [php-openapi-tools/generator-psr-15-webhook-middleware](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware) ([0.1.0](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware/releases/tag/0.1.0), 2 weeks ago) - WebHook PSR-15 Middleware generator
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.34](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.34), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Correct the two `react/http` advisories for `v1.11.1` to their correct version targetting](https://github.com/FriendsOfPHP/security-advisories/pull/820) on [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) (today)
 - [Add the two advisories for `react/http` fixed in `v1.11.1`](https://github.com/FriendsOfPHP/security-advisories/pull/819) on [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) (today)
 - [Pin WyriHaximus/github-workflows release management to v1.0.1.](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/92) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (1 day ago)
 - [Replace therussiankid92/gat with nick-fields/assert-action.](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/91) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Lower minimum code coverage to 80%](https://github.com/WyriHaximus/Makefiles/pull/285) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Used SHA pinned workflows release reference](https://github.com/WyriHaximus/Makefiles/pull/284) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Simplify generated help code](https://github.com/WyriHaximus/Makefiles/pull/283) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [Pin WyriHaximus/github-workflows reusable workflow references from `@main` to `@v1.0.0` in `.github/workflows`](https://github.com/WyriHaximus/Makefiles/pull/282) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 
 ---
 
