@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add the two advisories for `react/http` fixed in `v1.11.1`](https://github.com/FriendsOfPHP/security-advisories/pull/819) on [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) (today)
 - [Pin WyriHaximus/github-workflows release management to v1.0.1.](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/92) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (1 day ago)
 - [Replace therussiankid92/gat with nick-fields/assert-action.](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/91) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (1 day ago)
 - [Add `opentelemetry-instrumentation` supported feature](https://github.com/WyriHaximus/Makefiles/pull/288) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Used SHA pinned workflows release reference](https://github.com/WyriHaximus/Makefiles/pull/284) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Simplify generated help code](https://github.com/WyriHaximus/Makefiles/pull/283) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Pin WyriHaximus/github-workflows reusable workflow references from `@main` to `@v1.0.0` in `.github/workflows`](https://github.com/WyriHaximus/Makefiles/pull/282) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [[keda] On dev set max replicate count to 1](https://github.com/MammatusPHP/helm-charts/pull/45) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 week ago)
 
 ---
 
