@@ -11,6 +11,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
@@ -21,7 +22,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (3 days ago)
 - [WyriHaximus/reactphp-phpunit-run-tests-in-fiber](https://github.com/WyriHaximus/reactphp-phpunit-run-tests-in-fiber) (4 days ago)
 - [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (4 days ago)
-- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (4 days ago)
 - [WyriHaximus/php-monolog-factory](https://github.com/WyriHaximus/php-monolog-factory) (4 days ago)
 
 ---
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Bump composer to 2.10.3](https://github.com/WyriHaximus/php-test-utilities/pull/1342) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [Correct the two `react/http` advisories for `v1.11.1` to their correct version targetting](https://github.com/FriendsOfPHP/security-advisories/pull/820) on [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) (1 day ago)
 - [Add the two advisories for `react/http` fixed in `v1.11.1`](https://github.com/FriendsOfPHP/security-advisories/pull/819) on [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) (1 day ago)
 - [Pin WyriHaximus/github-workflows release management to v1.0.1.](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/92) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Update to PHP 8.4&#43;](https://github.com/WyriHaximus/php-subsplit-tools/pull/24) on [WyriHaximus/php-subsplit-tools](https://github.com/WyriHaximus/php-subsplit-tools) (1 week ago)
 - [Lower minimum code coverage to 80%](https://github.com/WyriHaximus/Makefiles/pull/285) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Used SHA pinned workflows release reference](https://github.com/WyriHaximus/Makefiles/pull/284) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [Simplify generated help code](https://github.com/WyriHaximus/Makefiles/pull/283) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 
 ---
 
