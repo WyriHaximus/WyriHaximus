@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (2 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (3 days ago)
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (3 days ago)
 - [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (3 days ago)
-- [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (4 days ago)
-- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (6 days ago)
-- [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (6 days ago)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (3 days ago)
 
 ---
 
@@ -75,24 +75,28 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r67](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r67), today) - blog.wyrihaximus.net
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.0.2](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.0.2), today) - Shared GitHub Actions Workflows
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.4](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.4), 1 day ago) - Wrapper around renovatebot/github-action
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.7.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.7.0), 1 day ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) ([v2.1.0](https://github.com/WyriHaximus/github-action-get-previous-tag/releases/tag/v2.1.0), 3 days ago) - Get the previous tag
 - [reactphp/http](https://github.com/reactphp/http) ([v1.11.1](https://github.com/reactphp/http/releases/tag/v1.11.1), 3 days ago) - Event-driven, streaming HTTP client and server implementation for ReactPHP.
 - [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) ([0.1.1](https://github.com/php-openapi-tools/representation/releases/tag/0.1.1), 1 week ago) - 
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.0.1](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.0.1), 1 week ago) - Shared GitHub Actions Workflows
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.2.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.2.0), 1 week ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.2.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.2.0), 1 week ago) - 
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.2.1](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.2.1), 1 week ago) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.14.7](https://github.com/WyriHaximus/Makefiles/releases/tag/0.14.7), 1 week ago) - Makefile building blocks
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.22](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.22), 1 week ago) - 
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r65](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r65), 2 weeks ago) - 
 - [php-openapi-tools/generator-psr-15-webhook-middleware](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware) ([0.1.0](https://github.com/php-openapi-tools/generator-psr-15-webhook-middleware/releases/tag/0.1.0), 2 weeks ago) - WebHook PSR-15 Middleware generator
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Switch to cetralized workflows - phase III](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/238) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
+- [Use tarballs for S3 upload artifacts](https://github.com/WyriHaximus/github-workflows/pull/295) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [Switch to cetralized workflows - phase II](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/237) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
+- [Switch to cetralized workflows](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/236) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (today)
 - [Add `patch` to dev images](https://github.com/WyriHaximusNet/docker-php/pull/413) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [[0.6.x] Fix multi fiber connection race](https://github.com/jakubkulhan/bunny/pull/235) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
 - [Add ASCII headers to help commands](https://github.com/WyriHaximus/Makefiles/pull/289) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
@@ -102,10 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add the two advisories for `react/http` fixed in `v1.11.1`](https://github.com/FriendsOfPHP/security-advisories/pull/819) on [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) (3 days ago)
 - [Pin WyriHaximus/github-workflows release management to v1.0.1.](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/92) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (4 days ago)
 - [Replace therussiankid92/gat with nick-fields/assert-action.](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/91) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (4 days ago)
-- [Add `opentelemetry-instrumentation` supported feature](https://github.com/WyriHaximus/Makefiles/pull/288) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
-- [Fix composer.lock writes when NEEDS_DOCKER_SOCKET drops --user](https://github.com/WyriHaximus/github-action-renovatebot/pull/88) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (5 days ago)
-- [Wrap composer require](https://github.com/WyriHaximus/github-action-renovatebot/pull/86) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (5 days ago)
-- [Make operation summary optional](https://github.com/php-openapi-tools/representation/pull/12) on [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (1 week ago)
 
 ---
 
