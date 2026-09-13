@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 day ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 day ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (2 days ago)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (3 days ago)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (4 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (4 days ago)
 
 ---
 
@@ -75,8 +75,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.0.3](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.0.3), today) - Shared GitHub Actions Workflows
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r67](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r67), 1 day ago) - blog.wyrihaximus.net
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.0.2](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.0.2), 1 day ago) - Shared GitHub Actions Workflows
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.4](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.4), 2 days ago) - Wrapper around renovatebot/github-action
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.7.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.7.0), 2 days ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) ([v2.1.0](https://github.com/WyriHaximus/github-action-get-previous-tag/releases/tag/v2.1.0), 4 days ago) - Get the previous tag
