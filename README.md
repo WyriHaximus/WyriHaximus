@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 day ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (2 days ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (3 days ago)
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (4 days ago)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (4 days ago)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (4 days ago)
 
 ---
 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Fix workflow diagram generation](https://github.com/WyriHaximus/github-workflows/pull/298) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Use Helm on runner if available](https://github.com/WyriHaximus/github-workflows/pull/297) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Add `kubectl`](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/57) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (today)
 - [Switch to cetralized workflows - phase III](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/238) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Update release management workflow to use v1.0.1](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/pull/253) on [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
 - [Bump composer to 2.10.3](https://github.com/WyriHaximus/php-test-utilities/pull/1342) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
 - [Correct the two `react/http` advisories for `v1.11.1` to their correct version targetting](https://github.com/FriendsOfPHP/security-advisories/pull/820) on [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) (4 days ago)
-- [Add the two advisories for `react/http` fixed in `v1.11.1`](https://github.com/FriendsOfPHP/security-advisories/pull/819) on [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) (4 days ago)
 
 ---
 
