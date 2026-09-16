@@ -10,8 +10,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (1 day ago)
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (1 day ago)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
