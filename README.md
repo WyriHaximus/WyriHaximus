@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (2 days ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (2 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (3 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (3 days ago)
-- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (3 days ago)
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (3 days ago)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (3 days ago)
-- [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (4 days ago)
-- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (4 days ago)
-- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (4 days ago)
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (4 days ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (3 days ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (3 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (4 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (4 days ago)
+- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (4 days ago)
+- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (4 days ago)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (4 days ago)
+- [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (5 days ago)
+- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (5 days ago)
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (5 days ago)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (5 days ago)
 
 ---
 
@@ -75,15 +75,15 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.3.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.3.0), 3 days ago) - 
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([5.2.0](https://github.com/MammatusPHP/kubernetes-events/releases/tag/5.2.0), 3 days ago) - 
-- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) ([1.3.0](https://github.com/MammatusPHP/kubernetes-attributes/releases/tag/1.3.0), 3 days ago) - 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.3.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.3.0), 3 days ago) - 
-- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.23](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.23), 4 days ago) - 
-- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.3.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.3.0), 4 days ago) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.5](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.5), 4 days ago) - Wrapper around renovatebot/github-action
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.14.8](https://github.com/WyriHaximus/Makefiles/releases/tag/0.14.8), 4 days ago) - Makefile building blocks
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.0.3](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.0.3), 6 days ago) - Shared GitHub Actions Workflows
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.3.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.3.0), 4 days ago) - 
+- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([5.2.0](https://github.com/MammatusPHP/kubernetes-events/releases/tag/5.2.0), 4 days ago) - 
+- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) ([1.3.0](https://github.com/MammatusPHP/kubernetes-attributes/releases/tag/1.3.0), 4 days ago) - 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.3.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.3.0), 4 days ago) - 
+- [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.23](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.23), 5 days ago) - 
+- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.3.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.3.0), 5 days ago) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.5](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.5), 5 days ago) - Wrapper around renovatebot/github-action
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.14.8](https://github.com/WyriHaximus/Makefiles/releases/tag/0.14.8), 5 days ago) - Makefile building blocks
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.0.3](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.0.3), 1 week ago) - Shared GitHub Actions Workflows
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r67](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r67), 1 week ago) - blog.wyrihaximus.net
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.7.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.7.0), 1 week ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) ([v2.1.0](https://github.com/WyriHaximus/github-action-get-previous-tag/releases/tag/v2.1.0), 1 week ago) - Get the previous tag
@@ -93,14 +93,14 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Generate README.md](https://github.com/WyriHaximus/renovate-config/pull/11) on [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (3 days ago)
-- [Add Ingress Support](https://github.com/MammatusPHP/http-server/pull/242) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (4 days ago)
-- [Add Ingress Support](https://github.com/MammatusPHP/kubernetes-attributes/pull/50) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (4 days ago)
-- [Add Ingress Support](https://github.com/MammatusPHP/kubernetes-events/pull/69) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (4 days ago)
-- [[mammatus] Add support for ingresses](https://github.com/MammatusPHP/helm-charts/pull/47) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (4 days ago)
-- [Fix workflow diagram generation](https://github.com/WyriHaximus/github-workflows/pull/298) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
-- [Use Helm on runner if available](https://github.com/WyriHaximus/github-workflows/pull/297) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
-- [Add `kubectl`](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/57) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (6 days ago)
+- [Generate README.md](https://github.com/WyriHaximus/renovate-config/pull/11) on [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (4 days ago)
+- [Add Ingress Support](https://github.com/MammatusPHP/http-server/pull/242) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (5 days ago)
+- [Add Ingress Support](https://github.com/MammatusPHP/kubernetes-attributes/pull/50) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (5 days ago)
+- [Add Ingress Support](https://github.com/MammatusPHP/kubernetes-events/pull/69) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (5 days ago)
+- [[mammatus] Add support for ingresses](https://github.com/MammatusPHP/helm-charts/pull/47) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (5 days ago)
+- [Fix workflow diagram generation](https://github.com/WyriHaximus/github-workflows/pull/298) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
+- [Use Helm on runner if available](https://github.com/WyriHaximus/github-workflows/pull/297) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
+- [Add `kubectl`](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/57) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 week ago)
 - [Switch to cetralized workflows - phase III](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/238) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
 - [Use tarballs for S3 upload artifacts](https://github.com/WyriHaximus/github-workflows/pull/295) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [Switch to cetralized workflows - phase II](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/237) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
@@ -111,9 +111,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
-- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (today)
-- [helm/helm-mapkubeapis](https://github.com/helm/helm-mapkubeapis) - This is a Helm plugin which map deprecated or removed Kubernetes APIs in a release to supported APIs (today)
-- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. (4 days ago)
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (1 day ago)
+- [helm/helm-mapkubeapis](https://github.com/helm/helm-mapkubeapis) - This is a Helm plugin which map deprecated or removed Kubernetes APIs in a release to supported APIs (1 day ago)
+- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. (5 days ago)
 - [francescopace/espectre](https://github.com/francescopace/espectre) - Wi-Fi CSI motion sensing for ESP32. C&#43;&#43; SDK, ESPHome, Native, and Matter frontends, browser tools, and a CLI for the full device lifecycle. GPLv3 and commercial licensing. (2 weeks ago)
 - [mnapoli/skills](https://github.com/mnapoli/skills) - Agent skills: unslop, address PR review (2 weeks ago)
 - [elyosh/OpenTIE](https://github.com/elyosh/OpenTIE) -  (3 weeks ago)
