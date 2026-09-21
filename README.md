@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
+- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (today)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (1 day ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
+- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (1 day ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
-- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (4 days ago)
 - [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (4 days ago)
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (5 days ago)
-- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (5 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (5 days ago)
+- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (4 days ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (5 days ago)
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (6 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (5 days ago)
 
 ---
 
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.39.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.39.0), today) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.8.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.8.0), 1 day ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.3.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.3.0), 5 days ago) - 
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([5.2.0](https://github.com/MammatusPHP/kubernetes-events/releases/tag/5.2.0), 5 days ago) - 
@@ -87,12 +88,13 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.0.3](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.0.3), 1 week ago) - Shared GitHub Actions Workflows
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) ([r67](https://github.com/WyriHaximus/blog.wyrihaximus.net/releases/tag/r67), 1 week ago) - blog.wyrihaximus.net
 - [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) ([v2.1.0](https://github.com/WyriHaximus/github-action-get-previous-tag/releases/tag/v2.1.0), 1 week ago) - Get the previous tag
-- [reactphp/http](https://github.com/reactphp/http) ([v1.11.1](https://github.com/reactphp/http/releases/tag/v1.11.1), 1 week ago) - Event-driven, streaming HTTP client and server implementation for ReactPHP.
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Add `8.6.0beta3` as upcoming release](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/90) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
+- [Add `.gitignore`](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/243) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
 - [Update WyriHaximus/github-workflows action to v1.0.3- #242](https://github.com/WyriHaximus/php-coding-standard/pull/139) on [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
 - [Update WyriHaximus/github-workflows action to v1.0.3](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/242) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
 - [Generate README.md](https://github.com/WyriHaximus/renovate-config/pull/11) on [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (5 days ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Use Helm on runner if available](https://github.com/WyriHaximus/github-workflows/pull/297) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [Add `kubectl`](https://github.com/WyriHaximusNet/docker-github-action-runner/pull/57) on [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 week ago)
 - [Switch to cetralized workflows - phase III](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/238) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
-- [Use tarballs for S3 upload artifacts](https://github.com/WyriHaximus/github-workflows/pull/295) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
-- [Switch to cetralized workflows - phase II](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/237) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
 
 ---
 
