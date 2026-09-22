@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Move `functions` data into in preparation for new features](https://github.com/WyriHaximus/phpstan-reactphp/pull/64) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
 - [Trial upstream release permissions](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/246) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
 - [Ensure permissions chain for GitHub Actions releage management](https://github.com/WyriHaximus/github-workflows/pull/303) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Turn action into offline action](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/93) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Update WyriHaximus/github-workflows action to v1.0.3](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/242) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
 - [Generate README.md](https://github.com/WyriHaximus/renovate-config/pull/11) on [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (6 days ago)
 - [Add Ingress Support](https://github.com/MammatusPHP/http-server/pull/242) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 week ago)
-- [Add Ingress Support](https://github.com/MammatusPHP/kubernetes-attributes/pull/50) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 week ago)
 
 ---
 
