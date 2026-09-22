@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Turn action into offline action](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/93) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
 - [[New Version] Update versions file to PHP 8.5.11](https://github.com/WyriHaximus/php-fake-php-version/pull/196) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [Fix release management permissions](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/245) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
 - [Migrate to modern Docker action setup](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/91) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add Ingress Support](https://github.com/MammatusPHP/kubernetes-attributes/pull/50) on [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 week ago)
 - [Add Ingress Support](https://github.com/MammatusPHP/kubernetes-events/pull/69) on [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 week ago)
 - [[mammatus] Add support for ingresses](https://github.com/MammatusPHP/helm-charts/pull/47) on [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) (1 week ago)
-- [Fix workflow diagram generation](https://github.com/WyriHaximus/github-workflows/pull/298) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 
 ---
 
