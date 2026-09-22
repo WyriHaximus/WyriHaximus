@@ -10,10 +10,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
+- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (1 day ago)
@@ -75,13 +75,13 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.4.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.4.0), today) - 
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.35](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.35), today) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.39.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.39.0), 1 day ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.8.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.8.0), 2 days ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.3.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.3.0), 6 days ago) - 
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([5.2.0](https://github.com/MammatusPHP/kubernetes-events/releases/tag/5.2.0), 6 days ago) - 
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) ([1.3.0](https://github.com/MammatusPHP/kubernetes-attributes/releases/tag/1.3.0), 6 days ago) - 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.3.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.3.0), 6 days ago) - 
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.23](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.23), 1 week ago) - 
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.3.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.3.0), 1 week ago) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.5](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.5), 1 week ago) - Wrapper around renovatebot/github-action
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Only allow calls to `Loop` to be proxy calls like `Loop::futureTick()`](https://github.com/WyriHaximus/phpstan-reactphp/pull/65) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
 - [Move `functions` data into in preparation for new features](https://github.com/WyriHaximus/phpstan-reactphp/pull/64) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
 - [Trial upstream release permissions](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/246) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (today)
 - [Ensure permissions chain for GitHub Actions releage management](https://github.com/WyriHaximus/github-workflows/pull/303) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Update WyriHaximus/github-workflows action to v1.0.3- #242](https://github.com/WyriHaximus/php-coding-standard/pull/139) on [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 day ago)
 - [Update WyriHaximus/github-workflows action to v1.0.3](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/242) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
 - [Generate README.md](https://github.com/WyriHaximus/renovate-config/pull/11) on [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (6 days ago)
-- [Add Ingress Support](https://github.com/MammatusPHP/http-server/pull/242) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 week ago)
 
 ---
 
