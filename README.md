@@ -93,6 +93,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Async await without async](https://github.com/WyriHaximus/phpstan-reactphp/pull/72) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
+- [Add parser visitor to detect async-wrapped closures.](https://github.com/WyriHaximus/phpstan-reactphp/pull/71) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
+- [Disallow keeping the event loop around in your objects](https://github.com/WyriHaximus/phpstan-reactphp/pull/70) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
 - [Update `WyriHaximus/github-action-composer.lock-diff` to v3.0.0](https://github.com/WyriHaximus/github-workflows/pull/305) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Align OCI building updating `docker/setup-buildx-action` to v4.4.1](https://github.com/WyriHaximus/github-workflows/pull/304) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Update base image to use GitHub Container Registry](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/96) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
@@ -103,9 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Trial upstream release permissions](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/246) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
 - [Ensure permissions chain for GitHub Actions releage management](https://github.com/WyriHaximus/github-workflows/pull/303) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [Turn action into offline action](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/93) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
-- [[New Version] Update versions file to PHP 8.5.11](https://github.com/WyriHaximus/php-fake-php-version/pull/196) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (1 day ago)
-- [Fix release management permissions](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/245) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
-- [Migrate to modern Docker action setup](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/91) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
 
 ---
 
@@ -114,7 +114,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [yama6a/talos-raspberry-pi5](https://github.com/yama6a/talos-raspberry-pi5) -  (3 days ago)
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (4 days ago)
 - [helm/helm-mapkubeapis](https://github.com/helm/helm-mapkubeapis) - This is a Helm plugin which map deprecated or removed Kubernetes APIs in a release to supported APIs (4 days ago)
-- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. (1 week ago)
+- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - Bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. On an e-ink panel, a TV, or any screen. (1 week ago)
 - [francescopace/espectre](https://github.com/francescopace/espectre) - Wi-Fi CSI motion sensing for ESP32. C&#43;&#43; SDK, ESPHome, Native, and Matter frontends, browser tools, and a CLI for the full device lifecycle. GPLv3 and commercial licensing. (3 weeks ago)
 - [mnapoli/skills](https://github.com/mnapoli/skills) - Agent skills: unslop, address PR review (3 weeks ago)
 - [elyosh/OpenTIE](https://github.com/elyosh/OpenTIE) -  (3 weeks ago)
