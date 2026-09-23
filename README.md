@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Async readme](https://github.com/WyriHaximus/phpstan-reactphp/pull/74) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
+- [Async await reached without async](https://github.com/WyriHaximus/phpstan-reactphp/pull/73) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
 - [Async await without async](https://github.com/WyriHaximus/phpstan-reactphp/pull/72) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
 - [Add parser visitor to detect async-wrapped closures.](https://github.com/WyriHaximus/phpstan-reactphp/pull/71) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
 - [Disallow keeping the event loop around in your objects](https://github.com/WyriHaximus/phpstan-reactphp/pull/70) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Only allow calls to `Loop` to be proxy calls like `Loop::futureTick()`](https://github.com/WyriHaximus/phpstan-reactphp/pull/65) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
 - [Move `functions` data into in preparation for new features](https://github.com/WyriHaximus/phpstan-reactphp/pull/64) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
 - [Trial upstream release permissions](https://github.com/WyriHaximus/github-action-composer.lock-diff/pull/246) on [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) (1 day ago)
-- [Ensure permissions chain for GitHub Actions releage management](https://github.com/WyriHaximus/github-workflows/pull/303) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
-- [Turn action into offline action](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/93) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
 
 ---
 
