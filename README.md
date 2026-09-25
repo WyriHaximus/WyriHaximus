@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[WIP][3.x] Add Io\Poll Event Loop](https://github.com/reactphp/event-loop/pull/286) on [reactphp/event-loop](https://github.com/reactphp/event-loop) (today)
 - [Improve readme](https://github.com/WyriHaximus/phpstan-reactphp/pull/76) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
 - [Make all rules configurable](https://github.com/WyriHaximus/phpstan-reactphp/pull/75) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
 - [Async readme](https://github.com/WyriHaximus/phpstan-reactphp/pull/74) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Update base image to use GitHub Container Registry](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/96) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 days ago)
 - [Disallow injecting the event loop, only `Loop::` calls are allowed](https://github.com/WyriHaximus/phpstan-reactphp/pull/68) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (3 days ago)
 - [Disallow calling any methods on an object implementing the LoopInterface](https://github.com/WyriHaximus/phpstan-reactphp/pull/66) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (3 days ago)
-- [Only allow calls to `Loop` to be proxy calls like `Loop::futureTick()`](https://github.com/WyriHaximus/phpstan-reactphp/pull/65) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (3 days ago)
 
 ---
 
