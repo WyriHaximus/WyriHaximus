@@ -93,6 +93,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Test out new supported-php-versions action offline implementation](https://github.com/WyriHaximusNet/docker-php/pull/420) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
+- [8.6.0beta3 =&gt; 8.6.0RC2](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/100) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
+- [Install mbstring and gate unstable PECL by pre-release, not PHP 8.6](https://github.com/WyriHaximusNet/docker-php/pull/419) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Upload CI artifacts to S3 instead of GitHub](https://github.com/WyriHaximus/github-workflows/pull/307) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [[WIP][3.x] Add Io\Poll Event Loop](https://github.com/reactphp/event-loop/pull/286) on [reactphp/event-loop](https://github.com/reactphp/event-loop) (today)
 - [Improve readme](https://github.com/WyriHaximus/phpstan-reactphp/pull/76) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
@@ -103,9 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add parser visitor to detect async-wrapped closures.](https://github.com/WyriHaximus/phpstan-reactphp/pull/71) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (2 days ago)
 - [Disallow keeping the event loop around in your objects](https://github.com/WyriHaximus/phpstan-reactphp/pull/70) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (2 days ago)
 - [Update `WyriHaximus/github-action-composer.lock-diff` to v3.0.0](https://github.com/WyriHaximus/github-workflows/pull/305) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
-- [Align OCI building updating `docker/setup-buildx-action` to v4.4.1](https://github.com/WyriHaximus/github-workflows/pull/304) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
-- [Update base image to use GitHub Container Registry](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/96) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 days ago)
-- [Disallow injecting the event loop, only `Loop::` calls are allowed](https://github.com/WyriHaximus/phpstan-reactphp/pull/68) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (3 days ago)
 
 ---
 
