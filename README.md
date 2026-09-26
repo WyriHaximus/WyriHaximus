@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Fix PHP8.5 deprecations](https://github.com/voryx/WebSocketMiddleware/pull/11) on [voryx/WebSocketMiddleware](https://github.com/voryx/WebSocketMiddleware) (today)
 - [Test out new supported-php-versions action offline implementation](https://github.com/WyriHaximusNet/docker-php/pull/420) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [8.6.0beta3 =&gt; 8.6.0RC2](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/100) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
 - [Install mbstring and gate unstable PECL by pre-release, not PHP 8.6](https://github.com/WyriHaximusNet/docker-php/pull/419) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Async await without async](https://github.com/WyriHaximus/phpstan-reactphp/pull/72) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (3 days ago)
 - [Add parser visitor to detect async-wrapped closures.](https://github.com/WyriHaximus/phpstan-reactphp/pull/71) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (3 days ago)
 - [Disallow keeping the event loop around in your objects](https://github.com/WyriHaximus/phpstan-reactphp/pull/70) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (3 days ago)
-- [Update `WyriHaximus/github-action-composer.lock-diff` to v3.0.0](https://github.com/WyriHaximus/github-workflows/pull/305) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 days ago)
 
 ---
 
