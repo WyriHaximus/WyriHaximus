@@ -111,6 +111,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
+- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi. (today)
 - [benmac7/network-flow-card](https://github.com/benmac7/network-flow-card) -  (1 day ago)
 - [shipmonk-rnd/passkeys](https://github.com/shipmonk-rnd/passkeys) - zero dependency spec-compliant passkey library for php (2 days ago)
 - [yama6a/talos-raspberry-pi5](https://github.com/yama6a/talos-raspberry-pi5) -  (6 days ago)
@@ -123,7 +124,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [php-baremetal/php-esp32](https://github.com/php-baremetal/php-esp32) - The official PHP 8.3-8.5 engine running on an ESP32-P4/ESP32-S3. No emulation, no clone: reads a PHP file from microSD and runs it. (1 month ago)
 - [libgd/libgd](https://github.com/libgd/libgd) - GD Graphics Library (1 month ago)
 - [GaZmagik/iso-24495](https://github.com/GaZmagik/iso-24495) - ISO 24495 Plain Language skills and Claude Code plugin (1 month ago)
-- [jmathai/immich-exif](https://github.com/jmathai/immich-exif) - Write changes from Immich back to EXIF. Deploy as a container in your docker-compose.yaml. (1 month ago)
 
 ---
 
