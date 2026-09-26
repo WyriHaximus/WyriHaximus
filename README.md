@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (today)
-- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (today)
-- [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (today)
 - [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (today)
-- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (today)
+- [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (today)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (today)
-- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (today)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (today)
-- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (today)
+- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (today)
+- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (today)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (today)
+- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (2 days ago)
 
 ---
 
