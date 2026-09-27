@@ -10,12 +10,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
+- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (today)
 - [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (today)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
-- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (today)
+- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
 - [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (today)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) ([0.1.0](https://github.com/MammatusPHP/healthz-vhost/releases/tag/0.1.0), today) - Basic health check vhost
 - [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) ([0.1.2](https://github.com/MammatusPHP/http-server-webroot/releases/tag/0.1.2), today) - Webroot implementations for HTTP server
 - [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) ([0.1.0](https://github.com/MammatusPHP/http-server-contracts/releases/tag/0.1.0), today) - Contracts for the http-server
 - [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) ([0.1.0](https://github.com/MammatusPHP/http-server-attributes/releases/tag/0.1.0), today) - Attributes for http-server
@@ -87,12 +88,15 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.39.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.39.0), 6 days ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.8.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.8.0), 1 week ago) - 🌯 PHPStan rules wrapper
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) ([5.2.0](https://github.com/MammatusPHP/kubernetes-events/releases/tag/5.2.0), 1 week ago) - 
-- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) ([1.3.0](https://github.com/MammatusPHP/kubernetes-attributes/releases/tag/1.3.0), 1 week ago) - 
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Update to tagged http-server-* packages](https://github.com/MammatusPHP/healthz-vhost/pull/49) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
+- [Update http-server-* packages](https://github.com/MammatusPHP/http-server/pull/248) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
+- [Update `mammatus/http-server-webroot` to 0.1.2](https://github.com/MammatusPHP/healthz-vhost/pull/48) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
+- [Update http-server-* packages](https://github.com/MammatusPHP/healthz-vhost/pull/47) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
 - [Bump `mammatus/http-server-contracts` to stable release](https://github.com/MammatusPHP/http-server-webroot/pull/36) on [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (today)
 - [Basic Documentation](https://github.com/MammatusPHP/http-server-webroot/pull/35) on [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (today)
 - [Basic Documentation](https://github.com/MammatusPHP/http-server-contracts/pull/48) on [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (today)
@@ -102,10 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Rename all `.yml` files in `.github/workflows` to `.yaml`](https://github.com/WyriHaximus/Makefiles/pull/296) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Support `ratchet/rfc6455` v0.4](https://github.com/voryx/WebSocketMiddleware/pull/12) on [voryx/WebSocketMiddleware](https://github.com/voryx/WebSocketMiddleware) (1 day ago)
 - [Fix PHP8.5 deprecations](https://github.com/voryx/WebSocketMiddleware/pull/11) on [voryx/WebSocketMiddleware](https://github.com/voryx/WebSocketMiddleware) (1 day ago)
-- [Test out new supported-php-versions action offline implementation](https://github.com/WyriHaximusNet/docker-php/pull/420) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
-- [8.6.0beta3 =&gt; 8.6.0RC2](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/100) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 days ago)
-- [Install mbstring and gate unstable PECL by pre-release, not PHP 8.6](https://github.com/WyriHaximusNet/docker-php/pull/419) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
-- [Upload CI artifacts to S3 instead of GitHub](https://github.com/WyriHaximus/github-workflows/pull/307) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 
 ---
 
