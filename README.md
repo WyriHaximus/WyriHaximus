@@ -14,12 +14,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (today)
 - [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (today)
 - [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (today)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (1 day ago)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
 - [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (1 day ago)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 day ago)
 - [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (1 day ago)
@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Update to stable http-server-packages](https://github.com/MammatusPHP/kubernetes/pull/53) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (today)
+- [Update `mammatus/healthz-vhost` to stable release](https://github.com/MammatusPHP/http-server/pull/250) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [Add WebSocket support](https://github.com/MammatusPHP/http-server/pull/249) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [Update to tagged http-server-* packages](https://github.com/MammatusPHP/healthz-vhost/pull/49) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
 - [Update http-server-* packages](https://github.com/MammatusPHP/http-server/pull/248) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Basic Documentation](https://github.com/MammatusPHP/http-server-attributes/pull/25) on [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (today)
 - [Add WebSocket attributes](https://github.com/MammatusPHP/http-server-attributes/pull/24) on [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (today)
 - [Have renovate update migrations workflows versions](https://github.com/WyriHaximus/Makefiles/pull/297) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Rename all `.yml` files in `.github/workflows` to `.yaml`](https://github.com/WyriHaximus/Makefiles/pull/296) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Support `ratchet/rfc6455` v0.4](https://github.com/voryx/WebSocketMiddleware/pull/12) on [voryx/WebSocketMiddleware](https://github.com/voryx/WebSocketMiddleware) (1 day ago)
 
 ---
 
