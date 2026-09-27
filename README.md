@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (1 day ago)
-- [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (1 day ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
+- [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (1 day ago)
 - [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (1 day ago)
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 day ago)
-- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (1 day ago)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 day ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
 - [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (1 day ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
+- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (1 day ago)
+- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 day ago)
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (3 days ago)
 
 ---
 
@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Have renovate update migrations workflows versions](https://github.com/WyriHaximus/Makefiles/pull/297) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Rename all `.yml` files in `.github/workflows` to `.yaml`](https://github.com/WyriHaximus/Makefiles/pull/296) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Support `ratchet/rfc6455` v0.4](https://github.com/voryx/WebSocketMiddleware/pull/12) on [voryx/WebSocketMiddleware](https://github.com/voryx/WebSocketMiddleware) (1 day ago)
 - [Fix PHP8.5 deprecations](https://github.com/voryx/WebSocketMiddleware/pull/11) on [voryx/WebSocketMiddleware](https://github.com/voryx/WebSocketMiddleware) (1 day ago)
 - [Test out new supported-php-versions action offline implementation](https://github.com/WyriHaximusNet/docker-php/pull/420) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Make all rules configurable](https://github.com/WyriHaximus/phpstan-reactphp/pull/75) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (3 days ago)
 - [Async readme](https://github.com/WyriHaximus/phpstan-reactphp/pull/74) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (4 days ago)
 - [Async await reached without async](https://github.com/WyriHaximus/phpstan-reactphp/pull/73) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (4 days ago)
-- [Async await without async](https://github.com/WyriHaximus/phpstan-reactphp/pull/72) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (4 days ago)
-- [Add parser visitor to detect async-wrapped closures.](https://github.com/WyriHaximus/phpstan-reactphp/pull/71) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (4 days ago)
 
 ---
 
