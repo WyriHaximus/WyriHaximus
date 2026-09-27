@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add WebSocket support](https://github.com/MammatusPHP/http-server/pull/249) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [Update to tagged http-server-* packages](https://github.com/MammatusPHP/healthz-vhost/pull/49) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
 - [Update http-server-* packages](https://github.com/MammatusPHP/http-server/pull/248) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [Update `mammatus/http-server-webroot` to 0.1.2](https://github.com/MammatusPHP/healthz-vhost/pull/48) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Have renovate update migrations workflows versions](https://github.com/WyriHaximus/Makefiles/pull/297) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Rename all `.yml` files in `.github/workflows` to `.yaml`](https://github.com/WyriHaximus/Makefiles/pull/296) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Support `ratchet/rfc6455` v0.4](https://github.com/voryx/WebSocketMiddleware/pull/12) on [voryx/WebSocketMiddleware](https://github.com/voryx/WebSocketMiddleware) (1 day ago)
-- [Fix PHP8.5 deprecations](https://github.com/voryx/WebSocketMiddleware/pull/11) on [voryx/WebSocketMiddleware](https://github.com/voryx/WebSocketMiddleware) (1 day ago)
 
 ---
 
