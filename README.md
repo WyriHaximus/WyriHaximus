@@ -12,16 +12,16 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
-- [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
+- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (today)
+- [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (today)
 - [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (1 day ago)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
-- [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (1 day ago)
+- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 day ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
 - [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
-- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (1 day ago)
-- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 day ago)
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
+- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (1 day ago)
 - [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (1 day ago)
 
 ---
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) ([0.1.0](https://github.com/MammatusPHP/http-server-attributes/releases/tag/0.1.0), today) - Attributes for http-server
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.6](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.6), today) - Wrapper around renovatebot/github-action
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.1.0](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.1.0), 2 days ago) - Shared GitHub Actions Workflows
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.4.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.4.0), 4 days ago) - 
@@ -87,12 +88,13 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) ([1.3.0](https://github.com/MammatusPHP/kubernetes-attributes/releases/tag/1.3.0), 1 week ago) - 
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.23](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.23), 1 week ago) - 
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.3.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.3.0), 1 week ago) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.14.8](https://github.com/WyriHaximus/Makefiles/releases/tag/0.14.8), 1 week ago) - Makefile building blocks
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Basic Documentation](https://github.com/MammatusPHP/http-server-contracts/pull/48) on [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (today)
+- [Basic Documentation](https://github.com/MammatusPHP/http-server-attributes/pull/25) on [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (today)
 - [Add WebSocket attributes](https://github.com/MammatusPHP/http-server-attributes/pull/24) on [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (today)
 - [Have renovate update migrations workflows versions](https://github.com/WyriHaximus/Makefiles/pull/297) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Rename all `.yml` files in `.github/workflows` to `.yaml`](https://github.com/WyriHaximus/Makefiles/pull/296) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Upload CI artifacts to S3 instead of GitHub](https://github.com/WyriHaximus/github-workflows/pull/307) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 - [[WIP][3.x] Add Io\Poll Event Loop](https://github.com/reactphp/event-loop/pull/286) on [reactphp/event-loop](https://github.com/reactphp/event-loop) (2 days ago)
 - [Improve readme](https://github.com/WyriHaximus/phpstan-reactphp/pull/76) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (3 days ago)
-- [Make all rules configurable](https://github.com/WyriHaximus/phpstan-reactphp/pull/75) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (3 days ago)
-- [Async readme](https://github.com/WyriHaximus/phpstan-reactphp/pull/74) on [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (4 days ago)
 
 ---
 
