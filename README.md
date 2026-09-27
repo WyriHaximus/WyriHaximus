@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
-- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (1 day ago)
-- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
-- [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (1 day ago)
-- [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (1 day ago)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
+- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 day ago)
 - [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 day ago)
+- [MammatusPHP/kubernetes-events](https://github.com/MammatusPHP/kubernetes-events) (1 day ago)
 - [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (1 day ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
-- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (1 day ago)
-- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (1 day ago)
+- [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (1 day ago)
+- [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (1 day ago)
+- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (1 day ago)
 - [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (1 day ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 
 ---
 
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.6](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.6), today) - Wrapper around renovatebot/github-action
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.1.0](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.1.0), 2 days ago) - Shared GitHub Actions Workflows
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.4.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.4.0), 4 days ago) - 
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) ([v3.0.0](https://github.com/WyriHaximus/github-action-composer.lock-diff/releases/tag/v3.0.0), 4 days ago) - GitHub Action that diffs composer.lock between current branch and default branch
@@ -86,7 +87,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) ([1.3.0](https://github.com/MammatusPHP/kubernetes-attributes/releases/tag/1.3.0), 1 week ago) - 
 - [MammatusPHP/helm-charts](https://github.com/MammatusPHP/helm-charts) ([mammatus-0.0.23](https://github.com/MammatusPHP/helm-charts/releases/tag/mammatus-0.0.23), 1 week ago) - 
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.3.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.3.0), 1 week ago) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.5](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.5), 1 week ago) - Wrapper around renovatebot/github-action
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.14.8](https://github.com/WyriHaximus/Makefiles/releases/tag/0.14.8), 1 week ago) - Makefile building blocks
 
 ---
