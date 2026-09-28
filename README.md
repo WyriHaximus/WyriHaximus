@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add Lychee to documentation QA](https://github.com/WyriHaximus/Makefiles/pull/299) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Introducing documnentation QA starting with markdownlint](https://github.com/WyriHaximus/Makefiles/pull/298) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Update to stable http-server-packages](https://github.com/MammatusPHP/kubernetes/pull/53) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 day ago)
 - [Update `mammatus/healthz-vhost` to stable release](https://github.com/MammatusPHP/http-server/pull/250) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Basic Documentation](https://github.com/MammatusPHP/http-server-webroot/pull/35) on [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (1 day ago)
 - [Basic Documentation](https://github.com/MammatusPHP/http-server-contracts/pull/48) on [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (1 day ago)
 - [Basic Documentation](https://github.com/MammatusPHP/http-server-attributes/pull/25) on [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (1 day ago)
-- [Add WebSocket attributes](https://github.com/MammatusPHP/http-server-attributes/pull/24) on [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (1 day ago)
 
 ---
 
