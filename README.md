@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [100% MSI](https://github.com/WyriHaximus/Makefiles/pull/305) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Remove all lines that contain `@infection-ignore-all`](https://github.com/WyriHaximus/Makefiles/pull/304) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Add Documentation QA entry point to run all documentation QA checks](https://github.com/WyriHaximus/Makefiles/pull/302) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Add Vale.sh to documentation QA](https://github.com/WyriHaximus/Makefiles/pull/301) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Update to tagged http-server-* packages](https://github.com/MammatusPHP/healthz-vhost/pull/49) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (4 days ago)
 - [Update http-server-* packages](https://github.com/MammatusPHP/http-server/pull/248) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (4 days ago)
 - [Update `mammatus/http-server-webroot` to 0.1.2](https://github.com/MammatusPHP/healthz-vhost/pull/48) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (4 days ago)
-- [Update http-server-* packages](https://github.com/MammatusPHP/healthz-vhost/pull/47) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (4 days ago)
 
 ---
 
