@@ -93,7 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Add Documentationn QA entry point to run all documentation QA checks](https://github.com/WyriHaximus/Makefiles/pull/302) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [Add Documentation QA entry point to run all documentation QA checks](https://github.com/WyriHaximus/Makefiles/pull/302) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Add Vale.sh to documentation QA](https://github.com/WyriHaximus/Makefiles/pull/301) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Add Typos to documentation QA](https://github.com/WyriHaximus/Makefiles/pull/300) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Add Lychee to documentation QA](https://github.com/WyriHaximus/Makefiles/pull/299) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
