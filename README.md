@@ -10,7 +10,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (3 days ago)
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (3 days ago)
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Remove all lines that contain `@infection-ignore-all`](https://github.com/WyriHaximus/Makefiles/pull/304) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Add Documentation QA entry point to run all documentation QA checks](https://github.com/WyriHaximus/Makefiles/pull/302) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Add Vale.sh to documentation QA](https://github.com/WyriHaximus/Makefiles/pull/301) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Add Typos to documentation QA](https://github.com/WyriHaximus/Makefiles/pull/300) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Update http-server-* packages](https://github.com/MammatusPHP/http-server/pull/248) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (4 days ago)
 - [Update `mammatus/http-server-webroot` to 0.1.2](https://github.com/MammatusPHP/healthz-vhost/pull/48) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (4 days ago)
 - [Update http-server-* packages](https://github.com/MammatusPHP/healthz-vhost/pull/47) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (4 days ago)
-- [Bump `mammatus/http-server-contracts` to stable release](https://github.com/MammatusPHP/http-server-webroot/pull/36) on [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (4 days ago)
 
 ---
 
