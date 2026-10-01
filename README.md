@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (3 days ago)
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (3 days ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (3 days ago)
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (3 days ago)
 - [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (4 days ago)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (4 days ago)
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (4 days ago)
 - [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (4 days ago)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (4 days ago)
 - [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (4 days ago)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (4 days ago)
 - [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (4 days ago)
-- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (5 days ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (5 days ago)
+- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (5 days ago)
+- [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (5 days ago)
 
 ---
 
@@ -75,7 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.7](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.7), 3 days ago) - Wrapper around renovatebot/github-action
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.8](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.8), today) - Wrapper around renovatebot/github-action
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.4.2](https://github.com/MammatusPHP/kubernetes/releases/tag/0.4.2), 4 days ago) - Kubernetes related tooling
 - [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) ([0.1.0](https://github.com/MammatusPHP/healthz-vhost/releases/tag/0.1.0), 4 days ago) - Basic health check vhost
 - [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) ([0.1.2](https://github.com/MammatusPHP/http-server-webroot/releases/tag/0.1.2), 4 days ago) - Webroot implementations for HTTP server
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Fix Renovate composer wrapper treating update/install as Make targets](https://github.com/WyriHaximus/github-action-renovatebot/pull/100) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
 - [100% MSI](https://github.com/WyriHaximus/Makefiles/pull/305) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Remove all lines that contain `@infection-ignore-all`](https://github.com/WyriHaximus/Makefiles/pull/304) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Add Documentation QA entry point to run all documentation QA checks](https://github.com/WyriHaximus/Makefiles/pull/302) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add WebSocket support](https://github.com/MammatusPHP/http-server/pull/249) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (4 days ago)
 - [Update to tagged http-server-* packages](https://github.com/MammatusPHP/healthz-vhost/pull/49) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (4 days ago)
 - [Update http-server-* packages](https://github.com/MammatusPHP/http-server/pull/248) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (4 days ago)
-- [Update `mammatus/http-server-webroot` to 0.1.2](https://github.com/MammatusPHP/healthz-vhost/pull/48) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (4 days ago)
 
 ---
 
