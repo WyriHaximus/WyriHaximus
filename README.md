@@ -13,16 +13,16 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (4 days ago)
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (4 days ago)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (4 days ago)
 - [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (5 days ago)
-- [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (5 days ago)
 - [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (5 days ago)
-- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (5 days ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (5 days ago)
+- [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (5 days ago)
+- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (5 days ago)
 - [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (5 days ago)
-- [WyriHaximus/php-tile-stitcher](https://github.com/WyriHaximus/php-tile-stitcher) (6 days ago)
-- [php-openapi-tools/representation](https://github.com/php-openapi-tools/representation) (6 days ago)
+- [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (6 days ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (6 days ago)
 
 ---
 
