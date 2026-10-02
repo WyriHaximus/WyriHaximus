@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Instead of just creating it, always enforce the contents of `etc/qa/vale-vocab.txt`](https://github.com/WyriHaximus/Makefiles/pull/309) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Instead of just creating it, always enforce the contents of `etc/qa/cspell.json`](https://github.com/WyriHaximus/Makefiles/pull/308) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Dynamic wordlist](https://github.com/WyriHaximus/Makefiles/pull/307) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Install `ext-uv` through PIE](https://github.com/WyriHaximusNet/docker-php/pull/423) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Improve readme](https://github.com/WyriHaximus/Makefiles/pull/306) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add Typos to documentation QA](https://github.com/WyriHaximus/Makefiles/pull/300) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [Add Lychee to documentation QA](https://github.com/WyriHaximus/Makefiles/pull/299) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 - [Introducing documnentation QA starting with markdownlint](https://github.com/WyriHaximus/Makefiles/pull/298) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
-- [Update to stable http-server-packages](https://github.com/MammatusPHP/kubernetes/pull/53) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (5 days ago)
-- [Update `mammatus/healthz-vhost` to stable release](https://github.com/MammatusPHP/http-server/pull/250) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (5 days ago)
 
 ---
 
