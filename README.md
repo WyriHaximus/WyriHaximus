@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Dynamic wordlist](https://github.com/WyriHaximus/Makefiles/pull/307) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Install `ext-uv` through PIE](https://github.com/WyriHaximusNet/docker-php/pull/423) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [Improve readme](https://github.com/WyriHaximus/Makefiles/pull/306) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Fix Renovate composer wrapper treating update/install as Make targets](https://github.com/WyriHaximus/github-action-renovatebot/pull/100) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Introducing documnentation QA starting with markdownlint](https://github.com/WyriHaximus/Makefiles/pull/298) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 - [Update to stable http-server-packages](https://github.com/MammatusPHP/kubernetes/pull/53) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (5 days ago)
 - [Update `mammatus/healthz-vhost` to stable release](https://github.com/MammatusPHP/http-server/pull/250) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (5 days ago)
-- [Add WebSocket support](https://github.com/MammatusPHP/http-server/pull/249) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (5 days ago)
 
 ---
 
