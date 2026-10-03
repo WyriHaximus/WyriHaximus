@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
-- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (4 days ago)
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (4 days ago)
-- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (4 days ago)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (5 days ago)
-- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (5 days ago)
-- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (5 days ago)
-- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (5 days ago)
-- [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (5 days ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
+- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 day ago)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (5 days ago)
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (5 days ago)
+- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (5 days ago)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (6 days ago)
+- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (6 days ago)
+- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (6 days ago)
+- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (6 days ago)
+- [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (6 days ago)
 
 ---
 
@@ -75,13 +75,13 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.0](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.0), today) - Makefile building blocks
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.8](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.8), 1 day ago) - Wrapper around renovatebot/github-action
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.4.2](https://github.com/MammatusPHP/kubernetes/releases/tag/0.4.2), 5 days ago) - Kubernetes related tooling
-- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) ([0.1.0](https://github.com/MammatusPHP/healthz-vhost/releases/tag/0.1.0), 5 days ago) - Basic health check vhost
-- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) ([0.1.2](https://github.com/MammatusPHP/http-server-webroot/releases/tag/0.1.2), 5 days ago) - Webroot implementations for HTTP server
-- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) ([0.1.0](https://github.com/MammatusPHP/http-server-contracts/releases/tag/0.1.0), 5 days ago) - Contracts for the http-server
-- [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) ([0.1.0](https://github.com/MammatusPHP/http-server-attributes/releases/tag/0.1.0), 5 days ago) - Attributes for http-server
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.0](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.0), 1 day ago) - Makefile building blocks
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.8](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.8), 2 days ago) - Wrapper around renovatebot/github-action
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.4.2](https://github.com/MammatusPHP/kubernetes/releases/tag/0.4.2), 6 days ago) - Kubernetes related tooling
+- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) ([0.1.0](https://github.com/MammatusPHP/healthz-vhost/releases/tag/0.1.0), 6 days ago) - Basic health check vhost
+- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) ([0.1.2](https://github.com/MammatusPHP/http-server-webroot/releases/tag/0.1.2), 6 days ago) - Webroot implementations for HTTP server
+- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) ([0.1.0](https://github.com/MammatusPHP/http-server-contracts/releases/tag/0.1.0), 6 days ago) - Contracts for the http-server
+- [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) ([0.1.0](https://github.com/MammatusPHP/http-server-attributes/releases/tag/0.1.0), 6 days ago) - Attributes for http-server
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.1.0](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.1.0), 1 week ago) - Shared GitHub Actions Workflows
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.4.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.4.0), 1 week ago) - 
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) ([v3.0.0](https://github.com/WyriHaximus/github-action-composer.lock-diff/releases/tag/v3.0.0), 1 week ago) - GitHub Action that diffs composer.lock between current branch and default branch
@@ -93,32 +93,32 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Raise ARGS_MAX to 25MB](https://github.com/WyriHaximusNet/docker-php/pull/424) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
-- [Include constants, functions, interfaces, traits, and classes in wordlist](https://github.com/WyriHaximus/Makefiles/pull/310) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Instead of just creating it, always enforce the contents of `etc/qa/vale-vocab.txt`](https://github.com/WyriHaximus/Makefiles/pull/309) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Instead of just creating it, always enforce the contents of `etc/qa/cspell.json`](https://github.com/WyriHaximus/Makefiles/pull/308) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Dynamic wordlist](https://github.com/WyriHaximus/Makefiles/pull/307) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Install `ext-uv` through PIE](https://github.com/WyriHaximusNet/docker-php/pull/423) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
-- [Improve readme](https://github.com/WyriHaximus/Makefiles/pull/306) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Fix Renovate composer wrapper treating update/install as Make targets](https://github.com/WyriHaximus/github-action-renovatebot/pull/100) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
-- [100% MSI](https://github.com/WyriHaximus/Makefiles/pull/305) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Remove all lines that contain `@infection-ignore-all`](https://github.com/WyriHaximus/Makefiles/pull/304) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Add Documentation QA entry point to run all documentation QA checks](https://github.com/WyriHaximus/Makefiles/pull/302) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Add Vale.sh to documentation QA](https://github.com/WyriHaximus/Makefiles/pull/301) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Add Typos to documentation QA](https://github.com/WyriHaximus/Makefiles/pull/300) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Raise ARGS_MAX to 25MB](https://github.com/WyriHaximusNet/docker-php/pull/424) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
+- [Include constants, functions, interfaces, traits, and classes in wordlist](https://github.com/WyriHaximus/Makefiles/pull/310) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [Instead of just creating it, always enforce the contents of `etc/qa/vale-vocab.txt`](https://github.com/WyriHaximus/Makefiles/pull/309) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [Instead of just creating it, always enforce the contents of `etc/qa/cspell.json`](https://github.com/WyriHaximus/Makefiles/pull/308) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [Dynamic wordlist](https://github.com/WyriHaximus/Makefiles/pull/307) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [Install `ext-uv` through PIE](https://github.com/WyriHaximusNet/docker-php/pull/423) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
+- [Improve readme](https://github.com/WyriHaximus/Makefiles/pull/306) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [Fix Renovate composer wrapper treating update/install as Make targets](https://github.com/WyriHaximus/github-action-renovatebot/pull/100) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
+- [100% MSI](https://github.com/WyriHaximus/Makefiles/pull/305) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [Remove all lines that contain `@infection-ignore-all`](https://github.com/WyriHaximus/Makefiles/pull/304) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [Add Documentation QA entry point to run all documentation QA checks](https://github.com/WyriHaximus/Makefiles/pull/302) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Add Vale.sh to documentation QA](https://github.com/WyriHaximus/Makefiles/pull/301) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Add Typos to documentation QA](https://github.com/WyriHaximus/Makefiles/pull/300) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [JoeHogan/ha-intercom](https://github.com/JoeHogan/ha-intercom) -  (today)
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (3 days ago)
-- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi. (6 days ago)
+- [JoeHogan/ha-intercom](https://github.com/JoeHogan/ha-intercom) -  (1 day ago)
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (4 days ago)
+- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi. (1 week ago)
 - [benmac7/network-flow-card](https://github.com/benmac7/network-flow-card) -  (1 week ago)
 - [shipmonk-rnd/passkeys](https://github.com/shipmonk-rnd/passkeys) - zero dependency spec-compliant passkey library for php (1 week ago)
 - [yama6a/talos-raspberry-pi5](https://github.com/yama6a/talos-raspberry-pi5) -  (1 week ago)
-- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (1 week ago)
-- [helm/helm-mapkubeapis](https://github.com/helm/helm-mapkubeapis) - This is a Helm plugin which map deprecated or removed Kubernetes APIs in a release to supported APIs (1 week ago)
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (2 weeks ago)
+- [helm/helm-mapkubeapis](https://github.com/helm/helm-mapkubeapis) - This is a Helm plugin which map deprecated or removed Kubernetes APIs in a release to supported APIs (2 weeks ago)
 - [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - Bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. On an e-ink panel, a TV, or any screen. (2 weeks ago)
 - [francescopace/espectre](https://github.com/francescopace/espectre) - Wi-Fi CSI motion sensing for ESP32. C&#43;&#43; SDK, ESPHome, Native, and Matter frontends, browser tools, and a CLI for the full device lifecycle. GPLv3 and commercial licensing. (1 month ago)
 - [mnapoli/skills](https://github.com/mnapoli/skills) - Agent skills: unslop, address PR review (1 month ago)
