@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
-- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (1 day ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 day ago)
+- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (1 day ago)
+- [WyriHaximusNet/renovate](https://github.com/WyriHaximusNet/renovate) (1 day ago)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (5 days ago)
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (5 days ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (5 days ago)
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (5 days ago)
 - [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (6 days ago)
+- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (6 days ago)
 - [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (6 days ago)
 - [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (6 days ago)
-- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (6 days ago)
-- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (6 days ago)
 
 ---
 
@@ -75,7 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.0](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.0), 1 day ago) - Makefile building blocks
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.1](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.1), today) - Makefile building blocks
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.8](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.8), 2 days ago) - Wrapper around renovatebot/github-action
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.4.2](https://github.com/MammatusPHP/kubernetes/releases/tag/0.4.2), 6 days ago) - Kubernetes related tooling
 - [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) ([0.1.0](https://github.com/MammatusPHP/healthz-vhost/releases/tag/0.1.0), 6 days ago) - Basic health check vhost
@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Additional `AGENTS.md` text from `etc/AGENTS.md`](https://github.com/WyriHaximus/Makefiles/pull/312) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Default infection threads should be 64](https://github.com/WyriHaximus/Makefiles/pull/311) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Raise ARGS_MAX to 25MB](https://github.com/WyriHaximusNet/docker-php/pull/424) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [Include constants, functions, interfaces, traits, and classes in wordlist](https://github.com/WyriHaximus/Makefiles/pull/310) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Instead of just creating it, always enforce the contents of `etc/qa/vale-vocab.txt`](https://github.com/WyriHaximus/Makefiles/pull/309) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [100% MSI](https://github.com/WyriHaximus/Makefiles/pull/305) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Remove all lines that contain `@infection-ignore-all`](https://github.com/WyriHaximus/Makefiles/pull/304) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Add Documentation QA entry point to run all documentation QA checks](https://github.com/WyriHaximus/Makefiles/pull/302) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
-- [Add Vale.sh to documentation QA](https://github.com/WyriHaximus/Makefiles/pull/301) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
-- [Add Typos to documentation QA](https://github.com/WyriHaximus/Makefiles/pull/300) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 
 ---
 
