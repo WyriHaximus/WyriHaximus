@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Improve Makefile Docker situation - part II](https://github.com/WyriHaximus/github-workflows/pull/313) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Documentation](https://github.com/MammatusPHP/http-server/pull/254) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [Improve Makefile Docker situation](https://github.com/WyriHaximus/github-workflows/pull/312) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [Hard bump healthz-vhost and http-server-attributes](https://github.com/MammatusPHP/kubernetes/pull/56) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Widen `mammatus/http-server-attributes` to include `0.2.0` and `0.3.0`](https://github.com/MammatusPHP/http-server/pull/252) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [Dropped the `enabled` from `HeartbeatInterval`](https://github.com/MammatusPHP/http-server-attributes/pull/30) on [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (today)
 - [Ensure `documentation-qa` is in `all` locally](https://github.com/WyriHaximus/Makefiles/pull/316) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Add WebSocket Heartbeat and Client Asset Attributes](https://github.com/MammatusPHP/http-server-attributes/pull/28) on [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (today)
 
 ---
 
