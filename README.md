@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Small `AGENTS.md` improvements](https://github.com/WyriHaximus/Makefiles/pull/319) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Improve Makefile Docker situation - part II](https://github.com/WyriHaximus/github-workflows/pull/313) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [Documentation](https://github.com/MammatusPHP/http-server/pull/254) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 day ago)
 - [Improve Makefile Docker situation](https://github.com/WyriHaximus/github-workflows/pull/312) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Drop `mammatus/http-server` as dev requirement](https://github.com/MammatusPHP/healthz-vhost/pull/52) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (1 day ago)
 - [Widen `mammatus/http-server-attributes` to include `0.2.0` and `0.3.0`](https://github.com/MammatusPHP/http-server/pull/252) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 day ago)
 - [Dropped the `enabled` from `HeartbeatInterval`](https://github.com/MammatusPHP/http-server-attributes/pull/30) on [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (1 day ago)
-- [Ensure `documentation-qa` is in `all` locally](https://github.com/WyriHaximus/Makefiles/pull/316) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 
 ---
 
