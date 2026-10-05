@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
-- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (today)
-- [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (today)
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (today)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
-- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
+- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
+- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (1 day ago)
+- [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (1 day ago)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 day ago)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 day ago)
+- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (1 day ago)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 day ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
 
 ---
 
@@ -75,12 +75,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) ([3.0.0](https://github.com/WyriHaximus/phpstan-reactphp/releases/tag/3.0.0), today) - ReactPHP extension for PHPStan
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.5.0](https://github.com/MammatusPHP/kubernetes/releases/tag/0.5.0), today) - Kubernetes related tooling
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.9](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.9), today) - Wrapper around renovatebot/github-action
-- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) ([0.2.0](https://github.com/MammatusPHP/healthz-vhost/releases/tag/0.2.0), today) - Basic health check vhost
-- [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) ([0.3.0](https://github.com/MammatusPHP/http-server-attributes/releases/tag/0.3.0), today) - Attributes for http-server
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.1](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.1), 1 day ago) - Makefile building blocks
+- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) ([3.0.0](https://github.com/WyriHaximus/phpstan-reactphp/releases/tag/3.0.0), 1 day ago) - ReactPHP extension for PHPStan
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.5.0](https://github.com/MammatusPHP/kubernetes/releases/tag/0.5.0), 1 day ago) - Kubernetes related tooling
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.9](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.9), 1 day ago) - Wrapper around renovatebot/github-action
+- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) ([0.2.0](https://github.com/MammatusPHP/healthz-vhost/releases/tag/0.2.0), 1 day ago) - Basic health check vhost
+- [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) ([0.3.0](https://github.com/MammatusPHP/http-server-attributes/releases/tag/0.3.0), 1 day ago) - Attributes for http-server
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.1](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.1), 2 days ago) - Makefile building blocks
 - [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) ([0.1.2](https://github.com/MammatusPHP/http-server-webroot/releases/tag/0.1.2), 1 week ago) - Webroot implementations for HTTP server
 - [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) ([0.1.0](https://github.com/MammatusPHP/http-server-contracts/releases/tag/0.1.0), 1 week ago) - Contracts for the http-server
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.1.0](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.1.0), 1 week ago) - Shared GitHub Actions Workflows
@@ -93,26 +93,26 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Improve Makefile Docker situation - part II](https://github.com/WyriHaximus/github-workflows/pull/313) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [Documentation](https://github.com/MammatusPHP/http-server/pull/254) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
-- [Improve Makefile Docker situation](https://github.com/WyriHaximus/github-workflows/pull/312) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [Hard bump healthz-vhost and http-server-attributes](https://github.com/MammatusPHP/kubernetes/pull/56) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (today)
-- [Mark current directory safe for git](https://github.com/WyriHaximus/github-workflows/pull/311) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
-- [Improve composer cache handling](https://github.com/WyriHaximus/github-action-renovatebot/pull/101) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
-- [Remove vhost configuration and example from README](https://github.com/MammatusPHP/healthz-vhost/pull/54) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
-- [Basic documentation](https://github.com/MammatusPHP/healthz-vhost/pull/53) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
-- [Prevent `ComposerAutoloaderInit` and `ComposerStaticInit` from poluting wordlists](https://github.com/WyriHaximus/Makefiles/pull/318) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [Drop `mammatus/http-server` as dev requirement](https://github.com/MammatusPHP/healthz-vhost/pull/52) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
-- [Widen `mammatus/http-server-attributes` to include `0.2.0` and `0.3.0`](https://github.com/MammatusPHP/http-server/pull/252) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
-- [Dropped the `enabled` from `HeartbeatInterval`](https://github.com/MammatusPHP/http-server-attributes/pull/30) on [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (today)
-- [Ensure `documentation-qa` is in `all` locally](https://github.com/WyriHaximus/Makefiles/pull/316) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [Improve Makefile Docker situation - part II](https://github.com/WyriHaximus/github-workflows/pull/313) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [Documentation](https://github.com/MammatusPHP/http-server/pull/254) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 day ago)
+- [Improve Makefile Docker situation](https://github.com/WyriHaximus/github-workflows/pull/312) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [Hard bump healthz-vhost and http-server-attributes](https://github.com/MammatusPHP/kubernetes/pull/56) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 day ago)
+- [Mark current directory safe for git](https://github.com/WyriHaximus/github-workflows/pull/311) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
+- [Improve composer cache handling](https://github.com/WyriHaximus/github-action-renovatebot/pull/101) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
+- [Remove vhost configuration and example from README](https://github.com/MammatusPHP/healthz-vhost/pull/54) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (1 day ago)
+- [Basic documentation](https://github.com/MammatusPHP/healthz-vhost/pull/53) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (1 day ago)
+- [Prevent `ComposerAutoloaderInit` and `ComposerStaticInit` from poluting wordlists](https://github.com/WyriHaximus/Makefiles/pull/318) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [Drop `mammatus/http-server` as dev requirement](https://github.com/MammatusPHP/healthz-vhost/pull/52) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (1 day ago)
+- [Widen `mammatus/http-server-attributes` to include `0.2.0` and `0.3.0`](https://github.com/MammatusPHP/http-server/pull/252) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 day ago)
+- [Dropped the `enabled` from `HeartbeatInterval`](https://github.com/MammatusPHP/http-server-attributes/pull/30) on [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (1 day ago)
+- [Ensure `documentation-qa` is in `all` locally](https://github.com/WyriHaximus/Makefiles/pull/316) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 
 ---
 
 #### ⭐ Recent Stars
 
-- [JoeHogan/ha-intercom](https://github.com/JoeHogan/ha-intercom) -  (2 days ago)
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (5 days ago)
+- [JoeHogan/ha-intercom](https://github.com/JoeHogan/ha-intercom) -  (3 days ago)
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (6 days ago)
 - [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi. (1 week ago)
 - [benmac7/network-flow-card](https://github.com/benmac7/network-flow-card) -  (1 week ago)
 - [shipmonk-rnd/passkeys](https://github.com/shipmonk-rnd/passkeys) - zero dependency spec-compliant passkey library for php (1 week ago)
