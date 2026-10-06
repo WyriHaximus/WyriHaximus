@@ -10,12 +10,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (today)
 - [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (today)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
+- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 day ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
@@ -75,7 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.9.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.9.0), today) - 🌯 PHPStan rules wrapper
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.10.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.10.0), today) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) ([3.0.0](https://github.com/WyriHaximus/phpstan-reactphp/releases/tag/3.0.0), 2 days ago) - ReactPHP extension for PHPStan
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.5.0](https://github.com/MammatusPHP/kubernetes/releases/tag/0.5.0), 2 days ago) - Kubernetes related tooling
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.9](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.9), 2 days ago) - Wrapper around renovatebot/github-action
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add package and vendor names to dynamic wordlist](https://github.com/WyriHaximus/Makefiles/pull/320) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Update Git configuration method in Makefile](https://github.com/WyriHaximus/github-workflows/pull/314) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [Small `AGENTS.md` improvements](https://github.com/WyriHaximus/Makefiles/pull/319) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Improve Makefile Docker situation - part II](https://github.com/WyriHaximus/github-workflows/pull/313) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Basic documentation](https://github.com/MammatusPHP/healthz-vhost/pull/53) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (2 days ago)
 - [Prevent `ComposerAutoloaderInit` and `ComposerStaticInit` from poluting wordlists](https://github.com/WyriHaximus/Makefiles/pull/318) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Drop `mammatus/http-server` as dev requirement](https://github.com/MammatusPHP/healthz-vhost/pull/52) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (2 days ago)
-- [Widen `mammatus/http-server-attributes` to include `0.2.0` and `0.3.0`](https://github.com/MammatusPHP/http-server/pull/252) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (2 days ago)
 
 ---
 
