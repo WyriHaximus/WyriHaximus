@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
+- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 day ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
-- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (1 day ago)
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (2 days ago)
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (2 days ago)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (2 days ago)
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 day ago)
 - [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (2 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
+- [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (2 days ago)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (2 days ago)
 - [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (2 days ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (2 days ago)
 
 ---
 
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.9.0](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.9.0), today) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) ([3.0.0](https://github.com/WyriHaximus/phpstan-reactphp/releases/tag/3.0.0), 2 days ago) - ReactPHP extension for PHPStan
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.5.0](https://github.com/MammatusPHP/kubernetes/releases/tag/0.5.0), 2 days ago) - Kubernetes related tooling
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.9](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.9), 2 days ago) - Wrapper around renovatebot/github-action
@@ -87,7 +88,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.4.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.4.0), 1 week ago) - 
 - [WyriHaximus/github-action-composer.lock-diff](https://github.com/WyriHaximus/github-action-composer.lock-diff) ([v3.0.0](https://github.com/WyriHaximus/github-action-composer.lock-diff/releases/tag/v3.0.0), 1 week ago) - GitHub Action that diffs composer.lock between current branch and default branch
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.4.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.4.0), 2 weeks ago) - 
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.35](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.35), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 
 ---
 
