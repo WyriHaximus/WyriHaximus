@@ -10,9 +10,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [WyriHaximus/github-action-helm3](https://github.com/WyriHaximus/github-action-helm3) (2 days ago)
 - [WyriHaximus/reactphp-cache-redis](https://github.com/WyriHaximus/reactphp-cache-redis) (2 days ago)
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (2 days ago)
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.2](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.2), today) - Makefile building blocks
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.10.1](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.10.1), 1 day ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.4.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.4.0), 2 days ago) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) ([3.0.0](https://github.com/WyriHaximus/phpstan-reactphp/releases/tag/3.0.0), 4 days ago) - ReactPHP extension for PHPStan
@@ -82,7 +83,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.9](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.9), 4 days ago) - Wrapper around renovatebot/github-action
 - [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) ([0.2.0](https://github.com/MammatusPHP/healthz-vhost/releases/tag/0.2.0), 4 days ago) - Basic health check vhost
 - [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) ([0.3.0](https://github.com/MammatusPHP/http-server-attributes/releases/tag/0.3.0), 4 days ago) - Attributes for http-server
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.1](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.1), 5 days ago) - Makefile building blocks
 - [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) ([0.1.2](https://github.com/MammatusPHP/http-server-webroot/releases/tag/0.1.2), 1 week ago) - Webroot implementations for HTTP server
 - [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) ([0.1.0](https://github.com/MammatusPHP/http-server-contracts/releases/tag/0.1.0), 1 week ago) - Contracts for the http-server
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.1.0](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.1.0), 1 week ago) - Shared GitHub Actions Workflows
