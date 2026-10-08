@@ -75,7 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.1.1](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.1.1), today) - Shared GitHub Actions Workflows
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.1.2](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.1.2), today) - Shared GitHub Actions Workflows
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.2](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.2), today) - Makefile building blocks
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.10.1](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.10.1), 1 day ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.4.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.4.0), 2 days ago) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
