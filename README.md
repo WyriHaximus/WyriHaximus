@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (today)
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (today)
-- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (today)
-- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (today)
 - [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (today)
+- [WyriHaximus/reactphp-stream-json](https://github.com/WyriHaximus/reactphp-stream-json) (today)
+- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (today)
 - [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (today)
+- [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) (today)
 - [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (today)
+- [reactphp-parallel/runtime](https://github.com/reactphp-parallel/runtime) (today)
+- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (1 day ago)
 - [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (2 days ago)
 
 ---
 
