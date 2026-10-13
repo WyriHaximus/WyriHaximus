@@ -10,10 +10,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 day ago)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (1 day ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (3 days ago)
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (3 days ago)
 - [WyriHaximus/reactphp-stream-json](https://github.com/WyriHaximus/reactphp-stream-json) (3 days ago)
@@ -75,11 +75,11 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.3), today) - Makefile building blocks
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.11](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.11), 1 day ago) - Wrapper around renovatebot/github-action
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.5.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.5.0), 4 days ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.5.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.5.0), 4 days ago) - 
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.1.2](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.1.2), 5 days ago) - Shared GitHub Actions Workflows
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.2](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.2), 5 days ago) - Makefile building blocks
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.10.1](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.10.1), 6 days ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.4.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.4.0), 1 week ago) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) ([3.0.0](https://github.com/WyriHaximus/phpstan-reactphp/releases/tag/3.0.0), 1 week ago) - ReactPHP extension for PHPStan
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Swap out GNU Make site with Wikipedia](https://github.com/WyriHaximus/Makefiles/pull/324) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Prefer Infection threads in etc/qa/infection.json5 over CLI.](https://github.com/WyriHaximus/Makefiles/pull/323) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Stop fractional seconds of S3 timestamp](https://github.com/WyriHaximus/github-workflows/pull/319) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
 - [Fold `after-renovate` into one line](https://github.com/WyriHaximus/Makefiles/pull/321) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Hard bump healthz-vhost and http-server-attributes](https://github.com/MammatusPHP/kubernetes/pull/56) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 week ago)
 - [Mark current directory safe for git](https://github.com/WyriHaximus/github-workflows/pull/311) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [Improve composer cache handling](https://github.com/WyriHaximus/github-action-renovatebot/pull/101) on [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 week ago)
-- [Remove vhost configuration and example from README](https://github.com/MammatusPHP/healthz-vhost/pull/54) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (1 week ago)
 
 ---
 
