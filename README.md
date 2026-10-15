@@ -75,7 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.3](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.3), 2 days ago) - Makefile building blocks
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.4](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.4), today) - Makefile building blocks
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.11](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.11), 3 days ago) - Wrapper around renovatebot/github-action
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.5.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.5.0), 6 days ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.5.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.5.0), 6 days ago) - 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Clean up bash AI slop doing `rm`&#39;s](https://github.com/WyriHaximus/Makefiles/pull/325) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [8.6.0RC2 =&gt; 8.6.0RC3](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/103) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
 - [Swap out GNU Make site with Wikipedia](https://github.com/WyriHaximus/Makefiles/pull/324) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Prefer Infection threads in etc/qa/infection.json5 over CLI.](https://github.com/WyriHaximus/Makefiles/pull/323) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Documentation](https://github.com/MammatusPHP/http-server/pull/254) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 week ago)
 - [Improve Makefile Docker situation](https://github.com/WyriHaximus/github-workflows/pull/312) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [Hard bump healthz-vhost and http-server-attributes](https://github.com/MammatusPHP/kubernetes/pull/56) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 week ago)
-- [Mark current directory safe for git](https://github.com/WyriHaximus/github-workflows/pull/311) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 
 ---
 
