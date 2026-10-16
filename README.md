@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (today)
-- [WyriHaximus/reactphp-stream-json](https://github.com/WyriHaximus/reactphp-stream-json) (today)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
-- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (today)
-- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (today)
-- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
-- [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) (today)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
-- [WyriHaximus/php-compress-contracts](https://github.com/WyriHaximus/php-compress-contracts) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [MammatusPHP/kubernetes-contracts](https://github.com/MammatusPHP/kubernetes-contracts) (1 day ago)
+- [WyriHaximus/reactphp-stream-json](https://github.com/WyriHaximus/reactphp-stream-json) (1 day ago)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 day ago)
+- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 day ago)
+- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (1 day ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 day ago)
+- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (1 day ago)
+- [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) (1 day ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (2 days ago)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 days ago)
+- [WyriHaximus/php-compress-contracts](https://github.com/WyriHaximus/php-compress-contracts) (2 days ago)
 
 ---
 
@@ -75,10 +75,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.4](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.4), today) - Makefile building blocks
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.11](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.11), 3 days ago) - Wrapper around renovatebot/github-action
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.5.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.5.0), 6 days ago) - 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.5.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.5.0), 6 days ago) - 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.4](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.4), 1 day ago) - Makefile building blocks
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.11](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.11), 4 days ago) - Wrapper around renovatebot/github-action
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.5.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.5.0), 1 week ago) - 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.5.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.5.0), 1 week ago) - 
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.1.2](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.1.2), 1 week ago) - Shared GitHub Actions Workflows
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.10.1](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.10.1), 1 week ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.4.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.4.0), 1 week ago) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
@@ -93,10 +93,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Clean up bash AI slop doing `rm`&#39;s](https://github.com/WyriHaximus/Makefiles/pull/325) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [8.6.0RC2 =&gt; 8.6.0RC3](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/103) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
-- [Swap out GNU Make site with Wikipedia](https://github.com/WyriHaximus/Makefiles/pull/324) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Prefer Infection threads in etc/qa/infection.json5 over CLI.](https://github.com/WyriHaximus/Makefiles/pull/323) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
+- [Clean up bash AI slop doing `rm`&#39;s](https://github.com/WyriHaximus/Makefiles/pull/325) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [8.6.0RC2 =&gt; 8.6.0RC3](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/103) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (2 days ago)
+- [Swap out GNU Make site with Wikipedia](https://github.com/WyriHaximus/Makefiles/pull/324) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Prefer Infection threads in etc/qa/infection.json5 over CLI.](https://github.com/WyriHaximus/Makefiles/pull/323) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 - [Stop fractional seconds of S3 timestamp](https://github.com/WyriHaximus/github-workflows/pull/319) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 week ago)
 - [Fold `after-renovate` into one line](https://github.com/WyriHaximus/Makefiles/pull/321) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Add package and vendor names to dynamic wordlist](https://github.com/WyriHaximus/Makefiles/pull/320) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
@@ -111,12 +111,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
-- [wildekek/ha-see-a-satellite](https://github.com/wildekek/ha-see-a-satellite) - See A Satellite Tonight for Home Assistant: naked-eye satellite pass predictions (HACS) (4 days ago)
+- [wildekek/ha-see-a-satellite](https://github.com/wildekek/ha-see-a-satellite) - See A Satellite Tonight for Home Assistant: naked-eye satellite pass predictions (HACS) (5 days ago)
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend. (1 week ago)
-- [JoeHogan/ha-intercom](https://github.com/JoeHogan/ha-intercom) -  (1 week ago)
+- [JoeHogan/ha-intercom](https://github.com/JoeHogan/ha-intercom) -  (2 weeks ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (2 weeks ago)
 - [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi. (2 weeks ago)
-- [benmac7/network-flow-card](https://github.com/benmac7/network-flow-card) -  (2 weeks ago)
+- [benmac7/network-flow-card](https://github.com/benmac7/network-flow-card) -  (3 weeks ago)
 - [shipmonk-rnd/passkeys](https://github.com/shipmonk-rnd/passkeys) - zero dependency spec-compliant passkey library for php (3 weeks ago)
 - [yama6a/talos-raspberry-pi5](https://github.com/yama6a/talos-raspberry-pi5) -  (3 weeks ago)
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (3 weeks ago)
