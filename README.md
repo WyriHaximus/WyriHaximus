@@ -22,7 +22,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (5 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (5 days ago)
 - [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (5 days ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (6 days ago)
 
 ---
 
