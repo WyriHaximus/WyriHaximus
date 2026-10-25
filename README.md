@@ -10,9 +10,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
+- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (1 day ago)
 - [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (1 day ago)
 - [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 day ago)
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (1 day ago)
 - [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (2 days ago)
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (2 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
@@ -21,8 +22,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (5 days ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (5 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 week ago)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 week ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 week ago)
+- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 week ago)
 
 ---
 
@@ -75,10 +75,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.12](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.12), today) - Wrapper around renovatebot/github-action
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.36](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.36), 4 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([7.1.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/7.1.0), 4 days ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.4](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.4), 1 week ago) - Makefile building blocks
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.11](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.11), 1 week ago) - Wrapper around renovatebot/github-action
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.5.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.5.0), 2 weeks ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.5.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.5.0), 2 weeks ago) - 
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.1.2](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.1.2), 2 weeks ago) - Shared GitHub Actions Workflows
