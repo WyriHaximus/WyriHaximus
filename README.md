@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (1 day ago)
-- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (2 days ago)
 - [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (2 days ago)
+- [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (2 days ago)
 - [reactphp-parallel/limited-pool](https://github.com/reactphp-parallel/limited-pool) (2 days ago)
-- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (3 days ago)
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (3 days ago)
+- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (3 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
 - [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (4 days ago)
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (5 days ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (6 days ago)
 - [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (6 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 week ago)
-- [WyriHaximus/php-compress-contracts](https://github.com/WyriHaximus/php-compress-contracts) (1 week ago)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 week ago)
 
 ---
 
