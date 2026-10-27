@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.6.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.6.0), today) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.6.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.6.0), today) - 
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.5.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.5.0), today) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.1.3](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.1.3), 1 day ago) - Shared GitHub Actions Workflows
@@ -83,7 +84,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.36](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.36), 6 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([7.1.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/7.1.0), 6 days ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.4](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.4), 1 week ago) - Makefile building blocks
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.5.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.5.0), 2 weeks ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.10.1](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.10.1), 2 weeks ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) ([3.0.0](https://github.com/WyriHaximus/phpstan-reactphp/releases/tag/3.0.0), 3 weeks ago) - ReactPHP extension for PHPStan
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.5.0](https://github.com/MammatusPHP/kubernetes/releases/tag/0.5.0), 3 weeks ago) - Kubernetes related tooling
