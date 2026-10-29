@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (today)
+- [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (today)
 - [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (today)
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (today)
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (today)
-- [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (today)
+- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
+- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (today)
 - [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (today)
-- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (1 day ago)
 - [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (1 day ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (2 days ago)
+- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (2 days ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
 - [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (2 days ago)
-- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (2 days ago)
+- [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (2 days ago)
 
 ---
 
