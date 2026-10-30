@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
 - [WyriHaximus/phpstan-no-safe](https://github.com/WyriHaximus/phpstan-no-safe) (1 day ago)
 - [WyriHaximus/TickingPromise](https://github.com/WyriHaximus/TickingPromise) (1 day ago)
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 day ago)
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
-- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (1 day ago)
-- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (1 day ago)
 - [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (1 day ago)
-- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (2 days ago)
+- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (1 day ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
+- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (2 days ago)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (3 days ago)
+- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (3 days ago)
 - [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (3 days ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
-- [MammatusPHP/kubernetes-attributes](https://github.com/MammatusPHP/kubernetes-attributes) (3 days ago)
-- [MammatusPHP/http-server-attributes](https://github.com/MammatusPHP/http-server-attributes) (3 days ago)
+- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (3 days ago)
 
 ---
 
