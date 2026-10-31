@@ -75,10 +75,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.6.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.6.0), today) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.10.2](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.10.2), today) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.6.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.6.0), 4 days ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.6.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.6.0), 4 days ago) - 
-- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.5.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.5.0), 4 days ago) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.1.3](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.1.3), 5 days ago) - Shared GitHub Actions Workflows
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.13](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.13), 5 days ago) - Wrapper around renovatebot/github-action
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([4.4.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/4.4.0), 5 days ago) - PHP Coding Standard
