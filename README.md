@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (today)
+- [MammatusPHP/cron-contracts](https://github.com/MammatusPHP/cron-contracts) (today)
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (today)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (today)
-- [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) (1 day ago)
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
+- [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (today)
+- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
 - [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (1 day ago)
-- [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (1 day ago)
-- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (1 day ago)
-- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (1 day ago)
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 day ago)
+- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (1 day ago)
 
 ---
 
