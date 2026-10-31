@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
-- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
-- [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (1 day ago)
-- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (1 day ago)
-- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 day ago)
-- [reactphp-parallel/streams](https://github.com/reactphp-parallel/streams) (1 day ago)
-- [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (1 day ago)
+- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (today)
 - [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) (1 day ago)
-- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (1 day ago)
-- [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (1 day ago)
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
+- [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (1 day ago)
+- [MammatusPHP/terraform-events](https://github.com/MammatusPHP/terraform-events) (1 day ago)
+- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (1 day ago)
+- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (1 day ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (1 day ago)
+- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (1 day ago)
 
 ---
 
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.10.2](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.10.2), today) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.6.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.6.0), 4 days ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.6.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.6.0), 4 days ago) - 
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.5.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.5.0), 4 days ago) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
@@ -84,7 +85,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.36](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.36), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([7.1.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/7.1.0), 1 week ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.4](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.4), 2 weeks ago) - Makefile building blocks
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.10.1](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.10.1), 3 weeks ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) ([3.0.0](https://github.com/WyriHaximus/phpstan-reactphp/releases/tag/3.0.0), 3 weeks ago) - ReactPHP extension for PHPStan
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.5.0](https://github.com/MammatusPHP/kubernetes/releases/tag/0.5.0), 3 weeks ago) - Kubernetes related tooling
 - [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) ([0.2.0](https://github.com/MammatusPHP/healthz-vhost/releases/tag/0.2.0), 3 weeks ago) - Basic health check vhost
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Mark beberlei/assert 3.3.4 and older as conflicting](https://github.com/WyriHaximus/php-test-utilities/pull/1365) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [Fix link to wyrihaximus/makefiles in README](https://github.com/WyriHaximus/php-qa-tooling-wrapper/pull/75) on [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (5 days ago)
 - [Increase CI artifact S3 backend support to 100%](https://github.com/WyriHaximus/github-workflows/pull/324) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (5 days ago)
 - [Update Piwik host name in production config](https://github.com/WyriHaximus/blog.wyrihaximus.net/pull/240) on [WyriHaximus/blog.wyrihaximus.net](https://github.com/WyriHaximus/blog.wyrihaximus.net) (1 week ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Prefer Infection threads in etc/qa/infection.json5 over CLI.](https://github.com/WyriHaximus/Makefiles/pull/323) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 weeks ago)
 - [Stop fractional seconds of S3 timestamp](https://github.com/WyriHaximus/github-workflows/pull/319) on [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (3 weeks ago)
 - [Fold `after-renovate` into one line](https://github.com/WyriHaximus/Makefiles/pull/321) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 weeks ago)
-- [Add package and vendor names to dynamic wordlist](https://github.com/WyriHaximus/Makefiles/pull/320) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 weeks ago)
 
 ---
 
