@@ -12,17 +12,17 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (today)
+- [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (today)
 - [MammatusPHP/cron-contracts](https://github.com/MammatusPHP/cron-contracts) (today)
 - [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (today)
-- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (today)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
-- [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (today)
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (today)
-- [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (1 day ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
+- [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (today)
+- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (today)
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (1 day ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (1 day ago)
+- [MammatusPHP/http-server-contracts](https://github.com/MammatusPHP/http-server-contracts) (1 day ago)
+- [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (1 day ago)
+- [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (1 day ago)
 
 ---
 
