@@ -14,14 +14,14 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (1 day ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (1 day ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
-- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (2 days ago)
 - [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (2 days ago)
-- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (2 days ago)
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) (2 days ago)
+- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (2 days ago)
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (2 days ago)
+- [MammatusPHP/queue-attributes](https://github.com/MammatusPHP/queue-attributes) (2 days ago)
 - [WyriHaximus/renovate-config](https://github.com/WyriHaximus/renovate-config) (2 days ago)
 - [MammatusPHP/cron-contracts](https://github.com/MammatusPHP/cron-contracts) (2 days ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
 - [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) (3 days ago)
 
 ---
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.5](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.5), today) - Makefile building blocks
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.7.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.7.0), 1 day ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.7.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.7.0), 1 day ago) - 
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.6.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.6.0), 2 days ago) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
@@ -84,7 +85,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([4.4.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/4.4.0), 1 week ago) - PHP Coding Standard
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.36](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.36), 1 week ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [reactphp-parallel/pool-tests](https://github.com/reactphp-parallel/pool-tests) ([7.1.0](https://github.com/reactphp-parallel/pool-tests/releases/tag/7.1.0), 1 week ago) - 🎱 Pool tests for bridging ext-parallel and ReactPHP
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.4](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.4), 2 weeks ago) - Makefile building blocks
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) ([3.0.0](https://github.com/WyriHaximus/phpstan-reactphp/releases/tag/3.0.0), 4 weeks ago) - ReactPHP extension for PHPStan
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.5.0](https://github.com/MammatusPHP/kubernetes/releases/tag/0.5.0), 4 weeks ago) - Kubernetes related tooling
 - [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) ([0.2.0](https://github.com/MammatusPHP/healthz-vhost/releases/tag/0.2.0), 4 weeks ago) - Basic health check vhost
