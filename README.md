@@ -17,9 +17,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (today)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (today)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
 - [MammatusPHP/http-server-webroot](https://github.com/MammatusPHP/http-server-webroot) (today)
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Update to PSR-7 v2](https://github.com/MammatusPHP/http-server/pull/263) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [Update GitHub Actions badge workflow file extension from `.yml` to `.yaml` in `README.md`](https://github.com/WyriHaximus/Makefiles/pull/331) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [Mark `backward-compatibility-check` for packages only](https://github.com/WyriHaximus/Makefiles/pull/329) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [Add `package` and `project` as supported features](https://github.com/WyriHaximus/Makefiles/pull/328) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Scope hydration goto labels](https://github.com/EventSaucePHP/ObjectHydrator/pull/95) on [EventSaucePHP/ObjectHydrator](https://github.com/EventSaucePHP/ObjectHydrator) (2 weeks ago)
 - [Clean up bash AI slop doing `rm`&#39;s](https://github.com/WyriHaximus/Makefiles/pull/325) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 weeks ago)
 - [8.6.0RC2 =&gt; 8.6.0RC3](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/103) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (3 weeks ago)
-- [Swap out GNU Make site with Wikipedia](https://github.com/WyriHaximus/Makefiles/pull/324) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 weeks ago)
 
 ---
 
