@@ -12,16 +12,16 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 - [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (1 day ago)
-- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 day ago)
-- [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (1 day ago)
 - [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (1 day ago)
 - [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (1 day ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (1 day ago)
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (2 days ago)
+- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (1 day ago)
+- [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (1 day ago)
+- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (2 days ago)
 - [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (2 days ago)
 
 ---
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Only `require_once` a file when it&#39;s not already loaded](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/121) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [Update to PSR-7 v2](https://github.com/MammatusPHP/http-server/pull/263) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (2 days ago)
 - [Update GitHub Actions badge workflow file extension from `.yml` to `.yaml` in `README.md`](https://github.com/WyriHaximus/Makefiles/pull/331) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 - [Mark `backward-compatibility-check` for packages only](https://github.com/WyriHaximus/Makefiles/pull/329) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [[New Version] Update versions file to PHP 8.5.12](https://github.com/WyriHaximus/php-fake-php-version/pull/197) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (2 weeks ago)
 - [Scope hydration goto labels](https://github.com/EventSaucePHP/ObjectHydrator/pull/95) on [EventSaucePHP/ObjectHydrator](https://github.com/EventSaucePHP/ObjectHydrator) (3 weeks ago)
 - [Clean up bash AI slop doing `rm`&#39;s](https://github.com/WyriHaximus/Makefiles/pull/325) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 weeks ago)
-- [8.6.0RC2 =&gt; 8.6.0RC3](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/103) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (3 weeks ago)
 
 ---
 
