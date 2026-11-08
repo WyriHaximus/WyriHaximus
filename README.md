@@ -10,7 +10,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
 - [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (today)
@@ -18,11 +18,11 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
 - [WyriHaximusNet/renovate](https://github.com/WyriHaximusNet/renovate) (today)
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (2 days ago)
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (2 days ago)
 
 ---
 
