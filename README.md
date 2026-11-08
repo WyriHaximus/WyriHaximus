@@ -75,8 +75,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.9.1](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.9.1), today) - Tooling for creating generative Composer Plugins
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) ([0.1.0](https://github.com/MammatusPHP/app/releases/tag/0.1.0), today) - 
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.9.0](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.9.0), today) - Tooling for creating generative Composer Plugins
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.7.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.7.0), today) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([4.5.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/4.5.0), 1 day ago) - PHP Coding Standard
 - [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) ([3.1.0](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload/releases/tag/3.1.0), 4 days ago) - 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Create missing autoload directories](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/126) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [8.6.0RC3 =&gt; 8.6.0RC5](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/105) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
 - [[WIP][1.x] Add Io\Poll Event Loop](https://github.com/reactphp/event-loop/pull/287) on [reactphp/event-loop](https://github.com/reactphp/event-loop) (today)
 - [Update to initial tagged `mammatus/app`](https://github.com/MammatusPHP/cron/pull/153) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Skip `Composer\` namespace in custom autoloader to prevent `PHAR` cla…](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/124) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
 - [Skip `composer/composer` on internal autoloader](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/123) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
 - [Only `require_once` a file when it&#39;s not already loaded](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/121) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
-- [Update to PSR-7 v2](https://github.com/MammatusPHP/http-server/pull/263) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (4 days ago)
 
 ---
 
