@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (1 day ago)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (1 day ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
-- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (2 days ago)
-- [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (2 days ago)
-- [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (2 days ago)
-- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (2 days ago)
-- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (2 days ago)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (2 days ago)
-- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (2 days ago)
+- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (2 days ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
+- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
+- [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (3 days ago)
+- [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (3 days ago)
+- [WyriHaximus/StaticMap](https://github.com/WyriHaximus/StaticMap) (3 days ago)
+- [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (3 days ago)
+- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (3 days ago)
+- [MammatusPHP/life-cycle-events](https://github.com/MammatusPHP/life-cycle-events) (3 days ago)
 
 ---
 
@@ -75,35 +75,35 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.8.7](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.8.7), 1 day ago) - Tooling for creating generative Composer Plugins
-- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) ([3.1.0](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload/releases/tag/3.1.0), 3 days ago) - 
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.14](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.14), 3 days ago) - Wrapper around renovatebot/github-action
-- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) ([0.2.1](https://github.com/MammatusPHP/healthz-vhost/releases/tag/0.2.1), 3 days ago) - Basic health check vhost
-- [reactphp/http](https://github.com/reactphp/http) ([v1.12.0](https://github.com/reactphp/http/releases/tag/v1.12.0), 4 days ago) - Event-driven, streaming HTTP client and server implementation for ReactPHP.
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.5](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.5), 5 days ago) - Makefile building blocks
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.7.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.7.0), 6 days ago) - 
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.7.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.7.0), 6 days ago) - 
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([4.5.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/4.5.0), 1 day ago) - PHP Coding Standard
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.8.7](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.8.7), 2 days ago) - Tooling for creating generative Composer Plugins
+- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) ([3.1.0](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload/releases/tag/3.1.0), 4 days ago) - 
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.14](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.14), 4 days ago) - Wrapper around renovatebot/github-action
+- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) ([0.2.1](https://github.com/MammatusPHP/healthz-vhost/releases/tag/0.2.1), 4 days ago) - Basic health check vhost
+- [reactphp/http](https://github.com/reactphp/http) ([v1.12.0](https://github.com/reactphp/http/releases/tag/v1.12.0), 5 days ago) - Event-driven, streaming HTTP client and server implementation for ReactPHP.
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.5](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.5), 6 days ago) - Makefile building blocks
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.7.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.7.0), 1 week ago) - 
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.7.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.7.0), 1 week ago) - 
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.6.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.6.0), 1 week ago) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.10.2](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.10.2), 1 week ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.1.3](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.1.3), 1 week ago) - Shared GitHub Actions Workflows
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([4.4.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/4.4.0), 1 week ago) - PHP Coding Standard
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.36](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.36), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 
 ---
 
 #### 🔨 My recent Pull Requests
 
-- [Drop internal autoloader](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/125) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
-- [Fix newline issues](https://github.com/WyriHaximus/Makefiles/pull/333) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [`AGENTS.md` readability improvements](https://github.com/WyriHaximus/Makefiles/pull/332) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [Update `wyrihaximus/generative-composer-plugin-tooling` to 1.8.7](https://github.com/WyriHaximus/php-broadcast/pull/374) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (1 day ago)
-- [Skip `Composer\` namespace in custom autoloader to prevent `PHAR` cla…](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/124) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
-- [Skip `composer/composer` on internal autoloader](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/123) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
-- [Only `require_once` a file when it&#39;s not already loaded](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/121) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
-- [Update to PSR-7 v2](https://github.com/MammatusPHP/http-server/pull/263) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (3 days ago)
-- [Update GitHub Actions badge workflow file extension from `.yml` to `.yaml` in `README.md`](https://github.com/WyriHaximus/Makefiles/pull/331) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
-- [Mark `backward-compatibility-check` for packages only](https://github.com/WyriHaximus/Makefiles/pull/329) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
-- [Add `package` and `project` as supported features](https://github.com/WyriHaximus/Makefiles/pull/328) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
+- [Drop internal autoloader](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/125) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
+- [Fix newline issues](https://github.com/WyriHaximus/Makefiles/pull/333) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [`AGENTS.md` readability improvements](https://github.com/WyriHaximus/Makefiles/pull/332) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [Update `wyrihaximus/generative-composer-plugin-tooling` to 1.8.7](https://github.com/WyriHaximus/php-broadcast/pull/374) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
+- [Skip `Composer\` namespace in custom autoloader to prevent `PHAR` cla…](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/124) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
+- [Skip `composer/composer` on internal autoloader](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/123) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
+- [Only `require_once` a file when it&#39;s not already loaded](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/121) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
+- [Update to PSR-7 v2](https://github.com/MammatusPHP/http-server/pull/263) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (4 days ago)
+- [Update GitHub Actions badge workflow file extension from `.yml` to `.yaml` in `README.md`](https://github.com/WyriHaximus/Makefiles/pull/331) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
+- [Mark `backward-compatibility-check` for packages only](https://github.com/WyriHaximus/Makefiles/pull/329) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
+- [Add `package` and `project` as supported features](https://github.com/WyriHaximus/Makefiles/pull/328) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 - [Mark beberlei/assert 3.3.4 and older as conflicting](https://github.com/WyriHaximus/php-test-utilities/pull/1365) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 - [Fix link to wyrihaximus/makefiles in README](https://github.com/WyriHaximus/php-qa-tooling-wrapper/pull/75) on [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (1 week ago)
 
@@ -111,11 +111,11 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### ⭐ Recent Stars
 
-- [JustVugg/colibri](https://github.com/JustVugg/colibri) - A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own. (3 days ago)
-- [LiangYuxuan/wow-casc-dbc](https://github.com/LiangYuxuan/wow-casc-dbc) - Node.js tool to fetch World of Warcraft data files from CASC and parse DBC/DB2 files. (3 days ago)
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own. (4 days ago)
+- [LiangYuxuan/wow-casc-dbc](https://github.com/LiangYuxuan/wow-casc-dbc) - Node.js tool to fetch World of Warcraft data files from CASC and parse DBC/DB2 files. (4 days ago)
 - [boundwize/structarmed](https://github.com/boundwize/structarmed) - 🛡️ Configurable PHP architecture guards — define your layers and rules, then keep them enforced (1 week ago)
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (3 weeks ago)
-- [wildekek/ha-see-a-satellite](https://github.com/wildekek/ha-see-a-satellite) - See A Satellite Tonight for Home Assistant: naked-eye satellite pass predictions (HACS) (3 weeks ago)
+- [wildekek/ha-see-a-satellite](https://github.com/wildekek/ha-see-a-satellite) - See A Satellite Tonight for Home Assistant: naked-eye satellite pass predictions (HACS) (4 weeks ago)
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend. (1 month ago)
 - [JoeHogan/ha-intercom](https://github.com/JoeHogan/ha-intercom) -  (1 month ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 month ago)
