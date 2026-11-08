@@ -10,11 +10,11 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
-- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (2 days ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (2 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (3 days ago)
