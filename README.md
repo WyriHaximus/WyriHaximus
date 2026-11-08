@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
-- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
 - [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (today)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
+- [WyriHaximusNet/renovate](https://github.com/WyriHaximusNet/renovate) (today)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
+- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (2 days ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (2 days ago)
-- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (3 days ago)
-- [WyriHaximus/reactphp-http-middleware-resume-response-body](https://github.com/WyriHaximus/reactphp-http-middleware-resume-response-body) (3 days ago)
-- [WyriHaximus/reactphp-psr-3-loggly](https://github.com/WyriHaximus/reactphp-psr-3-loggly) (3 days ago)
 - [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (3 days ago)
 
 ---
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [MammatusPHP/app](https://github.com/MammatusPHP/app) ([0.1.0](https://github.com/MammatusPHP/app/releases/tag/0.1.0), today) - 
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.9.0](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.9.0), today) - Tooling for creating generative Composer Plugins
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.7.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.7.0), today) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([4.5.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/4.5.0), 1 day ago) - PHP Coding Standard
@@ -87,12 +88,15 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.7.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.7.0), 1 week ago) - 
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.10.2](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.10.2), 1 week ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.1.3](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.1.3), 1 week ago) - Shared GitHub Actions Workflows
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.36](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.36), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [8.6.0RC3 =&gt; 8.6.0RC5](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/105) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
+- [[WIP][1.x] Add Io\Poll Event Loop](https://github.com/reactphp/event-loop/pull/287) on [reactphp/event-loop](https://github.com/reactphp/event-loop) (today)
+- [Update to initial tagged `mammatus/app`](https://github.com/MammatusPHP/cron/pull/153) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
+- [Update to initial tagged `mammatus/app`](https://github.com/MammatusPHP/queue/pull/95) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [Documentation](https://github.com/MammatusPHP/app/pull/95) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
 - [Drop internal autoloader](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/125) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
 - [Fix newline issues](https://github.com/WyriHaximus/Makefiles/pull/333) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
@@ -102,10 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Skip `composer/composer` on internal autoloader](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/123) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
 - [Only `require_once` a file when it&#39;s not already loaded](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/121) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
 - [Update to PSR-7 v2](https://github.com/MammatusPHP/http-server/pull/263) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (4 days ago)
-- [Update GitHub Actions badge workflow file extension from `.yml` to `.yaml` in `README.md`](https://github.com/WyriHaximus/Makefiles/pull/331) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
-- [Mark `backward-compatibility-check` for packages only](https://github.com/WyriHaximus/Makefiles/pull/329) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [Add `package` and `project` as supported features](https://github.com/WyriHaximus/Makefiles/pull/328) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [Mark beberlei/assert 3.3.4 and older as conflicting](https://github.com/WyriHaximus/php-test-utilities/pull/1365) on [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 week ago)
 
 ---
 
