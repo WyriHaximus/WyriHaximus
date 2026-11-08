@@ -13,9 +13,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 - [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (2 days ago)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
 - [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (3 days ago)
 - [WyriHaximus/reactphp-http-middleware-session](https://github.com/WyriHaximus/reactphp-http-middleware-session) (3 days ago)
@@ -75,8 +75,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.9.0](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.9.0), today) - Tooling for creating generative Composer Plugins
+- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.7.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.7.0), today) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([4.5.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/4.5.0), 1 day ago) - PHP Coding Standard
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.8.7](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.8.7), 2 days ago) - Tooling for creating generative Composer Plugins
 - [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) ([3.1.0](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload/releases/tag/3.1.0), 4 days ago) - 
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.14](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.14), 4 days ago) - Wrapper around renovatebot/github-action
 - [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) ([0.2.1](https://github.com/MammatusPHP/healthz-vhost/releases/tag/0.2.1), 4 days ago) - Basic health check vhost
@@ -84,7 +85,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.5](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.5), 6 days ago) - Makefile building blocks
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.7.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.7.0), 1 week ago) - 
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.7.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.7.0), 1 week ago) - 
-- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.6.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.6.0), 1 week ago) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.10.2](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.10.2), 1 week ago) - 🌯 PHPStan rules wrapper
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.1.3](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.1.3), 1 week ago) - Shared GitHub Actions Workflows
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.36](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.36), 2 weeks ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
