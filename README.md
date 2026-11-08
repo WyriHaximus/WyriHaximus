@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
-- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
+- [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
 - [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (today)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (today)
 - [WyriHaximusNet/renovate](https://github.com/WyriHaximusNet/renovate) (today)
+- [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
+- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (2 days ago)
-- [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
 
 ---
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Update to initial tagged `mammatus/app`](https://github.com/MammatusPHP/healthz-vhost/pull/61) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (today)
 - [Create missing autoload directories](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/126) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (today)
 - [8.6.0RC3 =&gt; 8.6.0RC5](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/105) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (today)
 - [[WIP][1.x] Add Io\Poll Event Loop](https://github.com/reactphp/event-loop/pull/287) on [reactphp/event-loop](https://github.com/reactphp/event-loop) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Update `wyrihaximus/generative-composer-plugin-tooling` to 1.8.7](https://github.com/WyriHaximus/php-broadcast/pull/374) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (2 days ago)
 - [Skip `Composer\` namespace in custom autoloader to prevent `PHAR` cla…](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/124) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
 - [Skip `composer/composer` on internal autoloader](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/123) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
-- [Only `require_once` a file when it&#39;s not already loaded](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/121) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
 
 ---
 
