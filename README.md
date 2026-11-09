@@ -11,18 +11,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 #### 💻 Check out what I'm currently working on
 
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
+- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (today)
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (today)
 - [MammatusPHP/terraform](https://github.com/MammatusPHP/terraform) (today)
-- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (today)
 - [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 day ago)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
+- [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
+- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (1 day ago)
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (1 day ago)
-- [WyriHaximusNet/renovate](https://github.com/WyriHaximusNet/renovate) (1 day ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
+- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (1 day ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (1 day ago)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (1 day ago)
+- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (1 day ago)
 
 ---
 
@@ -75,24 +75,27 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [MammatusPHP/app](https://github.com/MammatusPHP/app) ([0.1.1](https://github.com/MammatusPHP/app/releases/tag/0.1.1), today) - 
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) ([0.1.0](https://github.com/MammatusPHP/http-server/releases/tag/0.1.0), today) - 
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.8.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.8.0), today) - 
 - [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) ([0.2.2](https://github.com/MammatusPHP/healthz-vhost/releases/tag/0.2.2), 1 day ago) - Basic health check vhost
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.8.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.8.0), 1 day ago) - 
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.4.1](https://github.com/MammatusPHP/groups/releases/tag/0.4.1), 1 day ago) - Group different components of you app into one process
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.9.1](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.9.1), 1 day ago) - Tooling for creating generative Composer Plugins
-- [MammatusPHP/app](https://github.com/MammatusPHP/app) ([0.1.0](https://github.com/MammatusPHP/app/releases/tag/0.1.0), 1 day ago) - 
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.7.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.7.0), 1 day ago) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([4.5.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/4.5.0), 2 days ago) - PHP Coding Standard
 - [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) ([3.1.0](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload/releases/tag/3.1.0), 5 days ago) - 
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.14](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.14), 5 days ago) - Wrapper around renovatebot/github-action
 - [reactphp/http](https://github.com/reactphp/http) ([v1.12.0](https://github.com/reactphp/http/releases/tag/v1.12.0), 6 days ago) - Event-driven, streaming HTTP client and server implementation for ReactPHP.
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.5](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.5), 1 week ago) - Makefile building blocks
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) ([14.10.2](https://github.com/WyriHaximus/php-phpstan-rules-wrapper/releases/tag/14.10.2), 1 week ago) - 🌯 PHPStan rules wrapper
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [Bump `&#34;wyrihaximus/generative-composer-plugin-tooling` to 1.9.1](https://github.com/MammatusPHP/app/pull/97) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
+- [Update to initial tagged `mammatus/app`](https://github.com/MammatusPHP/terraform/pull/14) on [MammatusPHP/terraform](https://github.com/MammatusPHP/terraform) (today)
+- [Update to initial tagged `mammatus/app`](https://github.com/MammatusPHP/kubernetes/pull/65) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (today)
 - [Update to initial tagged `mammatus/app`](https://github.com/MammatusPHP/http-server/pull/266) on [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [Update to initial tagged `mammatus/app`](https://github.com/MammatusPHP/healthz-vhost/pull/61) on [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) (1 day ago)
 - [Create missing autoload directories](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/126) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (1 day ago)
@@ -103,9 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Documentation](https://github.com/MammatusPHP/app/pull/95) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 day ago)
 - [Drop internal autoloader](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/125) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
 - [Fix newline issues](https://github.com/WyriHaximus/Makefiles/pull/333) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
-- [`AGENTS.md` readability improvements](https://github.com/WyriHaximus/Makefiles/pull/332) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
-- [Update `wyrihaximus/generative-composer-plugin-tooling` to 1.8.7](https://github.com/WyriHaximus/php-broadcast/pull/374) on [WyriHaximus/php-broadcast](https://github.com/WyriHaximus/php-broadcast) (3 days ago)
-- [Skip `Composer\` namespace in custom autoloader to prevent `PHAR` cla…](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/124) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
 
 ---
 
