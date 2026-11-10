@@ -93,6 +93,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Fill readme](https://github.com/MammatusPHP/queue/pull/97) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
+- [Fill readme](https://github.com/MammatusPHP/cron/pull/156) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (today)
 - [Bump `&#34;wyrihaximus/generative-composer-plugin-tooling` to 1.9.1](https://github.com/MammatusPHP/app/pull/97) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 day ago)
 - [Update to initial tagged `mammatus/app`](https://github.com/MammatusPHP/terraform/pull/14) on [MammatusPHP/terraform](https://github.com/MammatusPHP/terraform) (1 day ago)
 - [Update to initial tagged `mammatus/app`](https://github.com/MammatusPHP/kubernetes/pull/65) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (1 day ago)
@@ -104,8 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Update to initial tagged `mammatus/app`](https://github.com/MammatusPHP/cron/pull/153) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 days ago)
 - [Update to initial tagged `mammatus/app`](https://github.com/MammatusPHP/queue/pull/95) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
 - [Documentation](https://github.com/MammatusPHP/app/pull/95) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (2 days ago)
-- [Drop internal autoloader](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/125) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
-- [Fix newline issues](https://github.com/WyriHaximus/Makefiles/pull/333) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (4 days ago)
 
 ---
 
