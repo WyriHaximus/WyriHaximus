@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) ([0.1.0](https://github.com/MammatusPHP/cron/releases/tag/0.1.0), today) - Cron manager
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) ([0.1.0](https://github.com/MammatusPHP/queue/releases/tag/0.1.0), today) - 
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.5.1](https://github.com/MammatusPHP/kubernetes/releases/tag/0.5.1), 2 days ago) - Kubernetes related tooling
 - [MammatusPHP/terraform](https://github.com/MammatusPHP/terraform) ([0.1.0](https://github.com/MammatusPHP/terraform/releases/tag/0.1.0), 2 days ago) - Tooling to pass data to Terraform
@@ -87,7 +88,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.9.1](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.9.1), 3 days ago) - Tooling for creating generative Composer Plugins
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.7.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.7.0), 3 days ago) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
 - [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([4.5.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/4.5.0), 4 days ago) - PHP Coding Standard
-- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) ([3.1.0](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload/releases/tag/3.1.0), 1 week ago) - 
 
 ---
 
