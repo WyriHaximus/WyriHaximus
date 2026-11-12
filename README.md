@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Set XDG Data Home for software that uses that](https://github.com/WyriHaximus/Makefiles/pull/336) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Improve documentation set up](https://github.com/WyriHaximus/Makefiles/pull/335) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Fill readme](https://github.com/MammatusPHP/queue/pull/97) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
 - [Fill readme](https://github.com/MammatusPHP/cron/pull/156) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [8.6.0RC3 =&gt; 8.6.0RC5](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/105) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (4 days ago)
 - [[WIP][1.x] Add Io\Poll Event Loop](https://github.com/reactphp/event-loop/pull/287) on [reactphp/event-loop](https://github.com/reactphp/event-loop) (4 days ago)
 - [Update to initial tagged `mammatus/app`](https://github.com/MammatusPHP/cron/pull/153) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (4 days ago)
-- [Update to initial tagged `mammatus/app`](https://github.com/MammatusPHP/queue/pull/95) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
 
 ---
 
