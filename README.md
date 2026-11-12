@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 day ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 day ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 day ago)
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (2 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (3 days ago)
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (3 days ago)
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (3 days ago)
-- [MammatusPHP/app](https://github.com/MammatusPHP/app) (3 days ago)
-- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (3 days ago)
 - [MammatusPHP/terraform](https://github.com/MammatusPHP/terraform) (3 days ago)
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (4 days ago)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (4 days ago)
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (3 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (3 days ago)
+- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (3 days ago)
+- [MammatusPHP/app](https://github.com/MammatusPHP/app) (3 days ago)
+- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (3 days ago)
+- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (4 days ago)
 
 ---
 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Fix wordlist sync](https://github.com/WyriHaximus/Makefiles/pull/337) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Set XDG Data Home for software that uses that](https://github.com/WyriHaximus/Makefiles/pull/336) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Improve documentation set up](https://github.com/WyriHaximus/Makefiles/pull/335) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Fill readme](https://github.com/MammatusPHP/queue/pull/97) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Create missing autoload directories](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/126) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (4 days ago)
 - [8.6.0RC3 =&gt; 8.6.0RC5](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/105) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (4 days ago)
 - [[WIP][1.x] Add Io\Poll Event Loop](https://github.com/reactphp/event-loop/pull/287) on [reactphp/event-loop](https://github.com/reactphp/event-loop) (4 days ago)
-- [Update to initial tagged `mammatus/app`](https://github.com/MammatusPHP/cron/pull/153) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (4 days ago)
 
 ---
 
