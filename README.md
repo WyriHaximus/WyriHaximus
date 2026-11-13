@@ -13,16 +13,16 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (today)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 day ago)
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 days ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (3 days ago)
+- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (4 days ago)
+- [MammatusPHP/terraform](https://github.com/MammatusPHP/terraform) (4 days ago)
 - [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (4 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (4 days ago)
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (4 days ago)
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) (4 days ago)
-- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (4 days ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (4 days ago)
-- [MammatusPHP/terraform](https://github.com/MammatusPHP/terraform) (4 days ago)
 
 ---
 
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) ([0.1.0](https://github.com/MammatusPHP/kubernetes-keda/releases/tag/0.1.0), today) - Keda.sh related Kubernetes tooling
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) ([0.1.0](https://github.com/MammatusPHP/cron/releases/tag/0.1.0), 2 days ago) - Cron manager
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) ([0.1.0](https://github.com/MammatusPHP/queue/releases/tag/0.1.0), 2 days ago) - 
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.5.1](https://github.com/MammatusPHP/kubernetes/releases/tag/0.5.1), 4 days ago) - Kubernetes related tooling
@@ -87,7 +88,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.4.1](https://github.com/MammatusPHP/groups/releases/tag/0.4.1), 5 days ago) - Group different components of you app into one process
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.9.1](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.9.1), 5 days ago) - Tooling for creating generative Composer Plugins
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) ([2.7.0](https://github.com/WyriHaximus/php-qa-tooling-wrapper/releases/tag/2.7.0), 5 days ago) - QA Tooling Wrapper for `wyrihaximus/test-utilities`
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) ([4.5.0](https://github.com/WyriHaximus/php-coding-standard/releases/tag/4.5.0), 6 days ago) - PHP Coding Standard
 
 ---
 
