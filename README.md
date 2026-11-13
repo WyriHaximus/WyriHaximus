@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
-- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 day ago)
+- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (today)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 day ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (2 days ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (2 days ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (2 days ago)
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (3 days ago)
 - [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (4 days ago)
+- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (4 days ago)
+- [MammatusPHP/app](https://github.com/MammatusPHP/app) (4 days ago)
 - [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (4 days ago)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (4 days ago)
-- [MammatusPHP/app](https://github.com/MammatusPHP/app) (4 days ago)
-- [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (4 days ago)
 - [MammatusPHP/terraform](https://github.com/MammatusPHP/terraform) (4 days ago)
 
 ---
