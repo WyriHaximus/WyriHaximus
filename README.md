@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.6](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.6), today) - Makefile building blocks
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.43.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.43.0), 1 day ago) - 
 - [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) ([0.1.0](https://github.com/MammatusPHP/kubernetes-keda/releases/tag/0.1.0), 1 day ago) - Keda.sh related Kubernetes tooling
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) ([0.1.0](https://github.com/MammatusPHP/cron/releases/tag/0.1.0), 3 days ago) - Cron manager
@@ -87,7 +88,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) ([0.2.2](https://github.com/MammatusPHP/healthz-vhost/releases/tag/0.2.2), 6 days ago) - Basic health check vhost
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.8.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.8.0), 6 days ago) - 
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.4.1](https://github.com/MammatusPHP/groups/releases/tag/0.4.1), 6 days ago) - Group different components of you app into one process
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.9.1](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.9.1), 6 days ago) - Tooling for creating generative Composer Plugins
 
 ---
 
