@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Add `Vale` annotation comments to `MIT` license block in `README.md`](https://github.com/WyriHaximus/Makefiles/pull/341) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Make `Vale` only exit `0` when there are no issues](https://github.com/WyriHaximus/Makefiles/pull/340) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [8.6.0RC5 =&gt; 8.6.0RC7](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/108) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
 - [Fix Vale sync during `make install` failing](https://github.com/WyriHaximus/Makefiles/pull/339) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Fill readme](https://github.com/MammatusPHP/cron/pull/156) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (4 days ago)
 - [Bump `&#34;wyrihaximus/generative-composer-plugin-tooling` to 1.9.1](https://github.com/MammatusPHP/app/pull/97) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (5 days ago)
 - [Update to initial tagged `mammatus/app`](https://github.com/MammatusPHP/terraform/pull/14) on [MammatusPHP/terraform](https://github.com/MammatusPHP/terraform) (5 days ago)
-- [Update to initial tagged `mammatus/app`](https://github.com/MammatusPHP/kubernetes/pull/65) on [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) (5 days ago)
 
 ---
 
