@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
+- [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) (today)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (1 day ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
-- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 day ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
+- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 day ago)
 - [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (2 days ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (3 days ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (3 days ago)
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (3 days ago)
 - [reactphp-inspector/bunny](https://github.com/reactphp-inspector/bunny) (4 days ago)
-- [WyriHaximus/reactphp-http-middleware-webroot-preload](https://github.com/WyriHaximus/reactphp-http-middleware-webroot-preload) (5 days ago)
 
 ---
 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Running `composer run-script pre-autoload-dump` during `make install` should only happen for this package, not its consumers](https://github.com/WyriHaximus/Makefiles/pull/342) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Add `Vale` annotation comments to `MIT` license block in `README.md`](https://github.com/WyriHaximus/Makefiles/pull/341) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Make `Vale` only exit `0` when there are no issues](https://github.com/WyriHaximus/Makefiles/pull/340) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [8.6.0RC5 =&gt; 8.6.0RC7](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/108) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Fill readme](https://github.com/MammatusPHP/queue/pull/97) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (4 days ago)
 - [Fill readme](https://github.com/MammatusPHP/cron/pull/156) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (4 days ago)
 - [Bump `&#34;wyrihaximus/generative-composer-plugin-tooling` to 1.9.1](https://github.com/MammatusPHP/app/pull/97) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (5 days ago)
-- [Update to initial tagged `mammatus/app`](https://github.com/MammatusPHP/terraform/pull/14) on [MammatusPHP/terraform](https://github.com/MammatusPHP/terraform) (5 days ago)
 
 ---
 
