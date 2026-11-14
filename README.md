@@ -75,7 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.6](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.6), today) - Makefile building blocks
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.7](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.7), today) - Makefile building blocks
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.43.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.43.0), 1 day ago) - 
 - [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) ([0.1.0](https://github.com/MammatusPHP/kubernetes-keda/releases/tag/0.1.0), 1 day ago) - Keda.sh related Kubernetes tooling
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) ([0.1.0](https://github.com/MammatusPHP/cron/releases/tag/0.1.0), 3 days ago) - Cron manager
