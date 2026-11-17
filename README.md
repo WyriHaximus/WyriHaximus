@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [Fix cleanup when generator is abandoned](https://github.com/reactphp-parallel/event-loop/pull/116) on [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (today)
 - [Running `composer run-script pre-autoload-dump` during `make install` should only happen for this package, not its consumers](https://github.com/WyriHaximus/Makefiles/pull/342) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [Add `Vale` annotation comments to `MIT` license block in `README.md`](https://github.com/WyriHaximus/Makefiles/pull/341) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
 - [Make `Vale` only exit `0` when there are no issues](https://github.com/WyriHaximus/Makefiles/pull/340) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Improve documentation set up](https://github.com/WyriHaximus/Makefiles/pull/335) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
 - [Fill readme](https://github.com/MammatusPHP/queue/pull/97) on [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 week ago)
 - [Fill readme](https://github.com/MammatusPHP/cron/pull/156) on [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 week ago)
-- [Bump `&#34;wyrihaximus/generative-composer-plugin-tooling` to 1.9.1](https://github.com/MammatusPHP/app/pull/97) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (1 week ago)
 
 ---
 
