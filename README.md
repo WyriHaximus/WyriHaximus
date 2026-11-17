@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [ReactiveX/RxPHP](https://github.com/ReactiveX/RxPHP) ([2.2.0](https://github.com/ReactiveX/RxPHP/releases/tag/2.2.0), today) - Reactive extensions for PHP
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.7](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.7), 3 days ago) - Makefile building blocks
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.43.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.43.0), 4 days ago) - 
 - [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) ([0.1.0](https://github.com/MammatusPHP/kubernetes-keda/releases/tag/0.1.0), 4 days ago) - Keda.sh related Kubernetes tooling
@@ -87,7 +88,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.8.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.8.0), 1 week ago) - 
 - [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) ([0.2.2](https://github.com/MammatusPHP/healthz-vhost/releases/tag/0.2.2), 1 week ago) - Basic health check vhost
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.8.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.8.0), 1 week ago) - 
-- [MammatusPHP/groups](https://github.com/MammatusPHP/groups) ([0.4.1](https://github.com/MammatusPHP/groups/releases/tag/0.4.1), 1 week ago) - Group different components of you app into one process
 
 ---
 
