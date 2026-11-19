@@ -12,16 +12,16 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (today)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
+- [reactphp-parallel/event-loop](https://github.com/reactphp-parallel/event-loop) (1 day ago)
 - [WyriHaximusNet/docker-github-action-runner](https://github.com/WyriHaximusNet/docker-github-action-runner) (1 day ago)
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (5 days ago)
-- [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) (5 days ago)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (5 days ago)
+- [WyriHaximus/reactphp-mutex-contracts](https://github.com/WyriHaximus/reactphp-mutex-contracts) (5 days ago)
+- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (5 days ago)
+- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (6 days ago)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (6 days ago)
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (6 days ago)
-- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (6 days ago)
-- [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (6 days ago)
-- [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (1 week ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (1 week ago)
 - [MammatusPHP/cron](https://github.com/MammatusPHP/cron) (1 week ago)
 
 ---
@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.37](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.37), today) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [ReactiveX/RxPHP](https://github.com/ReactiveX/RxPHP) ([2.2.0](https://github.com/ReactiveX/RxPHP/releases/tag/2.2.0), 2 days ago) - Reactive extensions for PHP
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.7](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.7), 5 days ago) - Makefile building blocks
 - [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) ([v1.43.0](https://github.com/WyriHaximus/github-action-supported-php-versions/releases/tag/v1.43.0), 6 days ago) - 
@@ -87,12 +88,12 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) ([0.1.0](https://github.com/MammatusPHP/http-server/releases/tag/0.1.0), 1 week ago) - 
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.8.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.8.0), 1 week ago) - 
 - [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) ([0.2.2](https://github.com/MammatusPHP/healthz-vhost/releases/tag/0.2.2), 1 week ago) - Basic health check vhost
-- [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) ([14.8.0](https://github.com/WyriHaximus/php-test-utilities/releases/tag/14.8.0), 1 week ago) - 
 
 ---
 
 #### 🔨 My recent Pull Requests
 
+- [[New Version] Update versions file to PHP 8.6.0](https://github.com/WyriHaximus/php-fake-php-version/pull/200) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (today)
 - [Update `react/http` to v1.12](https://github.com/WyriHaximus/php-json-psr7/pull/227) on [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (today)
 - [Standardize readme license format](https://github.com/WyriHaximus/Makefiles/pull/344) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Have `Vale` check code comments](https://github.com/WyriHaximus/Makefiles/pull/343) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Fix wiping `etc/base64/AGENTS-md`](https://github.com/WyriHaximus/Makefiles/pull/338) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (6 days ago)
 - [Fill Readme](https://github.com/MammatusPHP/kubernetes-keda/pull/46) on [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) (1 week ago)
 - [Fix wordlist sync](https://github.com/WyriHaximus/Makefiles/pull/337) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
-- [Set XDG Data Home for software that uses that](https://github.com/WyriHaximus/Makefiles/pull/336) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 week ago)
 
 ---
 
