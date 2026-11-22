@@ -75,6 +75,8 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.9.2](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.9.2), today) - Tooling for creating generative Composer Plugins
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.15](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.15), today) - Wrapper around renovatebot/github-action
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) ([0.1.0](https://github.com/MammatusPHP/open-telemetry/releases/tag/0.1.0), 1 day ago) - Open Telemetry integration
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.37](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.37), 3 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [ReactiveX/RxPHP](https://github.com/ReactiveX/RxPHP) ([2.2.0](https://github.com/ReactiveX/RxPHP/releases/tag/2.2.0), 5 days ago) - Reactive extensions for PHP
@@ -86,8 +88,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/terraform](https://github.com/MammatusPHP/terraform) ([0.1.0](https://github.com/MammatusPHP/terraform/releases/tag/0.1.0), 1 week ago) - Tooling to pass data to Terraform
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) ([0.1.1](https://github.com/MammatusPHP/app/releases/tag/0.1.1), 1 week ago) - 
 - [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) ([0.1.0](https://github.com/MammatusPHP/http-server/releases/tag/0.1.0), 1 week ago) - 
-- [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) ([14.8.0](https://github.com/WyriHaximus/php-async-test-utilities/releases/tag/14.8.0), 1 week ago) - 
-- [MammatusPHP/healthz-vhost](https://github.com/MammatusPHP/healthz-vhost) ([0.2.2](https://github.com/MammatusPHP/healthz-vhost/releases/tag/0.2.2), 2 weeks ago) - Basic health check vhost
 
 ---
 
