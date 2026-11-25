@@ -75,6 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [sculpin/sculpin](https://github.com/sculpin/sculpin) ([4.0.0-alpha4](https://github.com/sculpin/sculpin/releases/tag/4.0.0-alpha4), today) - Sculpin — Static Site Generator
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.9](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.9), 3 days ago) - Makefile building blocks
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.9.2](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.9.2), 3 days ago) - Tooling for creating generative Composer Plugins
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.15](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.15), 3 days ago) - Wrapper around renovatebot/github-action
@@ -87,7 +88,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.5.1](https://github.com/MammatusPHP/kubernetes/releases/tag/0.5.1), 2 weeks ago) - Kubernetes related tooling
 - [MammatusPHP/terraform](https://github.com/MammatusPHP/terraform) ([0.1.0](https://github.com/MammatusPHP/terraform/releases/tag/0.1.0), 2 weeks ago) - Tooling to pass data to Terraform
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) ([0.1.1](https://github.com/MammatusPHP/app/releases/tag/0.1.1), 2 weeks ago) - 
-- [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) ([0.1.0](https://github.com/MammatusPHP/http-server/releases/tag/0.1.0), 2 weeks ago) - 
 
 ---
 
