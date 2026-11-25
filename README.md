@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (2 days ago)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (2 days ago)
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (2 days ago)
-- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (2 days ago)
-- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (3 days ago)
-- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (3 days ago)
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (3 days ago)
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (5 days ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (5 days ago)
-- [WyriHaximus/reactphp-stream-json](https://github.com/WyriHaximus/reactphp-stream-json) (5 days ago)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (3 days ago)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (3 days ago)
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (3 days ago)
+- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (3 days ago)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
+- [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (4 days ago)
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (4 days ago)
+- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (6 days ago)
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (6 days ago)
+- [WyriHaximus/reactphp-stream-json](https://github.com/WyriHaximus/reactphp-stream-json) (6 days ago)
 
 ---
 
@@ -75,15 +75,15 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.9](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.9), 2 days ago) - Makefile building blocks
-- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.9.2](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.9.2), 2 days ago) - Tooling for creating generative Composer Plugins
-- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.15](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.15), 2 days ago) - Wrapper around renovatebot/github-action
-- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) ([0.1.0](https://github.com/MammatusPHP/open-telemetry/releases/tag/0.1.0), 3 days ago) - Open Telemetry integration
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.37](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.37), 5 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.9](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.9), 3 days ago) - Makefile building blocks
+- [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.9.2](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.9.2), 3 days ago) - Tooling for creating generative Composer Plugins
+- [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.15](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.15), 3 days ago) - Wrapper around renovatebot/github-action
+- [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) ([0.1.0](https://github.com/MammatusPHP/open-telemetry/releases/tag/0.1.0), 4 days ago) - Open Telemetry integration
+- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.37](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.37), 6 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
 - [ReactiveX/RxPHP](https://github.com/ReactiveX/RxPHP) ([2.2.0](https://github.com/ReactiveX/RxPHP/releases/tag/2.2.0), 1 week ago) - Reactive extensions for PHP
 - [MammatusPHP/kubernetes-keda](https://github.com/MammatusPHP/kubernetes-keda) ([0.1.0](https://github.com/MammatusPHP/kubernetes-keda/releases/tag/0.1.0), 1 week ago) - Keda.sh related Kubernetes tooling
-- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) ([0.1.0](https://github.com/MammatusPHP/cron/releases/tag/0.1.0), 1 week ago) - Cron manager
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) ([0.1.0](https://github.com/MammatusPHP/queue/releases/tag/0.1.0), 1 week ago) - 
+- [MammatusPHP/cron](https://github.com/MammatusPHP/cron) ([0.1.0](https://github.com/MammatusPHP/cron/releases/tag/0.1.0), 2 weeks ago) - Cron manager
+- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) ([0.1.0](https://github.com/MammatusPHP/queue/releases/tag/0.1.0), 2 weeks ago) - 
 - [MammatusPHP/kubernetes](https://github.com/MammatusPHP/kubernetes) ([0.5.1](https://github.com/MammatusPHP/kubernetes/releases/tag/0.5.1), 2 weeks ago) - Kubernetes related tooling
 - [MammatusPHP/terraform](https://github.com/MammatusPHP/terraform) ([0.1.0](https://github.com/MammatusPHP/terraform/releases/tag/0.1.0), 2 weeks ago) - Tooling to pass data to Terraform
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) ([0.1.1](https://github.com/MammatusPHP/app/releases/tag/0.1.1), 2 weeks ago) - 
@@ -93,34 +93,34 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
-- [Improve resilience](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/95) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (1 day ago)
-- [Fix `Renovate` `constraints.php` to match `composer.json`&#39;s `PHP` version constraint instead of `null`](https://github.com/WyriHaximus/Makefiles/pull/348) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Add `yaml`, `json5`, and `yml` to `Vale`](https://github.com/WyriHaximus/Makefiles/pull/347) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [When adding vale comments to `README.md` license also make sure we did it to `etc/README.md.twig`](https://github.com/WyriHaximus/Makefiles/pull/346) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Set `config.platform.php` in `composer.json` to the current PHP version from require with patch `13`](https://github.com/WyriHaximus/Makefiles/pull/345) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
-- [Automate updating `etc/versions.json`](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/92) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (2 days ago)
-- [Use tagged release management workflows](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/90) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (2 days ago)
-- [Ignore classes with null bytes in their names](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/128) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (2 days ago)
-- [Monkey Patch the source, not the destinations](https://github.com/MammatusPHP/open-telemetry/pull/58) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (3 days ago)
-- [Handle the PHP 8.6 Docker ZTS situation](https://github.com/WyriHaximusNet/docker-php/pull/435) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (5 days ago)
-- [Remove 8.6.0RC7 from `upcoming-releases.json` ](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/109) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (5 days ago)
-- [[New Version] Update versions file to PHP 8.6.0](https://github.com/WyriHaximus/php-fake-php-version/pull/200) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (5 days ago)
-- [Update `react/http` to v1.12](https://github.com/WyriHaximus/php-json-psr7/pull/227) on [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (5 days ago)
+- [Improve resilience](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/95) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (2 days ago)
+- [Fix `Renovate` `constraints.php` to match `composer.json`&#39;s `PHP` version constraint instead of `null`](https://github.com/WyriHaximus/Makefiles/pull/348) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Add `yaml`, `json5`, and `yml` to `Vale`](https://github.com/WyriHaximus/Makefiles/pull/347) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [When adding vale comments to `README.md` license also make sure we did it to `etc/README.md.twig`](https://github.com/WyriHaximus/Makefiles/pull/346) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Set `config.platform.php` in `composer.json` to the current PHP version from require with patch `13`](https://github.com/WyriHaximus/Makefiles/pull/345) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (3 days ago)
+- [Automate updating `etc/versions.json`](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/92) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (3 days ago)
+- [Use tagged release management workflows](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/90) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (3 days ago)
+- [Ignore classes with null bytes in their names](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/128) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
+- [Monkey Patch the source, not the destinations](https://github.com/MammatusPHP/open-telemetry/pull/58) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (4 days ago)
+- [Handle the PHP 8.6 Docker ZTS situation](https://github.com/WyriHaximusNet/docker-php/pull/435) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (6 days ago)
+- [Remove 8.6.0RC7 from `upcoming-releases.json` ](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/109) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (6 days ago)
+- [[New Version] Update versions file to PHP 8.6.0](https://github.com/WyriHaximus/php-fake-php-version/pull/200) on [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (6 days ago)
+- [Update `react/http` to v1.12](https://github.com/WyriHaximus/php-json-psr7/pull/227) on [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (6 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
 - [phpstan/tally](https://github.com/phpstan/tally) - PHP benchmarking framework that doesn&#39;t care about wall-clock time or how fast your CPU is. (1 week ago)
-- [JustVugg/colibri](https://github.com/JustVugg/colibri) - A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own. (2 weeks ago)
-- [LiangYuxuan/wow-casc-dbc](https://github.com/LiangYuxuan/wow-casc-dbc) - Node.js tool to fetch World of Warcraft data files from CASC and parse DBC/DB2 files. (2 weeks ago)
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own. (3 weeks ago)
+- [LiangYuxuan/wow-casc-dbc](https://github.com/LiangYuxuan/wow-casc-dbc) - Node.js tool to fetch World of Warcraft data files from CASC and parse DBC/DB2 files. (3 weeks ago)
 - [boundwize/structarmed](https://github.com/boundwize/structarmed) - 🛡️ Configurable PHP architecture guards — define your layers and rules, then keep them enforced (3 weeks ago)
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 month ago)
 - [wildekek/ha-see-a-satellite](https://github.com/wildekek/ha-see-a-satellite) - See A Satellite Tonight for Home Assistant: naked-eye satellite pass predictions (HACS) (1 month ago)
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend. (1 month ago)
 - [JoeHogan/ha-intercom](https://github.com/JoeHogan/ha-intercom) -  (1 month ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 month ago)
-- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi. (1 month ago)
+- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi. (2 months ago)
 - [benmac7/network-flow-card](https://github.com/benmac7/network-flow-card) -  (2 months ago)
 - [shipmonk-rnd/passkeys](https://github.com/shipmonk-rnd/passkeys) - zero dependency spec-compliant passkey library for php (2 months ago)
 - [yama6a/talos-raspberry-pi5](https://github.com/yama6a/talos-raspberry-pi5) -  (2 months ago)
