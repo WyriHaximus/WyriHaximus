@@ -10,18 +10,18 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
 - [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (today)
+- [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) (today)
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
-- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (3 days ago)
-- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (3 days ago)
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (3 days ago)
+- [WyriHaximus/php-coding-standard](https://github.com/WyriHaximus/php-coding-standard) (3 days ago)
+- [WyriHaximus/renovate-runner](https://github.com/WyriHaximus/renovate-runner) (3 days ago)
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (4 days ago)
 - [MammatusPHP/renovate-runner](https://github.com/MammatusPHP/renovate-runner) (4 days ago)
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (4 days ago)
-- [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (6 days ago)
-- [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) (6 days ago)
+- [WyriHaximus/php-json-psr7](https://github.com/WyriHaximus/php-json-psr7) (6 days ago)
 - [WyriHaximus/reactphp-stream-json](https://github.com/WyriHaximus/reactphp-stream-json) (6 days ago)
 
 ---
@@ -75,9 +75,9 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.16.0](https://github.com/WyriHaximus/Makefiles/releases/tag/0.16.0), today) - Makefile building blocks
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.16](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.16), today) - Wrapper around renovatebot/github-action
 - [sculpin/sculpin](https://github.com/sculpin/sculpin) ([4.0.0-alpha4](https://github.com/sculpin/sculpin/releases/tag/4.0.0-alpha4), today) - Sculpin — Static Site Generator
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.15.9](https://github.com/WyriHaximus/Makefiles/releases/tag/0.15.9), 3 days ago) - Makefile building blocks
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.9.2](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.9.2), 3 days ago) - Tooling for creating generative Composer Plugins
 - [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) ([0.1.0](https://github.com/MammatusPHP/open-telemetry/releases/tag/0.1.0), 4 days ago) - Open Telemetry integration
 - [WyriHaximus/php-fake-php-version](https://github.com/WyriHaximus/php-fake-php-version) ([1.9.37](https://github.com/WyriHaximus/php-fake-php-version/releases/tag/1.9.37), 6 days ago) - Ever wanted a fake non-existing version number of PHP, well this package is for you!
