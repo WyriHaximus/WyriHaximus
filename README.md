@@ -10,19 +10,19 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/reactphp-http-middleware-with-headers](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers) (today)
+- [WyriHaximus/php-psr-3-context-logger](https://github.com/WyriHaximus/php-psr-3-context-logger) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (today)
-- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (today)
+- [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (today)
 - [WyriHaximus/php-async-test-utilities](https://github.com/WyriHaximus/php-async-test-utilities) (today)
-- [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (today)
+- [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (today)
 - [MammatusPHP/http-server](https://github.com/MammatusPHP/http-server) (today)
 - [WyriHaximus/php-qa-tooling-wrapper](https://github.com/WyriHaximus/php-qa-tooling-wrapper) (today)
 - [WyriHaximus/php-phpstan-rules-wrapper](https://github.com/WyriHaximus/php-phpstan-rules-wrapper) (today)
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) (today)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) (today)
 - [MammatusPHP/groups](https://github.com/MammatusPHP/groups) (today)
-- [reactphp-parallel/infinite-pool](https://github.com/reactphp-parallel/infinite-pool) (today)
+- [MammatusPHP/queue-contracts](https://github.com/MammatusPHP/queue-contracts) (today)
 
 ---
 
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[0.6.x] Bump `WyriHaximus/github-action-composer-php-versions-in-range` to v2](https://github.com/jakubkulhan/bunny/pull/244) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [Get Renovate to update Documentation images](https://github.com/WyriHaximus/Makefiles/pull/352) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Add support for passing in specific environment vars at job level](https://github.com/WyriHaximus/Makefiles/pull/351) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (1 day ago)
 - [Improve resilience](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/95) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (3 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Ignore classes with null bytes in their names](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/128) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (4 days ago)
 - [Monkey Patch the source, not the destinations](https://github.com/MammatusPHP/open-telemetry/pull/58) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (5 days ago)
 - [Handle the PHP 8.6 Docker ZTS situation](https://github.com/WyriHaximusNet/docker-php/pull/435) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 week ago)
-- [Remove 8.6.0RC7 from `upcoming-releases.json` ](https://github.com/WyriHaximus/github-action-supported-php-versions/pull/109) on [WyriHaximus/github-action-supported-php-versions](https://github.com/WyriHaximus/github-action-supported-php-versions) (1 week ago)
 
 ---
 
