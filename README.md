@@ -10,7 +10,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 💻 Check out what I'm currently working on
 
-- [WyriHaximus/reactphp-psr-3-stdio](https://github.com/WyriHaximus/reactphp-psr-3-stdio) (today)
+- [WyriHaximus/reactphp-http-middleware-with-headers](https://github.com/WyriHaximus/reactphp-http-middleware-with-headers) (today)
 - [WyriHaximus/php-test-utilities](https://github.com/WyriHaximus/php-test-utilities) (today)
 - [MammatusPHP/cron-attributes](https://github.com/MammatusPHP/cron-attributes) (today)
 - [reactphp-parallel/test-pool](https://github.com/reactphp-parallel/test-pool) (today)
