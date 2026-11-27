@@ -75,7 +75,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
-- [MammatusPHP/app](https://github.com/MammatusPHP/app) ([0.1.2](https://github.com/MammatusPHP/app/releases/tag/0.1.2), today) - 
+- [MammatusPHP/app](https://github.com/MammatusPHP/app) ([0.1.3](https://github.com/MammatusPHP/app/releases/tag/0.1.3), today) - 
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.1.4](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.1.4), 2 days ago) - Shared GitHub Actions Workflows
 - [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) ([v2.2.0](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/releases/tag/v2.2.0), 2 days ago) - GitHub Action that gets the PHP versions in range from composer.json
 - [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.16.0](https://github.com/WyriHaximus/Makefiles/releases/tag/0.16.0), 2 days ago) - Makefile building blocks
@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [`Intel` should listen on `Kernel` not `Initialize`](https://github.com/MammatusPHP/app/pull/101) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
 - [gracefully handle no code coverage drivers](https://github.com/WyriHaximus/Makefiles/pull/356) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (today)
 - [Show intel about the environment before bootup](https://github.com/MammatusPHP/app/pull/100) on [MammatusPHP/app](https://github.com/MammatusPHP/app) (today)
 - [[0.6.x] Make the CI matrix smarter](https://github.com/jakubkulhan/bunny/pull/245) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Add `yaml`, `json5`, and `yml` to `Vale`](https://github.com/WyriHaximus/Makefiles/pull/347) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 - [When adding vale comments to `README.md` license also make sure we did it to `etc/README.md.twig`](https://github.com/WyriHaximus/Makefiles/pull/346) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
 - [Set `config.platform.php` in `composer.json` to the current PHP version from require with patch `13`](https://github.com/WyriHaximus/Makefiles/pull/345) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (5 days ago)
-- [Automate updating `etc/versions.json`](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/92) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (5 days ago)
 
 ---
 
