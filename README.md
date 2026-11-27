@@ -93,6 +93,7 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔨 My recent Pull Requests
 
+- [[0.6.x] Make the CI matrix smarter](https://github.com/jakubkulhan/bunny/pull/245) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [Revert: Handle the PHP 8.6 Docker ZTS situation](https://github.com/WyriHaximusNet/docker-php/pull/437) on [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) (1 day ago)
 - [[0.6.x] Bump `WyriHaximus/github-action-composer-php-versions-in-range` to v2](https://github.com/jakubkulhan/bunny/pull/244) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
 - [Get Renovate to update Documentation images](https://github.com/WyriHaximus/Makefiles/pull/352) on [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) (2 days ago)
@@ -105,7 +106,6 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 - [Automate updating `etc/versions.json`](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/92) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (5 days ago)
 - [Use tagged release management workflows](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/pull/90) on [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) (5 days ago)
 - [Ignore classes with null bytes in their names](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/pull/128) on [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) (5 days ago)
-- [Monkey Patch the source, not the destinations](https://github.com/MammatusPHP/open-telemetry/pull/58) on [MammatusPHP/open-telemetry](https://github.com/MammatusPHP/open-telemetry) (6 days ago)
 
 ---
 
