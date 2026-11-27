@@ -75,10 +75,10 @@ All new major package releases will be in PHP 8.4, and most most minor updates w
 
 #### 🔭 Latest releases I've contributed to
 
+- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.16.1](https://github.com/WyriHaximus/Makefiles/releases/tag/0.16.1), today) - Makefile building blocks
 - [MammatusPHP/app](https://github.com/MammatusPHP/app) ([0.1.3](https://github.com/MammatusPHP/app/releases/tag/0.1.3), today) - 
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) ([v1.1.4](https://github.com/WyriHaximus/github-workflows/releases/tag/v1.1.4), 2 days ago) - Shared GitHub Actions Workflows
 - [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) ([v2.2.0](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range/releases/tag/v2.2.0), 2 days ago) - GitHub Action that gets the PHP versions in range from composer.json
-- [WyriHaximus/Makefiles](https://github.com/WyriHaximus/Makefiles) ([0.16.0](https://github.com/WyriHaximus/Makefiles/releases/tag/0.16.0), 2 days ago) - Makefile building blocks
 - [WyriHaximus/github-action-renovatebot](https://github.com/WyriHaximus/github-action-renovatebot) ([v0.16.16](https://github.com/WyriHaximus/github-action-renovatebot/releases/tag/v0.16.16), 2 days ago) - Wrapper around renovatebot/github-action
 - [sculpin/sculpin](https://github.com/sculpin/sculpin) ([4.0.0-alpha4](https://github.com/sculpin/sculpin/releases/tag/4.0.0-alpha4), 2 days ago) - Sculpin — Static Site Generator
 - [WyriHaximus/php-generative-composer-plugin-tooling](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling) ([1.9.2](https://github.com/WyriHaximus/php-generative-composer-plugin-tooling/releases/tag/1.9.2), 5 days ago) - Tooling for creating generative Composer Plugins
